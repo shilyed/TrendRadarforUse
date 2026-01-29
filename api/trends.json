@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T16:31:54.294784+08:00",
-  "total_titles_processed": 439,
+  "generated_at": "2026-01-29T17:35:49.349264+08:00",
+  "total_titles_processed": 544,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时13分 ~ 16时31分]"
+          "appearance_count": 3,
+          "time_info": "[15时13分 ~ 17时35分]"
         },
         {
           "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
@@ -36,11 +36,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时13分 ~ 16时31分]"
+          "appearance_count": 3,
+          "time_info": "[15时13分 ~ 17时35分]"
         },
         {
           "title": "特朗普被曝「正考虑对伊朗发动新的重大打击」，美伊局势会再度升级吗？伊朗会做出哪些反应？",
@@ -51,8 +52,152 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时13分 ~ 17时35分]"
+        },
+        {
+          "title": "特朗普升级对伊施压，白银冲上120后回落，金、铜、油全线狂飙，美元持续下挫",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
+          "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
+          "title": "特朗普暗示可以操控美元汇率",
+          "url": "https://www.toutiao.com/trending/7600301655842291754/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "白银面临\"交割失败\"危机？3月或成贵金属\"关键时刻\"",
+          "url": "https://wallstreetcn.com/articles/3764384",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时13分 ~ 17时35分]"
+        },
+        {
+          "title": "白银有色：公司黄金、白银产品的收入占总营业收入的比重较低",
+          "url": "https://wallstreetcn.com/livenews/3046340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
+          "title": "黄金白银基金宣布暂停申购",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%9F%BA%E9%87%91%E5%AE%A3%E5%B8%83%E6%9A%82%E5%81%9C%E7%94%B3%E8%B4%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时13分 ~ 16时31分]"
+          "time_info": "[16时31分 ~ 17时35分]"
+        },
+        {
+          "title": "国投白银LOF：本基金将于1月30日开市起停牌至收市",
+          "url": "https://wallstreetcn.com/livenews/3046319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
+          "title": "黄金白银LOF为何突然停售",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6LOF%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E5%81%9C%E5%94%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "微软(MSFT.O)美股盘前跌5.6%，此前该公司报告第二季度资本支出大幅跃升近66%，但云收入表现不及预期。",
+          "url": "https://flash.jin10.com/detail/20260129170409612800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
+          "title": "Meta Platforms(META.O)美股盘前涨7.3%，此前该公司预测第一季度收入高于预期，并上调了年度资本支出计划。",
+          "url": "https://flash.jin10.com/detail/20260129170125268800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
+          "title": "美股盘前：Meta涨约7%，微软跌约6%，特斯拉涨约2%",
+          "url": "https://wallstreetcn.com/livenews/3046315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
+          "title": "好未来第三季度净营收7.702亿美元，预估7.846亿美元。 第三季度调整后每ADS收益 0.25美元，预估0.07美元。 好未来美股盘前涨近7%。",
+          "url": "https://wallstreetcn.com/livenews/3046314",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         }
       ]
     },
@@ -77,11 +222,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时13分 ~ 16时31分]"
+          "appearance_count": 3,
+          "time_info": "[15时13分 ~ 17时35分]"
         },
         {
           "title": "黄金价格为何一路猛涨",
@@ -92,47 +238,75 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时13分 ~ 16时31分]"
+          "appearance_count": 3,
+          "time_info": "[15时13分 ~ 17时35分]"
         }
       ]
     },
     {
-      "keyword_group": "白银",
+      "keyword_group": "有色",
       "match_count": 3,
       "titles": [
         {
-          "title": "白银面临\"交割失败\"危机？3月或成贵金属\"关键时刻\"",
-          "url": "https://wallstreetcn.com/articles/3764384",
-          "source": "华尔街见闻",
+          "title": "LME有色金属库存日报",
+          "url": "https://flash.jin10.com/detail/20260129170155654800",
+          "source": "金十数据",
           "ranks": [
-            2
+            4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时13分 ~ 16时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
-          "title": "黄金白银LOF为何突然停售",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6LOF%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E5%81%9C%E5%94%AE",
-          "source": "bilibili 热搜",
+          "title": "伦敦金属交易所（LME）有色金属库存及变化如下： 铜库存176075吨，增加2150吨。 铝库存497725吨，减少2250吨。 镍库存286470吨，增加132吨。",
+          "url": "https://wallstreetcn.com/livenews/3046325",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
+          "title": "云南：到2028年力争全省有色金属产业产值突破6000亿元 新能源电池和磷产业成为新的千亿级产业",
+          "url": "https://wallstreetcn.com/livenews/3046193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "黄金白银基金宣布暂停申购",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%9F%BA%E9%87%91%E5%AE%A3%E5%B8%83%E6%9A%82%E5%81%9C%E7%94%B3%E8%B4%AD",
-          "source": "bilibili 热搜",
+          "title": "北方铜业：公司近期经营情况及内外部经营环境未发生重大变化。公司的主要产品阴极铜、黄金、白银等产品的市场价格大幅上涨，系本次股价异动的主要原因。",
+          "url": "https://wallstreetcn.com/livenews/3046337",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时31分"
+          "time_info": "17时35分"
+        },
+        {
+          "title": "黄金主题LOF：提示投资者关注二级市场交易价格溢价风险",
+          "url": "https://wallstreetcn.com/livenews/3046327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         }
       ]
     },
@@ -147,7 +321,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -158,26 +332,9 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "有色",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "云南：到2028年力争全省有色金属产业产值突破6000亿元 新能源电池和磷产业成为新的千亿级产业",
-          "url": "https://wallstreetcn.com/livenews/3046193",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时13分"
+          "time_info": "16时31分"
         }
       ]
     }
