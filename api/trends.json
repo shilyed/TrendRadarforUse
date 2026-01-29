@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-29T15:13:59.407044+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-29T16:31:54.294784+08:00",
+  "total_titles_processed": 439,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 4,
       "titles": [
+        {
+          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
+          "url": "https://news.ifeng.com/c/8qIp4NFuO3j",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时13分 ~ 16时31分]"
+        },
         {
           "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
           "url": "https://www.cls.cn/detail/2273451",
@@ -20,36 +32,27 @@
         },
         {
           "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
-          "url": "https://news.ifeng.com/c/8qIp4NFuO3j",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时13分"
-        },
-        {
-          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
           "url": "https://www.cls.cn/detail/2273523",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时13分"
+          "appearance_count": 2,
+          "time_info": "[15时13分 ~ 16时31分]"
         },
         {
           "title": "特朗普被曝「正考虑对伊朗发动新的重大打击」，美伊局势会再度升级吗？伊朗会做出哪些反应？",
           "url": "https://www.zhihu.com/question/2000136531822794040",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时13分"
+          "appearance_count": 2,
+          "time_info": "[15时13分 ~ 16时31分]"
         }
       ]
     },
@@ -73,28 +76,30 @@
           "url": "https://www.cls.cn/detail/2273531",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时13分"
+          "appearance_count": 2,
+          "time_info": "[15时13分 ~ 16时31分]"
         },
         {
           "title": "黄金价格为何一路猛涨",
           "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
           "source": "bilibili 热搜",
           "ranks": [
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时13分"
+          "appearance_count": 2,
+          "time_info": "[15时13分 ~ 16时31分]"
         }
       ]
     },
     {
       "keyword_group": "白银",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "白银面临\"交割失败\"危机？3月或成贵金属\"关键时刻\"",
@@ -104,8 +109,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时13分"
+          "appearance_count": 2,
+          "time_info": "[15时13分 ~ 16时31分]"
         },
         {
           "title": "黄金白银LOF为何突然停售",
@@ -117,6 +122,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
+        },
+        {
+          "title": "黄金白银基金宣布暂停申购",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%9F%BA%E9%87%91%E5%AE%A3%E5%B8%83%E6%9A%82%E5%81%9C%E7%94%B3%E8%B4%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "意法半导体Q4销售回升 汽车芯片需求仍疲弱",
+          "url": "https://flash.jin10.com/detail/20260129162442665800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "A股半导体板块大涨",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%BF%E5%9D%97%E5%A4%A7%E6%B6%A8%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         }
       ]
     },
