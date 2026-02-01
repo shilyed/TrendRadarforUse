@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T20:32:38.030427+08:00",
-  "total_titles_processed": 1187,
+  "generated_at": "2026-02-01T21:39:12.484985+08:00",
+  "total_titles_processed": 1245,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 45,
       "titles": [
         {
           "title": "深扒凯文·沃什：特朗普提名的下任美联储主席，究竟是鹰是鸽？",
@@ -47,6 +47,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[12时24分 ~ 20时32分]"
+        },
+        {
+          "title": "美法官下令释放被拘5岁男童，抨击特朗普政府：给儿童造成创伤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32510036",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时24分 ~ 21时39分]"
         },
         {
           "title": "美国或迎首次人口负增长：特朗普上台1年，赶跑近300万移民",
@@ -124,6 +137,19 @@
           "time_info": "[02时22分 ~ 07时15分]"
         },
         {
+          "title": "爱泼斯坦案牵一众大佬提特朗普数百次",
+          "url": "https://www.baidu.com/s?wd=%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E7%89%B5%E4%B8%80%E4%BC%97%E5%A4%A7%E4%BD%AC%E6%8F%90%E7%89%B9%E6%9C%97%E6%99%AE%E6%95%B0%E7%99%BE%E6%AC%A1",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            27,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时24分 ~ 21时39分]"
+        },
+        {
           "title": "特朗普：美委将“分享”石油收益",
           "url": "https://wallstreetcn.com/livenews/3047762",
           "source": "华尔街见闻-快讯",
@@ -139,18 +165,6 @@
           "time_info": "[13时56分 ~ 18时19分]"
         },
         {
-          "title": "美法官下令释放被拘5岁男童，抨击特朗普政府：给儿童造成创伤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32510036",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时24分 ~ 20时32分]"
-        },
-        {
           "title": "美国总统特朗普置评联邦政府关门问题，声称：民主党不想让政府停摆，那对国家不是好事。",
           "url": "https://wallstreetcn.com/livenews/3047726",
           "source": "华尔街见闻-快讯",
@@ -163,6 +177,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[06时15分 ~ 14时41分]"
+        },
+        {
+          "title": "特朗普：正与伊朗进行对话",
+          "url": "https://www.cls.cn/detail/2276668",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时24分 ~ 21时39分]"
         },
         {
           "title": "特朗普称就格陵兰岛的谈判即将达成一致",
@@ -189,6 +215,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时19分 ~ 01时18分]"
+        },
+        {
+          "title": "特朗普：印度将进口委内瑞拉石油，同样欢迎中国",
+          "url": "https://news.ifeng.com/c/8qOFedymx0W",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 21时39分]"
         },
         {
           "title": "美国政府多个部门再次陷入“停摆”，特朗普喊话：动动你们的脑子",
@@ -232,19 +269,6 @@
           "time_info": "[12时24分 ~ 17时24分]"
         },
         {
-          "title": "爱泼斯坦案牵一众大佬提特朗普数百次",
-          "url": "https://www.baidu.com/s?wd=%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E7%89%B5%E4%B8%80%E4%BC%97%E5%A4%A7%E4%BD%AC%E6%8F%90%E7%89%B9%E6%9C%97%E6%99%AE%E6%95%B0%E7%99%BE%E6%AC%A1",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            27,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时24分 ~ 20时32分]"
-        },
-        {
           "title": "特朗普：希望沃什能降低利率。",
           "url": "https://wallstreetcn.com/livenews/3047748",
           "source": "华尔街见闻-快讯",
@@ -257,18 +281,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时24分 ~ 16时24分]"
-        },
-        {
-          "title": "特朗普：正与伊朗进行对话",
-          "url": "https://www.cls.cn/detail/2276668",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时24分 ~ 20时32分]"
         },
         {
           "title": "特朗普称美伊正谈判",
@@ -290,11 +302,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 20时32分]"
+          "appearance_count": 3,
+          "time_info": "[19时17分 ~ 21时39分]"
         },
         {
           "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：在美国总统特朗普领导下，与美国的接触已变得高效得多。在所谓“特朗普混乱”背后，他是一位高效且富有创造力的美国领导人。",
@@ -302,11 +315,25 @@
           "source": "金十数据",
           "ranks": [
             3,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 20时32分]"
+          "appearance_count": 3,
+          "time_info": "[19时17分 ~ 21时39分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-01）",
+          "url": "https://flash.jin10.com/detail/20260201185420868800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时17分 ~ 21时39分]"
         },
         {
           "title": "特朗普：伊朗正“严肃”地与美国进行对话",
@@ -343,18 +370,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时24分 ~ 13时56分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-01）",
-          "url": "https://flash.jin10.com/detail/20260201185420868800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 20时32分]"
         },
         {
           "title": "特朗普满意“鲍威尔接班人”：无需白宫施压，沃什自会降息",
@@ -395,6 +410,42 @@
           "time_info": "[12时24分 ~ 14时41分]"
         },
         {
+          "title": "据以色列第12频道：以色列总参谋长与美国官员举行会谈，讨论了有关对伊朗进行潜在打击的军事协调问题。以色列方面尚不清楚特朗普对伊朗的意图，但他们正在为各种可能性做好准备。",
+          "url": "https://flash.jin10.com/detail/20260201181510875800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时17分 ~ 21时39分]"
+        },
+        {
+          "title": "特朗普：美委将“分享”石油收益",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32510288",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时32分 ~ 21时39分]"
+        },
+        {
+          "title": "特朗普宣布：白宫草坪看格斗，首都街头飙赛车",
+          "url": "https://news.ifeng.com/c/8qOL2MAnXO8",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 21时39分]"
+        },
+        {
           "title": "特朗普：认为格陵兰岛协议已基本达成",
           "url": "https://flash.jin10.com/detail/20260201102818944800",
           "source": "金十数据",
@@ -405,6 +456,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时24分 ~ 13时56分]"
+        },
+        {
+          "title": "特朗普给自己提名的美联储主席下马威：小心被起诉",
+          "url": "https://news.ifeng.com/c/8qOLT943YcA",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 21时39分]"
         },
         {
           "title": "特朗普称正与伊朗进行对话",
@@ -419,25 +481,13 @@
           "time_info": "[09时30分 ~ 12时24分]"
         },
         {
-          "title": "据以色列第12频道：以色列总参谋长与美国官员举行会谈，讨论了有关对伊朗进行潜在打击的军事协调问题。以色列方面尚不清楚特朗普对伊朗的意图，但他们正在为各种可能性做好准备。",
-          "url": "https://flash.jin10.com/detail/20260201181510875800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 20时32分]"
-        },
-        {
           "title": "特朗普给自己提名的美联储主席下马威：不降息，就起诉",
           "url": "https://news.ifeng.com/c/8qOLT943YcA",
           "source": "凤凰网",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },
@@ -484,17 +534,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
-        },
-        {
-          "title": "特朗普：美委将“分享”石油收益",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32510288",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时32分"
         },
         {
           "title": "美国总统特朗普：希望伊朗能谈判达成一项可接受的协议。伊朗正在“认真地”与美国对话。",
@@ -646,6 +685,19 @@
           "time_info": "[02时22分 ~ 04时18分]"
         },
         {
+          "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
+          "url": "https://wallstreetcn.com/articles/3764687",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时17分 ~ 21时39分]"
+        },
+        {
           "title": "金价遭遇过山车",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%81%AD%E9%81%87%E8%BF%87%E5%B1%B1%E8%BD%A6%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -673,16 +725,15 @@
           "time_info": "[09时29分 ~ 14时41分]"
         },
         {
-          "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
-          "url": "https://wallstreetcn.com/articles/3764687",
-          "source": "华尔街见闻",
+          "title": "金价暴跌 深圳水贝挤满了人",
+          "url": "https://www.toutiao.com/trending/7601809209675484713/",
+          "source": "今日头条",
           "ranks": [
-            7,
-            5
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 20时32分]"
+          "appearance_count": 4,
+          "time_info": "[19时17分 ~ 21时39分]"
         },
         {
           "title": "金价暴跌 有柜姐发帖退单一律扣500",
@@ -729,17 +780,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时24分 ~ 13时56分]"
-        },
-        {
-          "title": "金价暴跌 深圳水贝挤满了人",
-          "url": "https://www.toutiao.com/trending/7601809209675484713/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 20时32分]"
         },
         {
           "title": "国际金价银价继续大幅下跌",
@@ -828,8 +868,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时29分 ~ 20时32分]"
+          "appearance_count": 14,
+          "time_info": "[09时29分 ~ 21时39分]"
         },
         {
           "title": "黄金白银创单日暴跌纪录",
@@ -875,22 +915,12 @@
           "ranks": [
             13,
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时18分 ~ 20时32分]"
-        },
-        {
-          "title": "国投白银LOF开市停牌1小时",
-          "url": "https://www.douyin.com/hot/2386318",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时32分"
+          "appearance_count": 6,
+          "time_info": "[18时18分 ~ 21时39分]"
         },
         {
           "title": "国投白银LOF：本基金将于2月2日开市起至当日10:30停牌",
@@ -900,11 +930,24 @@
             3,
             10,
             15,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时24分 ~ 20时32分]"
+          "appearance_count": 5,
+          "time_info": "[17时24分 ~ 21时39分]"
+        },
+        {
+          "title": "国投白银LOF开市停牌1小时",
+          "url": "https://www.douyin.com/hot/2386318",
+          "source": "抖音",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时32分 ~ 21时39分]"
         },
         {
           "title": "2.5吨白银建的湖南永兴银楼被拍卖",
@@ -919,6 +962,18 @@
           "time_info": "[19时17分 ~ 20时32分]"
         },
         {
+          "title": "1克纯银仅6.88元？以2.5吨白银建造的湖南永兴银楼被拍卖",
+          "url": "https://news.ifeng.com/c/8qOM4ThmwoB",
+          "source": "凤凰网",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时32分 ~ 21时39分]"
+        },
+        {
           "title": "白银lof为何禁止申购",
           "url": "https://search.bilibili.com/all?keyword=%E7%99%BD%E9%93%B6lof%E4%B8%BA%E4%BD%95%E7%A6%81%E6%AD%A2%E7%94%B3%E8%B4%AD",
           "source": "bilibili 热搜",
@@ -929,6 +984,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时24分 ~ 18时19分]"
+        },
+        {
+          "title": "女演员补缴7千提取13年前囤的白银",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%BC%94%E5%91%98%E8%A1%A5%E7%BC%B47%E5%8D%83%E6%8F%90%E5%8F%9613%E5%B9%B4%E5%89%8D%E5%9B%A4%E7%9A%84%E7%99%BD%E9%93%B6%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时32分 ~ 21时39分]"
+        },
+        {
+          "title": "黄金白银下跌会如何影响A股",
+          "url": "https://www.toutiao.com/trending/7601357284174446634/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时32分 ~ 21时39分]"
         },
         {
           "title": "白银史上第三轮大牛市结束了吗",
@@ -942,46 +1019,13 @@
           "time_info": "[09时29分 ~ 09时30分]"
         },
         {
-          "title": "1克纯银仅6.88元？以2.5吨白银建造的湖南永兴银楼被拍卖",
-          "url": "https://news.ifeng.com/c/8qOM4ThmwoB",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时32分"
-        },
-        {
-          "title": "女演员补缴7千提取13年前囤的白银",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%BC%94%E5%91%98%E8%A1%A5%E7%BC%B47%E5%8D%83%E6%8F%90%E5%8F%9613%E5%B9%B4%E5%89%8D%E5%9B%A4%E7%9A%84%E7%99%BD%E9%93%B6%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时32分"
-        },
-        {
-          "title": "黄金白银下跌会如何影响A股",
-          "url": "https://www.toutiao.com/trending/7601357284174446634/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时32分"
-        },
-        {
           "title": "演员自曝13年前4元一克买白银",
           "url": "https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E8%87%AA%E6%9B%9D13%E5%B9%B4%E5%89%8D4%E5%85%83%E4%B8%80%E5%85%8B%E4%B9%B0%E7%99%BD%E9%93%B6%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         }
@@ -1004,8 +1048,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时24分 ~ 20时32分]"
+          "appearance_count": 12,
+          "time_info": "[12时24分 ~ 21时39分]"
         },
         {
           "title": "美军侦察机现身伊朗附近空域，美国为何盯上伊朗？一旦动武将产生哪些连锁反应？",
@@ -1016,8 +1060,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时56分 ~ 20时32分]"
+          "appearance_count": 11,
+          "time_info": "[13时56分 ~ 21时39分]"
         },
         {
           "title": "伊朗最高领袖：如果美国挑起战争 这次冲突将不再局限于一地",
