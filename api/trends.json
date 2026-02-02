@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T18:37:54.756350+08:00",
-  "total_titles_processed": 1361,
+  "generated_at": "2026-02-02T19:31:49.493926+08:00",
+  "total_titles_processed": 1459,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "白银",
-      "match_count": 47,
+      "match_count": 50,
       "titles": [
         {
           "title": "周末要闻汇总：SpaceX申请部署100万颗卫星；黄金、白银迎史诗级暴跌",
@@ -82,6 +82,17 @@
           "time_info": "[00时21分 ~ 09时22分]"
         },
         {
+          "title": "风暴继续！黄金跌近4400美元关口、白银暴跌15%、沪镍、沪铜等十余种期货合约跌停",
+          "url": "https://wallstreetcn.com/articles/3764699",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时39分 ~ 19时31分]"
+        },
+        {
           "title": "金银深V遭沪盘打压，黄金失守4500美元关口、白银重挫14%、沪镍、沪铜、沪铝期货主力合约跌停",
           "url": "https://wallstreetcn.com/articles/3764699",
           "source": "华尔街见闻",
@@ -102,17 +113,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时34分 ~ 16时35分]"
-        },
-        {
-          "title": "风暴继续！黄金跌近4400美元关口、白银暴跌15%、沪镍、沪铜等十余种期货合约跌停",
-          "url": "https://wallstreetcn.com/articles/3764699",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时39分 ~ 18时37分]"
         },
         {
           "title": "现货白银日内转涨",
@@ -361,9 +361,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
+        },
+        {
+          "title": "中国银行发布关于代理个人上金所业务调整白银延期合约业务参数的公告",
+          "url": "https://wallstreetcn.com/livenews/3048312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         },
         {
           "title": "上海黄金交易所黄金T+D 2月2日（周一）早盘盘初下跌9.47%报1070.0元/克；<br/>上海黄金交易所白银T+D 2月2日（周一）早盘盘初下跌19.0%报23420.0元/千克。",
@@ -421,6 +432,17 @@
           "time_info": "12时17分"
         },
         {
+          "title": "白银日内跌幅超14%",
+          "url": "https://www.toutiao.com/trending/7601335266075574291/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
           "title": "现货白银失守73美元/盎司，为1月5日以来首次，日内跌超14%。",
           "url": "https://wallstreetcn.com/livenews/3048111",
           "source": "华尔街见闻-快讯",
@@ -430,6 +452,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
+        },
+        {
+          "title": "湖南白银：已回购1976万股，使用资金总额1.06亿元",
+          "url": "https://wallstreetcn.com/livenews/3048301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         },
         {
           "title": "日股住友金属矿业下跌6.5%，早盘黄金和白银一度遭遇抛售。",
@@ -545,7 +578,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普：印度将进口委内瑞拉石油，同样欢迎中国",
@@ -600,6 +633,18 @@
           "time_info": "[12时16分 ~ 16时35分]"
         },
         {
+          "title": "伊朗外长：正在谈判，特朗普足够明智，会做正确决定",
+          "url": "https://news.ifeng.com/c/8qPq0eP3mpg",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时04分 ~ 19时31分]"
+        },
+        {
           "title": "特朗普宣布：白宫草坪看格斗，首都街头飙赛车",
           "url": "https://news.ifeng.com/c/8qOL2MAnXO8",
           "source": "凤凰网",
@@ -609,18 +654,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时21分 ~ 07时18分]"
-        },
-        {
-          "title": "伊朗外长：正在谈判，特朗普足够明智，会做正确决定",
-          "url": "https://news.ifeng.com/c/8qPq0eP3mpg",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时04分 ~ 18时37分]"
         },
         {
           "title": "特朗普：美委将“分享”石油收益",
@@ -857,7 +890,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -904,6 +937,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-02）",
+          "url": "https://flash.jin10.com/detail/20260202181717877800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         }
       ]
     },
@@ -936,6 +980,20 @@
           "time_info": "[09时21分 ~ 15时05分]"
         },
         {
+          "title": "男子卖 400 克金得 14 万借朋友，金价大涨后要求按现值还款，这合理吗？法院会如何判决？",
+          "url": "https://www.zhihu.com/question/1999853811821463456",
+          "source": "知乎",
+          "ranks": [
+            20,
+            6,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时16分 ~ 19时31分]"
+        },
+        {
           "title": "金价“大跳水”？两大投资大佬：黄金才是泡沫而非AI，美元一涨就会破！",
           "url": "https://www.cls.cn/detail/2277020",
           "source": "财联社热门",
@@ -947,19 +1005,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[12时16分 ~ 17时39分]"
-        },
-        {
-          "title": "男子卖 400 克金得 14 万借朋友，金价大涨后要求按现值还款，这合理吗？法院会如何判决？",
-          "url": "https://www.zhihu.com/question/1999853811821463456",
-          "source": "知乎",
-          "ranks": [
-            20,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时16分 ~ 18时37分]"
         },
         {
           "title": "男子看金价下跌花20多万买200克",
@@ -1018,7 +1063,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -1154,7 +1199,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         }
@@ -1162,7 +1207,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "武契奇预判48小时内伊朗将遭到美国袭击",
@@ -1188,6 +1233,19 @@
           "time_info": "[00时21分 ~ 06时17分]"
         },
         {
+          "title": "懂了｜美国亲手埋下“核种子”：6分钟看伊朗核问题的前世今生",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32498721",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时34分 ~ 19时31分]"
+        },
+        {
           "title": "伊朗否认收到美国“最后通牒” 称希望未来几天确定谈判细节",
           "url": "https://wallstreetcn.com/livenews/3048278",
           "source": "华尔街见闻-快讯",
@@ -1198,19 +1256,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时39分 ~ 18时37分]"
-        },
-        {
-          "title": "懂了｜美国亲手埋下“核种子”：6分钟看伊朗核问题的前世今生",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32498721",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时34分 ~ 18时37分]"
         },
         {
           "title": "伊朗方面表示，与美国谈判的框架将在未来几天内敲定。",
@@ -1244,6 +1289,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗与美国会谈或将伊朗外长有阿拉格奇和美国特使威特科夫参与。",
+          "url": "https://flash.jin10.com/detail/20260202182302489800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗与美国会谈的时间和地点尚未最终确定。",
+          "url": "https://flash.jin10.com/detail/20260202182232113800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗与美国可能在未来几天举行会谈。",
+          "url": "https://flash.jin10.com/detail/20260202182205225800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         }
       ]
     },
@@ -1292,7 +1370,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -1341,11 +1419,12 @@
           "source": "今日头条",
           "ranks": [
             21,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时34分 ~ 18时37分]"
+          "appearance_count": 5,
+          "time_info": "[16时34分 ~ 19时31分]"
         },
         {
           "title": "沪指跌超2%险守4000点，金银、有色金属全线跌停，白酒逆势拉升，恒科指大跌3%，芯片半导体重挫",
@@ -1355,8 +1434,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时39分 ~ 18时37分]"
+          "appearance_count": 3,
+          "time_info": "[17时39分 ~ 19时31分]"
         },
         {
           "title": "三大指数均跌超1%，贵金属、有色、油气、农业、半导体等方向跌幅居前，沪深京三市下跌个股超3300只。",
@@ -1427,11 +1506,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时39分 ~ 18时37分]"
+          "appearance_count": 3,
+          "time_info": "[17时39分 ~ 19时31分]"
         },
         {
           "title": "恒生科技指数日内跌幅扩大至3%，华虹半导体跌超10%，小鹏汽车跌超8%，蔚来、比亚迪股份跌超5%。",
