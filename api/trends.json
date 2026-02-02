@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-03T01:34:02.464756+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2026-02-03T02:33:42.447409+08:00",
+  "total_titles_processed": 452,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "美国法官解冻被总统特朗普叫停的沃旭能源Orsted纽约海上风电项目。",
+          "url": "https://wallstreetcn.com/livenews/3048503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时33分"
+        },
         {
           "title": "特朗普：与印度达成贸易协议 将把对印度的关税降至18%",
           "url": "https://flash.jin10.com/detail/20260203011746385800",
@@ -14,9 +25,32 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
+        },
+        {
+          "title": "【特朗普：美印达成一项贸易协议，“对等关税”将从25%降至18%】2月2日，美国总统特朗普在社交媒体平台“真实社交”上发文称，他于当日上午与印度总理莫迪进行了交谈。 特朗普表示，双方达成了一项美印贸易协议，美国对印度的“对等关税”将从25%降至18%。印度也将相应地降低对美国的关税和非关税壁垒，直至降至零。特朗普还称，莫迪承诺将大幅增加对美国产品的采购，包括价值超过5000亿美元的美国能源、技术、农产品、煤炭以及其他许多产品。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3048500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时33分"
+        },
+        {
+          "title": "特朗普“宣布”对印度降低关税，在美上市印度ETF扩大涨幅",
+          "url": "https://wallstreetcn.com/livenews/3048475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时34分 ~ 02时33分]"
         },
         {
           "title": "美国驻印度大事：总统特朗普刚刚与印度总理莫迪通话。",
@@ -31,15 +65,26 @@
           "time_info": "[00时29分 ~ 01时34分]"
         },
         {
-          "title": "特朗普“宣布”对印度降低关税，在美上市印度ETF扩大涨幅",
-          "url": "https://wallstreetcn.com/livenews/3048475",
-          "source": "华尔街见闻-快讯",
+          "title": "市场消息：美国法官恢复了被特朗普叫停的沃旭能源纽约海上风电项目。",
+          "url": "https://flash.jin10.com/detail/20260203021528114800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时34分"
+          "time_info": "02时33分"
+        },
+        {
+          "title": "美国总统特朗普谈及明尼苏达州（移民相关问题），声称：我们想要一个东西，他们关押的人。",
+          "url": "https://wallstreetcn.com/livenews/3048498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时33分"
         },
         {
           "title": "美国总统特朗普：除了价值逾5000亿美元的美国能源、科技、农产品、煤炭及其他产品外，印度总理还承诺“购买美国货”。",
@@ -48,9 +93,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
+        },
+        {
+          "title": "印度总理莫迪：美国总统特朗普将印度产品关税下调18%，这让人感到欣慰。",
+          "url": "https://wallstreetcn.com/livenews/3048493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时33分"
         },
         {
           "title": "美国总统特朗普：从即日起，我们和印度双方同意建立美国与印度之间的贸易协议。根据该协议，美国将降低对印度的对等关税，从25%降至18%。他们也将逐步取消对美国的关税和非关税壁垒，直至完全消除。",
@@ -59,7 +115,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
         },
@@ -70,7 +126,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
         },
@@ -81,7 +137,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
         },
@@ -103,7 +159,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
         },
@@ -139,12 +195,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及明尼苏达州）我们可以很快离开那里。",
+          "url": "https://flash.jin10.com/detail/20260203015233342800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时33分"
         }
       ]
     },
     {
       "keyword_group": "白银",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "风暴继续！黄金跌近4400美元关口、白银暴跌15%、沪镍、沪铜等十余种期货合约跌停",
@@ -154,8 +221,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 02时33分]"
         },
         {
           "title": "国投白银LOF重估基金资产",
@@ -166,8 +233,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 02时33分]"
         },
         {
           "title": "白银基金决定资产重估！目前二级市场溢价超100%",
@@ -175,11 +242,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 02时33分]"
         },
         {
           "title": "这次白银暴跌是人为操纵的？",
@@ -189,19 +257,31 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 02时33分]"
         },
         {
           "title": "白银",
           "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E9%93%B6&t=31&band_rank=11&Refer=top",
           "source": "微博",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 02时33分]"
+        },
+        {
+          "title": "国投白银LOF对基金资产进行合理重估",
+          "url": "https://www.toutiao.com/trending/7602268440275176986/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时33分"
         }
       ]
     },
@@ -217,8 +297,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 02时33分]"
+        },
+        {
+          "title": "美股稀土板块盘前走强 据称美国拟启动“金库计划” 复制石油储备模式",
+          "url": "https://www.cls.cn/detail/2278170",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 02时33分]"
         },
         {
           "title": "黄金白银剧烈波动 美股三大期指集体下跌 | 今夜看点",
@@ -229,26 +322,14 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时34分]"
-        },
-        {
-          "title": "美股稀土板块盘前走强 据称美国拟启动“金库计划” 复制石油储备模式",
-          "url": "https://www.cls.cn/detail/2278170",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 02时33分]"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "懂了｜美国亲手埋下“核种子”：6分钟看伊朗核问题的前世今生",
@@ -259,8 +340,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 02时33分]"
+        },
+        {
+          "title": "美国与伊朗将于周五在土耳其伊斯坦布尔会谈。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3048491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时33分"
         },
         {
           "title": "美国总统特使将与伊朗外长在土耳其会晤",
@@ -288,8 +380,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 02时33分]"
         },
         {
           "title": "费城半导体指数上涨2.2%。",
@@ -313,11 +405,12 @@
           "url": "https://www.douyin.com/hot/2386891",
           "source": "抖音",
           "ranks": [
-            24
+            24,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时33分 ~ 01时34分]"
+          "appearance_count": 3,
+          "time_info": "[01时33分 ~ 02时33分]"
         }
       ]
     },
@@ -333,8 +426,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 02时33分]"
         }
       ]
     },
