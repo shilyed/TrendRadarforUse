@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T19:31:45.602162+08:00",
-  "total_titles_processed": 1625,
+  "generated_at": "2026-02-03T20:41:10.771560+08:00",
+  "total_titles_processed": 1746,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 58,
       "titles": [
         {
           "title": "美媒：欧洲领导人曾熬夜开会，制定应对特朗普的“作战手册”",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时33分 ~ 19时31分]"
+          "appearance_count": 7,
+          "time_info": "[17时33分 ~ 20时41分]"
         },
         {
           "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
@@ -38,11 +38,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时41分 ~ 19时31分]"
+          "appearance_count": 10,
+          "time_info": "[14时41分 ~ 20时41分]"
         },
         {
           "title": "中方回应特朗普让中国参与军控谈判",
@@ -55,8 +56,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时38分 ~ 19时31分]"
+          "appearance_count": 9,
+          "time_info": "[15时38分 ~ 20时41分]"
+        },
+        {
+          "title": "特朗普谈美伊谈判：希望能达成协议，否则会有糟糕的事",
+          "url": "https://news.ifeng.com/c/8qRnEtgNGZK",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时31分 ~ 20时41分]"
         },
         {
           "title": "特朗普称美印达成贸易协议 Waymo估值超千亿美元 | 环球市场",
@@ -117,17 +130,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
-        },
-        {
-          "title": "特朗普谈美伊谈判：希望能达成协议，否则会有糟糕的事",
-          "url": "https://news.ifeng.com/c/8qRnEtgNGZK",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时31分"
         },
         {
           "title": "特朗普：与印度达成贸易协议 将把对印度的关税降至18%",
@@ -198,6 +200,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时29分 ~ 01时34分]"
+        },
+        {
+          "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
+          "url": "https://news.ifeng.com/c/8qRsRpYySJZ",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 20时41分]"
         },
         {
           "title": "特朗普怒骂格莱美主持人",
@@ -275,6 +288,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
+        },
+        {
+          "title": "美国联邦住房金融局局长Bill Pulte：认为沃什（美联储主席）提名会获得确认。 若特朗普有意，随时准备推进房利美和房地美的IPO。 房利美和房地美可能会IPO，或采取其他措施。",
+          "url": "https://wallstreetcn.com/livenews/3049122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "美国总统特朗普：从即日起，我们和印度双方同意建立美国与印度之间的贸易协议。根据该协议，美国将降低对印度的对等关税，从25%降至18%。他们也将逐步取消对美国的关税和非关税壁垒，直至完全消除。",
@@ -627,12 +651,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "俄媒：特朗普称莫迪同意停止购买俄石油，克宫发声",
+          "url": "https://wallstreetcn.com/livenews/3049099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         }
       ]
     },
     {
       "keyword_group": "白银",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "风暴继续！黄金跌近4400美元关口、白银暴跌15%、沪镍、沪铜等十余种期货合约跌停",
@@ -699,8 +734,20 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时09分 ~ 19时31分]"
+          "appearance_count": 12,
+          "time_info": "[12时09分 ~ 20时41分]"
+        },
+        {
+          "title": "国投瑞银回应白银LOF巨震",
+          "url": "https://www.douyin.com/hot/2388153",
+          "source": "抖音",
+          "ranks": [
+            9,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时33分 ~ 20时41分]"
         },
         {
           "title": "国投白银LOF重估基金资产",
@@ -730,18 +777,6 @@
           "time_info": "[00时29分 ~ 09时22分]"
         },
         {
-          "title": "国投瑞银回应白银LOF巨震",
-          "url": "https://www.douyin.com/hot/2388153",
-          "source": "抖音",
-          "ranks": [
-            9,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时33分 ~ 19时31分]"
-        },
-        {
           "title": "如何看待国投白银 LOF 在 2026 年 2 月 2 号晚上修改净值计算方法？合规吗？",
           "url": "https://www.zhihu.com/question/2001818980202092528",
           "source": "知乎",
@@ -752,6 +787,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[15时38分 ~ 19时31分]"
+        },
+        {
+          "title": "上金所：调整黄金、白银部分合约的交易保证金水平和涨跌停板比例",
+          "url": "https://www.cls.cn/detail/2279009",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时33分 ~ 20时41分]"
         },
         {
           "title": "男子听劝卖出45公斤白银躲过暴跌",
@@ -828,7 +877,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -850,7 +899,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -864,19 +913,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
-        },
-        {
-          "title": "上金所：调整黄金、白银部分合约的交易保证金水平和涨跌停板比例",
-          "url": "https://www.cls.cn/detail/2279009",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时33分 ~ 19时31分]"
         },
         {
           "title": "湖南白银：近期公司经营情况正常，内外部经营环境未发生重大变化",
@@ -1095,6 +1131,17 @@
           "time_info": "07时22分"
         },
         {
+          "title": "套利和围猎：白银深V行情背后的真相丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260203202001238800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "现货白银日内涨幅扩大至5%，站上83美元/盎司关口。 现货黄金日内涨幅扩大至2.8%，现报4786.71美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3048617",
           "source": "华尔街见闻-快讯",
@@ -1109,7 +1156,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
@@ -1120,8 +1167,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时21分 ~ 19时31分]"
+          "appearance_count": 14,
+          "time_info": "[09时21分 ~ 20时41分]"
         },
         {
           "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
@@ -1135,6 +1182,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[07时21分 ~ 15时38分]"
+        },
+        {
+          "title": "大反弹！白银涨11%，黄金涨6%，纳指期货涨超0.5%，存储板块美股盘前走高，欧股集体高开，韩股大涨6%",
+          "url": "https://wallstreetcn.com/articles/3764793",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时33分 ~ 20时41分]"
         },
         {
           "title": "黄金白银剧烈波动 美股三大期指集体下跌 | 今夜看点",
@@ -1175,18 +1234,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时29分 ~ 09时22分]"
-        },
-        {
-          "title": "大反弹！白银涨11%，黄金涨6%，纳指期货涨超0.5%，存储板块美股盘前走高，欧股集体高开，韩股大涨6%",
-          "url": "https://wallstreetcn.com/articles/3764793",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时33分 ~ 19时31分]"
         },
         {
           "title": "美制造业数据托底风险偏好，美股反弹、美元续涨，黄金跌5%，白银跌至80关口下方",
@@ -1244,6 +1291,28 @@
           "time_info": "17时34分"
         },
         {
+          "title": "PayPal任命惠普的Enrique Lores为新任CEO。惠普美股盘前下跌2.2%。",
+          "url": "https://wallstreetcn.com/livenews/3049115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "PayPal第四季度调整后每股收益1.23美元，上年同期1.19美元，市场预估1.28美元。 第四季度净营收86.8亿美元，同比增长3.7%，市场预估87.9亿美元。 第四季度调整后运营收益15.5亿美元，同比增长3.2%，市场预估15.9亿美元。 预计全年自由现金流超过60亿美元。 预计全年资本支出大约10亿美元，市场预估9.978亿美元。 PayPal美股盘前跌超8%。",
+          "url": "https://wallstreetcn.com/livenews/3049117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "美股太空公司股价盘前上涨，此前SpaceX确认与xAI合并。维珍银河上涨1.7%，行星实验室上涨3.1%，直觉机器上涨2.4%，旅行者科技上涨2.7%。",
           "url": "https://flash.jin10.com/detail/20260203175702498800",
           "source": "金十数据",
@@ -1255,6 +1324,17 @@
           "time_info": "18时33分"
         },
         {
+          "title": "辉瑞第四季度营收175.6亿美元，市场预估169.4亿美元。 第四季度调整后每股收益0.66美元。 预计2026年调整后每股收益2.80美元至3.00美元。 预计2026年营收595亿美元至625亿美元。 辉瑞美股盘前跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3049108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "（美股）费城金银指数收跌0.40%，报380.81点。 （全球时段）纽约证交所ARCA金矿开采商指数跌1.62%，报2699.52点，美股盘初曾尖锐地冲高回落。 （美股）原材料指数收涨0.58%，（美股）金属与矿业指数收涨1.44%。",
           "url": "https://wallstreetcn.com/livenews/3048560",
           "source": "华尔街见闻-快讯",
@@ -1264,12 +1344,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "默沙东第四季度调整后每股收益2.04美元。 第四季度每股收益（EPS）为1.19美元 第四季度销售额为164亿美元，同比增长5%，市场预期为161.7亿美元。 预计全年销售额为655亿至670亿美元，市场预期为675亿美元。 预计全年调整后每股收益（EPS）为5.00至5.15美元。 默沙东美股盘前一度跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3049101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "懂了｜美国亲手埋下“核种子”：6分钟看伊朗核问题的前世今生",
@@ -1291,11 +1382,12 @@
             19,
             16,
             14,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时41分 ~ 19时31分]"
+          "appearance_count": 10,
+          "time_info": "[14时41分 ~ 20时41分]"
         },
         {
           "title": "伊朗总统佩泽希齐扬3日在社交媒体上说，他已指示外交部长阿拉格齐秉持尊严、审慎和务实的原则同美国进行“公平公正谈判”。 (新华社)",
@@ -1352,6 +1444,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "伊朗外交消息人士表示，德黑兰对伊斯坦布尔会谈的看法“既不乐观也不悲观”。伊斯坦布尔会议将表明美国是否“打算进行严肃且以结果为导向”的会谈。",
+          "url": "https://flash.jin10.com/detail/20260203202118772800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         }
       ]
     },
@@ -1373,6 +1476,18 @@
           "time_info": "[12时09分 ~ 17时34分]"
         },
         {
+          "title": "1 克黄金能打一张完整黄金婚书引热议，黄金的延展性到底有多强？金价飙升，这种轻量奢华蕴藏多大商业空间？",
+          "url": "https://www.zhihu.com/question/1999853061464614005",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时32分 ~ 20时41分]"
+        },
+        {
           "title": "金价暴跌后黄金市场挤满顾客",
           "url": "https://www.douyin.com/hot/2386891",
           "source": "抖音",
@@ -1384,17 +1499,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时33分 ~ 07时22分]"
-        },
-        {
-          "title": "1 克黄金能打一张完整黄金婚书引热议，黄金的延展性到底有多强？金价飙升，这种轻量奢华蕴藏多大商业空间？",
-          "url": "https://www.zhihu.com/question/1999853061464614005",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时32分 ~ 19时31分]"
         },
         {
           "title": "李大霄解读金价一夜V型反转",
