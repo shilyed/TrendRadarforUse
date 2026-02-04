@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T22:41:29.949643+08:00",
-  "total_titles_processed": 2047,
+  "generated_at": "2026-02-04T23:36:20.062011+08:00",
+  "total_titles_processed": 2143,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 68,
+      "match_count": 71,
       "titles": [
         {
           "title": "特朗普希望中国也加入核军控谈判，中方回应",
@@ -98,8 +98,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时58分 ~ 22时41分]"
+          "appearance_count": 4,
+          "time_info": "[21时58分 ~ 23时36分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -109,8 +109,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时58分 ~ 22时41分]"
+          "appearance_count": 4,
+          "time_info": "[21时58分 ~ 23时36分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -120,8 +120,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时58分 ~ 22时41分]"
+          "appearance_count": 4,
+          "time_info": "[21时58分 ~ 23时36分]"
+        },
+        {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时41分 ~ 23时36分]"
         },
         {
           "title": "特朗普称有问题的是比尔盖茨那些人",
@@ -136,17 +147,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[04时28分 ~ 07时22分]"
-        },
-        {
-          "title": "习近平同美国总统特朗普通电话",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时41分"
         },
         {
           "title": "英国政府：英国首相斯塔默、美国总统特朗普承认迪戈加西亚岛的战略重要性。",
@@ -313,6 +313,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时41分 ~ 04时29分]"
+        },
+        {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://wallstreetcn.com/articles/3764980",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时41分 ~ 23时36分]"
         },
         {
           "title": "美国总统特朗普：是时候翻过爱泼斯坦丑闻这一页了。",
@@ -506,18 +518,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时41分"
-        },
-        {
-          "title": "习近平同美国总统特朗普通电话",
-          "url": "https://wallstreetcn.com/articles/3764980",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
         },
@@ -621,6 +622,17 @@
           "time_info": "12时07分"
         },
         {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32534170",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
+        {
           "title": "白宫新闻秘书：特朗普总统总是倾向于首先采取外交手段解决问题。",
           "url": "https://flash.jin10.com/detail/20260204021303359800",
           "source": "金十数据",
@@ -660,7 +672,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
         },
@@ -674,6 +686,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
+        },
+        {
+          "title": "印度官员试图平息各界对特朗普贸易协议的担忧",
+          "url": "https://wallstreetcn.com/livenews/3049972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
         },
         {
           "title": "特朗普与哥伦比亚总统佩特罗会晤 讨论打击毒品走私",
@@ -696,6 +719,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "海湾国家官员表示，目前的计划是由美国总统特使威特科夫和特朗普女婿库什纳代表美国。",
+          "url": "https://flash.jin10.com/detail/20260204232402509800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
         },
         {
           "title": "美国总统特朗普：俄罗斯履行了一周内不袭击基辅的承诺。",
@@ -789,7 +823,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
@@ -811,8 +845,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时22分 ~ 22时41分]"
+          "appearance_count": 18,
+          "time_info": "[07时22分 ~ 23时36分]"
         },
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -823,8 +857,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时17分 ~ 22时41分]"
+          "appearance_count": 17,
+          "time_info": "[09时17分 ~ 23时36分]"
         },
         {
           "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
@@ -848,8 +882,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时43分 ~ 22时41分]"
+          "appearance_count": 15,
+          "time_info": "[13时43分 ~ 23时36分]"
         },
         {
           "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
@@ -861,8 +895,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时43分 ~ 22时41分]"
+          "appearance_count": 15,
+          "time_info": "[13时43分 ~ 23时36分]"
         },
         {
           "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
@@ -944,7 +978,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
         },
@@ -955,7 +989,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
         },
@@ -968,8 +1002,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时58分 ~ 22时41分]"
+          "appearance_count": 4,
+          "time_info": "[21时58分 ~ 23时36分]"
         },
         {
           "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5000美元关口",
@@ -1038,7 +1072,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
         },
@@ -1104,7 +1138,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
         },
@@ -1131,6 +1165,17 @@
           "time_info": "06时37分"
         },
         {
+          "title": "美股走低纳指一度下跌1% 软件股继续承压",
+          "url": "https://flash.jin10.com/detail/20260204232138533800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
+        {
           "title": "Take-Two Interactive Software第三财季净预定17.6亿美元，分析师预期15.8亿美元。 预计全年净预定66.5亿-67.0亿美元，分析师预期64.7亿美元。 预计第四财季净预定15.1亿-15.6亿美元，分析师预期15.4亿美元。 TTWO美股盘后涨5%。",
           "url": "https://wallstreetcn.com/livenews/3049338",
           "source": "华尔街见闻-快讯",
@@ -1151,12 +1196,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
+        },
+        {
+          "title": "现货黄金短线从5037美元附近跳水，逼近4967美元，日内整体涨幅迅速收窄至0.5%。 现货白银回落至89美元一线，目前涨4.6%，美股盘前还曾涨至92.2043美元。",
+          "url": "https://wallstreetcn.com/livenews/3049959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
         }
       ]
     },
     {
       "keyword_group": "白银",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "黄金白银为何又大涨",
@@ -1185,8 +1241,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时22分 ~ 22时41分]"
+          "appearance_count": 18,
+          "time_info": "[07时22分 ~ 23时36分]"
         },
         {
           "title": "AI颠覆性冲击引发担忧，纳指期货跌0.3%，欧股诺和诺德下挫18%，现货黄金一度触及5080美元，现货白银接近90美元",
@@ -1422,7 +1478,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
         },
@@ -1466,7 +1522,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
         },
@@ -1499,9 +1555,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
+        },
+        {
+          "title": "国投白银期货A单日上涨8.05%",
+          "url": "https://wallstreetcn.com/livenews/3049960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
         },
         {
           "title": "国投白银LOF(161226)今日复牌再度跌停，报3.825元，最新溢价率为64.6%。",
@@ -1529,7 +1596,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "以色列对美国与伊朗谈判提“三不”强硬要求",
@@ -1545,6 +1612,19 @@
           "time_info": "[00时43分 ~ 07时22分]"
         },
         {
+          "title": "报道称伊朗炮艇逼近挂美国旗油轮、接近美航母的伊无人机被美击落，原油跳涨",
+          "url": "https://wallstreetcn.com/articles/3764876",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时37分 ~ 23时36分]"
+        },
+        {
           "title": "如何看待美国在阿拉伯海击落伊朗无人机？",
           "url": "https://www.zhihu.com/question/2002278954355139608",
           "source": "知乎",
@@ -1558,19 +1638,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[13时43分 ~ 22时41分]"
-        },
-        {
-          "title": "报道称伊朗炮艇逼近挂美国旗油轮、接近美航母的伊无人机被美击落，原油跳涨",
-          "url": "https://wallstreetcn.com/articles/3764876",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时37分 ~ 22时41分]"
         },
         {
           "title": "【报道称伊朗炮艇逼近悬挂美国旗油轮】据美国媒体2月3日援引英国海上安保公司消息报道称，悬挂美国国旗的“Stena Imperative”号油轮在霍尔木兹海峡“一度遭到6艘伊朗炮艇逼近”。之后该油轮在一艘美国军舰护送下继续航行。报道称，这些炮艇通过无线电呼叫油轮，命令船长“关闭引擎并准备被登船”，但油轮加速并保持航向。预计这艘油轮将于2月5日抵达巴林的锡特拉港。据伊朗法尔斯通讯社报道，有船只“因未经许可进入伊朗领海”而被拦截。(CCTV国际时讯)",
@@ -1838,6 +1905,149 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
+        },
+        {
+          "title": "海湾国家官员表示，正在讨论的谈判机制旨在让多个国家协助斡旋伊朗与美国之间的谈判。",
+          "url": "https://flash.jin10.com/detail/20260204232324506800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "半导体设备&机器人明星股绩后再创新高 财报全面碾压预期",
+          "url": "https://www.cls.cn/detail/2279679",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时17分 ~ 14时41分]"
+        },
+        {
+          "title": "纳斯达克100指数跌幅扩大至2%，标普跌1.22%，道指跌0.82%，纳指跌1.94%，半导体指数跌3.18%。 纳斯达克金龙中国指数跌超2%，万得中概科技龙头指数跌3.55%。热门中概股大全新能源跌逾8%，哔哩哔哩、文远知行跌逾5%，金山云、阿里巴巴、爱奇艺跌逾4%。",
+          "url": "https://wallstreetcn.com/livenews/3049276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时46分 ~ 04时29分]"
+        },
+        {
+          "title": "美国三大股指至少下跌1%，标普500指数跌1.49%，道指跌超500点，纳指跌537点跌幅2.29%，半导体指数跌幅扩大至约4%。",
+          "url": "https://wallstreetcn.com/livenews/3049290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时41分 ~ 05时28分]"
+        },
+        {
+          "title": "金十图示：2026年02月04日（周三）富时中国A50指数成分股午盘收盘行情一览：酿酒行业全面领涨，半导体普遍回调",
+          "url": "https://flash.jin10.com/detail/20260204113439782800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "事关半导体材料！两款国产设备，顺利交付",
+          "url": "https://www.cls.cn/detail/2280739",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
+        {
+          "title": "摩根大通：将恩智浦半导体(NXPI.O)目标价从245.00美元上调至250.00美元。",
+          "url": "https://flash.jin10.com/detail/20260204121141558800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "纳斯达克100指数跌幅扩大至1.3%，标普500指数跌超0.4%，道指持平，半导体指数跌2.1%。 纳斯达克中国金龙指数跌超2％，金山云跌7.39％，网易跌7.08％，哔哩哔哩跌6.55％，世纪互联跌5.89％，万国数据跌5.48％。",
+          "url": "https://wallstreetcn.com/livenews/3049974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
+        {
+          "title": "标普500日内跌幅达1.0%，报6906.78点，费城半导体指数跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3049257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        },
+        {
+          "title": "金十图示：2026年02月04日（周三）富时中国A50指数成分股今日收盘行情一览：银行、酿酒板块午后强势转涨，半导体午后跌势延续",
+          "url": "https://flash.jin10.com/detail/20260204150144739800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
+          "title": "事关半导体材料！两款国产设备顺利交付",
+          "url": "https://wallstreetcn.com/livenews/3049901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "恒生科技指数日内跌超2%，金蝶国际跌近14%，金山软件跌近6%，携程集团跌超5%，华虹半导体跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/3049506",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时07分"
         }
       ]
     },
@@ -1944,7 +2154,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
         },
@@ -1965,116 +2175,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "半导体设备&机器人明星股绩后再创新高 财报全面碾压预期",
-          "url": "https://www.cls.cn/detail/2279679",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时17分 ~ 14时41分]"
-        },
-        {
-          "title": "纳斯达克100指数跌幅扩大至2%，标普跌1.22%，道指跌0.82%，纳指跌1.94%，半导体指数跌3.18%。 纳斯达克金龙中国指数跌超2%，万得中概科技龙头指数跌3.55%。热门中概股大全新能源跌逾8%，哔哩哔哩、文远知行跌逾5%，金山云、阿里巴巴、爱奇艺跌逾4%。",
-          "url": "https://wallstreetcn.com/livenews/3049276",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            18,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时46分 ~ 04时29分]"
-        },
-        {
-          "title": "美国三大股指至少下跌1%，标普500指数跌1.49%，道指跌超500点，纳指跌537点跌幅2.29%，半导体指数跌幅扩大至约4%。",
-          "url": "https://wallstreetcn.com/livenews/3049290",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时41分 ~ 05时28分]"
-        },
-        {
-          "title": "金十图示：2026年02月04日（周三）富时中国A50指数成分股午盘收盘行情一览：酿酒行业全面领涨，半导体普遍回调",
-          "url": "https://flash.jin10.com/detail/20260204113439782800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
-          "title": "摩根大通：将恩智浦半导体(NXPI.O)目标价从245.00美元上调至250.00美元。",
-          "url": "https://flash.jin10.com/detail/20260204121141558800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时43分"
-        },
-        {
-          "title": "标普500日内跌幅达1.0%，报6906.78点，费城半导体指数跌超3%。",
-          "url": "https://wallstreetcn.com/livenews/3049257",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时46分"
-        },
-        {
-          "title": "金十图示：2026年02月04日（周三）富时中国A50指数成分股今日收盘行情一览：银行、酿酒板块午后强势转涨，半导体午后跌势延续",
-          "url": "https://flash.jin10.com/detail/20260204150144739800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时40分"
-        },
-        {
-          "title": "事关半导体材料！两款国产设备顺利交付",
-          "url": "https://wallstreetcn.com/livenews/3049901",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "恒生科技指数日内跌超2%，金蝶国际跌近14%，金山软件跌近6%，携程集团跌超5%，华虹半导体跌超4%。",
-          "url": "https://wallstreetcn.com/livenews/3049506",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -2108,9 +2208,9 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时41分 ~ 23时36分]"
         },
         {
           "title": "LME有色金属库存日报",
