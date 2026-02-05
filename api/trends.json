@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T18:34:27.384076+08:00",
-  "total_titles_processed": 1643,
+  "generated_at": "2026-02-05T19:31:38.404293+08:00",
+  "total_titles_processed": 1742,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "习近平同特朗普通电话",
@@ -51,8 +51,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时38分 ~ 18时34分]"
+          "appearance_count": 22,
+          "time_info": "[00时38分 ~ 19时31分]"
         },
         {
           "title": "特朗普：中美元首通话内容详实，气氛积极",
@@ -78,8 +78,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时40分 ~ 18时34分]"
+          "appearance_count": 21,
+          "time_info": "[01时40分 ~ 19时31分]"
         },
         {
           "title": "降息快了？特朗普直言：若沃什表达过加息意愿 就不会获提名！",
@@ -381,7 +381,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -463,6 +463,17 @@
           "time_info": "00时38分"
         },
         {
+          "title": "特朗普也该就爱泼斯坦案去国会作证？美众议长回应",
+          "url": "https://wallstreetcn.com/livenews/3050592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
           "title": "金十提示：美国总统特朗普将于周四晚7点（北京时间周五8点）发表声明。",
           "url": "https://flash.jin10.com/detail/20260205075841513800",
           "source": "金十数据",
@@ -472,6 +483,345 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 29,
+      "titles": [
+        {
+          "title": "报道：中财期货在近期白银价格暴跌前做空，获利超过5亿美元",
+          "url": "https://wallstreetcn.com/articles/3764985",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[05时27分 ~ 19时31分]"
+        },
+        {
+          "title": "现货白银日内重挫16%",
+          "url": "https://www.douyin.com/hot/2390231",
+          "source": "抖音",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时08分 ~ 17时37分]"
+        },
+        {
+          "title": "解读白银暴涨暴跌背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E7%99%BD%E9%93%B6%E6%9A%B4%E6%B6%A8%E6%9A%B4%E8%B7%8C%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时50分 ~ 19时31分]"
+        },
+        {
+          "title": "白银LOF估值风暴：高溢价狂欢下的补款之痛与行业反思",
+          "url": "https://www.cls.cn/detail/2281028",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时08分 ~ 16时35分]"
+        },
+        {
+          "title": "现货白银重回80美元/盎司，日内跌幅收窄至10.72%，此前一度重挫18%。",
+          "url": "https://wallstreetcn.com/livenews/3050451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少67.65吨，当前持仓量为16370.05吨。欢迎点击查看数据中心……",
+          "url": "https://flash.jin10.com/detail/20260205064811013800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少67.65吨，当前持仓量为16370.05吨。",
+          "url": "https://flash.jin10.com/detail/20260205115111644800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "周三（2月4日）纽约尾盘，现货白银涨3.62%，报88.2660美元/盎司，北京时间22:05刷新日高至92.2043美元，随后回吐涨幅，逼近07:08刷新的日低83.2961美元。 COMEX白银期货涨5.11%，报87.555美元/盎司，22:06刷新日高至92.015美元。 COMEX铜期货跌2.77%，报5.9420美元/磅，22:00-02:00持续扩大跌幅。 现货铂金涨0.60%，现货钯金涨1.05%。",
+          "url": "https://wallstreetcn.com/livenews/3050121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 07时20分]"
+        },
+        {
+          "title": "国投白银LOF：本基金将于2026年2月6日开市起至当日10:30停牌，自2026年2月6日10:30复牌。",
+          "url": "https://wallstreetcn.com/livenews/3050547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时37分 ~ 18时34分]"
+        },
+        {
+          "title": "报道称，中财期货在近期白银价格暴跌前做空，获利超过5亿美元",
+          "url": "https://wallstreetcn.com/articles/3764985",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时38分 ~ 04时26分]"
+        },
+        {
+          "title": "软件股恐慌蔓延至全球股市，韩股收跌3.9%，白银暴跌17%，铁矿石下探至100美元",
+          "url": "https://wallstreetcn.com/articles/3765023",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时37分 ~ 19时31分]"
+        },
+        {
+          "title": "CNDOTA白银一代访谈",
+          "url": "https://search.bilibili.com/all?keyword=CNDOTA%E7%99%BD%E9%93%B6%E4%B8%80%E4%BB%A3%E8%AE%BF%E8%B0%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 01时41分]"
+        },
+        {
+          "title": "白银",
+          "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E9%93%B6&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时50分 ~ 15时45分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 2月4日（周三）晚盘收盘下跌1.54%报1112.0元/克；<br/>上海黄金交易所白银T+D 2月4日（周三）晚盘收盘下跌0.13%报22414.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260205023147989800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时35分 ~ 04时26分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 2月5日（周四）收盘下跌2.07%报1106.0元/克；<br/>上海黄金交易所白银T+D 2月5日（周四）收盘下跌11.64%报19831.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260205153008660800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
+          "title": "金银反弹，盘中期金涨近8%、白银涨超10%，“死猫跳”还是“牛市重启”？",
+          "url": "https://wallstreetcn.com/articles/3764862",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时38分"
+        },
+        {
+          "title": "业内：散户们把白银玩成了“万人坑”",
+          "url": "https://www.toutiao.com/trending/7603280654133906963/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        },
+        {
+          "title": "现货白银重回80美元之上",
+          "url": "https://flash.jin10.com/detail/20260205152640687800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
+          "title": "白银急挫",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%93%B6%E6%80%A5%E6%8C%AB%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "现货白银涨幅收窄至2.6%，回撤至87.40美元下方，显著脱离北京时间22:05刷新的日高92.2043美元。",
+          "url": "https://wallstreetcn.com/livenews/3049994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时38分"
+        },
+        {
+          "title": "上期所：调整铜、黄金、白银等期货相关合约涨跌停板幅度和交易保证金比例",
+          "url": "https://wallstreetcn.com/livenews/3050604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
+          "title": "上期所调整黄金、白银期货相关合约涨跌停板幅度和交易保证金比例",
+          "url": "https://flash.jin10.com/detail/20260205185157712800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
+          "title": "现货白银日内跌超16%，跌破74美元关口。 现货黄金盘中跌破4800美元，日内跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3050308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "潘多拉首席执行官：公司正逐步减少对白银的依赖，以摆脱企业经营表现与大宗商品价格波动的过度关联。",
+          "url": "https://flash.jin10.com/detail/20260205151611671800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
+          "title": "现货白银日内跌超15%，现报74.72美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3050302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "现货白银日内跌幅扩大至14%，跌破76美元关口。 现货黄金跌破4850美元/盎司，日内跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3050300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "现货白银较日高回落近7美元 此前一度站上92美元",
+          "url": "https://flash.jin10.com/detail/20260205005416869800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        },
+        {
+          "title": "现货白银盘中跌破78美元/盎司，日内跌近12%。 现货黄金现报4875.87美元/盎司，日内跌1.8%。",
+          "url": "https://wallstreetcn.com/livenews/3050295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "现货白银跌破80美元/盎司，日内跌超9%。 沪银主力合约跌幅扩大至12%。",
+          "url": "https://wallstreetcn.com/livenews/3050293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         }
       ]
     },
@@ -575,9 +925,23 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
+        },
+        {
+          "title": "市值蒸发万亿！美股软件行业空头肆虐 对冲基金年内狂赚240亿美元",
+          "url": "https://www.cls.cn/detail/2281312",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时34分 ~ 19时31分]"
         },
         {
           "title": "周三（2月4日）美股尾盘，彭博电动汽车价格回报指数涨0.65%，报3533.63点。 该指数全天处于上涨状态，整体呈现出“几”形走势，北京时间14:00-00:00高位震荡，最高在美股盘初达到3561.87点。 成分股宝马收涨3.88%，Ola Electric Mobility Ltd.涨3.6%，意法半导体收涨3.6%，保时捷P911涨3.5%，理想汽车H股收涨3.43%，浙江零跑科技H股收涨2.88%表现第六，智利化工矿业公司（SQM）则跌5.3%，MP材料跌6.2%，文远知行跌7.2%，Solid Power跌9.5%。",
@@ -590,19 +954,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时27分 ~ 06时19分]"
-        },
-        {
-          "title": "市值蒸发万亿！美股软件行业空头肆虐 对冲基金年内狂赚240亿美元",
-          "url": "https://www.cls.cn/detail/2281312",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时34分 ~ 18时34分]"
         },
         {
           "title": "明星科技股美股盘前涨跌不一，英伟达涨超1%；谷歌跌超1%，Q4云收入猛增48%，今年支出指引接近翻倍大超预期；存储板块反弹，闪迪涨超3%，美光科技涨近2%，博通涨超5%；高通跌超11%，公司二季度营收指引不及市场预期。",
@@ -669,7 +1020,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -691,7 +1042,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -808,322 +1159,6 @@
       ]
     },
     {
-      "keyword_group": "白银",
-      "match_count": 27,
-      "titles": [
-        {
-          "title": "报道：中财期货在近期白银价格暴跌前做空，获利超过5亿美元",
-          "url": "https://wallstreetcn.com/articles/3764985",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[05时27分 ~ 18时34分]"
-        },
-        {
-          "title": "现货白银日内重挫16%",
-          "url": "https://www.douyin.com/hot/2390231",
-          "source": "抖音",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时08分 ~ 17时37分]"
-        },
-        {
-          "title": "白银LOF估值风暴：高溢价狂欢下的补款之痛与行业反思",
-          "url": "https://www.cls.cn/detail/2281028",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时08分 ~ 16时35分]"
-        },
-        {
-          "title": "解读白银暴涨暴跌背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E7%99%BD%E9%93%B6%E6%9A%B4%E6%B6%A8%E6%9A%B4%E8%B7%8C%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时50分 ~ 18时34分]"
-        },
-        {
-          "title": "现货白银重回80美元/盎司，日内跌幅收窄至10.72%，此前一度重挫18%。",
-          "url": "https://wallstreetcn.com/livenews/3050451",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时45分"
-        },
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少67.65吨，当前持仓量为16370.05吨。欢迎点击查看数据中心……",
-          "url": "https://flash.jin10.com/detail/20260205064811013800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少67.65吨，当前持仓量为16370.05吨。",
-          "url": "https://flash.jin10.com/detail/20260205115111644800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "周三（2月4日）纽约尾盘，现货白银涨3.62%，报88.2660美元/盎司，北京时间22:05刷新日高至92.2043美元，随后回吐涨幅，逼近07:08刷新的日低83.2961美元。 COMEX白银期货涨5.11%，报87.555美元/盎司，22:06刷新日高至92.015美元。 COMEX铜期货跌2.77%，报5.9420美元/磅，22:00-02:00持续扩大跌幅。 现货铂金涨0.60%，现货钯金涨1.05%。",
-          "url": "https://wallstreetcn.com/livenews/3050121",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时19分 ~ 07时20分]"
-        },
-        {
-          "title": "国投白银LOF：本基金将于2026年2月6日开市起至当日10:30停牌，自2026年2月6日10:30复牌。",
-          "url": "https://wallstreetcn.com/livenews/3050547",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时37分 ~ 18时34分]"
-        },
-        {
-          "title": "报道称，中财期货在近期白银价格暴跌前做空，获利超过5亿美元",
-          "url": "https://wallstreetcn.com/articles/3764985",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时38分 ~ 04时26分]"
-        },
-        {
-          "title": "CNDOTA白银一代访谈",
-          "url": "https://search.bilibili.com/all?keyword=CNDOTA%E7%99%BD%E9%93%B6%E4%B8%80%E4%BB%A3%E8%AE%BF%E8%B0%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 01时41分]"
-        },
-        {
-          "title": "白银",
-          "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E9%93%B6&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时50分 ~ 15时45分]"
-        },
-        {
-          "title": "软件股恐慌蔓延至全球股市，韩股收跌3.9%，白银暴跌17%，铁矿石下探至100美元",
-          "url": "https://wallstreetcn.com/articles/3765023",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时37分 ~ 18时34分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 2月4日（周三）晚盘收盘下跌1.54%报1112.0元/克；<br/>上海黄金交易所白银T+D 2月4日（周三）晚盘收盘下跌0.13%报22414.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260205023147989800",
-          "source": "金十数据",
-          "ranks": [
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时35分 ~ 04时26分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 2月5日（周四）收盘下跌2.07%报1106.0元/克；<br/>上海黄金交易所白银T+D 2月5日（周四）收盘下跌11.64%报19831.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260205153008660800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时45分"
-        },
-        {
-          "title": "金银反弹，盘中期金涨近8%、白银涨超10%，“死猫跳”还是“牛市重启”？",
-          "url": "https://wallstreetcn.com/articles/3764862",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "业内：散户们把白银玩成了“万人坑”",
-          "url": "https://www.toutiao.com/trending/7603280654133906963/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时34分"
-        },
-        {
-          "title": "现货白银重回80美元之上",
-          "url": "https://flash.jin10.com/detail/20260205152640687800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时45分"
-        },
-        {
-          "title": "白银急挫",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%93%B6%E6%80%A5%E6%8C%AB%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "现货白银涨幅收窄至2.6%，回撤至87.40美元下方，显著脱离北京时间22:05刷新的日高92.2043美元。",
-          "url": "https://wallstreetcn.com/livenews/3049994",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "现货白银日内跌超16%，跌破74美元关口。 现货黄金盘中跌破4800美元，日内跌超3%。",
-          "url": "https://wallstreetcn.com/livenews/3050308",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "潘多拉首席执行官：公司正逐步减少对白银的依赖，以摆脱企业经营表现与大宗商品价格波动的过度关联。",
-          "url": "https://flash.jin10.com/detail/20260205151611671800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时45分"
-        },
-        {
-          "title": "现货白银日内跌超15%，现报74.72美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3050302",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "现货白银日内跌幅扩大至14%，跌破76美元关口。 现货黄金跌破4850美元/盎司，日内跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3050300",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "现货白银较日高回落近7美元 此前一度站上92美元",
-          "url": "https://flash.jin10.com/detail/20260205005416869800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
-        },
-        {
-          "title": "现货白银盘中跌破78美元/盎司，日内跌近12%。 现货黄金现报4875.87美元/盎司，日内跌1.8%。",
-          "url": "https://wallstreetcn.com/livenews/3050295",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "现货白银跌破80美元/盎司，日内跌超9%。 沪银主力合约跌幅扩大至12%。",
-          "url": "https://wallstreetcn.com/livenews/3050293",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
       "match_count": 12,
       "titles": [
@@ -1202,7 +1237,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -1351,8 +1386,19 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "贝莱德基金刘鑫：短端境外债券相对稳健 长端美债短期内存在交易性机会",
+          "url": "https://wallstreetcn.com/livenews/3050619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
         {
           "title": "美国财长贝森特被问及如何压低10年期美债收益率，称：它下降了25个基点。 认为可以继续看到10年期美债收益率继续小幅下降。",
           "url": "https://wallstreetcn.com/livenews/3050043",
@@ -1402,8 +1448,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时17分 ~ 18时34分]"
+          "appearance_count": 12,
+          "time_info": "[09时17分 ~ 19时31分]"
         },
         {
           "title": "“全球供应紧张，惠普等电脑制造商考虑使用中国存储芯片”",
@@ -1412,20 +1458,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时34分 ~ 19时31分]"
         },
         {
           "title": "存储芯片荒难解！惠普等PC大厂据称首次考虑中国大陆供应商",
           "url": "https://www.cls.cn/detail/2281678",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时34分 ~ 19时31分]"
         }
       ]
     },
