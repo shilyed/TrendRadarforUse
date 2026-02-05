@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T13:51:06.886444+08:00",
-  "total_titles_processed": 1144,
+  "generated_at": "2026-02-05T14:48:59.760250+08:00",
+  "total_titles_processed": 1234,
   "failed_sources": [],
   "trends": [
     {
@@ -51,8 +51,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时38分 ~ 13时51分]"
+          "appearance_count": 16,
+          "time_info": "[00时38分 ~ 14时48分]"
         },
         {
           "title": "详讯丨习近平同美国总统特朗普通电话",
@@ -67,8 +67,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时40分 ~ 13时51分]"
+          "appearance_count": 15,
+          "time_info": "[01时40分 ~ 14时48分]"
         },
         {
           "title": "特朗普：中美元首通话内容详实，气氛积极",
@@ -78,8 +78,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时17分 ~ 13时51分]"
+          "appearance_count": 6,
+          "time_info": "[09时17分 ~ 14时48分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -95,6 +95,18 @@
           "time_info": "[00时38分 ~ 09时18分]"
         },
         {
+          "title": "降息快了？特朗普直言：若沃什表达过加息意愿 就不会获提名！",
+          "url": "https://www.cls.cn/detail/2281033",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时08分 ~ 14时48分]"
+        },
+        {
           "title": "习近平同特朗普通电话",
           "url": "https://www.toutiao.com/trending/7603003215299149878/",
           "source": "今日头条",
@@ -104,18 +116,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时20分 ~ 09时18分]"
-        },
-        {
-          "title": "降息快了？特朗普直言：若沃什表达过加息意愿 就不会获提名！",
-          "url": "https://www.cls.cn/detail/2281033",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 13时51分]"
         },
         {
           "title": "企图在高尔夫球场刺杀特朗普的枪手被判终身监禁",
@@ -543,8 +543,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时20分 ~ 13时51分]"
+          "appearance_count": 7,
+          "time_info": "[07时20分 ~ 14时48分]"
         },
         {
           "title": "谷歌母公司Alphabet（GOOGL）美股盘后跌1.69%，该公司分析师电话会已经结束。",
@@ -753,8 +753,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时27分 ~ 13时51分]"
+          "appearance_count": 9,
+          "time_info": "[05时27分 ~ 14时48分]"
         },
         {
           "title": "解读白银暴涨暴跌背后",
@@ -820,19 +820,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 13时51分]"
+          "appearance_count": 4,
+          "time_info": "[12时08分 ~ 14时48分]"
         },
         {
           "title": "现货白银日内重挫16%",
           "url": "https://www.douyin.com/hot/2390231",
           "source": "抖音",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 13时51分]"
+          "appearance_count": 4,
+          "time_info": "[12时08分 ~ 14时48分]"
         },
         {
           "title": "CNDOTA白银一代访谈",
@@ -1186,6 +1187,46 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美国财长贝森特被问及如何压低10年期美债收益率，称：它下降了25个基点。 认为可以继续看到10年期美债收益率继续小幅下降。",
+          "url": "https://wallstreetcn.com/livenews/3050043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时38分 ~ 03时35分]"
+        },
+        {
+          "title": "长端美债收益率涨超2个基点",
+          "url": "https://wallstreetcn.com/livenews/3050086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        },
+        {
+          "title": "分析师警示关税滞后效应 美债长端收益率易涨难跌",
+          "url": "https://flash.jin10.com/detail/20260205141144762800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -1213,35 +1254,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国财长贝森特被问及如何压低10年期美债收益率，称：它下降了25个基点。 认为可以继续看到10年期美债收益率继续小幅下降。",
-          "url": "https://wallstreetcn.com/livenews/3050043",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时38分 ~ 03时35分]"
-        },
-        {
-          "title": "长端美债收益率涨超2个基点",
-          "url": "https://wallstreetcn.com/livenews/3050086",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时27分"
         }
       ]
     },
@@ -1303,8 +1315,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时17分 ~ 13时51分]"
+          "appearance_count": 6,
+          "time_info": "[09时17分 ~ 14时48分]"
         }
       ]
     }
