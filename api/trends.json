@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T19:31:38.404293+08:00",
-  "total_titles_processed": 1742,
+  "generated_at": "2026-02-05T20:42:50.211594+08:00",
+  "total_titles_processed": 1866,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 43,
       "titles": [
         {
           "title": "习近平同特朗普通电话",
@@ -51,8 +51,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时38分 ~ 19时31分]"
+          "appearance_count": 23,
+          "time_info": "[00时38分 ~ 20时42分]"
         },
         {
           "title": "特朗普：中美元首通话内容详实，气氛积极",
@@ -78,8 +78,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[01时40分 ~ 19时31分]"
+          "appearance_count": 22,
+          "time_info": "[01时40分 ~ 20时42分]"
         },
         {
           "title": "降息快了？特朗普直言：若沃什表达过加息意愿 就不会获提名！",
@@ -364,6 +364,17 @@
           "time_info": "[09时17分 ~ 09时18分]"
         },
         {
+          "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
+          "url": "https://news.ifeng.com/c/8qUsyGpiCYu",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
           "title": "特朗普：美联储“理论上”是一个独立机构",
           "url": "https://flash.jin10.com/detail/20260205083156252800",
           "source": "金十数据",
@@ -452,6 +463,17 @@
           "time_info": "09时18分"
         },
         {
+          "title": "英国央行：特朗普关税对英国进口价格构成压力。",
+          "url": "https://wallstreetcn.com/livenews/3050656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
           "title": "美国国务卿鲁比奥：美国总统特使威特科夫和特朗普女婿库什纳将出席有关乌克兰会议的部分议程。",
           "url": "https://flash.jin10.com/detail/20260204233806408800",
           "source": "金十数据",
@@ -469,9 +491,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
+        },
+        {
+          "title": "摩根大通仍认为，美国总统特朗普政府最有可能推行分阶段实施的精炼铜进口关税。",
+          "url": "https://flash.jin10.com/detail/20260205202422263800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         },
         {
           "title": "金十提示：美国总统特朗普将于周四晚7点（北京时间周五8点）发表声明。",
@@ -488,7 +521,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "报道：中财期货在近期白银价格暴跌前做空，获利超过5亿美元",
@@ -498,11 +531,25 @@
             9,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[05时27分 ~ 19时31分]"
+          "appearance_count": 16,
+          "time_info": "[05时27分 ~ 20时42分]"
+        },
+        {
+          "title": "解读白银暴涨暴跌背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E7%99%BD%E9%93%B6%E6%9A%B4%E6%B6%A8%E6%9A%B4%E8%B7%8C%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时50分 ~ 20时42分]"
         },
         {
           "title": "现货白银日内重挫16%",
@@ -515,19 +562,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[12时08分 ~ 17时37分]"
-        },
-        {
-          "title": "解读白银暴涨暴跌背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E7%99%BD%E9%93%B6%E6%9A%B4%E6%B6%A8%E6%9A%B4%E8%B7%8C%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时50分 ~ 19时31分]"
         },
         {
           "title": "白银LOF估值风暴：高溢价狂欢下的补款之痛与行业反思",
@@ -659,6 +693,17 @@
           "time_info": "[03时35分 ~ 04时26分]"
         },
         {
+          "title": "科技股抛售潮暂缓，纳指期货涨0.1%，比特币跌破7万关键心理位，VIX指数飙升7%，白银再度暴跌10%",
+          "url": "https://wallstreetcn.com/articles/3765023",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 2月5日（周四）收盘下跌2.07%报1106.0元/克；<br/>上海黄金交易所白银T+D 2月5日（周四）收盘下跌11.64%报19831.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260205153008660800",
           "source": "金十数据",
@@ -731,7 +776,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -742,7 +787,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -827,7 +872,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
@@ -908,6 +953,20 @@
           "time_info": "[00时38分 ~ 09时18分]"
         },
         {
+          "title": "市值蒸发万亿！美股软件行业空头肆虐 对冲基金年内狂赚240亿美元",
+          "url": "https://www.cls.cn/detail/2281312",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时34分 ~ 20时42分]"
+        },
+        {
           "title": "谷歌母公司Alphabet（GOOGL）美股盘后跌1.69%，该公司分析师电话会已经结束。",
           "url": "https://wallstreetcn.com/livenews/3050135",
           "source": "华尔街见闻-快讯",
@@ -928,20 +987,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
-        },
-        {
-          "title": "市值蒸发万亿！美股软件行业空头肆虐 对冲基金年内狂赚240亿美元",
-          "url": "https://www.cls.cn/detail/2281312",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时34分 ~ 19时31分]"
         },
         {
           "title": "周三（2月4日）美股尾盘，彭博电动汽车价格回报指数涨0.65%，报3533.63点。 该指数全天处于上涨状态，整体呈现出“几”形走势，北京时间14:00-00:00高位震荡，最高在美股盘初达到3561.87点。 成分股宝马收涨3.88%，Ola Electric Mobility Ltd.涨3.6%，意法半导体收涨3.6%，保时捷P911涨3.5%，理想汽车H股收涨3.43%，浙江零跑科技H股收涨2.88%表现第六，智利化工矿业公司（SQM）则跌5.3%，MP材料跌6.2%，文远知行跌7.2%，Solid Power跌9.5%。",
@@ -1067,6 +1112,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "美股科技股抛售蔓延，闪迪跌近 16%，AMD 跌超 17% 创八年多来最大单日跌幅，光伏板块爆发，如何解读？",
+          "url": "https://www.zhihu.com/question/2002675555208803379",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         },
         {
           "title": "金十图示：2026年02月04日（周三）美股热门股票行情一览（美股收盘）",
@@ -1385,6 +1441,70 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "金价巨震之下，水贝难寻金条现货|传真",
+          "url": "https://www.cls.cn/detail/2280847",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 12时08分]"
+        },
+        {
+          "title": "摩根大通：预计今年官方净购金量将达到800吨，仍比2022年前高出70%。 今年央行和投资者的需求足以最终在2026年底将金价推高至每盎司6300美元。 预计近期银价有更高的底部（未来几个季度约为每盎司75-80美元）。 到明年初，银价最终将平均回升至每盎司90美元左右。",
+          "url": "https://wallstreetcn.com/livenews/3050662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "摩根大通表示，今年来自各国央行和投资者的需求足以在2026年底将金价最终推高至每盎司6300美元。",
+          "url": "https://flash.jin10.com/detail/20260205202220477800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
+          "title": "瑞银：黄金和白银在2026年仍有进一步上涨空间。 银价应受益于更高的金价以及近期基本面趋紧。",
+          "url": "https://wallstreetcn.com/livenews/3050644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 4,
       "titles": [
@@ -1395,7 +1515,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -1448,8 +1568,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时17分 ~ 19时31分]"
+          "appearance_count": 13,
+          "time_info": "[09时17分 ~ 20时42分]"
         },
         {
           "title": "“全球供应紧张，惠普等电脑制造商考虑使用中国存储芯片”",
@@ -1468,42 +1588,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时34分 ~ 19时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金价巨震之下，水贝难寻金条现货|传真",
-          "url": "https://www.cls.cn/detail/2280847",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            9,
+            6,
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时38分 ~ 12时08分]"
-        },
-        {
-          "title": "金价波动",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
+          "appearance_count": 3,
+          "time_info": "[18时34分 ~ 20时42分]"
         }
       ]
     },
