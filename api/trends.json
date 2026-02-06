@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T13:48:15.284330+08:00",
-  "total_titles_processed": 1137,
+  "generated_at": "2026-02-06T14:44:24.005037+08:00",
+  "total_titles_processed": 1244,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时17分 ~ 13时48分]"
+          "appearance_count": 7,
+          "time_info": "[09时17分 ~ 14时44分]"
         },
         {
           "title": "日本大选前，特朗普发文支持高市",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时08分 ~ 13时48分]"
+          "appearance_count": 5,
+          "time_info": "[12时08分 ~ 14时44分]"
         },
         {
           "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
@@ -39,6 +39,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时39分 ~ 07时18分]"
+        },
+        {
+          "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时08分 ~ 14时44分]"
         },
         {
           "title": "特朗普下场支持高市：她将赢得选举，下月来白宫",
@@ -122,18 +135,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时25分 ~ 05时22分]"
-        },
-        {
-          "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时08分 ~ 13时48分]"
         },
         {
           "title": "美国白宫：美国总统特朗普与保险公司的会晤将会举行；暂未确定时间。",
@@ -334,6 +335,17 @@
           "time_info": "02时40分"
         },
         {
+          "title": "特朗普：与其延长 不如制定美俄核军控新条约",
+          "url": "https://wallstreetcn.com/livenews/3051154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时44分"
+        },
+        {
           "title": "特朗普：完全支持欧尔班再次担任匈牙利总理",
           "url": "https://flash.jin10.com/detail/20260206021727047800",
           "source": "金十数据",
@@ -447,7 +459,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "解读白银暴涨暴跌背后",
@@ -471,8 +483,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时08分 ~ 13时48分]"
+          "appearance_count": 5,
+          "time_info": "[12时08分 ~ 14时44分]"
         },
         {
           "title": "白银的历史大顶，从来不是“贵出来”的",
@@ -484,8 +496,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时18分 ~ 13时48分]"
+          "appearance_count": 8,
+          "time_info": "[07时18分 ~ 14时44分]"
         },
         {
           "title": "AI恐慌蔓延，就业数据疲软加剧抛售，美三大股指跌超1%，白银暴跌19%，比特币崩跌",
@@ -516,7 +528,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         },
@@ -532,17 +544,6 @@
           "time_info": "09时18分"
         },
         {
-          "title": "现货白银突破74美元/盎司，日内涨4.69%。",
-          "url": "https://wallstreetcn.com/livenews/3051136",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时48分"
-        },
-        {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少122.6吨，当前持仓量为16247.45吨。",
           "url": "https://flash.jin10.com/detail/20260206115756445800",
           "source": "金十数据",
@@ -552,6 +553,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
+        },
+        {
+          "title": "CME“本轮第六次加保证金”，白银重挫一周跌超40%，再现“历史大顶”模式",
+          "url": "https://wallstreetcn.com/articles/3765106",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时08分 ~ 14时44分]"
         },
         {
           "title": "泰国期货交易所：暂停白银在线期货交易",
@@ -589,15 +601,16 @@
           "time_info": "[05时22分 ~ 09时18分]"
         },
         {
-          "title": "CME“本轮第六次加保证金”，白银重挫一周跌超40%，再现“历史大顶”模式",
-          "url": "https://wallstreetcn.com/articles/3765106",
-          "source": "华尔街见闻",
+          "title": "现货白银突破74美元/盎司，日内涨4.69%。",
+          "url": "https://wallstreetcn.com/livenews/3051136",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            1,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时08分 ~ 13时48分]"
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 14时44分]"
         },
         {
           "title": "周四，现货白银一度下跌超过19.87%，在临近结束一天的交易时跌至70.52美元/盎司。",
@@ -711,7 +724,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         },
@@ -760,6 +773,17 @@
           "time_info": "09时18分"
         },
         {
+          "title": "女演员开箱取出100克黄金500克白银",
+          "url": "https://www.toutiao.com/trending/7603351330325086262/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时44分"
+        },
+        {
           "title": "现货白银跌幅扩大至19%，现报71.40美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260206054218676800",
           "source": "金十数据",
@@ -771,6 +795,17 @@
           "time_info": "07时18分"
         },
         {
+          "title": "现货黄金重回4900美元/盎司，日内涨2.5%。 现货白银上破75美元/盎司，日内涨近6%。",
+          "url": "https://wallstreetcn.com/livenews/3051146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时44分"
+        },
+        {
           "title": "现货白银日内暴跌9.00%，现报64.38美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260206081647141800",
           "source": "金十数据",
@@ -780,6 +815,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
+        },
+        {
+          "title": "现货白银重新站上75美元",
+          "url": "https://flash.jin10.com/detail/20260206135944856800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时44分"
         },
         {
           "title": "【现货黄金、白银深V反弹】现货黄金日内涨幅扩大至1%，此前一度跌超2%；现货白银涨超2%，此前一度跌超8%。",
@@ -842,8 +888,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时18分 ~ 13时48分]"
+          "appearance_count": 8,
+          "time_info": "[07时18分 ~ 14时44分]"
         },
         {
           "title": "美股科技股抛售蔓延，闪迪跌近 16%，AMD 跌超 17% 创八年多来最大单日跌幅，光伏板块爆发，如何解读？",
@@ -898,11 +944,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            10
+            10,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时08分 ~ 13时48分]"
+          "appearance_count": 5,
+          "time_info": "[12时08分 ~ 14时44分]"
         },
         {
           "title": "美股、金银、比特币、石油 全崩了",
@@ -1055,7 +1102,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美国伊朗谈判今日举行",
@@ -1066,8 +1113,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时08分 ~ 13时48分]"
+          "appearance_count": 5,
+          "time_info": "[12时08分 ~ 14时44分]"
         },
         {
           "title": "伊朗外交部发言人：伊朗外长阿拉格齐启程前往阿曼马斯喀特，与美国举行核谈判。",
@@ -1088,8 +1135,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时08分 ~ 13时48分]"
+          "appearance_count": 5,
+          "time_info": "[12时08分 ~ 14时44分]"
         },
         {
           "title": "伊朗外长率团赴阿曼，将与美国进行核问题谈判",
@@ -1137,6 +1184,17 @@
           "time_info": "00时39分"
         },
         {
+          "title": "伊朗和美国的谈判略有推迟",
+          "url": "https://flash.jin10.com/detail/20260206140950095800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时44分"
+        },
+        {
           "title": "伊朗外长率团赴阿曼与美国进行核问题谈判",
           "url": "https://flash.jin10.com/detail/20260206025617070800",
           "source": "金十数据",
@@ -1161,8 +1219,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时17分 ~ 13时48分]"
+          "appearance_count": 7,
+          "time_info": "[09时17分 ~ 14时44分]"
         },
         {
           "title": "两年期美债收益率跌超8个基点",
