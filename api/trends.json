@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T14:44:49.389949+08:00",
-  "total_titles_processed": 812,
+  "generated_at": "2026-02-08T15:35:29.167881+08:00",
+  "total_titles_processed": 857,
   "failed_sources": [],
   "trends": [
     {
@@ -70,8 +70,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时20分 ~ 14时44分]"
+          "appearance_count": 17,
+          "time_info": "[00时20分 ~ 15时35分]"
         },
         {
           "title": "特朗普是否参与了爱泼斯坦萝莉岛的犯罪行为？",
@@ -110,6 +110,22 @@
           "time_info": "[00时20分 ~ 06时19分]"
         },
         {
+          "title": "美国联邦通信委员会（FCC）官员Carr谈及总统特朗普力挺Nexstar收购Tegna的交易，宣称：像康卡斯特和迪士尼这样的国家级网络已经聚集了太大的权力。 让我们完成这笔交易，给他们带去真正的竞争。",
+          "url": "https://wallstreetcn.com/livenews/3051751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            3,
+            11,
+            19,
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[05时19分 ~ 15时35分]"
+        },
+        {
           "title": "贝森特和特朗普“表忠心”：澄清强美元政策，重申起诉沃什是玩笑，暗示鲍威尔失职",
           "url": "https://wallstreetcn.com/articles/3765201",
           "source": "华尔街见闻",
@@ -133,20 +149,20 @@
           "time_info": "[00时20分 ~ 09时54分]"
         },
         {
-          "title": "美国联邦通信委员会（FCC）官员Carr谈及总统特朗普力挺Nexstar收购Tegna的交易，宣称：像康卡斯特和迪士尼这样的国家级网络已经聚集了太大的权力。 让我们完成这笔交易，给他们带去真正的竞争。",
-          "url": "https://wallstreetcn.com/livenews/3051751",
+          "title": "特朗普态度“大转变”：支持电视广播巨头Nexstar收购Tegna",
+          "url": "https://wallstreetcn.com/livenews/3051747",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            3,
-            11,
-            19,
-            23,
-            26
+            4,
+            6,
+            14,
+            22,
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时19分 ~ 14时44分]"
+          "appearance_count": 8,
+          "time_info": "[05时19分 ~ 15时35分]"
         },
         {
           "title": "尽管物价上涨 特朗普近来已20次声称通胀得到控制",
@@ -185,22 +201,6 @@
           "time_info": "[00时20分 ~ 07时23分]"
         },
         {
-          "title": "特朗普态度“大转变”：支持电视广播巨头Nexstar收购Tegna",
-          "url": "https://wallstreetcn.com/livenews/3051747",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            6,
-            14,
-            22,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时19分 ~ 14时44分]"
-        },
-        {
           "title": "美国联邦通信委员会（FCC）官员Carr谈及总统特朗普力挺Nexstar收购Tegna的交易，宣称：让我们搞定这宗交易。",
           "url": "https://wallstreetcn.com/livenews/3051751",
           "source": "华尔街见闻-快讯",
@@ -217,11 +217,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时28分 ~ 14时44分]"
+          "appearance_count": 4,
+          "time_info": "[12时28分 ~ 15时35分]"
         },
         {
           "title": "加拿大央行行长：若失去特朗普的CUSMA准入，加拿大经济将面临衰退",
@@ -234,8 +235,34 @@
             22
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时54分 ~ 15时35分]"
+        },
+        {
+          "title": "美国总统特朗普：期待洪都拉斯总统阿斯富拉再次访问美国。",
+          "url": "https://flash.jin10.com/detail/20260208105726564800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            7,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时54分 ~ 14时44分]"
+          "time_info": "[12时28分 ~ 15时35分]"
+        },
+        {
+          "title": "美国总统特朗普：与我的朋友、洪都拉斯总统举行了一次非常重要的会晤。讨论了许多其他问题，包括我们两国之间的投资和贸易。",
+          "url": "https://flash.jin10.com/detail/20260208105717509800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时28分 ~ 15时35分]"
         },
         {
           "title": "特朗普：需要通过竞争来打击散播虚假新闻的电视网络",
@@ -251,39 +278,16 @@
           "time_info": "[09时54分 ~ 14时44分]"
         },
         {
-          "title": "美国总统特朗普：期待洪都拉斯总统阿斯富拉再次访问美国。",
-          "url": "https://flash.jin10.com/detail/20260208105726564800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时28分 ~ 14时44分]"
-        },
-        {
-          "title": "美国总统特朗普：与我的朋友、洪都拉斯总统举行了一次非常重要的会晤。讨论了许多其他问题，包括我们两国之间的投资和贸易。",
-          "url": "https://flash.jin10.com/detail/20260208105717509800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时28分 ~ 14时44分]"
-        },
-        {
           "title": "学者：特朗普羞辱奥巴马引众怒",
           "url": "https://www.toutiao.com/trending/7604317625304223283/",
           "source": "今日头条",
           "ranks": [
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时57分 ~ 14时44分]"
+          "appearance_count": 4,
+          "time_info": "[13时57分 ~ 15时35分]"
         },
         {
           "title": "特朗普拒为种族主义视频道歉",
@@ -300,7 +304,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "信心回暖引发逢低买盘，美股报复性反弹！道指首破5万点，英伟达大涨7%，金银V形上涨，比特币涨11%",
@@ -322,8 +326,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时20分 ~ 14时44分]"
+          "appearance_count": 17,
+          "time_info": "[00时20分 ~ 15时35分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -335,6 +339,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时20分 ~ 06时19分]"
+        },
+        {
+          "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
+          "url": "https://wallstreetcn.com/articles/3765246",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
         }
       ]
     },
@@ -347,11 +362,12 @@
           "url": "https://www.zhihu.com/question/2003305831391785957",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时57分 ~ 14时44分]"
+          "appearance_count": 4,
+          "time_info": "[13时57分 ~ 15时35分]"
         },
         {
           "title": "黄金——资产再配置，金价走向何方？",
@@ -396,8 +412,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时54分 ~ 14时44分]"
+          "appearance_count": 6,
+          "time_info": "[09时54分 ~ 15时35分]"
         }
       ]
     },
