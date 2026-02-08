@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T16:24:31.522967+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2026-02-08T17:24:23.014729+08:00",
+  "total_titles_processed": 982,
   "failed_sources": [],
   "trends": [
     {
@@ -70,8 +70,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时20分 ~ 16时24分]"
+          "appearance_count": 19,
+          "time_info": "[00时20分 ~ 17时24分]"
         },
         {
           "title": "特朗普是否参与了爱泼斯坦萝莉岛的犯罪行为？",
@@ -331,8 +331,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时20分 ~ 16时24分]"
+          "appearance_count": 19,
+          "time_info": "[00时20分 ~ 17时24分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -351,39 +351,53 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时35分 ~ 16时24分]"
+          "appearance_count": 3,
+          "time_info": "[15时35分 ~ 17时24分]"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "伊朗总统：与美国会谈是向前迈出的一步",
           "url": "https://wallstreetcn.com/livenews/3051783",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 17时24分]"
         },
         {
           "title": "伊朗总统：与美国会谈是向前迈出的一步",
           "url": "https://flash.jin10.com/detail/20260208152249026800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 17时24分]"
+        },
+        {
+          "title": "伊朗外长：美国军事施压吓不倒伊朗",
+          "url": "https://wallstreetcn.com/livenews/3051796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时24分"
+          "time_info": "17时24分"
         },
         {
           "title": "伊朗想击沉美国航母 首要问题是什么",
@@ -400,7 +414,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "因金价飙升，意大利冬奥会金牌成史上最昂贵金牌，如何评价这一变化？",
@@ -412,8 +426,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时57分 ~ 16时24分]"
+          "appearance_count": 6,
+          "time_info": "[13时57分 ~ 17时24分]"
         },
         {
           "title": "黄金——资产再配置，金价走向何方？",
@@ -426,12 +440,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时22分 ~ 09时54分]"
+        },
+        {
+          "title": "为什么最近黄金价格波动这么大",
+          "url": "https://www.toutiao.com/trending/7604386572770741796/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         }
       ]
     },
     {
       "keyword_group": "白银",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "2026 年 3 月白银会爆发史诗级「交割战争」吗？",
@@ -441,8 +466,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时54分 ~ 16时24分]"
+          "appearance_count": 8,
+          "time_info": "[09时54分 ~ 17时24分]"
+        },
+        {
+          "title": "国投白银LOF：提示交易价格溢价风险并公布停复牌安排",
+          "url": "https://wallstreetcn.com/livenews/3051811",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         }
       ]
     },
