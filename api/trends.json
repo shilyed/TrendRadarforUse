@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T12:21:01.516262+08:00",
-  "total_titles_processed": 813,
+  "generated_at": "2026-02-09T14:04:03.515996+08:00",
+  "total_titles_processed": 932,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "白银",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "2026 年 3 月白银会爆发史诗级「交割战争」吗？",
@@ -90,15 +90,48 @@
           "time_info": "[12时20分 ~ 12时21分]"
         },
         {
+          "title": "A股贵金属板块午后异动拉升，湖南白银封板涨停，白银有色、兴业银锡、盛达资源、中金黄金、四川黄金、晓程科技等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3052083",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时04分"
+        },
+        {
           "title": "国投白银LOF持续走高，目前涨超7%，此前开盘触及跌停。",
           "url": "https://wallstreetcn.com/livenews/3052029",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
+        },
+        {
+          "title": "现货白银日内大涨5.00%，现报81.72美元/盎司。纽约期银日内暴涨6.00%，现报81.52美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260209123952635800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时04分"
+        },
+        {
+          "title": "现货白银持续走高，现涨逾5%，报81.871美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3052068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时04分"
         },
         {
           "title": "【国投白银LOF打开跌停】国投白银LOF开盘跌停后迅速拉升，现已转为涨跌持平。",
@@ -107,7 +140,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         },
@@ -118,7 +151,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         }
@@ -126,7 +159,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "美国总统特朗普：美国的选举充满舞弊和窃取，已成为全世界的笑柄。",
@@ -187,13 +220,24 @@
           "time_info": "[00时22分 ~ 06时19分]"
         },
         {
+          "title": "特朗普大骂美国冬奥运动员",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%A7%E9%AA%82%E7%BE%8E%E5%9B%BD%E5%86%AC%E5%A5%A5%E8%BF%90%E5%8A%A8%E5%91%98%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时03分 ~ 14时04分]"
+        },
+        {
           "title": "日本首相高市早苗：我由衷感谢美国总统特朗普的暖心之言。",
           "url": "https://flash.jin10.com/detail/20260209115712332800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         },
@@ -245,12 +289,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时20分 ~ 06时19分]"
+        },
+        {
+          "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32551636",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时03分 ~ 14时04分]"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金价巨震下买黄金的人怎么样了",
@@ -265,6 +320,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时26分 ~ 07时24分]"
+        },
+        {
+          "title": "美元走软及抄底买盘推动金价回升至5000美元上方",
+          "url": "https://flash.jin10.com/detail/20260209134001817800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时04分"
         },
         {
           "title": "机构：金价重返5000美元上方 投资者逢低买入",
@@ -284,7 +350,58 @@
           "ranks": [
             27
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "周末要闻汇总：我国成功发射可重复使用试验航天器；半导体行业有望首次迈入万亿美元时代",
+          "url": "https://www.cls.cn/detail/2283882",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 12时21分]"
+        },
+        {
+          "title": "创业板涨3%，CPO暴涨、“易中天”飙升，光伏掀涨停潮，恒科指涨1%，半导体大涨、澜起科技IPO首日涨超50%",
+          "url": "https://wallstreetcn.com/articles/3765271",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时03分 ~ 14时04分]"
+        },
+        {
+          "title": "中国台湾证交所股价指数收高2%，报32404.62点，半导体板块领涨。",
+          "url": "https://wallstreetcn.com/livenews/3052088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时04分"
+        },
+        {
+          "title": "金十图示：2026年02月09日（周一）富时中国A50指数成分股午盘收盘行情一览：银行股走势分化、保险、证券、消费电子、半导体、全线上扬",
+          "url": "https://flash.jin10.com/detail/20260209113302948800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         }
@@ -332,35 +449,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时20分 ~ 06时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "周末要闻汇总：我国成功发射可重复使用试验航天器；半导体行业有望首次迈入万亿美元时代",
-          "url": "https://www.cls.cn/detail/2283882",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时21分 ~ 12时21分]"
-        },
-        {
-          "title": "金十图示：2026年02月09日（周一）富时中国A50指数成分股午盘收盘行情一览：银行股走势分化、保险、证券、消费电子、半导体、全线上扬",
-          "url": "https://flash.jin10.com/detail/20260209113302948800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
         }
       ]
     },
