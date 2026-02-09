@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T15:53:09.278872+08:00",
-  "total_titles_processed": 1057,
+  "generated_at": "2026-02-09T16:41:48.929834+08:00",
+  "total_titles_processed": 1141,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美国总统特朗普：美国的选举充满舞弊和窃取，已成为全世界的笑柄。",
@@ -77,24 +77,13 @@
           "time_info": "[14时03分 ~ 14时04分]"
         },
         {
-          "title": "特朗普称“期待高市实现以实力保障和平的政策”，外交部回应",
-          "url": "https://wallstreetcn.com/livenews/3052163",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时53分"
-        },
-        {
           "title": "印尼总统发言人：总统普拉博沃受邀于2月19日赴美，出席美国总统特朗普和平委员会会议，希望在此次访问期间与美国总统特朗普签署贸易协议。",
           "url": "https://flash.jin10.com/detail/20260209153806428800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
@@ -110,6 +99,18 @@
           "time_info": "12时21分"
         },
         {
+          "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32551636",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时03分 ~ 16时41分]"
+        },
+        {
           "title": "日本首相高市早苗：将于三月会见特朗普期间，深化与美国的经济安全关系，包括稀土供应问题。",
           "url": "https://flash.jin10.com/detail/20260208215651951800",
           "source": "金十数据",
@@ -121,6 +122,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时22分 ~ 04时18分]"
+        },
+        {
+          "title": "特朗普称“期待高市实现以实力保障和平的政策”，外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3052163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 16时41分]"
         },
         {
           "title": "特朗普的财政部长建议：司法部调查与参议院启动凯文·沃什的提名听证会同时推进",
@@ -147,18 +160,6 @@
           "time_info": "[05时20分 ~ 06时19分]"
         },
         {
-          "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32551636",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时03分 ~ 15时53分]"
-        },
-        {
           "title": "如何看待特朗普怒喷第 60 届超级碗中场秀「史上最烂」，因表演中几乎完全没有说英文？",
           "url": "https://www.zhihu.com/question/2004153656694503218",
           "source": "知乎",
@@ -180,6 +181,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时20分 ~ 06时19分]"
+        },
+        {
+          "title": "特朗普批超级碗中场秀是史上最差之一",
+          "url": "https://www.toutiao.com/trending/7604390910096506934/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
         }
       ]
     },
@@ -242,7 +254,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
@@ -349,6 +361,79 @@
       ]
     },
     {
+      "keyword_group": "半导体",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "周末要闻汇总：我国成功发射可重复使用试验航天器；半导体行业有望首次迈入万亿美元时代",
+          "url": "https://www.cls.cn/detail/2283882",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 12时21分]"
+        },
+        {
+          "title": "创业板涨3%，CPO暴涨、“易中天”飙升，光伏掀涨停潮，恒科指涨1%，半导体大涨、澜起科技IPO首日涨超50%",
+          "url": "https://wallstreetcn.com/articles/3765271",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时03分 ~ 15时53分]"
+        },
+        {
+          "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，半导体大涨、澜起科技IPO首日涨超50%",
+          "url": "https://wallstreetcn.com/articles/3765271",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
+        },
+        {
+          "title": "中国台湾证交所股价指数收高2%，报32404.62点，半导体板块领涨。",
+          "url": "https://wallstreetcn.com/livenews/3052088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时04分"
+        },
+        {
+          "title": "金十图示：2026年02月09日（周一）富时中国A50指数成分股午盘收盘行情一览：银行股走势分化、保险、证券、消费电子、半导体、全线上扬",
+          "url": "https://flash.jin10.com/detail/20260209113302948800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "意大利富时MIB指数日内涨幅达1.00%，意法半导体欧股涨4.2%。",
+          "url": "https://flash.jin10.com/detail/20260209160655271800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 4,
       "titles": [
@@ -394,57 +479,6 @@
           "source": "金十数据",
           "ranks": [
             27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "周末要闻汇总：我国成功发射可重复使用试验航天器；半导体行业有望首次迈入万亿美元时代",
-          "url": "https://www.cls.cn/detail/2283882",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时21分 ~ 12时21分]"
-        },
-        {
-          "title": "创业板涨3%，CPO暴涨、“易中天”飙升，光伏掀涨停潮，恒科指涨1%，半导体大涨、澜起科技IPO首日涨超50%",
-          "url": "https://wallstreetcn.com/articles/3765271",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时03分 ~ 15时53分]"
-        },
-        {
-          "title": "中国台湾证交所股价指数收高2%，报32404.62点，半导体板块领涨。",
-          "url": "https://wallstreetcn.com/livenews/3052088",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时04分"
-        },
-        {
-          "title": "金十图示：2026年02月09日（周一）富时中国A50指数成分股午盘收盘行情一览：银行股走势分化、保险、证券、消费电子、半导体、全线上扬",
-          "url": "https://flash.jin10.com/detail/20260209113302948800",
-          "source": "金十数据",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -526,7 +560,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         }
