@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T07:24:05.063611+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2026-02-09T09:23:58.150336+08:00",
+  "total_titles_processed": 637,
   "failed_sources": [],
   "trends": [
     {
@@ -118,7 +118,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "2026 年 3 月白银会爆发史诗级「交割战争」吗？",
@@ -142,7 +142,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -153,9 +153,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 2月9日（周一）早盘盘初上涨4.15%报1123.73元/克；<br/>上海黄金交易所白银T+D 2月9日（周一）早盘盘初上涨6.46%报19300.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260209090124942800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
         },
         {
           "title": "国投白银LOF：提示交易价格溢价风险并公布停复牌安排",
@@ -183,8 +194,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 07时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 09时23分]"
         },
         {
           "title": "高盛交易员警告：美股抛售尚未结束",
@@ -217,7 +228,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "金价巨震下买黄金的人怎么样了",
@@ -232,6 +243,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时26分 ~ 07时24分]"
+        },
+        {
+          "title": "机构：金价重返5000美元上方 投资者逢低买入",
+          "url": "https://flash.jin10.com/detail/20260209081725336800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
         }
       ]
     },
@@ -262,11 +284,12 @@
           "url": "https://www.cls.cn/detail/2283882",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 07时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 09时23分]"
         }
       ]
     }
