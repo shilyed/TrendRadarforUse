@@ -1,12 +1,28 @@
 {
-  "generated_at": "2026-02-10T19:45:02.905391+08:00",
-  "total_titles_processed": 1572,
+  "generated_at": "2026-02-10T20:55:13.272949+08:00",
+  "total_titles_processed": 1676,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
+        {
+          "title": "谷爱凌回应特朗普大骂冬奥运动员",
+          "url": "https://www.toutiao.com/trending/7605068464549744178/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            11,
+            13,
+            14,
+            26,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时27分 ~ 20时55分]"
+        },
         {
           "title": "特朗普再放豪言：我选的美联储掌门沃什 有能力推动美国经济增长15%！",
           "url": "https://www.cls.cn/detail/2285295",
@@ -36,21 +52,6 @@
           "time_info": "[01时45分 ~ 07时31分]"
         },
         {
-          "title": "谷爱凌回应特朗普大骂冬奥运动员",
-          "url": "https://www.toutiao.com/trending/7605068464549744178/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            11,
-            13,
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时27分 ~ 19时45分]"
-        },
-        {
           "title": "特朗普：我犯了大错",
           "url": "https://news.ifeng.com/c/8qctqBdiVbv",
           "source": "凤凰网",
@@ -60,6 +61,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时27分 ~ 14时08分]"
+        },
+        {
+          "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
+          "url": "https://news.ifeng.com/c/8qdLiMlCmog",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时54分 ~ 20时55分]"
         },
         {
           "title": "据华尔街日报：特朗普政府官员最近几周向国会共和党人施压，要求将投资者禁令作为修正案纳入目前正在众议院和参议院审议的两项主要住房法案中。",
@@ -151,17 +163,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时46分 ~ 14时08分]"
-        },
-        {
-          "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
-          "url": "https://news.ifeng.com/c/8qdLiMlCmog",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时54分 ~ 19时45分]"
         },
         {
           "title": "加拿大谴责特朗普阻挠美加跨国大桥项目",
@@ -288,6 +289,17 @@
           "time_info": "07时31分"
         },
         {
+          "title": "美国贸易代表格里尔：美国与加拿大的谈判主要针对跨国大桥议题。特朗普总统对这一问题存在合理关切。",
+          "url": "https://flash.jin10.com/detail/20260210201654942800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        },
+        {
           "title": "美媒：特朗普称首个任期内在美联储主席人选决策上“犯了大错”",
           "url": "https://wallstreetcn.com/livenews/3052671",
           "source": "华尔街见闻-快讯",
@@ -368,7 +380,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -379,8 +391,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时46分 ~ 19时45分]"
+          "appearance_count": 12,
+          "time_info": "[09时46分 ~ 20时55分]"
         },
         {
           "title": "美股三大期指盘前集体走低 美光跌3%诺和诺德暴涨 | 今夜看点",
@@ -492,6 +504,17 @@
           "time_info": "[06时29分 ~ 07时31分]"
         },
         {
+          "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2286272",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
           "title": "周一（2月9日）美股尾盘，彭博电动汽车价格回报指数涨2.11%，报3593.84点，整体持续走高。 成分股中，欧股意法半导体收涨9.76%，阿内卡矿业股份涨4.8%，中创新航科技集团H股收涨4.81%，蔚来集团H股则收跌0.51%，雅迪集团H股收跌1.56%，智利化工矿业公司（SQM）跌1.6%。",
           "url": "https://wallstreetcn.com/livenews/3052510",
           "source": "华尔街见闻-快讯",
@@ -525,6 +548,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时45分 ~ 02时47分]"
+        },
+        {
+          "title": "可口可乐第四季度净营收118亿美元，市场预估120.3亿美元。 第四季度可比每股收益0.58美元，市场预估0.57美元。 预计2026年资本支出22亿美元，市场预估23.1亿美元。 可口可乐美股盘前一度跌超2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3053030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         },
         {
           "title": "金十图示：2026年02月09日（周一）美股热门股票行情一览（美股盘中）",
@@ -577,7 +611,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
         },
@@ -591,6 +625,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
+        },
+        {
+          "title": "法拉利预计2026年调整后EBITDA至少为29.3亿欧元，市场预期为29.1亿欧元。 第四季度EBITDA为7亿欧元，市场预期为6.62亿欧元。 第四季度净利润为3.81亿欧元，市场预期为3.83亿欧元。 第四季度稀释后每股收益为2.14欧元，市场预期为2.13欧元。 第四季度营收为18亿欧元，市场预期为17.7亿欧元。 第四季度交付量为3,152辆，市场预期为3,262辆。 法拉利美股盘前一度涨超9%。",
+          "url": "https://wallstreetcn.com/livenews/3053021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         },
         {
           "title": "汇丰策略师未见美股抛压持续，看好周期性板块",
@@ -607,7 +652,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "科技股反弹提振市场，标普逼近历史高位，微软反弹3%，黄金重回5000美元，白银涨超7%",
@@ -676,6 +721,19 @@
           "time_info": "15时55分"
         },
         {
+          "title": "年会中黄金熔炼后变白银 公司喊冤",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E4%BC%9A%E4%B8%AD%E9%BB%84%E9%87%91%E7%86%94%E7%82%BC%E5%90%8E%E5%8F%98%E7%99%BD%E9%93%B6+%E5%85%AC%E5%8F%B8%E5%96%8A%E5%86%A4",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时47分 ~ 20时55分]"
+        },
+        {
           "title": "国投白银LOF：本基金将于2026年2月11日开市起至当日10:30停牌，自2026年2月11日10:30复牌，停牌期间本基金赎回业务照常办理。",
           "url": "https://wallstreetcn.com/livenews/3052967",
           "source": "华尔街见闻-快讯",
@@ -685,18 +743,6 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时47分 ~ 19时45分]"
-        },
-        {
-          "title": "年会中黄金熔炼后变白银 公司喊冤",
-          "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E4%BC%9A%E4%B8%AD%E9%BB%84%E9%87%91%E7%86%94%E7%82%BC%E5%90%8E%E5%8F%98%E7%99%BD%E9%93%B6+%E5%85%AC%E5%8F%B8%E5%96%8A%E5%86%A4",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
           "time_info": "[18时47分 ~ 19时45分]"
         },
         {
@@ -757,6 +803,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时45分 ~ 02时47分]"
+        },
+        {
+          "title": "女子年会中4克黄金熔后变白银",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B9%B4%E4%BC%9A%E4%B8%AD4%E5%85%8B%E9%BB%84%E9%87%91%E7%86%94%E5%90%8E%E5%8F%98%E7%99%BD%E9%93%B6%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 2月10日（周二）早盘盘初上涨0.26%报1119.86元/克；<br/>上海黄金交易所白银T+D 2月10日（周二）早盘盘初上涨0.69%报19306.0元/千克。",
@@ -837,11 +894,12 @@
           "ranks": [
             20,
             18,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时42分 ~ 19时45分]"
+          "appearance_count": 6,
+          "time_info": "[16时42分 ~ 20时55分]"
         },
         {
           "title": "法巴银行：金价年内有望涨至6000美元 涨势合乎逻辑",
@@ -973,6 +1031,45 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "内塔尼亚胡赴美 伊朗呼吁美国不应受其影响",
+          "url": "https://wallstreetcn.com/livenews/3053043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        },
+        {
+          "title": "伊朗外交部：美国官员有责任不受以色列方面压力的影响，不能让他人代表美国做出外交政策方面的决策。",
+          "url": "https://flash.jin10.com/detail/20260210155550497800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
+          "title": "在美方建议悬挂美国国旗的船只尽可能远离伊朗后，布伦特原油期货上涨逾1美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260210003843105800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        }
+      ]
+    },
+    {
       "keyword_group": "有色",
       "match_count": 3,
       "titles": [
@@ -1040,34 +1137,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时41分 ~ 06时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "伊朗外交部：美国官员有责任不受以色列方面压力的影响，不能让他人代表美国做出外交政策方面的决策。",
-          "url": "https://flash.jin10.com/detail/20260210155550497800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
-          "title": "在美方建议悬挂美国国旗的船只尽可能远离伊朗后，布伦特原油期货上涨逾1美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260210003843105800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时45分"
         }
       ]
     },
