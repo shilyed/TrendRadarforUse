@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T06:24:51.937762+08:00",
-  "total_titles_processed": 675,
+  "generated_at": "2026-02-13T07:22:35.221815+08:00",
+  "total_titles_processed": 710,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 06时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时50分 ~ 07时22分]"
         },
         {
           "title": "特朗普将于4月初访华？外交部回应",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 06时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时50分 ~ 07时22分]"
         },
         {
           "title": "中方回应特朗普或将4月访华",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 06时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时50分 ~ 07时22分]"
         },
         {
           "title": "春节前，中国工厂忙赶工，“仿佛特朗普关税不存在”",
@@ -50,8 +50,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 06时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时50分 ~ 07时22分]"
         },
         {
           "title": "美国总统特朗普：环保署废除了美国气候监管的基础，此举将消除1.3 万亿美元的监管成本。",
@@ -250,6 +250,18 @@
           "time_info": "[03时46分 ~ 04时27分]"
         },
         {
+          "title": "特朗普希望美伊“一个月左右”达成协议",
+          "url": "https://wallstreetcn.com/livenews/3054744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时22分]"
+        },
+        {
           "title": "美国总统特朗普：必须与伊朗达成一份协议。 “只要我喜欢”，就会与伊朗对话。 如果伊朗不达成协议，对他们来说将是非常痛苦的。 与伊朗的协议最终取决于我。",
           "url": "https://wallstreetcn.com/livenews/3054693",
           "source": "华尔街见闻-快讯",
@@ -403,17 +415,6 @@
           "time_info": "02时52分"
         },
         {
-          "title": "特朗普希望美伊“一个月左右”达成协议",
-          "url": "https://wallstreetcn.com/livenews/3054744",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
           "title": "美国官员：美国总统特朗普将于下周在首次和平委员会会议上宣布一项针对加沙的数十亿美元资助计划。",
           "url": "https://flash.jin10.com/detail/20260213023254034800",
           "source": "金十数据",
@@ -434,6 +435,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
+        },
+        {
+          "title": "美国白宫：煤炭让美国保持灯火通明。特朗普已经结束了激进左翼对煤炭行业的围剿，他正让煤炭行业以更强的姿态回归。",
+          "url": "https://flash.jin10.com/detail/20260213064914521800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         },
         {
           "title": "特朗普：美国“必须”与伊朗达成协议 否则局势将“非常严重”",
@@ -560,8 +572,21 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "存储概念股盘前延续涨势 美股三大期指小幅走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2288812",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时50分 ~ 07时22分]"
+        },
         {
           "title": "CPI前夕美股高开低走，盘中标普纳指跌超1%、思科跌超10%，白银跳水超7%",
           "url": "https://wallstreetcn.com/articles/3765553",
@@ -572,18 +597,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时53分 ~ 02时52分]"
-        },
-        {
-          "title": "存储概念股盘前延续涨势 美股三大期指小幅走高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2288812",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 06时24分]"
         },
         {
           "title": "美国CPI前夕，美股指盘中转跌，盘中纳指跌超1%、思科跌超10%",
@@ -597,15 +610,26 @@
           "time_info": "00时50分"
         },
         {
-          "title": "（美股）费城金银指数收跌7.12%，报398.20点。 （全球时段）纽约证交所ARCA金矿开采商指数跌5.55%，报2853.94点。 （美股）原材料指数收跌3.64%，（美股）金属与矿业指数收跌3.96%。",
-          "url": "https://wallstreetcn.com/livenews/3054752",
+          "title": "美股存储芯片指数收涨不到1.4%",
+          "url": "https://wallstreetcn.com/livenews/3054760",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时24分"
+          "time_info": "07时22分"
+        },
+        {
+          "title": "美股收盘：AI颠覆性担忧发酵 三大指数均跌超1%",
+          "url": "https://www.cls.cn/detail/2289051",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         },
         {
           "title": "金十图示：2026年02月12日（周四）美股热门股票行情一览（美股收盘）",
@@ -656,6 +680,31 @@
           "time_info": "[05时27分 ~ 06时24分]"
         },
         {
+          "title": "（美股）费城金银指数收跌7.12%，报398.20点。 （全球时段）纽约证交所ARCA金矿开采商指数跌5.55%，报2853.94点。 （美股）原材料指数收跌3.64%，（美股）金属与矿业指数收跌3.96%。",
+          "url": "https://wallstreetcn.com/livenews/3054752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时22分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌3.00%，报7599.35点，美股盘初持续走低，北京时间00:00过后持续低位窄幅震荡。 成分股。 热门中概股里，腾讯音乐初步收跌10%，携程跌6%，贝壳跌5.8%，B站、百度、阿特斯、百胜中国跌超4%，阿里跌3.4%，亚朵涨1.2%，世纪互联涨3.7%。 ETF中，中概互联网指数ETF（KWEB）收跌3.84%，中国科技指数ETF（CQQQ）收跌2.48%。 德银嘉实沪深300指数ETF（ASHR）收跌0.56%，XtrackersHarvest中证50（ASHS）收涨0.16%。",
+          "url": "https://wallstreetcn.com/livenews/3054725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时27分 ~ 07时22分]"
+        },
+        {
           "title": "AI引发的资本市场大溃逃 美股商业地产遭遇“黑色星期四”",
           "url": "https://flash.jin10.com/detail/20260213034826757800",
           "source": "金十数据",
@@ -666,18 +715,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时27分 ~ 05时27分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌3.00%，报7599.35点，美股盘初持续走低，北京时间00:00过后持续低位窄幅震荡。 成分股。 热门中概股里，腾讯音乐初步收跌10%，携程跌6%，贝壳跌5.8%，B站、百度、阿特斯、百胜中国跌超4%，阿里跌3.4%，亚朵涨1.2%，世纪互联涨3.7%。 ETF中，中概互联网指数ETF（KWEB）收跌3.84%，中国科技指数ETF（CQQQ）收跌2.48%。 德银嘉实沪深300指数ETF（ASHR）收跌0.56%，XtrackersHarvest中证50（ASHS）收涨0.16%。",
-          "url": "https://wallstreetcn.com/livenews/3054725",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时27分 ~ 06时24分]"
         },
         {
           "title": "周四（2月12日）美股尾盘，彭博电动汽车价格回报指数跌0.69%，报3636.68点。 美股盘初刷新日高至3697.22点——亚太盘初以来持续交投于3690点附近，随后持续下挫，00:00过后持续交投于3640点附近。",
@@ -692,6 +729,42 @@
           "time_info": "[05时27分 ~ 06时24分]"
         },
         {
+          "title": "黄金ETF收跌将近3.5%，和布油基金领跌美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3054740",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时22分]"
+        },
+        {
+          "title": "网络股指数ETF收跌超3.5%，领跌美股行业ETF，标普科技板块跌超2.6%",
+          "url": "https://wallstreetcn.com/livenews/3054739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时22分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜苹果创4月份以来最差单日表现",
+          "url": "https://wallstreetcn.com/livenews/3054738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时22分]"
+        },
+        {
           "title": "金十图示：2026年02月12日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260213013248023800",
           "source": "金十数据",
@@ -703,28 +776,6 @@
           "time_info": "01时53分"
         },
         {
-          "title": "黄金ETF收跌将近3.5%，和布油基金领跌美股大类资产类ETF",
-          "url": "https://wallstreetcn.com/livenews/3054740",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
-          "title": "网络股指数ETF收跌超3.5%，领跌美股行业ETF，标普科技板块跌超2.6%",
-          "url": "https://wallstreetcn.com/livenews/3054739",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
           "title": "金十图示：2026年02月12日（周四）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260213013021476800",
           "source": "金十数据",
@@ -734,17 +785,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜苹果创4月份以来最差单日表现",
-          "url": "https://wallstreetcn.com/livenews/3054738",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
         },
         {
           "title": "美股罗素3000卡车运输指数重挫7%",
@@ -783,7 +823,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "CPI前AI恐慌又袭，盘中标普跌超1%、思科跌超10%、物流股大跌，白银跳水超7%",
@@ -797,15 +837,51 @@
           "time_info": "[03时46分 ~ 06时24分]"
         },
         {
+          "title": "现货黄金低开30美元，失守4890美元/盎司，日内跌幅0.68%。现货白银日内跌超1.00%，现报74.24美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260213070111189800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
           "title": "白银跌约11%，铂族贵金属和纽约铜也在00:00前后跳水",
           "url": "https://wallstreetcn.com/livenews/3054751",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时22分]"
+        },
+        {
+          "title": "盛宝银行大宗商品策略师Ole Hansen：对黄金和白银而言，相当大一部分交易仍由情绪和动能驱动。在这样的日子里，它们会很吃力。",
+          "url": "https://wallstreetcn.com/livenews/3054747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时22分]"
+        },
+        {
+          "title": "黄金和白银突遭抛售，股市大跌引发了算法卖盘",
+          "url": "https://wallstreetcn.com/livenews/3054745",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时22分]"
         },
         {
           "title": "现货白银日内跌幅达10.0%，报75.59美元/盎司。",
@@ -819,26 +895,15 @@
           "time_info": "00时50分"
         },
         {
-          "title": "盛宝银行大宗商品策略师Ole Hansen：对黄金和白银而言，相当大一部分交易仍由情绪和动能驱动。在这样的日子里，它们会很吃力。",
-          "url": "https://wallstreetcn.com/livenews/3054747",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
-          "title": "黄金和白银突遭抛售，股市大跌引发了算法卖盘",
-          "url": "https://wallstreetcn.com/livenews/3054745",
-          "source": "华尔街见闻-快讯",
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少62吨，当前持仓量为16174.18吨。欢迎点击查看数据中心…",
+          "url": "https://flash.jin10.com/detail/20260213065303973800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时24分"
+          "time_info": "07时22分"
         },
         {
           "title": "现货白银日内跌幅达8.5%，报76.88美元/盎司。",
@@ -920,6 +985,56 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
+          "url": "https://wallstreetcn.com/articles/3765486",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时50分 ~ 07时22分]"
+        },
+        {
+          "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，贵金属遭流动性挤压，黄金失守5000美元，白银跳水11%",
+          "url": "https://wallstreetcn.com/articles/3765553",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "AI寒流来袭：全球风险资产撤退 美债成避风港",
+          "url": "https://flash.jin10.com/detail/20260213065702198800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "30年期美债收益率跌8个基点",
+          "url": "https://wallstreetcn.com/livenews/3054714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "半导体",
       "match_count": 4,
       "titles": [
@@ -984,22 +1099,24 @@
             13,
             14,
             11,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 06时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时50分 ~ 07时22分]"
         },
         {
           "title": "金价跌超3%",
           "url": "https://wallstreetcn.com/livenews/3054743",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时22分]"
         },
         {
           "title": "分析师：金价失守5000美元引发连锁抛售",
@@ -1011,34 +1128,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
-          "url": "https://wallstreetcn.com/articles/3765486",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 06时24分]"
-        },
-        {
-          "title": "30年期美债收益率跌8个基点",
-          "url": "https://wallstreetcn.com/livenews/3054714",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时27分"
         }
       ]
     },
