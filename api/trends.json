@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T07:25:34.790012+08:00",
-  "total_titles_processed": 687,
+  "generated_at": "2026-02-12T09:23:48.165000+08:00",
+  "total_titles_processed": 854,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "特朗普：伊朗希望达成协议，不然太蠢了",
@@ -19,6 +19,20 @@
           "time_info": "[00时57分 ~ 07时25分]"
         },
         {
+          "title": "油价日内涨超2%，报道：特朗普私下考虑退出《美墨加协定》",
+          "url": "https://wallstreetcn.com/articles/3765521",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时54分 ~ 09时23分]"
+        },
+        {
           "title": "特朗普称「若美伊谈判失败，或向中东再派一支航母打击群」，美伊会走向冲突吗？",
           "url": "https://www.zhihu.com/question/2004862099634016476",
           "source": "知乎",
@@ -29,19 +43,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时57分 ~ 07时25分]"
-        },
-        {
-          "title": "油价日内涨超2%，报道：特朗普私下考虑退出《美墨加协定》",
-          "url": "https://wallstreetcn.com/articles/3765521",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时54分 ~ 07时25分]"
         },
         {
           "title": "以色列宣布总理内塔尼亚胡与美国总统特朗普会面的情况：双方同意继续紧密合作。",
@@ -74,7 +75,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -367,7 +368,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -425,6 +426,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "特朗普关税政策正迎来新的挑战",
+          "url": "https://www.toutiao.com/trending/7605755745048464905/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
         },
         {
           "title": "以色列总理内塔尼亚胡抵达白宫与特朗普就伊朗问题举行会谈。",
@@ -566,6 +578,19 @@
           "time_info": "[00时57分 ~ 07时25分]"
         },
         {
+          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3765455",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 09时23分]"
+        },
+        {
           "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
           "url": "https://wallstreetcn.com/articles/3765438",
           "source": "华尔街见闻",
@@ -576,18 +601,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时57分 ~ 05时28分]"
-        },
-        {
-          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3765455",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 07时25分]"
         },
         {
           "title": "金十图示：2026年02月11日（周三）美股热门股票行情一览（美股盘中）",
@@ -618,7 +631,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -651,11 +664,12 @@
           "url": "https://www.cls.cn/detail/2287796",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 09时23分]"
         },
         {
           "title": "生物技术公司Viking Therapeutics股价在美股盘后交易中上涨9.1%。 该公司宣布，计划在今年第三季度将其口服肥胖症治疗药物VK2735推向3期临床试验。 尽管第四季度亏损超预期（主要受研发支出激增驱动），但其口服药物的进度优势抵消了财务压力。",
@@ -664,9 +678,93 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 2月11日（周三）晚盘收盘上涨0.31%报1127.5元/克；<br/>上海黄金交易所白银T+D 2月11日（周三）晚盘收盘上涨0.77%报19760.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260212023228861800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 2月12日（周四）早盘盘初下跌0.07%报1123.16元/克；<br/>上海黄金交易所白银T+D 2月12日（周四）早盘盘初上涨0.31%报19669.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260212090109519800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
+        {
+          "title": "周三（2月11日）纽约尾盘，现货白银涨4.20%，报84.2080美元/盎司，亚太盘初以来持续走高，北京时间20:00刷新日高至86.3058美元。 COMEX白银期货涨4.42%，报83.935美元/盎司。 COMEX铜期货涨1.27%，报5.9885美元/磅。 现货铂金涨2.48%，现货钯金涨0.61%。",
+          "url": "https://wallstreetcn.com/livenews/3053982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 07时25分]"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加19.73吨，当前持仓量为16236.18吨。欢迎点击查看数据中心…",
+          "url": "https://flash.jin10.com/detail/20260212064835855800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "黄金白银直线下跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E7%9B%B4%E7%BA%BF%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
+        {
+          "title": "现货白银回落至82美元/盎司下方，日内跌2.75%。",
+          "url": "https://flash.jin10.com/detail/20260212080110343800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
+        {
+          "title": "现货白银回落至83美元/盎司下方，日内跌1.60%。",
+          "url": "https://flash.jin10.com/detail/20260212075959110800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
         }
       ]
     },
@@ -766,11 +864,12 @@
           "url": "https://wallstreetcn.com/articles/3765486",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 09时23分]"
         },
         {
           "title": "非农就业意外强劲，美股指集体高开，标普500创新高，美元指数短线走高，美债承压，黄金涨幅收窄",
@@ -806,46 +905,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "上海黄金交易所黄金T+D 2月11日（周三）晚盘收盘上涨0.31%报1127.5元/克；<br/>上海黄金交易所白银T+D 2月11日（周三）晚盘收盘上涨0.77%报19760.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260212023228861800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "周三（2月11日）纽约尾盘，现货白银涨4.20%，报84.2080美元/盎司，亚太盘初以来持续走高，北京时间20:00刷新日高至86.3058美元。 COMEX白银期货涨4.42%，报83.935美元/盎司。 COMEX铜期货涨1.27%，报5.9885美元/磅。 现货铂金涨2.48%，现货钯金涨0.61%。",
-          "url": "https://wallstreetcn.com/livenews/3053982",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时23分 ~ 07时25分]"
-        },
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加19.73吨，当前持仓量为16236.18吨。欢迎点击查看数据中心…",
-          "url": "https://flash.jin10.com/detail/20260212064835855800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时25分"
         }
       ]
     },
