@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-02-14T07:24:18.989848+08:00",
-  "total_titles_processed": 589,
+  "generated_at": "2026-02-14T09:18:33.874234+08:00",
+  "total_titles_processed": 737,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 55,
       "titles": [
-        {
-          "title": "特朗普：泽连斯基必须行动起来，否则将错失好机会",
-          "url": "https://news.ifeng.com/c/8qis4CFCUkf",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时29分 ~ 07时24分]"
-        },
         {
           "title": "中方回应特朗普或将4月访华",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%864%E6%9C%88%E8%AE%BF%E5%8D%8E",
@@ -27,11 +16,24 @@
             16,
             20,
             19,
-            22
+            22,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 07时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 09时18分]"
+        },
+        {
+          "title": "特朗普：泽连斯基必须行动起来，否则将错失好机会",
+          "url": "https://news.ifeng.com/c/8qis4CFCUkf",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时29分 ~ 09时18分]"
         },
         {
           "title": "文件显示，美国纽约州和新泽西州在特朗普政府尚未解冻“Gateway”项目资金后，已寻求举行法院听证会。",
@@ -78,8 +80,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时39分 ~ 07时24分]"
+          "appearance_count": 7,
+          "time_info": "[03时39分 ~ 09时18分]"
         },
         {
           "title": "特朗普将访问委内瑞拉",
@@ -89,8 +91,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时29分 ~ 07时24分]"
+          "appearance_count": 6,
+          "time_info": "[04时29分 ~ 09时18分]"
         },
         {
           "title": "【特朗普称将访问委内瑞拉】记者13日获悉，美国总统特朗普在接受媒体采访时被问及是否会访问委内瑞拉，他回应称：“我将访问委内瑞拉。”不过，他未提供任何进一步细节，包括具体时间或行程安排。（总台央视）",
@@ -375,6 +377,17 @@
           "time_info": "01时39分"
         },
         {
+          "title": "特朗普证实美军将向中东派第二艘航母",
+          "url": "https://news.ifeng.com/c/8qj2ZhXi0EY",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
           "title": "美国总统特朗普：（谈委内瑞拉）我们关系非常好。",
           "url": "https://flash.jin10.com/detail/20260214005802211800",
           "source": "金十数据",
@@ -441,6 +454,17 @@
           "time_info": "01时39分"
         },
         {
+          "title": "美国总统特朗普：无论国会是否批准，中期选举都将实行选民身份认证制度。",
+          "url": "https://flash.jin10.com/detail/20260214082157346800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
           "title": "美国总统特朗普称赞今日公布的良好经济数据。",
           "url": "https://flash.jin10.com/detail/20260214005310841800",
           "source": "金十数据",
@@ -494,6 +518,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "赫尔佐格回击特朗普：我才是以色列总统",
+          "url": "https://wallstreetcn.com/livenews/3055398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "美国总统特朗普：我会访问委内瑞拉，但还没决定具体时间。",
@@ -620,7 +655,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "黄金一度跌超4%、白银暴跌11%，美股大跌引爆算法交易贵金属卖盘？",
@@ -632,6 +667,32 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时37分 ~ 06时26分]"
+        },
+        {
+          "title": "美CPI数据即将公布 美股期指盘前集体走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2289929",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 09时18分]"
+        },
+        {
+          "title": "美股脆弱之际，今晚CPI恐现“鹰派意外”",
+          "url": "https://wallstreetcn.com/articles/3765660",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 09时18分]"
         },
         {
           "title": "美股极其脆弱！从SaaS、PE到保险、物业甚至物流“轮流大跌”，高盛交易员“疲惫且震惊”",
@@ -646,36 +707,12 @@
           "time_info": "[00时37分 ~ 07时24分]"
         },
         {
-          "title": "美CPI数据即将公布 美股期指盘前集体走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2289929",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 07时24分]"
-        },
-        {
           "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
           "url": "https://wallstreetcn.com/articles/3765624",
           "source": "华尔街见闻",
           "ranks": [
             6,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 07时24分]"
-        },
-        {
-          "title": "美股脆弱之际，今晚CPI恐现“鹰派意外”",
-          "url": "https://wallstreetcn.com/articles/3765660",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -703,6 +740,30 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时37分 ~ 06时26分]"
+        },
+        {
+          "title": "美股收盘：通胀降温难抵AI忧虑 三大指数周线齐跌",
+          "url": "https://www.cls.cn/detail/2290109",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时24分 ~ 09时18分]"
+        },
+        {
+          "title": "周五（2月13日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报6.9012元，较周四纽约尾盘跌31点，日内整体交投于6.8973-6.9109元区间。 本周，离岸人民币累计上涨大约290点，涨幅大约0.4%，2月12日美股盘前曾涨至6.8912元。",
+          "url": "https://wallstreetcn.com/livenews/3055388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时24分 ~ 09时18分]"
         },
         {
           "title": "公用事业ETF收跌超2.7%，领跌美股行业ETF",
@@ -741,28 +802,6 @@
           "time_info": "[06时26分 ~ 07时24分]"
         },
         {
-          "title": "周五（2月13日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报6.9012元，较周四纽约尾盘跌31点，日内整体交投于6.8973-6.9109元区间。 本周，离岸人民币累计上涨大约290点，涨幅大约0.4%，2月12日美股盘前曾涨至6.8912元。",
-          "url": "https://wallstreetcn.com/livenews/3055388",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时24分"
-        },
-        {
-          "title": "美股收盘：通胀降温难抵AI忧虑 三大指数周线齐跌",
-          "url": "https://www.cls.cn/detail/2290109",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时24分"
-        },
-        {
           "title": "中概指数在美股早盘实现V形反转",
           "url": "https://wallstreetcn.com/livenews/3055280",
           "source": "华尔街见闻-快讯",
@@ -772,6 +811,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "美股周五收盘，道指收涨0.1%，标普500指数涨0.05%，纳指跌0.22%。大型科技股涨跌不一 ，苹果(AAPL.O)跌2.27%，英伟达(NVDA.O)跌2.21%，闪迪(SNDK.O)跌0.59%，甲骨文(ORCL.N)涨2.34%，高通(QCOM.O)涨1.61%。",
+          "url": "https://flash.jin10.com/detail/20260214081632273800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "金十图示：2026年02月13日（周五）美股热门股票行情一览（美股盘中）",
@@ -810,7 +860,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "【焦点复盘】沪指低开低走失守4100点，军工、半导体设备板块逆势活跃",
@@ -822,8 +872,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 07时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 09时18分]"
         },
         {
           "title": "商务部回应安世半导体案裁决结果",
@@ -878,22 +928,35 @@
           "ranks": [
             15,
             12,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时39分 ~ 07时24分]"
+          "appearance_count": 7,
+          "time_info": "[03时39分 ~ 09时18分]"
         },
         {
           "title": "荷公布安世半导体案裁决结果，商务部回应",
           "url": "https://www.cls.cn/detail/2289906",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 06时26分]"
+          "appearance_count": 3,
+          "time_info": "[05时28分 ~ 09时18分]"
+        },
+        {
+          "title": "沪指失守4100点，半导体逆势走强，贵金属、海运调整，恒指跌1%，智谱狂飙超20%创历史新高，沪银大跌7%",
+          "url": "https://wallstreetcn.com/articles/3765643",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "标普500指数收涨3.41点，涨幅0.05%，报6836.17点。 道琼斯工业平均指数收涨48.95点，涨幅0.10%，报49500.93点。 纳斯达克综合指数（纳指）收跌50.477点，跌幅0.22%，报22546.671点。 纳斯达克100指数收涨45.12点，涨幅0.18%，报24732.732点。 纳斯达克生物科技指数收涨0.97%，报5917.24点。 费城半导体指数收涨0.66%，报8137.859点。 费城证交所KBW银行指数收涨0.29%，报166.39点。 道琼斯KBW地区银行指数收涨0.69%，报137.88点。",
@@ -921,7 +984,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
@@ -933,6 +996,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时37分 ~ 07时24分]"
+        },
+        {
+          "title": "CPI温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债转涨，黄金重上5000关口",
+          "url": "https://wallstreetcn.com/articles/3765664",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "两年期美债收益率在美国CPI通胀数据发布日创2022年以来新低，中长期收益率本周跌约16个基点",
@@ -954,9 +1028,38 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "现货白银周五涨约3%",
+          "url": "https://wallstreetcn.com/livenews/3055384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时24分]"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少132.45吨，当前持仓量为16041.73吨。欢迎点击查看数据中心...",
+          "url": "https://flash.jin10.com/detail/20260214084312521800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         }
       ]
     },
@@ -994,24 +1097,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时30分 ~ 06时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "现货白银周五涨约3%",
-          "url": "https://wallstreetcn.com/livenews/3055384",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时26分 ~ 07时24分]"
         }
       ]
     }
