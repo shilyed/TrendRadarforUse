@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-14T12:04:23.652028+08:00",
-  "total_titles_processed": 903,
+  "generated_at": "2026-02-14T13:40:50.062321+08:00",
+  "total_titles_processed": 993,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 60,
       "titles": [
         {
           "title": "中方回应特朗普或将4月访华",
@@ -21,8 +21,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时37分 ~ 12时04分]"
+          "appearance_count": 12,
+          "time_info": "[00时37分 ~ 13时40分]"
         },
         {
           "title": "特朗普：泽连斯基必须行动起来，否则将错失好机会",
@@ -34,8 +34,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时29分 ~ 12时04分]"
+          "appearance_count": 8,
+          "time_info": "[04时29分 ~ 13时40分]"
         },
         {
           "title": "特朗普将访问委内瑞拉",
@@ -46,8 +46,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时29分 ~ 12时04分]"
+          "appearance_count": 8,
+          "time_info": "[04时29分 ~ 13时40分]"
         },
         {
           "title": "文件显示，美国纽约州和新泽西州在特朗普政府尚未解冻“Gateway”项目资金后，已寻求举行法院听证会。",
@@ -247,6 +247,18 @@
           "time_info": "[02时36分 ~ 03时39分]"
         },
         {
+          "title": "特朗普证实美军将向中东派第二艘航母",
+          "url": "https://news.ifeng.com/c/8qj2ZhXi0EY",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时18分 ~ 13时40分]"
+        },
+        {
           "title": "美国总统特朗普宣扬股市表现和通胀数据。",
           "url": "https://wallstreetcn.com/livenews/3055338",
           "source": "华尔街见闻-快讯",
@@ -286,16 +298,16 @@
           "time_info": "[03时39分 ~ 05时28分]"
         },
         {
-          "title": "特朗普证实美军将向中东派第二艘航母",
-          "url": "https://news.ifeng.com/c/8qj2ZhXi0EY",
-          "source": "凤凰网",
+          "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
+          "url": "https://www.cls.cn/detail/2290201",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            9
+            13,
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时18分 ~ 12时04分]"
+          "time_info": "[12时04分 ~ 13时40分]"
         },
         {
           "title": "美国总统特朗普：美国是北约内强大的一部分。",
@@ -308,6 +320,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时39分 ~ 02时36分]"
+        },
+        {
+          "title": "特朗普称美国将向中东增派第二艘航母 施压伊朗达成协议",
+          "url": "https://www.cls.cn/detail/2290097",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时04分 ~ 13时40分]"
         },
         {
           "title": "美国总统特朗普：（被攫取的）石油流出委内瑞拉，仅仅美国能提炼。",
@@ -332,6 +356,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时26分 ~ 07时24分]"
+        },
+        {
+          "title": "美军将向中东派出第二艘航母 特朗普称将访问委内瑞拉 | 环球市场",
+          "url": "https://www.cls.cn/detail/2290112",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时04分 ~ 13时40分]"
         },
         {
           "title": "美国总统特朗普：当前谈判格陵兰问题。",
@@ -403,17 +439,6 @@
           "time_info": "01时39分"
         },
         {
-          "title": "特朗普称美国将向中东增派第二艘航母 施压伊朗达成协议",
-          "url": "https://www.cls.cn/detail/2290097",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时04分"
-        },
-        {
           "title": "美国最高法院将于2月20日就特朗普关税案公布意见",
           "url": "https://flash.jin10.com/detail/20260213235807160800",
           "source": "金十数据",
@@ -447,17 +472,6 @@
           "time_info": "01时39分"
         },
         {
-          "title": "美军将向中东派出第二艘航母 特朗普称将访问委内瑞拉 | 环球市场",
-          "url": "https://www.cls.cn/detail/2290112",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时04分"
-        },
-        {
           "title": "美国总统特朗普：（谈欧洲）我们相处得很好；我们正在谈判。",
           "url": "https://flash.jin10.com/detail/20260214005611106800",
           "source": "金十数据",
@@ -489,17 +503,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
-        },
-        {
-          "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
-          "url": "https://www.cls.cn/detail/2290201",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时04分"
         },
         {
           "title": "美国总统特朗普称赞今日公布的良好经济数据。",
@@ -544,6 +547,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
+        },
+        {
+          "title": "日媒披露特朗普拒绝在中日间力挺日本",
+          "url": "https://www.toutiao.com/trending/7605283067519008810/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
         },
         {
           "title": "白宫贸易顾问纳瓦罗在通话中表示，有关特朗普政府计划削减钢铁和铝关税的说法没有“事实基础”。 对特朗普政府来说，金属关税“是神圣的”。（CNBC）",
@@ -673,7 +687,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         },
@@ -727,8 +741,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时37分 ~ 12时04分]"
+          "appearance_count": 12,
+          "time_info": "[00时37分 ~ 13时40分]"
         },
         {
           "title": "美CPI数据即将公布 美股期指盘前集体走低 | 今夜看点",
@@ -740,8 +754,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时37分 ~ 12时04分]"
+          "appearance_count": 12,
+          "time_info": "[00时37分 ~ 13时40分]"
         },
         {
           "title": "美股极其脆弱！从SaaS、PE到保险、物业甚至物流“轮流大跌”，高盛交易员“疲惫且震惊”",
@@ -800,8 +814,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时24分 ~ 12时04分]"
+          "appearance_count": 4,
+          "time_info": "[07时24分 ~ 13时40分]"
         },
         {
           "title": "美股：金银大涨 英伟达蒸发6900亿元",
@@ -810,7 +824,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         },
@@ -935,11 +949,12 @@
             26,
             24,
             18,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 12时04分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 13时40分]"
         },
         {
           "title": "【焦点复盘】沪指低开低走失守4100点，军工、半导体设备板块逆势活跃",
@@ -955,6 +970,21 @@
           "time_info": "[00时37分 ~ 09时18分]"
         },
         {
+          "title": "商务部就荷公布安世半导体案裁决结果答记者问",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32603418",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12,
+            11,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[03时39分 ~ 13时40分]"
+        },
+        {
           "title": "荷公布安世半导体裁决 商务部回应",
           "url": "https://www.toutiao.com/trending/7606332994369900086/",
           "source": "今日头条",
@@ -967,21 +997,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时37分 ~ 06时26分]"
-        },
-        {
-          "title": "商务部就荷公布安世半导体案裁决结果答记者问",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32603418",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            12,
-            11,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时39分 ~ 12时04分]"
         },
         {
           "title": "中方回应荷方公布安世半导体案裁决",
@@ -1008,8 +1023,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时28分 ~ 12时04分]"
+          "appearance_count": 5,
+          "time_info": "[05时28分 ~ 13时40分]"
         },
         {
           "title": "沪指失守4100点，半导体逆势走强，贵金属、海运调整，恒指跌1%，智谱狂飙超20%创历史新高，沪银大跌7%",
@@ -1020,8 +1035,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时18分 ~ 12时04分]"
+          "appearance_count": 3,
+          "time_info": "[09时18分 ~ 13时40分]"
         },
         {
           "title": "标普500指数收涨3.41点，涨幅0.05%，报6836.17点。 道琼斯工业平均指数收涨48.95点，涨幅0.10%，报49500.93点。 纳斯达克综合指数（纳指）收跌50.477点，跌幅0.22%，报22546.671点。 纳斯达克100指数收涨45.12点，涨幅0.18%，报24732.732点。 纳斯达克生物科技指数收涨0.97%，报5917.24点。 费城半导体指数收涨0.66%，报8137.859点。 费城证交所KBW银行指数收涨0.29%，报166.39点。 道琼斯KBW地区银行指数收涨0.69%，报137.88点。",
@@ -1071,8 +1086,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时18分 ~ 12时04分]"
+          "appearance_count": 3,
+          "time_info": "[09时18分 ~ 13时40分]"
         },
         {
           "title": "两年期美债收益率在美国CPI通胀数据发布日创2022年以来新低，中长期收益率本周跌约16个基点",
@@ -1088,6 +1103,18 @@
           "time_info": "[05时28分 ~ 07时24分]"
         },
         {
+          "title": "中国持续减持美债意味着什么",
+          "url": "https://www.toutiao.com/trending/7606523556855287338/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时04分 ~ 13时40分]"
+        },
+        {
           "title": "美国通胀温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债走强，黄金重回5000关口",
           "url": "https://wallstreetcn.com/articles/3765664",
           "source": "华尔街见闻",
@@ -1097,23 +1124,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
-        },
-        {
-          "title": "中国持续减持美债意味着什么",
-          "url": "https://www.toutiao.com/trending/7606523556855287338/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时04分"
         }
       ]
     },
     {
       "keyword_group": "白银",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "现货白银周五涨约3%",
@@ -1137,6 +1153,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
+        },
+        {
+          "title": "金十图示：2026年02月14日（周六）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260214123315733800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
         }
       ]
     },
