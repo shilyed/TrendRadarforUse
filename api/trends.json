@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-02-15T13:52:28.227102+08:00",
-  "total_titles_processed": 795,
+  "generated_at": "2026-02-15T14:42:14.849492+08:00",
+  "total_titles_processed": 845,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "王毅：特朗普非常尊重中方，但还有人想打压中国",
           "url": "https://news.ifeng.com/c/8qkKQCMOmTT",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时20分 ~ 13时52分]"
+          "appearance_count": 16,
+          "time_info": "[00时20分 ~ 14时42分]"
         },
         {
           "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
@@ -94,11 +95,12 @@
           "source": "百度热搜",
           "ranks": [
             5,
-            14
+            14,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 13时52分]"
+          "appearance_count": 4,
+          "time_info": "[12时15分 ~ 14时42分]"
         },
         {
           "title": "民主党人跳出来指责：绥靖！特朗普上赶着为中国效力",
@@ -108,8 +110,30 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时15分 ~ 14时42分]"
+        },
+        {
+          "title": "曝特朗普发涉种族主义视频被批后发怒",
+          "url": "https://www.toutiao.com/trending/7606051537617649691/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时15分 ~ 13时52分]"
+          "time_info": "[14时41分 ~ 14时42分]"
+        },
+        {
+          "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
+          "url": "https://flash.jin10.com/detail/20260215135912358800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "外媒：特朗普与内塔尼亚胡同意加大对伊朗的施压",
@@ -161,11 +185,40 @@
           "url": "https://www.toutiao.com/trending/7606913902068108850/",
           "source": "今日头条",
           "ranks": [
-            16
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时52分 ~ 14时42分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "英媒：若美国愿意解除制裁 伊朗将考虑就核谈判做出妥协",
+          "url": "https://flash.jin10.com/detail/20260215141325136800",
+          "source": "金十数据",
+          "ranks": [
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时52分"
+          "time_info": "14时42分"
+        },
+        {
+          "title": "据BBC：如果美国愿意讨论解除制裁的问题，伊朗已准备好考虑做出妥协，以与美国达成核协议。",
+          "url": "https://flash.jin10.com/detail/20260215140753081800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         }
       ]
     },
@@ -206,8 +259,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时20分 ~ 13时52分]"
+          "appearance_count": 16,
+          "time_info": "[00时20分 ~ 14时42分]"
         }
       ]
     }
