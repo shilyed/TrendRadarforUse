@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T09:22:37.396954+08:00",
-  "total_titles_processed": 601,
+  "generated_at": "2026-02-16T12:17:25.193942+08:00",
+  "total_titles_processed": 751,
   "failed_sources": [],
   "trends": [
     {
@@ -143,9 +143,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时22分 ~ 12时17分]"
         },
         {
           "title": "特朗普在全美推动核能部署 美军首次空运微型核反应堆",
@@ -154,7 +154,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -165,7 +165,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -176,7 +176,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         }
@@ -184,7 +184,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "白银基金出台补偿方案！2月26日可办理，1000元以下损失全额补偿",
@@ -194,8 +194,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 09时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 12时17分]"
         },
         {
           "title": "国投白银LOF出台补偿方案 超九成投资者将获全额补偿",
@@ -217,20 +217,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "中国白银集团在港交所公告：将按每股认购股份0.51港元配发及发行合共910,000,000股认购股份。",
-          "url": "https://wallstreetcn.com/livenews/3055651",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时22分 ~ 12时17分]"
         },
         {
           "title": "现货金银低开低走，现货黄金跌0.57%，报5014.13美元/盎司，现货白银一度跌超3%，现报75.41美元/盎司。",
@@ -243,6 +232,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时19分 ~ 09时22分]"
+        },
+        {
+          "title": "中国白银集团在港交所公告：将按每股认购股份0.51港元配发及发行合共910,000,000股认购股份。",
+          "url": "https://wallstreetcn.com/livenews/3055651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时22分 ~ 12时17分]"
         },
         {
           "title": "国投瑞银LOF发布白银基金补偿方案",
@@ -261,11 +262,34 @@
           "url": "https://wallstreetcn.com/livenews/3055644",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时22分 ~ 12时17分]"
+        },
+        {
+          "title": "国投瑞银白银 LOF 赔偿方案出炉，超九成个人投资者获全额补偿，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2006494032650592698",
+          "source": "知乎",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时22分"
+          "time_info": "12时17分"
+        },
+        {
+          "title": "行业首例！国投白银LOF估值调整补偿方案出炉：1000元以下损失全额补偿",
+          "url": "https://wallstreetcn.com/articles/3765768",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
         }
       ]
     },
@@ -321,6 +345,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时19分 ~ 09时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "受假期影响，今日亚洲多地休市，市场交易较为平淡；现货黄金盘中失守5000美元关口，白银价格亦跟随下跌，展望未来，本周市场将迎来美联储会议纪要及PCE通胀数据，后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260216110854337800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
         }
       ]
     },
