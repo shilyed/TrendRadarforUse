@@ -1,22 +1,37 @@
 {
-  "generated_at": "2026-02-17T04:22:24.160716+08:00",
-  "total_titles_processed": 472,
+  "generated_at": "2026-02-17T05:22:32.045091+08:00",
+  "total_titles_processed": 504,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
           "url": "https://wallstreetcn.com/livenews/3055826",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时29分 ~ 04时22分]"
+          "appearance_count": 3,
+          "time_info": "[03时29分 ~ 05时22分]"
+        },
+        {
+          "title": "美国总统特朗普声称：（民主党州长Newsom的）加州与英国的能源协议“不合适”。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3055802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            19,
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时33分 ~ 05时22分]"
         },
         {
           "title": "特朗普：联邦政府绝不为“Gateway”项目超支买单",
@@ -58,6 +73,19 @@
           "time_info": "[02时34分 ~ 04时22分]"
         },
         {
+          "title": "特朗普：“和平委员会”将决定如何使用50亿美元加沙援款",
+          "url": "https://flash.jin10.com/detail/20260217024524973800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时29分 ~ 05时22分]"
+        },
+        {
           "title": "美国总统特朗普：反对纽约州和新泽西州的Gateway项目，该项目的成本将比预期高出数十亿美元。",
           "url": "https://flash.jin10.com/detail/20260217014706786800",
           "source": "金十数据",
@@ -71,41 +99,17 @@
           "time_info": "[02时34分 ~ 04时22分]"
         },
         {
-          "title": "特朗普：“和平委员会”将决定如何使用50亿美元加沙援款",
-          "url": "https://flash.jin10.com/detail/20260217024524973800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时29分 ~ 04时22分]"
-        },
-        {
           "title": "据纽约邮报：特朗普称“和平委员会”将商讨如何使用为加沙项目筹集的50亿美元资金。",
           "url": "https://flash.jin10.com/detail/20260217024318964800",
           "source": "金十数据",
           "ranks": [
             5,
-            12
+            12,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时29分 ~ 04时22分]"
-        },
-        {
-          "title": "美国总统特朗普声称：（民主党州长Newsom的）加州与英国的能源协议“不合适”。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3055802",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时33分 ~ 04时22分]"
+          "appearance_count": 3,
+          "time_info": "[03时29分 ~ 05时22分]"
         },
         {
           "title": "美国总统特朗普：反对纽约市Gateway铁路项目。 联邦政府不会向Gateway超额成本提供任何支持。",
@@ -113,11 +117,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时34分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[02时34分 ~ 05时22分]"
         },
         {
           "title": "特朗普抨击加州州长与英国签署清洁能源协议“不合适”",
@@ -166,6 +171,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时29分 ~ 04时22分]"
+        },
+        {
+          "title": "美国总统特朗普： 联邦政府将协助处理波托马克河废水泄漏事件。",
+          "url": "https://flash.jin10.com/detail/20260217040455048800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时22分"
         }
       ]
     },
@@ -181,19 +197,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 04时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 05时22分]"
         },
         {
           "title": "行业首例！国投白银LOF估值调整补偿方案出炉：1000元以下损失全额补偿",
           "url": "https://wallstreetcn.com/articles/3765768",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 04时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 05时22分]"
         },
         {
           "title": "负债小白梭哈白银遭胖揍",
@@ -204,8 +221,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 04时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 05时22分]"
         }
       ]
     },
@@ -239,7 +256,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "伊朗大秀肌肉回应美国施压",
@@ -251,6 +268,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时28分 ~ 03时29分]"
+        },
+        {
+          "title": "据福克斯新闻记者：此外，很难想象美国或以色列会在2月22日冬奥会结束前对伊朗发动打击。（2014年普京是在索契冬奥会结束后才派兵进入克里米亚；而四年前在北京冬奥会闭幕后，俄罗斯向乌克兰派出了15万大军）",
+          "url": "https://flash.jin10.com/detail/20260217042820518800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周一（2月16日）纽约尾盘，ICE美元指数涨0.16%，报97.066点，日内交投区间为96.907-97.120点。 彭博美元指数涨0.13%，报1182.94点，日内交投区间为1181.33-1183.44点。",
+          "url": "https://wallstreetcn.com/livenews/3055833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时22分"
         }
       ]
     },
@@ -267,8 +312,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 04时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 05时22分]"
         }
       ]
     },
@@ -284,8 +329,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 04时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 05时22分]"
         }
       ]
     }
