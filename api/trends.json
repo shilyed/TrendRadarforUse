@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T20:44:08.982625+08:00",
-  "total_titles_processed": 1323,
+  "generated_at": "2026-02-16T22:01:57.135233+08:00",
+  "total_titles_processed": 1450,
   "failed_sources": [],
   "trends": [
     {
@@ -197,6 +197,18 @@
           "time_info": "[19时35分 ~ 20时44分]"
         },
         {
+          "title": "美国国务卿卢比奥：与匈牙利的关系极为紧密。 我们不想把任何和平协议强加于乌克兰。 如果匈牙利出现任何金融困难，美国总统唐纳德·特朗普将准备好提供协助。",
+          "url": "https://wallstreetcn.com/livenews/3055729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 22时01分]"
+        },
+        {
           "title": "美国国务卿鲁比奥：如果匈牙利遇到麻烦，特朗普会考虑帮助欧尔班。",
           "url": "https://flash.jin10.com/detail/20260216185958619800",
           "source": "金十数据",
@@ -231,24 +243,13 @@
           "time_info": "09时22分"
         },
         {
-          "title": "美国国务卿卢比奥：与匈牙利的关系极为紧密。 我们不想把任何和平协议强加于乌克兰。 如果匈牙利出现任何金融困难，美国总统唐纳德·特朗普将准备好提供协助。",
-          "url": "https://wallstreetcn.com/livenews/3055729",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时44分"
-        },
-        {
           "title": "匈牙利总理欧尔班：自美国总统特朗普上台以来，美匈关系中不存在任何冲突点。",
           "url": "https://flash.jin10.com/detail/20260216192059299800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
         },
@@ -289,7 +290,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "白银基金出台补偿方案！2月26日可办理，1000元以下损失全额补偿",
@@ -299,8 +300,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时21分 ~ 20时44分]"
+          "appearance_count": 24,
+          "time_info": "[00时21分 ~ 22时01分]"
         },
         {
           "title": "负债小白梭哈白银遭胖揍",
@@ -310,11 +311,12 @@
             1,
             2,
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时22分 ~ 20时44分]"
+          "appearance_count": 13,
+          "time_info": "[09时22分 ~ 22时01分]"
         },
         {
           "title": "国投瑞银白银 LOF 赔偿方案出炉，超九成个人投资者获全额补偿，哪些信息值得关注？",
@@ -342,8 +344,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时17分 ~ 20时44分]"
+          "appearance_count": 12,
+          "time_info": "[12时17分 ~ 22时01分]"
         },
         {
           "title": "国投白银LOF出台补偿方案 超九成投资者将获全额补偿",
@@ -406,6 +408,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时22分 ~ 12时17分]"
+        },
+        {
+          "title": "中信建投黄文涛：2026年仍是黄金的机会，黄金与白银是较长期的投资机遇",
+          "url": "https://wallstreetcn.com/livenews/3055747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时01分"
         },
         {
           "title": "印度贸易官员：1月份黄金和白银进口导致商品进口量大幅增加。",
@@ -546,8 +559,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时48分 ~ 20时44分]"
+          "appearance_count": 10,
+          "time_info": "[15时48分 ~ 22时01分]"
         },
         {
           "title": "LME有色金属库存日报",
@@ -598,8 +611,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时48分 ~ 20时44分]"
+          "appearance_count": 8,
+          "time_info": "[15时48分 ~ 22时01分]"
         },
         {
           "title": "大摩：市场开始买美债了",
@@ -664,6 +677,23 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数DXY突破97，日内涨0.13%。",
+          "url": "https://flash.jin10.com/detail/20260216202327950800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "半导体",
       "match_count": 1,
       "titles": [
@@ -696,8 +726,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时44分 ~ 20时44分]"
+          "appearance_count": 7,
+          "time_info": "[17时44分 ~ 22时01分]"
         }
       ]
     }
