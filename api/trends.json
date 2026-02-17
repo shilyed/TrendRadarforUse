@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T18:38:25.708743+08:00",
-  "total_titles_processed": 1339,
+  "generated_at": "2026-02-17T19:35:15.557884+08:00",
+  "total_titles_processed": 1431,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普：将间接参与美伊谈判",
@@ -33,15 +33,15 @@
           "time_info": "[03时29分 ~ 07时22分]"
         },
         {
-          "title": "2028年应当由谁来接棒 特朗普称万斯和卢比奥都很“出色”",
-          "url": "https://wallstreetcn.com/livenews/3055943",
-          "source": "华尔街见闻-快讯",
+          "title": "美部长与下属传出婚外情，特朗普回应",
+          "url": "https://news.ifeng.com/c/8qp4YVQ6NeA",
+          "source": "凤凰网",
           "ranks": [
-            5
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时34分 ~ 19时35分]"
         },
         {
           "title": "美国总统特朗普：反对纽约市Gateway铁路项目。 联邦政府不会向Gateway超额成本提供任何支持。",
@@ -178,6 +178,18 @@
           "time_info": "[09时21分 ~ 14时50分]"
         },
         {
+          "title": "2028年应当由谁来接棒 特朗普称万斯和卢比奥都很“出色”",
+          "url": "https://wallstreetcn.com/livenews/3055943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 19时35分]"
+        },
+        {
           "title": "特朗普施压乌克兰“快速”同俄罗斯达成协议",
           "url": "https://wallstreetcn.com/livenews/3055873",
           "source": "华尔街见闻-快讯",
@@ -203,6 +215,18 @@
           "time_info": "[01时33分 ~ 02时34分]"
         },
         {
+          "title": "美国土安全部长与下属传出婚外情，特朗普回应：没听说过，会去了解",
+          "url": "https://wallstreetcn.com/livenews/3055940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 19时35分]"
+        },
+        {
           "title": "市场消息：印尼方面表示，最多将有8,000名军人在6月前准备好，可能参与加沙的人道主义维和任务，支持特朗普的加沙战后重建计划。",
           "url": "https://flash.jin10.com/detail/20260216234427683800",
           "source": "金十数据",
@@ -224,6 +248,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时22分 ~ 09时21分]"
+        },
+        {
+          "title": "哈梅内伊：如今我要说，特朗普也做不到",
+          "url": "https://news.ifeng.com/c/8qp3k9bhq7k",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时34分 ~ 19时35分]"
         },
         {
           "title": "据Politico：美国总统特朗普称加州与英国的能源协议“不合适”。",
@@ -274,15 +309,15 @@
           "time_info": "[16时36分 ~ 17时40分]"
         },
         {
-          "title": "美国土安全部长与下属传出婚外情，特朗普回应：没听说过，会去了解",
-          "url": "https://wallstreetcn.com/livenews/3055940",
+          "title": "特朗普称希拉里精神错乱",
+          "url": "https://wallstreetcn.com/livenews/3055955",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时38分"
+          "time_info": "19时35分"
         },
         {
           "title": "美国总统特朗普： 联邦政府将协助处理波托马克河废水泄漏事件。",
@@ -294,6 +329,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        },
+        {
+          "title": "特朗普称希拉里精神错乱",
+          "url": "https://flash.jin10.com/detail/20260217191010466800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-17）",
+          "url": "https://flash.jin10.com/detail/20260217183508117800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
         }
       ]
     },
@@ -309,8 +366,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时35分 ~ 16时36分]"
+          "appearance_count": 17,
+          "time_info": "[00时35分 ~ 19时35分]"
         },
         {
           "title": "负债小白梭哈白银遭胖揍",
@@ -325,8 +382,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时35分 ~ 18时38分]"
+          "appearance_count": 19,
+          "time_info": "[00时35分 ~ 19时35分]"
         },
         {
           "title": "行业首例！国投白银LOF估值调整补偿方案出炉：1000元以下损失全额补偿",
@@ -455,22 +512,12 @@
             10,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时12分 ~ 18时38分]"
-        },
-        {
-          "title": "哈梅内伊强调美国无法摧毁伊朗",
-          "url": "https://wallstreetcn.com/livenews/3055945",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时38分"
+          "appearance_count": 9,
+          "time_info": "[12时12分 ~ 19时35分]"
         },
         {
           "title": "哈梅内伊称美国无法摧毁伊朗",
@@ -479,9 +526,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
+        },
+        {
+          "title": "哈梅内伊强调美国无法摧毁伊朗",
+          "url": "https://wallstreetcn.com/livenews/3055945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 19时35分]"
         },
         {
           "title": "伊朗大秀肌肉回应美国施压",
@@ -547,7 +606,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         },
@@ -579,8 +638,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时21分 ~ 18时38分]"
+          "appearance_count": 10,
+          "time_info": "[09时21分 ~ 19时35分]"
         },
         {
           "title": "美股盘前：黄金股、科技股普跌，纳斯达克100指数期货跌0.55%",
@@ -709,6 +768,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时38分 ~ 19时35分]"
+        },
+        {
           "title": "因金价走软，美国上市金矿股盘前走低。纽蒙特下跌3%，Sibanye Stillwater下跌5.8%，巴里克矿业下跌2.4%，哈莫尼黄金下跌4.2%。",
           "url": "https://flash.jin10.com/detail/20260217171116932800",
           "source": "金十数据",
@@ -718,17 +789,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时38分"
         }
       ]
     },
