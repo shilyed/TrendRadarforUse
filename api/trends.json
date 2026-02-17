@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T22:10:03.185578+08:00",
-  "total_titles_processed": 1656,
+  "generated_at": "2026-02-17T23:45:01.817027+08:00",
+  "total_titles_processed": 1773,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普：将间接参与美伊谈判",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时34分 ~ 22时10分]"
+          "appearance_count": 7,
+          "time_info": "[19时34分 ~ 23时45分]"
         },
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
@@ -44,15 +44,37 @@
           "time_info": "[03时29分 ~ 07时22分]"
         },
         {
+          "title": "哈梅内伊：如今我要说，特朗普也做不到",
+          "url": "https://news.ifeng.com/c/8qp3k9bhq7k",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时34分 ~ 23时45分]"
+        },
+        {
           "title": "美国总统特朗普的儿子埃里克·特朗普投资一家拥有美国国防部合同的无人机公司。",
           "url": "https://flash.jin10.com/detail/20260217215547535800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时10分"
+        },
+        {
+          "title": "特朗普关税引发损失，企业加大货币对冲力度",
+          "url": "https://flash.jin10.com/detail/20260217231948785800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "美国总统特朗普：反对纽约市Gateway铁路项目。 联邦政府不会向Gateway超额成本提供任何支持。",
@@ -81,17 +103,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时21分 ~ 14时50分]"
-        },
-        {
-          "title": "哈梅内伊：如今我要说，特朗普也做不到",
-          "url": "https://news.ifeng.com/c/8qp3k9bhq7k",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时34分 ~ 22时10分]"
         },
         {
           "title": "美国总统特朗普声称：（民主党州长Newsom的）加州与英国的能源协议“不合适”。（Politico）",
@@ -355,13 +366,24 @@
           "time_info": "19时35分"
         },
         {
+          "title": "白宫新闻秘书莱维特：特朗普总统将前往佐治亚州，聚焦经济与可负担性。",
+          "url": "https://flash.jin10.com/detail/20260217230755682800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "美国总统特朗普：已故的杰西·杰克逊牧师是个好人。",
           "url": "https://flash.jin10.com/detail/20260217213755064800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时10分"
         },
@@ -380,7 +402,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
@@ -391,22 +413,23 @@
             5,
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时12分 ~ 22时10分]"
+          "appearance_count": 14,
+          "time_info": "[12时12分 ~ 23时45分]"
         },
         {
-          "title": "伊朗最高领袖：伊朗的武器事务与和平核事业“与美国无关”",
-          "url": "https://wallstreetcn.com/livenews/3056013",
+          "title": "阿曼外长：伊朗与美国日内瓦会谈圆满结束，取得“良好进展”",
+          "url": "https://wallstreetcn.com/livenews/3056038",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时10分"
+          "time_info": "23时45分"
         },
         {
           "title": "哈梅内伊称美国无法摧毁伊朗",
@@ -418,6 +441,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
+        },
+        {
+          "title": "哈梅内伊：美国无法摧毁伊朗",
+          "url": "https://www.toutiao.com/trending/7606880300451086355/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时43分 ~ 23时45分]"
         },
         {
           "title": "哈梅内伊强调美国无法摧毁伊朗",
@@ -433,6 +468,18 @@
           "time_info": "[18时38分 ~ 20时43分]"
         },
         {
+          "title": "伊朗最高领袖：伊朗的武器事务与和平核事业“与美国无关”",
+          "url": "https://wallstreetcn.com/livenews/3056013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时10分 ~ 23时45分]"
+        },
+        {
           "title": "伊朗大秀肌肉回应美国施压",
           "url": "https://www.toutiao.com/trending/7607336004873096742/",
           "source": "今日头条",
@@ -443,18 +490,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时28分 ~ 07时22分]"
-        },
-        {
-          "title": "哈梅内伊：美国无法摧毁伊朗",
-          "url": "https://www.toutiao.com/trending/7606880300451086355/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时43分 ~ 22时10分]"
         },
         {
           "title": "据福克斯新闻记者：此外，很难想象美国或以色列会在2月22日冬奥会结束前对伊朗发动打击。（2014年普京是在索契冬奥会结束后才派兵进入克里米亚；而四年前在北京冬奥会闭幕后，俄罗斯向乌克兰派出了15万大军）",
@@ -486,7 +521,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时10分"
         },
@@ -500,6 +535,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
+        },
+        {
+          "title": "阿曼外交部长：“仍有大量工作要做”，伊朗和美国在下次会晤前已就“明确的下一步行动”达成共识。",
+          "url": "https://flash.jin10.com/detail/20260217230833478800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "伊朗高级官员：维持有效谈判的关键在于美国对解除制裁的认真态度，以及避免不切实际的要求。",
@@ -552,7 +598,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时10分"
         },
@@ -571,7 +617,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -584,8 +630,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时21分 ~ 22时10分]"
+          "appearance_count": 15,
+          "time_info": "[09时21分 ~ 23时45分]"
+        },
+        {
+          "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2291237",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时09分 ~ 23时45分]"
         },
         {
           "title": "美股盘前：黄金股、科技股普跌，纳斯达克100指数期货跌0.55%",
@@ -612,17 +670,6 @@
           "time_info": "[12时12分 ~ 13时54分]"
         },
         {
-          "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2291237",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时09分 ~ 22时10分]"
-        },
-        {
           "title": "Paramount美股盘前涨超4%，报道称华纳兄弟探索将暂时重启与Paramount的交易谈判。",
           "url": "https://wallstreetcn.com/livenews/3055969",
           "source": "华尔街见闻-快讯",
@@ -640,7 +687,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时10分"
         },
@@ -673,9 +720,42 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时10分"
+        },
+        {
+          "title": "禾赛美股盘初一度涨超9%。马年春晚宇树科技两款人形机器人G1、H2全部搭载了禾赛JT128激光雷达。",
+          "url": "https://wallstreetcn.com/livenews/3056025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF跌1.4%，全球科技股指数ETF跌近1%，全球航空业ETF涨近2%，银行业ETF涨1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3056022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
+          "title": "美股盘初：纳指跌0.7%，黄金股、科技股普跌",
+          "url": "https://wallstreetcn.com/livenews/3056021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "美股期货跌幅扩大，纳斯达克100指数期货跌超1%，标普500指数期货跌0.6%，道指期货跌0.4%。",
@@ -684,7 +764,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时10分"
         },
@@ -717,7 +797,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时10分"
         },
@@ -736,7 +816,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "白银基金出台补偿方案！2月26日可办理，1000元以下损失全额补偿",
@@ -746,8 +826,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时35分 ~ 22时10分]"
+          "appearance_count": 22,
+          "time_info": "[00时35分 ~ 23时45分]"
         },
         {
           "title": "负债小白梭哈白银遭胖揍",
@@ -762,8 +842,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时35分 ~ 22时10分]"
+          "appearance_count": 24,
+          "time_info": "[00时35分 ~ 23时45分]"
         },
         {
           "title": "行业首例！国投白银LOF估值调整补偿方案出炉：1000元以下损失全额补偿",
@@ -777,6 +857,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时35分 ~ 07时22分]"
+        },
+        {
+          "title": "美国三大股指开盘涨跌不一，科技股普跌，黄金跌破4900，白银暴跌7.5%",
+          "url": "https://wallstreetcn.com/articles/3765810",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时44分 ~ 23时45分]"
         },
         {
           "title": "现货金、银延续跌势，现货黄金回落至4930美元/盎司下方，日内跌1.26%；现货白银跌破73美元/盎司，日内跌4.36%。",
@@ -889,6 +980,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
+        },
+        {
+          "title": "现货白银跌破72美元/盎司，为2月6日以来新低，日内跌5.69%。",
+          "url": "https://flash.jin10.com/detail/20260217230101003800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         }
       ]
     },
@@ -948,8 +1050,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时38分 ~ 22时10分]"
+          "appearance_count": 8,
+          "time_info": "[18时38分 ~ 23时45分]"
         },
         {
           "title": "因金价走软，美国上市金矿股盘前走低。纽蒙特下跌3%，Sibanye Stillwater下跌5.8%，巴里克矿业下跌2.4%，哈莫尼黄金下跌4.2%。",
