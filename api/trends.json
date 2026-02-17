@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T20:43:46.449418+08:00",
-  "total_titles_processed": 1537,
+  "generated_at": "2026-02-17T22:10:03.185578+08:00",
+  "total_titles_processed": 1656,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普：将间接参与美伊谈判",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时34分 ~ 20时43分]"
+          "appearance_count": 5,
+          "time_info": "[19时34分 ~ 22时10分]"
         },
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
@@ -42,6 +42,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时29分 ~ 07时22分]"
+        },
+        {
+          "title": "美国总统特朗普的儿子埃里克·特朗普投资一家拥有美国国防部合同的无人机公司。",
+          "url": "https://flash.jin10.com/detail/20260217215547535800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         },
         {
           "title": "美国总统特朗普：反对纽约市Gateway铁路项目。 联邦政府不会向Gateway超额成本提供任何支持。",
@@ -70,6 +81,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时21分 ~ 14时50分]"
+        },
+        {
+          "title": "哈梅内伊：如今我要说，特朗普也做不到",
+          "url": "https://news.ifeng.com/c/8qp3k9bhq7k",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时34分 ~ 22时10分]"
         },
         {
           "title": "美国总统特朗普声称：（民主党州长Newsom的）加州与英国的能源协议“不合适”。（Politico）",
@@ -204,17 +226,6 @@
           "time_info": "[12时12分 ~ 14时50分]"
         },
         {
-          "title": "哈梅内伊：如今我要说，特朗普也做不到",
-          "url": "https://news.ifeng.com/c/8qp3k9bhq7k",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时34分 ~ 20时43分]"
-        },
-        {
           "title": "特朗普抨击加州州长与英国签署清洁能源协议“不合适”",
           "url": "https://flash.jin10.com/detail/20260217003445113800",
           "source": "金十数据",
@@ -344,6 +355,17 @@
           "time_info": "19时35分"
         },
         {
+          "title": "美国总统特朗普：已故的杰西·杰克逊牧师是个好人。",
+          "url": "https://flash.jin10.com/detail/20260217213755064800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-17）",
           "url": "https://flash.jin10.com/detail/20260217183508117800",
           "source": "金十数据",
@@ -358,7 +380,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
@@ -372,8 +394,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时12分 ~ 20时43分]"
+          "appearance_count": 12,
+          "time_info": "[12时12分 ~ 22时10分]"
+        },
+        {
+          "title": "伊朗最高领袖：伊朗的武器事务与和平核事业“与美国无关”",
+          "url": "https://wallstreetcn.com/livenews/3056013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         },
         {
           "title": "哈梅内伊称美国无法摧毁伊朗",
@@ -412,6 +445,18 @@
           "time_info": "[03时28分 ~ 07时22分]"
         },
         {
+          "title": "哈梅内伊：美国无法摧毁伊朗",
+          "url": "https://www.toutiao.com/trending/7606880300451086355/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时43分 ~ 22时10分]"
+        },
+        {
           "title": "据福克斯新闻记者：此外，很难想象美国或以色列会在2月22日冬奥会结束前对伊朗发动打击。（2014年普京是在索契冬奥会结束后才派兵进入克里米亚；而四年前在北京冬奥会闭幕后，俄罗斯向乌克兰派出了15万大军）",
           "url": "https://flash.jin10.com/detail/20260217042820518800",
           "source": "金十数据",
@@ -430,9 +475,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
+        },
+        {
+          "title": "伊朗外交部长：我们已就主要原则与美国达成共识。",
+          "url": "https://flash.jin10.com/detail/20260217215058625800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         },
         {
           "title": "市场消息：伊朗方面表示，与美国的下一轮间接谈判将严格限于核问题。",
@@ -463,7 +519,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -490,15 +546,15 @@
           "time_info": "18时38分"
         },
         {
-          "title": "哈梅内伊：美国无法摧毁伊朗",
-          "url": "https://www.toutiao.com/trending/7606880300451086355/",
-          "source": "今日头条",
+          "title": "伊朗最高领袖：伊朗拥有何种类型或射程的导弹与美国无关。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3055983",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时43分"
+          "time_info": "22时10分"
         },
         {
           "title": "伊朗外交部发言人：伊朗与美国在日内瓦的会谈尚未开始。伊朗代表团将很快前往谈判地点。",
@@ -514,6 +570,171 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
+          "url": "https://wallstreetcn.com/articles/3765796",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[09时21分 ~ 22时10分]"
+        },
+        {
+          "title": "美股盘前：黄金股、科技股普跌，纳斯达克100指数期货跌0.55%",
+          "url": "https://wallstreetcn.com/livenews/3055925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时40分 ~ 18时38分]"
+        },
+        {
+          "title": "美银Hartnett：“AI颠覆交易”加速扩散，一旦有科技巨头削减开支，将引发美股“轮动海啸”",
+          "url": "https://wallstreetcn.com/articles/3765781",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 13时54分]"
+        },
+        {
+          "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2291237",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时09分 ~ 22时10分]"
+        },
+        {
+          "title": "Paramount美股盘前涨超4%，报道称华纳兄弟探索将暂时重启与Paramount的交易谈判。",
+          "url": "https://wallstreetcn.com/livenews/3055969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3056004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
+          "title": "美股财报电话会现状：“AI风险”讨论翻倍，公司必须“自证清白”，投资者“先卖再问”",
+          "url": "https://wallstreetcn.com/articles/3765769",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "美股盘前，部分热门中概股走强，百度(BIDU.O)涨超1%、万国数据(GDS.O)涨0.8%、阿里巴巴(BABA.N)涨0.7%。",
+          "url": "https://flash.jin10.com/detail/20260217170620021800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-02-17）",
+          "url": "https://flash.jin10.com/detail/20260217214857731800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
+          "title": "美股期货跌幅扩大，纳斯达克100指数期货跌超1%，标普500指数期货跌0.6%，道指期货跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3055992",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
+          "title": "美股盘前，部分明星科技股走软，AMD(AMD.O)跌1.3%、英特尔(INTC.O)跌近1%、美光科技(MU.O)跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260217170115300800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
+          "title": "提醒：美股今日因假期休市一天。",
+          "url": "https://wallstreetcn.com/livenews/3055774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        },
+        {
+          "title": "奈飞股价美股盘前一度上涨1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3055985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
+          "title": "美股今日休市一天",
+          "url": "https://flash.jin10.com/detail/20260216222506509800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        }
+      ]
+    },
+    {
       "keyword_group": "白银",
       "match_count": 12,
       "titles": [
@@ -525,8 +746,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时35分 ~ 20时43分]"
+          "appearance_count": 20,
+          "time_info": "[00时35分 ~ 22时10分]"
         },
         {
           "title": "负债小白梭哈白银遭胖揍",
@@ -541,8 +762,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时35分 ~ 20时43分]"
+          "appearance_count": 22,
+          "time_info": "[00时35分 ~ 22时10分]"
         },
         {
           "title": "行业首例！国投白银LOF估值调整补偿方案出炉：1000元以下损失全额补偿",
@@ -635,6 +856,18 @@
           "time_info": "[07时22分 ~ 13时54分]"
         },
         {
+          "title": "美国三大股指期货盘前普跌，日元反弹，黄金一度跌破4900，白银暴跌5%",
+          "url": "https://wallstreetcn.com/articles/3765810",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时43分 ~ 22时10分]"
+        },
+        {
           "title": "必和必拓与惠顿贵金属签署白银流贷协议",
           "url": "https://flash.jin10.com/detail/20260217054008498800",
           "source": "金十数据",
@@ -647,17 +880,6 @@
           "time_info": "[06时20分 ~ 07时22分]"
         },
         {
-          "title": "美国三大股指期货盘前普跌，日元反弹，黄金一度跌破4900，白银暴跌5%",
-          "url": "https://wallstreetcn.com/articles/3765810",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
           "title": "现货白银日内跌超1%",
           "url": "https://flash.jin10.com/detail/20260217083911193800",
           "source": "金十数据",
@@ -667,116 +889,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
-          "url": "https://wallstreetcn.com/articles/3765796",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时21分 ~ 20时43分]"
-        },
-        {
-          "title": "美股盘前：黄金股、科技股普跌，纳斯达克100指数期货跌0.55%",
-          "url": "https://wallstreetcn.com/livenews/3055925",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 18时38分]"
-        },
-        {
-          "title": "美银Hartnett：“AI颠覆交易”加速扩散，一旦有科技巨头削减开支，将引发美股“轮动海啸”",
-          "url": "https://wallstreetcn.com/articles/3765781",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时12分 ~ 13时54分]"
-        },
-        {
-          "title": "Paramount美股盘前涨超4%，报道称华纳兄弟探索将暂时重启与Paramount的交易谈判。",
-          "url": "https://wallstreetcn.com/livenews/3055969",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
-          "title": "美股财报电话会现状：“AI风险”讨论翻倍，公司必须“自证清白”，投资者“先卖再问”",
-          "url": "https://wallstreetcn.com/articles/3765769",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "美股盘前，部分热门中概股走强，百度(BIDU.O)涨超1%、万国数据(GDS.O)涨0.8%、阿里巴巴(BABA.N)涨0.7%。",
-          "url": "https://flash.jin10.com/detail/20260217170620021800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        },
-        {
-          "title": "美股盘前，部分明星科技股走软，AMD(AMD.O)跌1.3%、英特尔(INTC.O)跌近1%、美光科技(MU.O)跌超1%。",
-          "url": "https://flash.jin10.com/detail/20260217170115300800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        },
-        {
-          "title": "提醒：美股今日因假期休市一天。",
-          "url": "https://wallstreetcn.com/livenews/3055774",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        },
-        {
-          "title": "美股今日休市一天",
-          "url": "https://flash.jin10.com/detail/20260216222506509800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
         }
       ]
     },
@@ -832,11 +944,12 @@
           "ranks": [
             13,
             11,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时38分 ~ 20时43分]"
+          "appearance_count": 6,
+          "time_info": "[18时38分 ~ 22时10分]"
         },
         {
           "title": "因金价走软，美国上市金矿股盘前走低。纽蒙特下跌3%，Sibanye Stillwater下跌5.8%，巴里克矿业下跌2.4%，哈莫尼黄金下跌4.2%。",
