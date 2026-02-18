@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T16:37:35.408222+08:00",
-  "total_titles_processed": 1281,
+  "generated_at": "2026-02-18T17:40:09.624720+08:00",
+  "total_titles_processed": 1381,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 39,
       "titles": [
         {
           "title": "哈梅内伊回应特朗普威胁",
@@ -57,6 +57,17 @@
           "time_info": "[09时23分 ~ 16时37分]"
         },
         {
+          "title": "特朗普、拜登、奥巴马、克林顿齐发声",
+          "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时37分 ~ 17时40分]"
+        },
+        {
           "title": "特朗普涉台最新表态，台当局和日本都慌了",
           "url": "https://news.ifeng.com/c/8qpOucjNxj3",
           "source": "凤凰网",
@@ -77,6 +88,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时43分 ~ 07时22分]"
+        },
+        {
+          "title": "特朗普女儿伊万卡中文拜年",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%84%BF%E4%BC%8A%E4%B8%87%E5%8D%A1%E4%B8%AD%E6%96%87%E6%8B%9C%E5%B9%B4%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 17时40分]"
         },
         {
           "title": "美国纽约市市长：美国总统特朗普政府再次解冻了7700万美元的纽约隧道资金。",
@@ -110,17 +132,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
-        },
-        {
-          "title": "特朗普、拜登、奥巴马、克林顿齐发声",
-          "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时37分"
         },
         {
           "title": "特朗普女儿伊万卡中文拜年：新年快乐",
@@ -233,6 +244,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时56分 ~ 15时46分]"
+        },
+        {
+          "title": "泽连斯基抱怨：特朗普总是要求乌克兰让步，这不公平",
+          "url": "https://news.ifeng.com/c/8qqOE4vhF5L",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 17时40分]"
         },
         {
           "title": "美国总统特朗普：波托马克河泄漏是激进左派造成的环境危害。",
@@ -397,6 +419,17 @@
           "time_info": "01时51分"
         },
         {
+          "title": "市场消息：梵蒂冈方面拒绝加入特朗普的“和平委员会”。",
+          "url": "https://flash.jin10.com/detail/20260218165845600800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
           "title": "英媒：特朗普政府升级对美消费者金融保护局打击力度",
           "url": "https://flash.jin10.com/detail/20260218023219855800",
           "source": "金十数据",
@@ -433,7 +466,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -444,8 +477,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时23分 ~ 16时37分]"
+          "appearance_count": 9,
+          "time_info": "[09时23分 ~ 17时40分]"
         },
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -469,8 +502,30 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时48分 ~ 16时37分]"
+          "appearance_count": 19,
+          "time_info": "[00时48分 ~ 17时40分]"
+        },
+        {
+          "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
+          "url": "https://www.cls.cn/detail/2291354",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时14分 ~ 17时40分]"
+        },
+        {
+          "title": "美股盘前科技股普涨，黄金收复4900，白银日内涨超3%，欧洲斯托克600触及新纪录高位",
+          "url": "https://wallstreetcn.com/articles/3765834",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 17时40分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，大宗商品普跌，英央行降息预期上升，英镑一度跳水1%",
@@ -484,15 +539,15 @@
           "time_info": "07时22分"
         },
         {
-          "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
-          "url": "https://www.cls.cn/detail/2291354",
-          "source": "财联社热门",
+          "title": "美股盘前，科技股普涨，英伟达涨1.6%，美光科技涨约1%，英特尔涨约1%。 黄金股普涨，哈莫尼黄金涨约1%，科尔黛伦矿业涨约2%。",
+          "url": "https://wallstreetcn.com/livenews/3056266",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时14分 ~ 16时37分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         },
         {
           "title": "凯撒娱乐（CZR）美股盘后涨超3%。 该公司四季度同店净营收29.2亿美元，分析师预期28.9亿美元。 四季度同店调整后EBITDA为9.01亿美元，分析师预期9.001亿美元。",
@@ -531,6 +586,17 @@
           "time_info": "[05时28分 ~ 06时24分]"
         },
         {
+          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
+          "url": "https://wallstreetcn.com/articles/3765829",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 17时40分]"
+        },
+        {
           "title": "应用材料美股盘后跌7.6%。",
           "url": "https://wallstreetcn.com/livenews/3056144",
           "source": "华尔街见闻-快讯",
@@ -564,6 +630,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时22分]"
+        },
+        {
+          "title": "美股盘前，部分明星科技股走强，英伟达(NVDA.O)、美光科技(MU.O)、Meta Platforms(META.O)涨超1%。",
+          "url": "https://flash.jin10.com/detail/20260218170058406800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         },
         {
           "title": "电子设计自动化（EDA）软件公司铿腾电子（CDNS）美股盘后涨4.65%，报296.63美元，业绩报告发布后一度涨超7%至303.32美元，该公司所给业绩指引并没有分析师担忧的那么严重。",
@@ -840,11 +917,12 @@
             13,
             11,
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时23分 ~ 16时37分]"
+          "appearance_count": 9,
+          "time_info": "[09时23分 ~ 17时40分]"
         },
         {
           "title": "伊朗外长要求美国停止动武威胁",
@@ -1056,6 +1134,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "有色",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "LME有色金属库存日报",
+          "url": "https://flash.jin10.com/detail/20260218170133029800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         }
       ]
     },
