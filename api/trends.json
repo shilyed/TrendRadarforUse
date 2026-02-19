@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-02-20T03:35:45.210657+08:00",
-  "total_titles_processed": 476,
+  "generated_at": "2026-02-20T04:25:14.996971+08:00",
+  "total_titles_processed": 508,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 41,
       "titles": [
         {
-          "title": "特朗普将因乌克兰问题对俄罗斯所实施的制裁延长一年",
-          "url": "https://flash.jin10.com/detail/20260220030505008800",
+          "title": "美国总统特朗普：英国国王查尔斯即将访问美国。",
+          "url": "https://flash.jin10.com/detail/20260220034308215800",
           "source": "金十数据",
           "ranks": [
-            2
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时35分"
+          "time_info": "04时25分"
         },
         {
           "title": "美国总统特朗普考虑禁止某些移民家庭住房救助。（BLAW）",
@@ -30,15 +30,26 @@
           "time_info": "00时43分"
         },
         {
-          "title": "特朗普声称：奥巴马泄露了有关外星人的机密信息",
-          "url": "https://wallstreetcn.com/livenews/3056738",
+          "title": "美国总统特朗普：无论如何都会拿下“拯救美国法案”（The Save America Act）。",
+          "url": "https://wallstreetcn.com/livenews/3056754",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗谈判达成协议的时间窗口最多为10到15天。",
+          "url": "https://flash.jin10.com/detail/20260220034222845800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时35分"
+          "time_info": "04时25分"
         },
         {
           "title": "特朗普宣称：和平委员会获170亿美元加沙援助承诺，多国拟派员参与稳定部队",
@@ -47,23 +58,12 @@
           "ranks": [
             3,
             10,
-            16
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时45分 ~ 03时35分]"
-        },
-        {
-          "title": "美国总统特朗普：奥巴马泄露了关于外星人的机密信息。",
-          "url": "https://flash.jin10.com/detail/20260220021119038800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时42分 ~ 03时35分]"
+          "appearance_count": 4,
+          "time_info": "[01时45分 ~ 04时25分]"
         },
         {
           "title": "特朗普主题ETF管理公司收购MAGA基金",
@@ -72,11 +72,25 @@
           "ranks": [
             4,
             11,
-            17
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时45分 ~ 04时25分]"
+        },
+        {
+          "title": "美国总统特朗普：奥巴马泄露了关于外星人的机密信息。",
+          "url": "https://flash.jin10.com/detail/20260220021119038800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            10,
+            24
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时45分 ~ 03时35分]"
+          "time_info": "[02时42分 ~ 04时25分]"
         },
         {
           "title": "美国总统特朗普：我很乐意让俄罗斯参与（伊朗谈判的）外交事务。",
@@ -84,11 +98,37 @@
           "source": "金十数据",
           "ranks": [
             2,
-            11
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时42分 ~ 04时25分]"
+        },
+        {
+          "title": "美国总统特朗普：无论如何都会就伊朗问题达成协议。如果未能达成伊朗协议，将会发生非常糟糕的事情。",
+          "url": "https://flash.jin10.com/detail/20260220020836905800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时42分 ~ 04时25分]"
+        },
+        {
+          "title": "特朗普将因乌克兰问题对俄罗斯所实施的制裁延长一年",
+          "url": "https://flash.jin10.com/detail/20260220030505008800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时42分 ~ 03时35分]"
+          "time_info": "[03时35分 ~ 04时25分]"
         },
         {
           "title": "特朗普：预计“十天左右”知道能否与伊朗达成协议",
@@ -103,16 +143,42 @@
           "time_info": "[00时43分 ~ 01时45分]"
         },
         {
-          "title": "美国总统特朗普：无论如何都会就伊朗问题达成协议。如果未能达成伊朗协议，将会发生非常糟糕的事情。",
-          "url": "https://flash.jin10.com/detail/20260220020836905800",
-          "source": "金十数据",
+          "title": "特朗普声称：奥巴马泄露了有关外星人的机密信息",
+          "url": "https://wallstreetcn.com/livenews/3056738",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            12
+            5,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时42分 ~ 03时35分]"
+          "time_info": "[03时35分 ~ 04时25分]"
+        },
+        {
+          "title": "美国美术委员会一致批准白宫宴会厅项目，特朗普发文感谢",
+          "url": "https://flash.jin10.com/detail/20260220015619763800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时42分 ~ 04时25分]"
+        },
+        {
+          "title": "特朗普会见印尼总统普拉博沃，签经济安全协议",
+          "url": "https://wallstreetcn.com/livenews/3056728",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时42分 ~ 04时25分]"
         },
         {
           "title": "特朗普签署“和平委员会”财政决议 誓言要整顿加沙",
@@ -141,28 +207,16 @@
           "time_info": "[01时45分 ~ 03时35分]"
         },
         {
-          "title": "美国美术委员会一致批准白宫宴会厅项目，特朗普发文感谢",
-          "url": "https://flash.jin10.com/detail/20260220015619763800",
+          "title": "法国称欧盟委员会“出人意料”参与特朗普会议，无权代表欧盟成员国",
+          "url": "https://flash.jin10.com/detail/20260220021610767800",
           "source": "金十数据",
           "ranks": [
-            6,
-            15
+            8,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时42分 ~ 03时35分]"
-        },
-        {
-          "title": "特朗普会见印尼总统普拉博沃，签经济安全协议",
-          "url": "https://wallstreetcn.com/livenews/3056728",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时42分 ~ 03时35分]"
+          "time_info": "[03时35分 ~ 04时25分]"
         },
         {
           "title": "特朗普称对台军售要跟中国商量",
@@ -177,15 +231,48 @@
           "time_info": "[00时43分 ~ 01时45分]"
         },
         {
-          "title": "法国称欧盟委员会“出人意料”参与特朗普会议，无权代表欧盟成员国",
-          "url": "https://flash.jin10.com/detail/20260220021610767800",
+          "title": "美国总统特朗普：乐意让俄罗斯加入“和平委员会”。",
+          "url": "https://flash.jin10.com/detail/20260220034153793800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "美国总统特朗普：前英国王子安德鲁被捕对王室来说非常糟糕。",
+          "url": "https://flash.jin10.com/detail/20260220034121662800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "美国总统特朗普：并不知道外星人是否真实存在。",
+          "url": "https://flash.jin10.com/detail/20260220034054475800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时35分"
+          "time_info": "04时25分"
+        },
+        {
+          "title": "摩根大通聘请世达律师事务所，应对特朗普迈阿密“销户案”诉讼",
+          "url": "https://wallstreetcn.com/livenews/3056746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
         },
         {
           "title": "特朗普支持的天然气项目令竞争对手因风险而战栗",
@@ -410,19 +497,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 03时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 04时25分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2291237",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 03时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 04时25分]"
         },
         {
           "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
@@ -433,8 +521,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 03时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 04时25分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -445,8 +533,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 03时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 04时25分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -456,8 +544,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 03时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 04时25分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -487,8 +575,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 03时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 04时25分]"
         },
         {
           "title": "美国被曝最早本周末攻打伊朗",
@@ -496,11 +584,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             23,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 03时35分]"
+          "appearance_count": 4,
+          "time_info": "[01时45分 ~ 04时25分]"
         },
         {
           "title": "伊朗总统：不会屈服于美国胁迫",
@@ -524,11 +613,12 @@
           "url": "https://www.cls.cn/detail/2291363",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 03时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 04时25分]"
         },
         {
           "title": "BE半导体实业公司四季度营收1.664亿欧元，分析师预期1.624亿欧元。 四季度订单2.504亿欧元，分析师预期2.282亿欧元。 四季度毛利润率63.9%，分析师预期62.5%。 预计一季度营收将增长5%-15%。 预计一季度毛利率63%-65%，分析师预期63.2%。 预计一季度资本开支季环比将增长10%-15%。",
@@ -536,11 +626,29 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            9
+            9,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时42分 ~ 03时35分]"
+          "appearance_count": 3,
+          "time_info": "[02时42分 ~ 04时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周四（2月19日）纽约尾盘，ICE美元指数涨0.20%，报97.894点，北京时间17:08跌至97.572点刷新日低，随后逐步上扬，22:25刷新日高至98.074点。 彭博美元指数涨0.16%，报1191.07点，日内交投区间为1188.01-1192.71点。",
+          "url": "https://wallstreetcn.com/livenews/3056755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
         }
       ]
     },
@@ -553,11 +661,12 @@
           "url": "https://www.cls.cn/detail/2291772",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时35分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时35分 ~ 04时25分]"
         }
       ]
     }
