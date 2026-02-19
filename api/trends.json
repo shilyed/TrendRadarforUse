@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T14:52:40.653968+08:00",
-  "total_titles_processed": 1157,
+  "generated_at": "2026-02-19T15:45:12.465482+08:00",
+  "total_titles_processed": 1236,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时13分 ~ 14时52分]"
+          "appearance_count": 6,
+          "time_info": "[12时13分 ~ 15时45分]"
         },
         {
           "title": "特朗普将举行首届“和平委员会”会议，宣布成员国注资",
@@ -26,8 +26,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时13分 ~ 14时52分]"
+          "appearance_count": 6,
+          "time_info": "[12时13分 ~ 15时45分]"
+        },
+        {
+          "title": "唐驳虎：美军12架F-22剑指伊朗，特朗普正在打一场心理战",
+          "url": "https://news.ifeng.com/c/8qrt27zMNrI",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时13分 ~ 15时45分]"
         },
         {
           "title": "特朗普、拜登、奥巴马、克林顿齐发声",
@@ -61,17 +72,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
-        },
-        {
-          "title": "唐驳虎：美军12架F-22剑指伊朗，特朗普正在打一场心理战",
-          "url": "https://news.ifeng.com/c/8qrt27zMNrI",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时13分 ~ 14时52分]"
         },
         {
           "title": "特朗普援引国防生产法，保障磷与除草剂的国内供应",
@@ -200,6 +200,18 @@
           "time_info": "[05时29分 ~ 06时26分]"
         },
         {
+          "title": "美多家团体起诉特朗普政府撤销气候危害认定",
+          "url": "https://wallstreetcn.com/livenews/3056582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时52分 ~ 15时45分]"
+        },
+        {
           "title": "美国总统特朗普：英国首相斯塔默正失去对迪戈加西亚的控制权。",
           "url": "https://flash.jin10.com/detail/20260219024600016800",
           "source": "金十数据",
@@ -305,17 +317,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
-        },
-        {
-          "title": "美多家团体起诉特朗普政府撤销气候危害认定",
-          "url": "https://wallstreetcn.com/livenews/3056582",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时52分"
         },
         {
           "title": "美国总统特朗普兜售股市上涨。",
@@ -511,7 +512,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
         },
@@ -530,8 +531,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
+          "url": "https://wallstreetcn.com/articles/3765834",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时25分 ~ 15时45分]"
+        },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
           "url": "https://wallstreetcn.com/articles/3765810",
@@ -543,17 +555,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时55分 ~ 06时26分]"
-        },
-        {
-          "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
-          "url": "https://wallstreetcn.com/articles/3765834",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时25分 ~ 14时52分]"
         },
         {
           "title": "美股三大指数小幅高开，黄金收复5000，白银日内涨5%，原油上涨3%",
@@ -591,8 +592,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时55分 ~ 14时52分]"
+          "appearance_count": 18,
+          "time_info": "[00时55分 ~ 15时45分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -603,8 +604,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时55分 ~ 14时52分]"
+          "appearance_count": 18,
+          "time_info": "[00时55分 ~ 15时45分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -612,11 +613,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时55分 ~ 14时52分]"
+          "appearance_count": 18,
+          "time_info": "[00时55分 ~ 15时45分]"
         },
         {
           "title": "Doordash美股盘后涨10%。",
@@ -678,6 +680,17 @@
           "time_info": "[05时29分 ~ 06时26分]"
         },
         {
+          "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
+          "url": "https://www.cls.cn/detail/2291660",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时44分 ~ 15时45分]"
+        },
+        {
           "title": "Figma美股盘后涨15%，该公司认为人工智能（AI）货币化带动增长。 该公司四季度营收3.038亿美元，分析师预期2.931亿美元。 预计2026年营收大约13.7亿美元，分析师预期12.9亿美元。",
           "url": "https://wallstreetcn.com/livenews/3056488",
           "source": "华尔街见闻-快讯",
@@ -715,7 +728,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "据华尔街日报：官员称，美国正从叙利亚撤出所有部队，部队将在未来两个月内从剩余地点撤军。消息人士称，撤军与为可能袭击伊朗而部署部队无关。",
@@ -735,11 +748,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 14时52分]"
+          "appearance_count": 3,
+          "time_info": "[13时55分 ~ 15时45分]"
         },
         {
           "title": "美国白宫：伊朗方面预计将在未来几周内带来更详细的信息。",
@@ -764,6 +778,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时04分 ~ 03时43分]"
+        },
+        {
+          "title": "俄外长：美国若打击伊朗后果严重",
+          "url": "https://www.douyin.com/hot/2405736",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时44分 ~ 15时45分]"
         },
         {
           "title": "美国高级官员：美国国务卿鲁比奥将于2月28日的周末前往以色列，与以色列总理内塔尼亚胡会晤，讨论伊朗问题。",
@@ -846,18 +871,30 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "现货白银日内涨超2％，现报78.8美元/盎司。现货黄金涨0.76%，报5015.2美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3056589",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时52分 ~ 15时45分]"
+        },
+        {
+          "title": "现货白银向上触及79美元/盎司，日内涨2.39%。",
+          "url": "https://wallstreetcn.com/livenews/3056594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时52分"
+          "time_info": "15时45分"
         },
         {
           "title": "现货白银日内涨幅扩大至2.00%，现报78.72美元/盎司。",
@@ -866,7 +903,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
         },
@@ -888,11 +925,23 @@
           "ranks": [
             2,
             9,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时13分 ~ 14时52分]"
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 15时45分]"
+        },
+        {
+          "title": "现货白银向上触及79美元/盎司，日内涨2.39%。",
+          "url": "https://flash.jin10.com/detail/20260219150625691800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         },
         {
           "title": "现货白银向上触及78美元/盎司，日内涨6.12%。",
@@ -917,11 +966,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时13分 ~ 14时52分]"
+          "appearance_count": 6,
+          "time_info": "[12时13分 ~ 15时45分]"
         },
         {
           "title": "周三（2月18日），彭博电动汽车价格回报指数涨0.92%，报3639.09点，亚太盘初以来持续走高。 成分股Aurora Innovation涨5.8%，Panasonic株式会社收涨5.38%，意法半导体法国巴黎股价收涨3.84%，优美科欧股收涨3.67%，MobilEye则跌约1.7%，巴拉德动力系统股份跌2%，文远知行跌4.1%。",
@@ -1074,11 +1124,12 @@
           "ranks": [
             1,
             8,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时13分 ~ 14时52分]"
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 15时45分]"
         }
       ]
     }
