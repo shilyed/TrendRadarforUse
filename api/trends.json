@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T19:34:27.003909+08:00",
-  "total_titles_processed": 1559,
+  "generated_at": "2026-02-19T20:44:47.669997+08:00",
+  "total_titles_processed": 1647,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "为不影响特朗普访华，美对台军售疑停滞，白宫回应",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时13分 ~ 19时34分]"
+          "appearance_count": 11,
+          "time_info": "[12时13分 ~ 20时44分]"
         },
         {
           "title": "特朗普将举行首届“和平委员会”会议，宣布成员国注资",
@@ -72,6 +72,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
+        },
+        {
+          "title": "美国总统特朗普：在美国大选中我只想要美国人投票。",
+          "url": "https://flash.jin10.com/detail/20260219202807714800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         },
         {
           "title": "特朗普援引国防生产法，保障磷与除草剂的国内供应",
@@ -327,7 +338,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         },
@@ -492,7 +503,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         },
@@ -566,7 +577,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -586,11 +597,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[06时25分 ~ 19时34分]"
+          "appearance_count": 15,
+          "time_info": "[06时25分 ~ 20时44分]"
         },
         {
           "title": "美股三大指数小幅高开，黄金收复5000，白银日内涨5%，原油上涨3%",
@@ -629,8 +641,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时55分 ~ 19时34分]"
+          "appearance_count": 23,
+          "time_info": "[00时55分 ~ 20时44分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -641,8 +653,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时55分 ~ 19时34分]"
+          "appearance_count": 23,
+          "time_info": "[00时55分 ~ 20时44分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -656,8 +668,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时55分 ~ 19时34分]"
+          "appearance_count": 23,
+          "time_info": "[00时55分 ~ 20时44分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -669,8 +681,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时44分 ~ 19时34分]"
+          "appearance_count": 7,
+          "time_info": "[15时44分 ~ 20时44分]"
+        },
+        {
+          "title": "沃尔玛预计2027年调整后每股收益2.75美元至2.85美元，市场预估2.97美元。 第四季度调整后每股收益0.74美元，市场预估0.73美元。 第四季度营收1,906.6亿美元，同比增长5.6%，市场预估1,905.8亿美元。 第四季度经营现金流416亿美元。 沃尔玛宣布新的300亿美元股票回购计划。 沃尔玛美股盘前跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3056638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         },
         {
           "title": "美股盘前，白银概念股走强，泛美白银(PAAS.O)涨4.6%、赫克拉矿业(HL.N)涨1.9%、First Majestic(AG.O)涨1.3%。",
@@ -701,11 +724,24 @@
           "ranks": [
             1,
             12,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时38分 ~ 19时34分]"
+          "appearance_count": 4,
+          "time_info": "[17时38分 ~ 20时44分]"
+        },
+        {
+          "title": "科技股拖累美股期指转跌，特斯拉盘前领跌Mag7，地缘局势升温推高金银油，黄金站上5000美元",
+          "url": "https://wallstreetcn.com/articles/3765856",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时34分 ~ 20时44分]"
         },
         {
           "title": "美股存储芯片概念股盘前上涨，Sandisk、美光科技均涨超1%。白银概念股走强，泛美白银涨超4%，赫克拉矿业涨近2%。",
@@ -793,17 +829,6 @@
           "time_info": "[06时26分 ~ 07时22分]"
         },
         {
-          "title": "科技股拖累美股期指转跌，特斯拉盘前领跌Mag7，地缘局势升温推高金银油，黄金站上5000美元",
-          "url": "https://wallstreetcn.com/articles/3765856",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
           "title": "房利美股价迅速扩大涨幅，上涨4%。",
           "url": "https://flash.jin10.com/detail/20260218231319433800",
           "source": "金十数据",
@@ -829,7 +854,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "俄外长：美国若打击伊朗后果严重",
@@ -840,11 +865,12 @@
             17,
             24,
             25,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时44分 ~ 19时34分]"
+          "appearance_count": 7,
+          "time_info": "[15时44分 ~ 20时44分]"
         },
         {
           "title": "俄外长：美国对伊朗的任何新打击将产生严重后果",
@@ -983,6 +1009,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
+        },
+        {
+          "title": "美国被曝最早本周末攻打伊朗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E8%A2%AB%E6%9B%9D%E6%9C%80%E6%97%A9%E6%9C%AC%E5%91%A8%E6%9C%AB%E6%94%BB%E6%89%93%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         }
       ]
     },
@@ -1093,8 +1130,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时13分 ~ 19时34分]"
+          "appearance_count": 11,
+          "time_info": "[12时13分 ~ 20时44分]"
         },
         {
           "title": "周三（2月18日），彭博电动汽车价格回报指数涨0.92%，报3639.09点，亚太盘初以来持续走高。 成分股Aurora Innovation涨5.8%，Panasonic株式会社收涨5.38%，意法半导体法国巴黎股价收涨3.84%，优美科欧股收涨3.67%，MobilEye则跌约1.7%，巴拉德动力系统股份跌2%，文远知行跌4.1%。",
