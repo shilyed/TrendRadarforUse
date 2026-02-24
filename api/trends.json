@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T04:27:42.657713+08:00",
-  "total_titles_processed": 438,
+  "generated_at": "2026-02-25T05:36:16.452849+08:00",
+  "total_titles_processed": 500,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 04时27分]"
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 05时36分]"
         },
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 04时27分]"
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 05时36分]"
         },
         {
           "title": "特朗普第二任期首场国情咨文会谈什么？“剧透”来了",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 04时27分]"
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 05时36分]"
         },
         {
           "title": "据福克斯新闻：特朗普表示，伊朗尚未同意放弃核武器。",
@@ -47,7 +47,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
         },
@@ -58,18 +58,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        },
-        {
-          "title": "美国纽约州州长Hochul呼吁特朗普政府退还135亿美元关税款项",
-          "url": "https://wallstreetcn.com/livenews/3058315",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
         },
@@ -82,8 +71,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 04时27分]"
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 05时36分]"
         },
         {
           "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
@@ -94,8 +83,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 04时27分]"
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 05时36分]"
         },
         {
           "title": "美国参议院民主党成员Warren等人要求就特朗普关税退款问题制定计划。",
@@ -110,13 +99,48 @@
           "time_info": "[01时57分 ~ 02时52分]"
         },
         {
+          "title": "美国纽约州州长Hochul呼吁特朗普政府退还135亿美元关税款项",
+          "url": "https://wallstreetcn.com/livenews/3058315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 05时36分]"
+        },
+        {
+          "title": "中方回应特朗普3月31日将访问中国",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE3%E6%9C%8831%E6%97%A5%E5%B0%86%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 05时36分]"
+        },
+        {
+          "title": "美国进口商请求法院执行特朗普关税败诉裁决、索要退款。",
+          "url": "https://wallstreetcn.com/livenews/3058339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
           "title": "电费太贵 特朗普将在国情咨文中宣布让科技公司为AI能源买单",
           "url": "https://flash.jin10.com/detail/20260225033807828800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
         },
@@ -127,9 +151,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
+        },
+        {
+          "title": "美国民主党指责司法部为特朗普“打掩护” 关键证据或遭扣押",
+          "url": "https://flash.jin10.com/detail/20260225045852872800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         },
         {
           "title": "市场消息：加拿大输油管道公司South Bow正考虑一项新项目，该项目将重启Keystone XL输油管道的部分线路。加拿大总理卡尼在向美国总统特朗普提出管道构想时，就已知该公司重启的计划。",
@@ -138,7 +173,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
         },
@@ -152,6 +187,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
+        },
+        {
+          "title": "据Politico：美国民主党人调查司法部是否扣留涉特朗普的爱泼斯坦案文件。",
+          "url": "https://flash.jin10.com/detail/20260225045144248800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         },
         {
           "title": "乌克兰驻美大使斯特凡尼希娜：我受邀出席美国总统特朗普的国情咨文演讲。",
@@ -176,15 +222,26 @@
           "time_info": "01时57分"
         },
         {
-          "title": "中方回应特朗普3月31日将访问中国",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE3%E6%9C%8831%E6%97%A5%E5%B0%86%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
+          "title": "美国总统特朗普：伊朗还没有同意“不掌握核武器”。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3058321",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时27分"
+          "time_info": "05时36分"
+        },
+        {
+          "title": "报道：特朗普将呼吁出台新形式的减税措施",
+          "url": "https://wallstreetcn.com/livenews/3058320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         },
         {
           "title": "乌克兰驻美大使斯特凡尼希娜：预计将在美国总统特朗普的国情咨文演讲中听到有关结束冲突的信息。",
@@ -207,12 +264,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
+        },
+        {
+          "title": "白宫：特朗普对伊朗首选方案是外交",
+          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%AE%AB%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BC%8A%E6%9C%97%E9%A6%96%E9%80%89%E6%96%B9%E6%A1%88%E6%98%AF%E5%A4%96%E4%BA%A4",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
@@ -222,8 +290,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 04时27分]"
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 05时36分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -233,8 +301,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 04时27分]"
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 05时36分]"
         },
         {
           "title": "AI冲击余波未平，美股盘初涨跌互现，芯片板块拉升，AMD拿下大单涨超6%，金银回落，基本金属拉升",
@@ -244,8 +312,30 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 04时27分]"
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 05时36分]"
+        },
+        {
+          "title": "金十图示：2026年02月24日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260225050547207800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "金十图示：2026年02月24日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260225050527378800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         },
         {
           "title": "金十图示：2026年02月24日（周二）美股热门股票行情一览（美股盘中）",
@@ -259,6 +349,18 @@
           "time_info": "01时57分"
         },
         {
+          "title": "美股三大期指集体走高 AMD盘前一度大涨15% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2293967",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 05时36分]"
+        },
+        {
           "title": "德债收益率在美股盘初短暂地拉升",
           "url": "https://wallstreetcn.com/livenews/3058277",
           "source": "华尔街见闻-快讯",
@@ -269,18 +371,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时57分 ~ 02时52分]"
-        },
-        {
-          "title": "美股三大期指集体走高 AMD盘前一度大涨15% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2293967",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 04时27分]"
         },
         {
           "title": "数字货币市场在美股早盘反弹",
@@ -304,6 +394,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 AMD大涨超8%",
+          "url": "https://flash.jin10.com/detail/20260225050111394800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "周二（2月24日）美股尾盘，彭博电动汽车价格回报指数涨1.66%，报3695.65点，亚太盘初以来持续走高，美股盘初显著加速。",
+          "url": "https://wallstreetcn.com/livenews/3058334",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         }
       ]
     },
@@ -311,6 +423,17 @@
       "keyword_group": "伊朗",
       "match_count": 8,
       "titles": [
+        {
+          "title": "WW3预热,美国对伊朗动手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350882&amp;topic_name=WW3%E9%A2%84%E7%83%AD%2C%E7%BE%8E%E5%9B%BD%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 05时36分]"
+        },
         {
           "title": "据知情人士透露，美国中情局局长拉特克利夫将同国务卿鲁比奥一道，参加美东时间15:00“八人小组”进行的伊朗问题简报会。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3058288",
@@ -322,17 +445,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时52分 ~ 04时27分]"
-        },
-        {
-          "title": "WW3预热,美国对伊朗动手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350882&amp;topic_name=WW3%E9%A2%84%E7%83%AD%2C%E7%BE%8E%E5%9B%BD%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%89%8B",
-          "source": "贴吧",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 04时27分]"
         },
         {
           "title": "市场消息：知情人士透露，美国中情局局长拉特克利夫将同国务卿鲁比奥一道，参加当地时间下午3点向“八人小组”进行的伊朗问题简报会。",
@@ -352,7 +464,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
         },
@@ -363,7 +475,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
         },
@@ -403,6 +515,40 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周二（2月24日）纽约尾盘，美国10年期国债收益率涨1.76个基点，报4.0385%。 两年期美债收益率涨2.09个基点，报3.4590%；30年期美债收益率跌0.58个基点，报4.6962%。 2/10年期美债收益率利差跌1.124个基点，报+57.552个基点。 10年期通胀保值国债（TIPS）收益率持平，报1.7694%；两年期TIPS收益率涨2.23个基点，至0.7337%；30年期TIPS收益率跌1.06个基点，至2.4819%。",
+          "url": "https://wallstreetcn.com/livenews/3058330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周二（2月24日）纽约尾盘，ICE美元指数涨0.14%，报97,843点，日内交投区间为97.695-97.986点。 彭博美元指数涨0.03%，报1189.77点，日内交投区间为1188.71-1192.00点。",
+          "url": "https://wallstreetcn.com/livenews/3058322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        }
+      ]
+    },
+    {
       "keyword_group": "白银",
       "match_count": 1,
       "titles": [
@@ -417,6 +563,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时52分 ~ 04时27分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "标普500指数收涨52.32点，涨幅0.77%，报6890.07点。 道琼斯工业平均指数收涨370.44点，涨幅0.76%，报49174.50点。 纳斯达克综合指数（纳指）收涨236.409点，涨幅1.05%，报22863.682点。 纳斯达克100指数收涨268.102点，涨幅1.09%，报24977.044点。 纳斯达克生物科技指数收涨0.79%，报6061.80点。 费城半导体指数收涨1.45%，报8332.343点。 费城证交所KBW银行指数收跌0.15%，报161.48点。 道琼斯KBW地区银行指数收跌0.11%，报132.76点。",
+          "url": "https://wallstreetcn.com/livenews/3058340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         }
       ]
     }
