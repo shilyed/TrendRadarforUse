@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T15:48:32.378609+08:00",
-  "total_titles_processed": 1244,
+  "generated_at": "2026-02-25T16:40:09.630890+08:00",
+  "total_titles_processed": 1315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 63,
+      "match_count": 65,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -19,6 +19,18 @@
           "time_info": "[01时56分 ~ 15时48分]"
         },
         {
+          "title": "特朗普：100%错误",
+          "url": "https://news.ifeng.com/c/8r1UTBsOox0",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时13分 ~ 16时40分]"
+        },
+        {
           "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
           "url": "https://wallstreetcn.com/articles/3766081",
           "source": "华尔街见闻",
@@ -29,8 +41,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时56分 ~ 15时48分]"
+          "appearance_count": 16,
+          "time_info": "[01时56分 ~ 16时40分]"
         },
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -55,18 +67,6 @@
           "time_info": "[01时56分 ~ 07时30分]"
         },
         {
-          "title": "特朗普：100%错误",
-          "url": "https://news.ifeng.com/c/8r1UTBsOox0",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时13分 ~ 15时48分]"
-        },
-        {
           "title": "特朗普发表国情咨文演讲，民主党议员举横幅被带离",
           "url": "https://news.ifeng.com/c/8r1qCIUuhrr",
           "source": "凤凰网",
@@ -85,8 +85,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时55分 ~ 16时40分]"
+        },
+        {
+          "title": "特朗普发表国情咨文演讲，一议员举横幅被带离(图)",
+          "url": "https://news.ifeng.com/c/8r1qCIUuhrr",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时55分 ~ 15时48分]"
+          "time_info": "[15时48分 ~ 16时40分]"
         },
         {
           "title": "中美就特朗普访华事宜保持着沟通",
@@ -112,17 +123,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时29分 ~ 13时56分]"
-        },
-        {
-          "title": "特朗普发表国情咨文演讲，一议员举横幅被带离(图)",
-          "url": "https://news.ifeng.com/c/8r1qCIUuhrr",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时48分"
         },
         {
           "title": "据福克斯新闻：特朗普表示，伊朗尚未同意放弃核武器。",
@@ -156,6 +156,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
+        },
+        {
+          "title": "特朗普：伊朗正研制能打到美国的导弹",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%AD%A3%E7%A0%94%E5%88%B6%E8%83%BD%E6%89%93%E5%88%B0%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%BC%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时56分 ~ 16时40分]"
         },
         {
           "title": "特朗普：伊朗正研制很快打到美国的导弹",
@@ -224,6 +237,17 @@
           "time_info": "12时14分"
         },
         {
+          "title": "金十整理：什么是真的？CNN打假特朗普国情咨文",
+          "url": "https://flash.jin10.com/detail/20260225160730290800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
           "title": "中方回应特朗普3月31日将访问中国",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE3%E6%9C%8831%E6%97%A5%E5%B0%86%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -274,18 +298,6 @@
           "time_info": "[04时27分 ~ 05时36分]"
         },
         {
-          "title": "特朗普：伊朗正研制能打到美国的导弹",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%AD%A3%E7%A0%94%E5%88%B6%E8%83%BD%E6%89%93%E5%88%B0%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%BC%E5%BC%B9",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时56分 ~ 15时48分]"
-        },
-        {
           "title": "美议员称宁愿瞎也不想听特朗普演说",
           "url": "https://www.toutiao.com/trending/7610278765754794003/",
           "source": "今日头条",
@@ -333,6 +345,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时36分 ~ 06时26分]"
+        },
+        {
+          "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
+          "url": "https://www.cls.cn/detail/2294552",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时39分 ~ 16时40分]"
         },
         {
           "title": "据Politico：美国民主党人调查司法部是否扣留涉特朗普的爱泼斯坦案文件。",
@@ -833,6 +856,18 @@
           "time_info": "[05时36分 ~ 06时26分]"
         },
         {
+          "title": "7000字“AI鬼故事”引发美股地震！始作俑者：我也没想到……",
+          "url": "https://www.cls.cn/detail/2294269",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时48分 ~ 16时40分]"
+        },
+        {
           "title": "美股收盘：三大股指收涨 AMD大涨超8%",
           "url": "https://flash.jin10.com/detail/20260225050111394800",
           "source": "金十数据",
@@ -889,17 +924,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
-        },
-        {
-          "title": "7000字“AI鬼故事”引发美股地震！始作俑者：我也没想到……",
-          "url": "https://www.cls.cn/detail/2294269",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时48分"
         },
         {
           "title": "美股七巨头收盘播报｜周二（2月24日），美国科技股七巨头（Magnificent 7）指数涨1.10%，报197.92点，美股盘初V形反转，北京时间23:30以来高位持稳。 “超大”市值科技股指数涨1.81%，报368.94点。",
@@ -1087,11 +1111,12 @@
           "ranks": [
             17,
             22,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时56分 ~ 15时48分]"
+          "appearance_count": 16,
+          "time_info": "[01时56分 ~ 16时40分]"
         },
         {
           "title": "据知情人士透露，美国中情局局长拉特克利夫将同国务卿鲁比奥一道，参加美东时间15:00“八人小组”进行的伊朗问题简报会。（Axios）",
@@ -1217,7 +1242,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时48分"
         },
@@ -1256,7 +1281,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时48分"
         },
@@ -1267,7 +1292,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时48分"
         },
@@ -1278,7 +1303,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时48分"
         },
@@ -1289,7 +1314,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时48分"
         }
@@ -1363,11 +1388,12 @@
           "ranks": [
             13,
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时13分 ~ 15时48分]"
+          "appearance_count": 8,
+          "time_info": "[12时13分 ~ 16时40分]"
         },
         {
           "title": "业内人士：存储芯片涨价或将贯穿全年，中国产业崛起成“胜负手”",
@@ -1379,6 +1405,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "有色",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "恒生指数收盘涨0.66%，有色钢铁股涨幅居前，MINIMAX、智谱跌超10%",
+          "url": "https://wallstreetcn.com/livenews/3058723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         }
       ]
     }
