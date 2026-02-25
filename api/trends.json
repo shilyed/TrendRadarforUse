@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T14:56:08.026783+08:00",
-  "total_titles_processed": 1160,
+  "generated_at": "2026-02-25T15:48:32.378609+08:00",
+  "total_titles_processed": 1244,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 62,
+      "match_count": 63,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时56分 ~ 14时56分]"
+          "appearance_count": 14,
+          "time_info": "[01时56分 ~ 15时48分]"
         },
         {
           "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时56分 ~ 14时56分]"
+          "appearance_count": 14,
+          "time_info": "[01时56分 ~ 15时48分]"
         },
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -55,6 +55,18 @@
           "time_info": "[01时56分 ~ 07时30分]"
         },
         {
+          "title": "特朗普：100%错误",
+          "url": "https://news.ifeng.com/c/8r1UTBsOox0",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时13分 ~ 15时48分]"
+        },
+        {
           "title": "特朗普发表国情咨文演讲，民主党议员举横幅被带离",
           "url": "https://news.ifeng.com/c/8r1qCIUuhrr",
           "source": "凤凰网",
@@ -66,16 +78,15 @@
           "time_info": "[12时13分 ~ 14时56分]"
         },
         {
-          "title": "特朗普：100%错误",
-          "url": "https://news.ifeng.com/c/8r1UTBsOox0",
+          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”",
+          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
           "source": "凤凰网",
           "ranks": [
-            2,
-            4
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时13分 ~ 14时56分]"
+          "appearance_count": 3,
+          "time_info": "[14时55分 ~ 15时48分]"
         },
         {
           "title": "中美就特朗普访华事宜保持着沟通",
@@ -91,17 +102,6 @@
           "time_info": "[01时56分 ~ 07时30分]"
         },
         {
-          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”",
-          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时55分 ~ 14时56分]"
-        },
-        {
           "title": "特朗普打还是不打，只是时间问题了",
           "url": "https://news.ifeng.com/c/8r1bJIeSigy",
           "source": "凤凰网",
@@ -112,6 +112,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时29分 ~ 13时56分]"
+        },
+        {
+          "title": "特朗普发表国情咨文演讲，一议员举横幅被带离(图)",
+          "url": "https://news.ifeng.com/c/8r1qCIUuhrr",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
         },
         {
           "title": "据福克斯新闻：特朗普表示，伊朗尚未同意放弃核武器。",
@@ -238,6 +249,19 @@
           "time_info": "[01时57分 ~ 02时52分]"
         },
         {
+          "title": "多数美国人称特朗普愈发反复无常",
+          "url": "https://www.toutiao.com/trending/7609682757731647524/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时56分 ~ 15时48分]"
+        },
+        {
           "title": "美国纽约州州长Hochul呼吁特朗普政府退还135亿美元关税款项",
           "url": "https://wallstreetcn.com/livenews/3058315",
           "source": "华尔街见闻-快讯",
@@ -250,16 +274,28 @@
           "time_info": "[04时27分 ~ 05时36分]"
         },
         {
-          "title": "多数美国人称特朗普愈发反复无常",
-          "url": "https://www.toutiao.com/trending/7609682757731647524/",
+          "title": "特朗普：伊朗正研制能打到美国的导弹",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%AD%A3%E7%A0%94%E5%88%B6%E8%83%BD%E6%89%93%E5%88%B0%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%BC%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时56分 ~ 15时48分]"
+        },
+        {
+          "title": "美议员称宁愿瞎也不想听特朗普演说",
+          "url": "https://www.toutiao.com/trending/7610278765754794003/",
           "source": "今日头条",
           "ranks": [
-            7,
-            25
+            28,
+            19
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时56分 ~ 14时56分]"
+          "time_info": "[14时55分 ~ 15时48分]"
         },
         {
           "title": "白宫：特朗普对伊朗首选方案是外交",
@@ -273,17 +309,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时36分 ~ 07时30分]"
-        },
-        {
-          "title": "特朗普：伊朗正研制能打到美国的导弹",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%AD%A3%E7%A0%94%E5%88%B6%E8%83%BD%E6%89%93%E5%88%B0%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%BC%E5%BC%B9",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时56分 ~ 14时56分]"
         },
         {
           "title": "美国进口商请求法院执行特朗普关税败诉裁决、索要退款。",
@@ -332,17 +357,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时26分 ~ 07时30分]"
-        },
-        {
-          "title": "美议员称宁愿瞎也不想听特朗普演说",
-          "url": "https://www.toutiao.com/trending/7610278765754794003/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时55分 ~ 14时56分]"
         },
         {
           "title": "特朗普的关税布局会功亏一篑吗",
@@ -439,7 +453,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         },
@@ -711,7 +725,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
@@ -736,6 +750,18 @@
           "time_info": "[01时56分 ~ 06时26分]"
         },
         {
+          "title": "美股收盘：软件板块回暖三大指数齐涨 空头突袭存储牛股",
+          "url": "https://www.cls.cn/detail/2294131",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时30分 ~ 15时48分]"
+        },
+        {
           "title": "AI冲击余波未平，美股盘初涨跌互现，芯片板块拉升，AMD拿下大单涨超6%，金银回落，基本金属拉升",
           "url": "https://wallstreetcn.com/articles/3766041",
           "source": "华尔街见闻",
@@ -758,18 +784,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时56分 ~ 12时14分]"
-        },
-        {
-          "title": "美股收盘：软件板块回暖三大指数齐涨 空头突袭存储牛股",
-          "url": "https://www.cls.cn/detail/2294131",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时30分 ~ 14时56分]"
         },
         {
           "title": "金十图示：2026年02月24日（周二）美股热门股票行情一览（美股盘中）",
@@ -875,6 +889,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
+        },
+        {
+          "title": "7000字“AI鬼故事”引发美股地震！始作俑者：我也没想到……",
+          "url": "https://www.cls.cn/detail/2294269",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
         },
         {
           "title": "美股七巨头收盘播报｜周二（2月24日），美国科技股七巨头（Magnificent 7）指数涨1.10%，报197.92点，美股盘初V形反转，北京时间23:30以来高位持稳。 “超大”市值科技股指数涨1.81%，报368.94点。",
@@ -1023,7 +1048,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         },
@@ -1034,7 +1059,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         },
@@ -1045,7 +1070,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         }
@@ -1065,8 +1090,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时56分 ~ 14时56分]"
+          "appearance_count": 14,
+          "time_info": "[01时56分 ~ 15时48分]"
         },
         {
           "title": "据知情人士透露，美国中情局局长拉特克利夫将同国务卿鲁比奥一道，参加美东时间15:00“八人小组”进行的伊朗问题简报会。（Axios）",
@@ -1161,7 +1186,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "恒指高开0.58%，报26745.20点；恒生科技指数涨0.86%。小鹏汽车涨超2%，华虹半导体、中芯国际涨超1%。",
@@ -1186,6 +1211,17 @@
           "time_info": "05时36分"
         },
         {
+          "title": "金十图示：2026年02月25日（周三）富时中国A50指数成分股今日收盘行情一览：部分银行、煤炭、化学制药股午后翻绿，工业金属、半导体板块表现较好",
+          "url": "https://flash.jin10.com/detail/20260225150704227800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
+        },
+        {
           "title": "陈茂波：香港微电子研发院的第三代半导体芯片技术研发与试产的中试线年内投入运作",
           "url": "https://wallstreetcn.com/livenews/3058552",
           "source": "华尔街见闻-快讯",
@@ -1206,6 +1242,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "金价暴涨下的众生相",
+          "url": "https://www.toutiao.com/trending/7610085865549905966/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
+        },
+        {
+          "title": "摩根大通：将长期黄金价格预测上调至每盎司4500美元。",
+          "url": "https://flash.jin10.com/detail/20260225150843874800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
+        },
+        {
+          "title": "摩根大通：预计2026年底黄金价格将达到每盎司6300美元。",
+          "url": "https://flash.jin10.com/detail/20260225150719104800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
+        },
+        {
+          "title": "金十图示：2026年02月25日（周三）上海金午盘价为1147.47元/克，较国际金价(1146.29元/克)，高1.18元/克",
+          "url": "https://flash.jin10.com/detail/20260225150243003800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
         }
       ]
     },
@@ -1280,8 +1366,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时13分 ~ 14时56分]"
+          "appearance_count": 6,
+          "time_info": "[12时13分 ~ 15时48分]"
         },
         {
           "title": "业内人士：存储芯片涨价或将贯穿全年，中国产业崛起成“胜负手”",
