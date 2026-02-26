@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T16:37:46.792216+08:00",
-  "total_titles_processed": 1361,
+  "generated_at": "2026-02-26T17:42:02.365330+08:00",
+  "total_titles_processed": 1463,
   "failed_sources": [],
   "trends": [
     {
@@ -61,11 +61,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时10分 ~ 16时37分]"
+          "appearance_count": 7,
+          "time_info": "[12时10分 ~ 17时42分]"
         },
         {
           "title": "阿斯顿马丁将裁员至多20%，来应对美国总统特朗普挑起的关税所造成的复杂形势。",
@@ -88,8 +89,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时53分 ~ 16时37分]"
+          "appearance_count": 6,
+          "time_info": "[13时53分 ~ 17时42分]"
+        },
+        {
+          "title": "梳理｜特朗普吹、民主党骂，回看美国史上最长国情咨文",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32655137",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时37分 ~ 17时42分]"
         },
         {
           "title": "乌克兰总统泽连斯基：刚刚和美国总统特朗普通了电话。美国总统特使威特科夫和贾里德·库什纳也参加了通话。我们讨论了双方代表明天在日内瓦双边会晤中将要讨论的问题，以及三月初三方谈判团队全体会议的筹备工作。",
@@ -206,17 +219,6 @@
           "time_info": "12时10分"
         },
         {
-          "title": "梳理｜特朗普吹、民主党骂，回看美国史上最长国情咨文",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32655137",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
           "title": "特朗普把国情咨文演讲开成吹牛大会",
           "url": "https://www.toutiao.com/trending/7611003629566168602/",
           "source": "今日头条",
@@ -234,7 +236,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -286,7 +288,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
@@ -297,8 +299,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时23分 ~ 16时37分]"
+          "appearance_count": 9,
+          "time_info": "[07时23分 ~ 17时42分]"
         },
         {
           "title": "静待英伟达财报，美股指高开，纳指涨幅扩大至1%，科技股普涨，现货黄金日内涨超1%",
@@ -429,6 +431,17 @@
           "time_info": "05时30分"
         },
         {
+          "title": "百度美股盘前跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3059459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
           "title": "英伟达美股盘后涨幅收窄至0.4%，该公司CEO黄仁勋与CFO正在讲话。",
           "url": "https://wallstreetcn.com/livenews/3059092",
           "source": "华尔街见闻-快讯",
@@ -454,7 +467,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "美国国务卿鲁比奥：伊朗正试图研制洲际弹道导弹。",
@@ -507,7 +520,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -518,7 +531,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -532,6 +545,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
+        },
+        {
+          "title": "据伊朗国家媒体：伊朗与美国在日内瓦启动第三轮间接核谈判。",
+          "url": "https://flash.jin10.com/detail/20260226171910670800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         },
         {
           "title": "伊朗提出的核协议方案包括在伊朗境内进行“象征性的核浓缩”，用于研究目的，尽管美国要求伊朗放弃所有核浓缩活动。",
@@ -551,9 +575,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
+        },
+        {
+          "title": "伊朗媒体：伊朗提交谈判提案考验美国诚意",
+          "url": "https://wallstreetcn.com/livenews/3059447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         },
         {
           "title": "中国是否会与俄罗斯一道支持伊朗抵御美国侵略？外交部回应",
@@ -562,7 +597,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -584,7 +619,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -603,8 +638,24 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "国投白银LOF补偿方案正式启动",
+          "url": "https://www.douyin.com/hot/2411966",
+          "source": "抖音",
+          "ranks": [
+            6,
+            9,
+            12,
+            15,
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时10分 ~ 17时42分]"
+        },
         {
           "title": "印度监管机构放宽主动型股票基金投资范围 黄金白银成新宠",
           "url": "https://flash.jin10.com/detail/20260226152906756800",
@@ -623,7 +674,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -639,19 +690,16 @@
           "time_info": "06时25分"
         },
         {
-          "title": "国投白银LOF补偿方案正式启动",
-          "url": "https://www.douyin.com/hot/2411966",
-          "source": "抖音",
+          "title": "国投白银LOF补偿今起办理！详细比例首次透露",
+          "url": "https://www.cls.cn/detail/2295399",
+          "source": "财联社热门",
           "ranks": [
-            6,
-            9,
-            12,
-            15,
-            21
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时10分 ~ 16时37分]"
+          "appearance_count": 3,
+          "time_info": "[16时37分 ~ 17时42分]"
         },
         {
           "title": "现货白银日内涨幅达1.00%，现报90.15美元/盎司。",
@@ -698,6 +746,17 @@
           "time_info": "12时10分"
         },
         {
+          "title": "国投白银LOF：2月27日开市起至当日10:30停牌",
+          "url": "https://wallstreetcn.com/livenews/3059467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 2月26日（周四）早盘盘初上涨0.09%报1146.79元/克；<br/>上海黄金交易所白银T+D 2月26日（周四）早盘盘初上涨1.65%报22207.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260226090111238800",
           "source": "金十数据",
@@ -707,17 +766,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
-        },
-        {
-          "title": "国投白银LOF补偿今起办理！详细比例首次透露",
-          "url": "https://www.cls.cn/detail/2295399",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时37分"
         },
         {
           "title": "现货白银转涨，此前跌超2%，现报89.22美元/盎司。",
@@ -737,7 +785,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -751,6 +799,60 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "现货白银日内跌幅达3.0%，报86.15美元/盎司；纽约银日内跌幅达5.0%，报86.82美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3059441",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金价高的已经推出红绳戒指了",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%AB%98%E7%9A%84%E5%B7%B2%E7%BB%8F%E6%8E%A8%E5%87%BA%E7%BA%A2%E7%BB%B3%E6%88%92%E6%8C%87%E4%BA%86&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            24,
+            26,
+            25,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 07时23分]"
+        },
+        {
+          "title": "女子泰国机场1110元金价买了周大福",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%B3%B0%E5%9B%BD%E6%9C%BA%E5%9C%BA1110%E5%85%83%E9%87%91%E4%BB%B7%E4%B9%B0%E4%BA%86%E5%91%A8%E5%A4%A7%E7%A6%8F%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时53分 ~ 14时51分]"
+        },
+        {
+          "title": "游客泰国机场1110元金价买了周大福",
+          "url": "https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E6%B3%B0%E5%9B%BD%E6%9C%BA%E5%9C%BA1110%E5%85%83%E9%87%91%E4%BB%B7%E4%B9%B0%E4%BA%86%E5%91%A8%E5%A4%A7%E7%A6%8F",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 17时42分]"
         }
       ]
     },
@@ -792,38 +894,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金价高的已经推出红绳戒指了",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%AB%98%E7%9A%84%E5%B7%B2%E7%BB%8F%E6%8E%A8%E5%87%BA%E7%BA%A2%E7%BB%B3%E6%88%92%E6%8C%87%E4%BA%86&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16,
-            24,
-            26,
-            25,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 07时23分]"
-        },
-        {
-          "title": "女子泰国机场1110元金价买了周大福",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%B3%B0%E5%9B%BD%E6%9C%BA%E5%9C%BA1110%E5%85%83%E9%87%91%E4%BB%B7%E4%B9%B0%E4%BA%86%E5%91%A8%E5%A4%A7%E7%A6%8F%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 14时51分]"
         }
       ]
     },
@@ -878,9 +948,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时37分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时37分 ~ 17时42分]"
         }
       ]
     },
