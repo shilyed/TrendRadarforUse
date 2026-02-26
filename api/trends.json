@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T19:35:34.909309+08:00",
-  "total_titles_processed": 1658,
+  "generated_at": "2026-02-26T20:44:48.295059+08:00",
+  "total_titles_processed": 1756,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
@@ -76,8 +76,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时53分 ~ 19时35分]"
+          "appearance_count": 10,
+          "time_info": "[13时53分 ~ 20时44分]"
         },
         {
           "title": "阿斯顿马丁将裁员至多20%，来应对美国总统特朗普挑起的关税所造成的复杂形势。",
@@ -111,11 +111,23 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时38分 ~ 19时35分]"
+          "appearance_count": 4,
+          "time_info": "[18时38分 ~ 20时44分]"
+        },
+        {
+          "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
+          "url": "https://news.ifeng.com/c/8r3yuvat2ge",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时35分 ~ 20时44分]"
         },
         {
           "title": "乌克兰总统泽连斯基：刚刚和美国总统特朗普通了电话。美国总统特使威特科夫和贾里德·库什纳也参加了通话。我们讨论了双方代表明天在日内瓦双边会晤中将要讨论的问题，以及三月初三方谈判团队全体会议的筹备工作。",
@@ -199,17 +211,6 @@
           "time_info": "12时10分"
         },
         {
-          "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
-          "url": "https://news.ifeng.com/c/8r3yuvat2ge",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时35分"
-        },
-        {
           "title": "特朗普试戴冬奥金牌不还",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%95%E6%88%B4%E5%86%AC%E5%A5%A5%E9%87%91%E7%89%8C%E4%B8%8D%E8%BF%98%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -241,6 +242,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
+        },
+        {
+          "title": "特朗普威胁将教父饰演者驱逐出境",
+          "url": "https://www.toutiao.com/trending/7610586645797863478/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-26）",
@@ -322,6 +334,454 @@
       ]
     },
     {
+      "keyword_group": "白银",
+      "match_count": 20,
+      "titles": [
+        {
+          "title": "国投白银LOF补偿方案正式启动",
+          "url": "https://www.douyin.com/hot/2411966",
+          "source": "抖音",
+          "ranks": [
+            6,
+            9,
+            12,
+            15,
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时10分 ~ 17时42分]"
+        },
+        {
+          "title": "印度监管机构放宽主动型股票基金投资范围 黄金白银成新宠",
+          "url": "https://flash.jin10.com/detail/20260226152906756800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
+          "title": "现货白银回落至87美元/盎司下方，日内跌2.53%。",
+          "url": "https://flash.jin10.com/detail/20260226162715582800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
+          "title": "现货白银涨约2.7%，现货铂金涨5.4%",
+          "url": "https://wallstreetcn.com/livenews/3059071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
+          "title": "印度证交所调整共同基金中黄金和白银的估值方式",
+          "url": "https://flash.jin10.com/detail/20260226191126435800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
+          "title": "现货白银日内跌幅达3.5%，报85.84美元/盎司。 纽约银日内跌幅达5.5%，报86.45美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3059558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
+          "title": "国投白银LOF补偿今起办理！详细比例首次透露",
+          "url": "https://www.cls.cn/detail/2295399",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时37分 ~ 18时39分]"
+        },
+        {
+          "title": "现货白银日内涨幅达1.00%，现报90.15美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260226090413243800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "印度市场监管机构允许该国规模达3840亿美元的主动管理型股票基金将更多资金投资于黄金和白银。",
+          "url": "https://flash.jin10.com/detail/20260226152215261800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
+          "title": "现货白银向上触及90美元/盎司，日内涨0.84%。",
+          "url": "https://flash.jin10.com/detail/20260226090146181800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "金十图示：2026年02月26日（周四）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260226115135412800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
+          "title": "国投白银LOF：2月27日开市起至当日10:30停牌",
+          "url": "https://wallstreetcn.com/livenews/3059467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 2月26日（周四）早盘盘初上涨0.09%报1146.79元/克；<br/>上海黄金交易所白银T+D 2月26日（周四）早盘盘初上涨1.65%报22207.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260226090111238800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "现货白银转涨，此前跌超2%，现报89.22美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260226085536238800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "印度放宽规模3840亿美元股票基金新规，允许增持黄金、白银。（印度经济时报）",
+          "url": "https://wallstreetcn.com/livenews/3059394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
+          "title": "拆解贵金属逻辑：白银能否冲击月线十连阳？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260226185505704800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少28.18吨，当前持仓量为16079.74吨。欢迎点击查看数据中心…",
+          "url": "https://flash.jin10.com/detail/20260226064738775800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 2月26日（周四）晚盘盘初下跌0.49%报1139.01元/克；<br/>上海黄金交易所白银T+D 2月26日（周四）晚盘盘初下跌3.01%报21251.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260226200307275800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
+          "title": "现货白银向下触及86美元/盎司，日内跌3.68%。",
+          "url": "https://flash.jin10.com/detail/20260226200232055800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
+          "title": "现货白银日内跌幅达3.0%，报86.15美元/盎司；纽约银日内跌幅达5.0%，报86.82美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3059441",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 19,
+      "titles": [
+        {
+          "title": "美国国务卿鲁比奥：伊朗正试图研制洲际弹道导弹。",
+          "url": "https://flash.jin10.com/detail/20260226070001630800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：伊朗长期以来一直对美国构成非常严重的威胁。伊朗目前没有进行铀浓缩，但他们正试图达到最终能够进行铀浓缩的状态。",
+          "url": "https://flash.jin10.com/detail/20260226065959242800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：伊朗拥有旨在攻击美国的常规武器。",
+          "url": "https://flash.jin10.com/detail/20260226065927497800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：周四的伊朗会谈将主要聚焦核计划。",
+          "url": "https://flash.jin10.com/detail/20260226065924812800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "如果美国对伊朗发动攻击，中国是否会和俄罗斯一道支持伊朗？外交部回应",
+          "url": "https://www.cls.cn/detail/2295813",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时38分 ~ 20时44分]"
+        },
+        {
+          "title": "伊朗外交部发言人：美国应该在谈判现场发表声明，而不是在媒体层面。",
+          "url": "https://flash.jin10.com/detail/20260226162517549800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
+          "title": "伊朗外交部发言人：我们将在半小时后前往核谈判地点。据报道，美国官员之间似乎存在分歧。",
+          "url": "https://flash.jin10.com/detail/20260226162446026800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
+          "title": "尽管白宫警告称伊朗可能在几天内就能生产武器级核材料，但核专家和联合国官员表示，自去年6月美国和以色列对关键设施进行打击以来，伊朗的核计划基本停滞。",
+          "url": "https://flash.jin10.com/detail/20260226142001095800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
+          "title": "伊朗高级官员：在谈判期间，伊朗和美国的两支谈判团队如有必要，将与阿曼外长和国际原子能机构总干事格罗西进行反复的会议和磋商。",
+          "url": "https://flash.jin10.com/detail/20260226181914243800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
+          "title": "据伊朗国家媒体：伊朗与美国在日内瓦启动第三轮间接核谈判。",
+          "url": "https://flash.jin10.com/detail/20260226171910670800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
+          "title": "市场消息：伊朗-美国核谈判暂停，预计将在日内瓦时间下午晚些时候恢复。",
+          "url": "https://flash.jin10.com/detail/20260226201938260800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
+          "title": "中国是否会与俄罗斯一道支持伊朗抵御美国侵略？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32653060",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
+          "title": "伊朗提出的核协议方案包括在伊朗境内进行“象征性的核浓缩”，用于研究目的，尽管美国要求伊朗放弃所有核浓缩活动。",
+          "url": "https://flash.jin10.com/detail/20260226112411540800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
+          "title": "市场消息：阿曼将向美国谈判团队提交伊朗的提案草案。",
+          "url": "https://flash.jin10.com/detail/20260226160650158800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
+          "title": "伊朗媒体：伊朗提交谈判提案考验美国诚意",
+          "url": "https://wallstreetcn.com/livenews/3059447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
+          "title": "中国是否会与俄罗斯一道支持伊朗抵御美国侵略？外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3059379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
+          "title": "美国副总统万斯：我们看到证据表明伊朗正试图重建核武器。",
+          "url": "https://flash.jin10.com/detail/20260226061839883800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "阿曼外交部：外交部长在日内瓦与国际原子能机构总干事格罗西举行了会议，讨论与伊朗核问题相关的技术事务，并就伊朗与美国之间目前正在谈判的新想法进行意见交流。",
+          "url": "https://flash.jin10.com/detail/20260226160237755800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
+          "title": "美国务卿：美伊第三轮谈判将主要聚焦伊朗核计划",
+          "url": "https://wallstreetcn.com/livenews/3059133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 17,
       "titles": [
@@ -334,8 +794,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时23分 ~ 19时35分]"
+          "appearance_count": 13,
+          "time_info": "[07时23分 ~ 20时44分]"
         },
         {
           "title": "静待英伟达财报，美股指高开，纳指涨幅扩大至1%，科技股普涨，现货黄金日内涨超1%",
@@ -524,399 +984,6 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 17,
-      "titles": [
-        {
-          "title": "美国国务卿鲁比奥：伊朗正试图研制洲际弹道导弹。",
-          "url": "https://flash.jin10.com/detail/20260226070001630800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "美国国务卿鲁比奥：伊朗长期以来一直对美国构成非常严重的威胁。伊朗目前没有进行铀浓缩，但他们正试图达到最终能够进行铀浓缩的状态。",
-          "url": "https://flash.jin10.com/detail/20260226065959242800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "美国国务卿鲁比奥：伊朗拥有旨在攻击美国的常规武器。",
-          "url": "https://flash.jin10.com/detail/20260226065927497800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "美国国务卿鲁比奥：周四的伊朗会谈将主要聚焦核计划。",
-          "url": "https://flash.jin10.com/detail/20260226065924812800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "如果美国对伊朗发动攻击，中国是否会和俄罗斯一道支持伊朗？外交部回应",
-          "url": "https://www.cls.cn/detail/2295813",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时38分 ~ 19时35分]"
-        },
-        {
-          "title": "伊朗外交部发言人：美国应该在谈判现场发表声明，而不是在媒体层面。",
-          "url": "https://flash.jin10.com/detail/20260226162517549800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
-          "title": "伊朗外交部发言人：我们将在半小时后前往核谈判地点。据报道，美国官员之间似乎存在分歧。",
-          "url": "https://flash.jin10.com/detail/20260226162446026800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
-          "title": "尽管白宫警告称伊朗可能在几天内就能生产武器级核材料，但核专家和联合国官员表示，自去年6月美国和以色列对关键设施进行打击以来，伊朗的核计划基本停滞。",
-          "url": "https://flash.jin10.com/detail/20260226142001095800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时51分"
-        },
-        {
-          "title": "伊朗高级官员：在谈判期间，伊朗和美国的两支谈判团队如有必要，将与阿曼外长和国际原子能机构总干事格罗西进行反复的会议和磋商。",
-          "url": "https://flash.jin10.com/detail/20260226181914243800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时39分"
-        },
-        {
-          "title": "据伊朗国家媒体：伊朗与美国在日内瓦启动第三轮间接核谈判。",
-          "url": "https://flash.jin10.com/detail/20260226171910670800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时42分"
-        },
-        {
-          "title": "伊朗提出的核协议方案包括在伊朗境内进行“象征性的核浓缩”，用于研究目的，尽管美国要求伊朗放弃所有核浓缩活动。",
-          "url": "https://flash.jin10.com/detail/20260226112411540800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
-          "title": "市场消息：阿曼将向美国谈判团队提交伊朗的提案草案。",
-          "url": "https://flash.jin10.com/detail/20260226160650158800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
-          "title": "伊朗媒体：伊朗提交谈判提案考验美国诚意",
-          "url": "https://wallstreetcn.com/livenews/3059447",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时42分"
-        },
-        {
-          "title": "中国是否会与俄罗斯一道支持伊朗抵御美国侵略？外交部回应",
-          "url": "https://wallstreetcn.com/livenews/3059379",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
-          "title": "美国副总统万斯：我们看到证据表明伊朗正试图重建核武器。",
-          "url": "https://flash.jin10.com/detail/20260226061839883800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "阿曼外交部：外交部长在日内瓦与国际原子能机构总干事格罗西举行了会议，讨论与伊朗核问题相关的技术事务，并就伊朗与美国之间目前正在谈判的新想法进行意见交流。",
-          "url": "https://flash.jin10.com/detail/20260226160237755800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
-          "title": "美国务卿：美伊第三轮谈判将主要聚焦伊朗核计划",
-          "url": "https://wallstreetcn.com/livenews/3059133",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银",
-      "match_count": 17,
-      "titles": [
-        {
-          "title": "国投白银LOF补偿方案正式启动",
-          "url": "https://www.douyin.com/hot/2411966",
-          "source": "抖音",
-          "ranks": [
-            6,
-            9,
-            12,
-            15,
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时10分 ~ 17时42分]"
-        },
-        {
-          "title": "印度监管机构放宽主动型股票基金投资范围 黄金白银成新宠",
-          "url": "https://flash.jin10.com/detail/20260226152906756800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时46分"
-        },
-        {
-          "title": "现货白银回落至87美元/盎司下方，日内跌2.53%。",
-          "url": "https://flash.jin10.com/detail/20260226162715582800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
-          "title": "现货白银涨约2.7%，现货铂金涨5.4%",
-          "url": "https://wallstreetcn.com/livenews/3059071",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时25分"
-        },
-        {
-          "title": "印度证交所调整共同基金中黄金和白银的估值方式",
-          "url": "https://flash.jin10.com/detail/20260226191126435800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时35分"
-        },
-        {
-          "title": "国投白银LOF补偿今起办理！详细比例首次透露",
-          "url": "https://www.cls.cn/detail/2295399",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时37分 ~ 18时39分]"
-        },
-        {
-          "title": "现货白银日内涨幅达1.00%，现报90.15美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260226090413243800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
-          "title": "印度市场监管机构允许该国规模达3840亿美元的主动管理型股票基金将更多资金投资于黄金和白银。",
-          "url": "https://flash.jin10.com/detail/20260226152215261800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时46分"
-        },
-        {
-          "title": "现货白银向上触及90美元/盎司，日内涨0.84%。",
-          "url": "https://flash.jin10.com/detail/20260226090146181800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
-          "title": "金十图示：2026年02月26日（周四）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260226115135412800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
-          "title": "国投白银LOF：2月27日开市起至当日10:30停牌",
-          "url": "https://wallstreetcn.com/livenews/3059467",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时42分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 2月26日（周四）早盘盘初上涨0.09%报1146.79元/克；<br/>上海黄金交易所白银T+D 2月26日（周四）早盘盘初上涨1.65%报22207.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260226090111238800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
-          "title": "现货白银转涨，此前跌超2%，现报89.22美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260226085536238800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
-          "title": "印度放宽规模3840亿美元股票基金新规，允许增持黄金、白银。（印度经济时报）",
-          "url": "https://wallstreetcn.com/livenews/3059394",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
-          "title": "拆解贵金属逻辑：白银能否冲击月线十连阳？丨Hi，今天怎么看？",
-          "url": "https://flash.jin10.com/detail/20260226185505704800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时35分"
-        },
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少28.18吨，当前持仓量为16079.74吨。欢迎点击查看数据中心…",
-          "url": "https://flash.jin10.com/detail/20260226064738775800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "现货白银日内跌幅达3.0%，报86.15美元/盎司；纽约银日内跌幅达5.0%，报86.82美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3059441",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时42分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 4,
       "titles": [
@@ -965,7 +1032,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         }
@@ -996,7 +1063,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
@@ -1007,7 +1074,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         }
@@ -1107,8 +1174,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时37分 ~ 19时35分]"
+          "appearance_count": 7,
+          "time_info": "[16时37分 ~ 20时44分]"
         }
       ]
     },
