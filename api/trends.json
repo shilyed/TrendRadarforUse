@@ -1,12 +1,48 @@
 {
-  "generated_at": "2026-02-28T04:21:22.489050+08:00",
-  "total_titles_processed": 554,
+  "generated_at": "2026-02-28T05:23:00.901025+08:00",
+  "total_titles_processed": 604,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
+        {
+          "title": "美军中东最高指挥官向特朗普汇报",
+          "url": "https://www.toutiao.com/trending/7611361368545280036/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 05时23分]"
+        },
+        {
+          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
+          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 05时23分]"
+        },
+        {
+          "title": "释疑｜特朗普再出重拳，美国用了哪些杀招让古巴“窒息”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32601815",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 05时23分]"
+        },
         {
           "title": "特朗普在Truth Social上发布了一封关于政治行动的FTC信件，其中提到苹果(AAPL.O)。",
           "url": "https://flash.jin10.com/detail/20260228001824218800",
@@ -19,42 +55,6 @@
           "time_info": "00时33分"
         },
         {
-          "title": "美军中东最高指挥官向特朗普汇报",
-          "url": "https://www.toutiao.com/trending/7611361368545280036/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 04时21分]"
-        },
-        {
-          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
-          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 04时21分]"
-        },
-        {
-          "title": "释疑｜特朗普再出重拳，美国用了哪些杀招让古巴“窒息”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32601815",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 04时21分]"
-        },
-        {
           "title": "特朗普发布白宫宴会厅完工效果图，称其为“同类建筑中最宏伟的一座”。",
           "url": "https://flash.jin10.com/detail/20260228011403179800",
           "source": "金十数据",
@@ -64,17 +64,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
-        },
-        {
-          "title": "特朗普政府表示，在额外获得2亿美元资金后，对新型农业实践研究的投入将超过10亿美元。",
-          "url": "https://flash.jin10.com/detail/20260228041113668800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时21分"
         },
         {
           "title": "市场消息：特朗普在最高法院败诉后，面临2000起关税诉讼。已有100多家公司提起新的诉讼。",
@@ -146,6 +135,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时32分 ~ 04时21分]"
+        },
+        {
+          "title": "特朗普政府表示，在额外获得2亿美元资金后，对新型农业实践研究的投入将超过10亿美元。",
+          "url": "https://flash.jin10.com/detail/20260228041113668800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 05时23分]"
         },
         {
           "title": "美国总统特朗普：我们希望与俄罗斯、乌克兰达成一份协议。",
@@ -233,6 +234,17 @@
           "time_info": "[02时32分 ~ 03时29分]"
         },
         {
+          "title": "特朗普下令：所有联邦政府机构将立即停用Anthropic",
+          "url": "https://flash.jin10.com/detail/20260228045153490800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
           "title": "美国总统特朗普：我们在石油方面运气好极了。",
           "url": "https://flash.jin10.com/detail/20260228020707510800",
           "source": "金十数据",
@@ -288,6 +300,17 @@
           "time_info": "02时32分"
         },
         {
+          "title": "特朗普：Anthropic做错了，要求所有部门停止采用Anthropic的技术",
+          "url": "https://wallstreetcn.com/livenews/3060501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
           "title": "美国总统特朗普：古巴处境很危险。",
           "url": "https://flash.jin10.com/detail/20260228020158379800",
           "source": "金十数据",
@@ -316,7 +339,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
         },
@@ -327,7 +350,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
         },
@@ -500,7 +523,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "美军最大航母抵达中东，美官方：美国公民尽快离开以色列！我外交部：中国公民尽快撤离伊朗",
@@ -512,8 +535,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 04时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 05时23分]"
         },
         {
           "title": "美国 伊朗",
@@ -523,8 +546,52 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 04时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 05时23分]"
+        },
+        {
+          "title": "美国国务院：任何美国公民均不应以任何理由前往伊朗。",
+          "url": "https://flash.jin10.com/detail/20260228051256394800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "美国国务院：伊朗政权必须停止扣押人质，并立即释放所有在伊朗被不公正拘留的美国公民。伊朗采取措施将有助于解除美国当前对它的制裁指定及相关行动。",
+          "url": "https://flash.jin10.com/detail/20260228051242645800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "美国国务卿卢比奥宣称：美国人无论处于任何原因都不应该前往伊朗。",
+          "url": "https://wallstreetcn.com/livenews/3060514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "美国国务院：伊朗被认定为支持非法拘禁的国家。",
+          "url": "https://flash.jin10.com/detail/20260228051156294800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
         },
         {
           "title": "阿曼外长：与美国副总统万斯会面，讨论了美国与伊朗之间的持续谈判及迄今取得的进展。感谢美国官员的参与，并对外交进程表示乐观。",
@@ -545,7 +612,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
         },
@@ -556,7 +623,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
         },
@@ -578,7 +645,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
         }
@@ -586,7 +653,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "现货白银站上94美元/盎司，日内涨6.48%。",
@@ -612,6 +679,17 @@
           "time_info": "[00时33分 ~ 01时29分]"
         },
         {
+          "title": "美国商品期货交易委员会（CFTC）：2月24日当周，投机者所持COMEX黄金净多头头寸增加3,878手合约，至99,937手合约，创四周新高。 所持COMEX白银净多头头寸创五周新高。 所持COMEX铜净多头头寸创21周新低。 所持NYMEX铂金净多头头寸创五周新高，所持NYMEX钯金净多头头寸创四年新高。",
+          "url": "https://wallstreetcn.com/livenews/3060499",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
           "title": "现货白银日内暴涨6.00%，现报93.58美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260227235313419800",
           "source": "金十数据",
@@ -632,6 +710,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时29分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至2月24日当周，COMEX白银期货投机者净多头头寸增加1822手，至7981手。",
+          "url": "https://flash.jin10.com/detail/20260228043200214800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
         },
         {
           "title": "现货白银向上触及93美元/盎司，日内涨5.35%。",
@@ -660,8 +749,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 04时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 05时23分]"
         },
         {
           "title": "美国10年期国债收益率跌穿3.96%，创10月23日以来新低，日内当前跌超4.2个基点。 两年期美债收益率跌超4.5个基点，失守3.38%，创10月17日以来新低；30年期美债收益率跌约2.7个基点，刷新日低至4.6287%。",
@@ -669,11 +758,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            9
+            9,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时29分 ~ 04时21分]"
+          "appearance_count": 3,
+          "time_info": "[03时29分 ~ 05时23分]"
         }
       ]
     },
@@ -695,6 +785,40 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数跌0.2%，2月份累涨0.6%",
+          "url": "https://wallstreetcn.com/livenews/3060498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "标普500指数收跌29.98点，跌幅0.43%，报6878.88点。 道琼斯工业平均指数收跌521.28点，跌幅1.05%，报48977.92点。 纳斯达克综合指数（纳指）收跌210.171点，跌幅0.92%，报22668.212点。 纳斯达克100指数收跌74.335点，跌幅0.30%，报24960.035。 纳斯达克生物科技指数收涨0.89，报6041.31点。 费城半导体指数收跌1.21%，报8098.371点。 费城证交所KBW银行指数收跌4.85%，报159.18点。",
+          "url": "https://wallstreetcn.com/livenews/3060503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        }
+      ]
+    },
+    {
       "keyword_group": "存储芯片",
       "match_count": 1,
       "titles": [
@@ -707,8 +831,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 04时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 05时23分]"
         }
       ]
     }
