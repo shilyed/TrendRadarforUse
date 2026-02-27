@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T17:34:28.300538+08:00",
-  "total_titles_processed": 1490,
+  "generated_at": "2026-02-27T18:31:35.854324+08:00",
+  "total_titles_processed": 1580,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
@@ -60,8 +60,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时18分 ~ 17时34分]"
+          "appearance_count": 11,
+          "time_info": "[09时18分 ~ 18时31分]"
         },
         {
           "title": "白宫：特朗普愿在无前提条件下与金正恩对话",
@@ -105,8 +105,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时41分 ~ 17时34分]"
+          "appearance_count": 5,
+          "time_info": "[15时41分 ~ 18时31分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-27）",
+          "url": "https://flash.jin10.com/detail/20260227181757598800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "特朗普旨在引导古巴加大对美依赖",
@@ -213,11 +224,23 @@
           "source": "今日头条",
           "ranks": [
             17,
-            10
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时33分 ~ 18时31分]"
+        },
+        {
+          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
+          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
+          "source": "凤凰网",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时33分 ~ 17时34分]"
+          "time_info": "[17时34分 ~ 18时31分]"
         },
         {
           "title": "特朗普2026国会演讲全解析",
@@ -285,17 +308,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时49分"
-        },
-        {
-          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
-          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时34分"
         },
         {
           "title": "美国众议院监督委员会主席Comer：在爱泼斯坦问题上，我们对克林顿夫妇有疑问，将适时对外披露相关信息。 总统特朗普的商务部长卢特尼克可能也会被传唤出席听证会。",
@@ -411,7 +423,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "中国是否会与俄罗斯一道支持伊朗抵御美国侵略？外交部回应",
@@ -544,6 +556,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时40分"
+        },
+        {
+          "title": "伊朗军方称将对美国侵略行为予以“毁灭性”回应",
+          "url": "https://wallstreetcn.com/livenews/3060200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "伊朗威胁美国",
@@ -737,7 +760,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
         },
@@ -800,7 +823,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "芯片涨价潮持续席卷！A股半导体龙头集体提价",
@@ -816,6 +839,17 @@
           "time_info": "[13时45分 ~ 17时34分]"
         },
         {
+          "title": "上交所：本周对中韩半导体ETF等溢价较高的基金进行重点监控",
+          "url": "https://wallstreetcn.com/livenews/3060227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
           "title": "“稀土荒”加剧！部分美国航天与半导体供应商已“无力接单”",
           "url": "https://www.cls.cn/detail/2296977",
           "source": "财联社热门",
@@ -824,8 +858,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 17时34分]"
+          "appearance_count": 3,
+          "time_info": "[16时33分 ~ 18时31分]"
         },
         {
           "title": "中韩半导体ETF午后开盘下挫后快速拉升，一度涨超7%。",
@@ -898,7 +932,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "上海黄金交易所黄金T+D 2月27日（周五）早盘盘初下跌0.27%报1141.49元/克；<br/>上海黄金交易所白银T+D 2月27日（周五）早盘盘初下跌0.83%报21729.0元/千克。",
@@ -932,6 +966,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
+        },
+        {
+          "title": "坐拥世界白银的大明朝为什么不把税银铸成银元，夺回铸币权与紧急财政，反而执行去市场化去货币化政策？",
+          "url": "https://www.zhihu.com/question/2010294430947640231",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "A股黄金股持续走强，湖南黄金冲击涨停，晓程科技、西部黄金、中金黄金、湖南白银纷纷上扬。",
@@ -970,7 +1015,7 @@
     },
     {
       "keyword_group": "存储芯片",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "三星存储部门漫天要价，苹果照单全收——三星手机部门被迫采用50%美光存储芯片",
@@ -1031,6 +1076,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时40分"
+        },
+        {
+          "title": "中国手机行业将迎来全面涨价，将是 5 年最显著涨幅，存储芯片成本较去年同期上涨超 80%，将产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2010325784494114258",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "机构称全球智能手机出货量将大幅下滑，存储芯片价格或将继续上涨",
@@ -1102,6 +1158,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "【每日收评】沪指小幅上涨月线录得3连阳，有色等涨价题材再迎爆发",
+          "url": "https://www.cls.cn/detail/2297259",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时34分 ~ 18时31分]"
+        },
+        {
           "title": "2月27日午间收评：创业板指半日跌1.46%，算力租赁、有色板块逆势走强",
           "url": "https://wallstreetcn.com/livenews/3059969",
           "source": "华尔街见闻-快讯",
@@ -1111,17 +1179,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
-        },
-        {
-          "title": "【每日收评】沪指小幅上涨月线录得3连阳，有色等涨价题材再迎爆发",
-          "url": "https://www.cls.cn/detail/2297259",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时34分"
         },
         {
           "title": "A股收盘：沪指低开高走涨0.39%，有色、稀土板块集体走强",
