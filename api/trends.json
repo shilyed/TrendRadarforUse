@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T04:18:04.191718+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2026-03-01T05:14:49.137968+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 33,
       "titles": [
         {
           "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
@@ -15,8 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 04时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 05时14分]"
+        },
+        {
+          "title": "Anthropic拒绝五角大楼要求，特朗普下令联邦机构停用Anthropic产品",
+          "url": "https://wallstreetcn.com/articles/3766399",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 05时14分]"
         },
         {
           "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
@@ -28,19 +40,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 04时18分]"
-        },
-        {
-          "title": "Anthropic拒绝五角大楼要求，特朗普下令联邦机构停用Anthropic产品",
-          "url": "https://wallstreetcn.com/articles/3766399",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 04时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 05时14分]"
         },
         {
           "title": "高市早苗当众施压下属：别让我在特朗普面前难堪！网友：职场霸凌",
@@ -50,8 +51,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 04时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 05时14分]"
         },
         {
           "title": "特朗普政府高级官员：我们掌握的情报显示，伊朗正在全力重建去年六月袭击中被摧毁的一切。",
@@ -60,9 +61,23 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
+        },
+        {
+          "title": "白宫：特朗普彻夜关注伊朗局势，并与内塔尼亚胡通电话",
+          "url": "https://wallstreetcn.com/livenews/3060943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14,
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 05时14分]"
         },
         {
           "title": "特朗普政府高级官员：美国曾提出愿永远向伊朗免费提供核燃料，但伊朗坚持要求获得铀浓缩能力。",
@@ -71,7 +86,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         },
@@ -82,7 +97,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         },
@@ -115,9 +130,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
+        },
+        {
+          "title": "美国白宫：美国总统特朗普与英国、科威特和土耳其领导人通话。",
+          "url": "https://flash.jin10.com/detail/20260301045410974800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
         },
         {
           "title": "特朗普政府高级官员：伊朗还拒绝就德黑兰支持的代理武装问题作出回应。",
@@ -126,23 +152,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
-        },
-        {
-          "title": "白宫：特朗普彻夜关注伊朗局势，并与内塔尼亚胡通电话",
-          "url": "https://wallstreetcn.com/livenews/3060943",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14,
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 04时18分]"
         },
         {
           "title": "特朗普请求美最高法院重审关税裁决",
@@ -170,6 +182,18 @@
           "time_info": "[01时15分 ~ 03时16分]"
         },
         {
+          "title": "美国副总统万斯、能源部长Wright、财政部长贝森特陪同总统特朗普监督美军与以色列袭击伊朗的过程。（NBC）",
+          "url": "https://wallstreetcn.com/livenews/3060964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时16分 ~ 05时14分]"
+        },
+        {
           "title": "特朗普说美国开始在伊朗实施重大作战行动，美以发动本次袭击的目的是什么？后续还会有哪些行动​？",
           "url": "https://www.zhihu.com/question/2011109082719859902",
           "source": "知乎",
@@ -182,25 +206,13 @@
           "time_info": "[00时18分 ~ 01时15分]"
         },
         {
-          "title": "美国副总统万斯、能源部长Wright、财政部长贝森特陪同总统特朗普监督美军与以色列袭击伊朗的过程。（NBC）",
-          "url": "https://wallstreetcn.com/livenews/3060964",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时16分 ~ 04时18分]"
-        },
-        {
           "title": "特朗普政府高级官员：如果我们坐以待毙，等着对方先发制人，那么人员伤亡和财产损失将会大得多。",
           "url": "https://flash.jin10.com/detail/20260301035020604800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         },
@@ -211,7 +223,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         },
@@ -222,7 +234,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         },
@@ -233,7 +245,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         },
@@ -244,7 +256,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         },
@@ -255,7 +267,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         },
@@ -266,7 +278,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         },
@@ -282,6 +294,17 @@
           "time_info": "00时18分"
         },
         {
+          "title": "据NBC新闻：美国总统特朗普（就伊朗最高领袖哈梅内伊身亡的报道）表示，我们认为这是正确的报道，那些做所有决定的人，大部分已经不在了。",
+          "url": "https://flash.jin10.com/detail/20260301043914314800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
           "title": "据NBC新闻：美国副总统万斯、美国能源部长赖特、美国财长贝森特与美国总统特朗普一同关注伊朗袭击事件。",
           "url": "https://flash.jin10.com/detail/20260301020732738800",
           "source": "金十数据",
@@ -291,6 +314,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "据ABC新闻：美国总统特朗普在被问及伊朗领导层的情况以及美国是否认为他们是在袭击中丧生时回应称，很大程度上是这样的。虽然我们还不完全清楚，但在很大程度上是这样。这是一次非常强有力的打击。",
+          "url": "https://flash.jin10.com/detail/20260301042110699800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
         },
         {
           "title": "以色列总理办公室确认，以色列总理内塔尼亚胡与美国总统特朗普通电话。",
@@ -326,13 +360,24 @@
           "time_info": "02时23分"
         },
         {
+          "title": "美国白宫公布特朗普监督美国对伊朗发动袭击的照片。",
+          "url": "https://flash.jin10.com/detail/20260301041230948800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
           "title": "美国白宫：美国总统特朗普已分别同沙特阿拉伯、卡塔尔、阿联酋领导人以及北约秘书长吕特通话。",
           "url": "https://flash.jin10.com/detail/20260301030142107800",
           "source": "金十数据",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         }
@@ -340,7 +385,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "美国出兵,联手以军炸伊朗",
@@ -350,8 +395,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 04时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 05时14分]"
         },
         {
           "title": "伊朗军队正在对美国中东地区的军事基地实施打击，战火会蔓延至其他国家吗？中东各国有何反应？",
@@ -361,8 +406,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 04时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 05时14分]"
         },
         {
           "title": "释疑｜边谈判边“磨刀”，美国若打击伊朗会盯上哪些目标？",
@@ -374,8 +419,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 04时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 05时14分]"
         },
         {
           "title": "伊朗打击美国中东军事基地",
@@ -387,19 +432,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 04时18分]"
-        },
-        {
-          "title": "伊朗宣布报复美国、以色列",
-          "url": "https://www.cls.cn/detail/2298369",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 04时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 05时14分]"
         },
         {
           "title": "伊朗打击美国军事基地",
@@ -410,8 +444,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 04时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 05时14分]"
         },
         {
           "title": "伊朗打击美国中东军事基地",
@@ -421,6 +455,17 @@
             17,
             15,
             18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 05时14分]"
+        },
+        {
+          "title": "伊朗宣布报复美国、以色列",
+          "url": "https://www.cls.cn/detail/2298369",
+          "source": "财联社热门",
+          "ranks": [
+            13
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -481,7 +526,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         },
@@ -530,6 +575,17 @@
           "time_info": "02时23分"
         },
         {
+          "title": "美国国务院官员：美国国务卿鲁比奥周六将与七国集团领导人通话，讨论伊朗局势。",
+          "url": "https://flash.jin10.com/detail/20260301043956183800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
           "title": "美国中央司令部：我们成功抵御了数百次伊朗导弹和无人机袭击。尚未有美军人员伤亡或与作战相关的受伤报告。美军设施受损程度轻微，未影响作战行动。",
           "url": "https://flash.jin10.com/detail/20260301021037435800",
           "source": "金十数据",
@@ -539,6 +595,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "据福克斯新闻：美国官员证实，美方认为伊朗最高领袖哈梅内伊及5至10名伊朗高级领导人已在以色列对一处住所的首轮袭击中丧生。",
+          "url": "https://flash.jin10.com/detail/20260301042256751800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
         },
         {
           "title": "伊朗外长阿拉格齐：我们的敌意并非针对美国人民，因为他们又一次被谎言所蒙蔽。",
@@ -587,8 +654,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 04时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 05时14分]"
         },
         {
           "title": "金价",
@@ -601,8 +668,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 04时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 05时14分]"
         },
         {
           "title": "专家：金价极端情况下或到7000美元",
@@ -615,8 +682,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 04时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 05时14分]"
         }
       ]
     },
@@ -632,8 +699,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 04时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 05时14分]"
         },
         {
           "title": "以色列突袭伊朗，正准备 4 天的联合进攻，原油、黄金、美股接下来怎么走？",
@@ -643,8 +710,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 04时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 05时14分]"
         }
       ]
     },
@@ -660,8 +727,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 04时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 05时14分]"
         }
       ]
     },
@@ -677,8 +744,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 04时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 05时14分]"
         }
       ]
     }
