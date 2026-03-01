@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T01:17:14.959813+08:00",
-  "total_titles_processed": 358,
+  "generated_at": "2026-03-02T02:23:44.531513+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 23,
       "titles": [
         {
           "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
@@ -15,30 +15,43 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 02时23分]"
         },
         {
           "title": "特朗普：美军在对伊行动中打死48名伊朗指挥官",
           "url": "https://wallstreetcn.com/livenews/3061241",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时23分]"
         },
         {
           "title": "美国总统特朗普谈及霍尔木兹海峡和石油，称：什么都不担心。（福克斯新闻）",
           "url": "https://wallstreetcn.com/livenews/3061240",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时23分]"
+        },
+        {
+          "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
+          "url": "https://wallstreetcn.com/articles/3766446",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 02时23分]"
         },
         {
           "title": "据《大西洋月刊》：特朗普对是否长期介入以支持伊朗“抗议活动”态度模糊。",
@@ -77,17 +90,6 @@
           "time_info": "[00时19分 ~ 01时17分]"
         },
         {
-          "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
-          "url": "https://wallstreetcn.com/articles/3766446",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时17分]"
-        },
-        {
           "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
           "url": "https://wallstreetcn.com/articles/3766448",
           "source": "华尔街见闻",
@@ -96,8 +98,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 02时23分]"
         },
         {
           "title": "特朗普称哈梅内伊已身亡 伊外交部此前回应称其“安然无恙”",
@@ -107,8 +109,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 02时23分]"
         },
         {
           "title": "据《大西洋月刊》：美国总统特朗普表示，伊朗希望对话，他也同意对话。",
@@ -123,6 +125,17 @@
           "time_info": "[00时19分 ~ 01时17分]"
         },
         {
+          "title": "特朗普：已摧毁并击沉9艘伊朗军舰 美已基本摧毁伊朗海军总部",
+          "url": "https://flash.jin10.com/detail/20260302012641441800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        },
+        {
           "title": "据CNBC：美国总统特朗普表示，事情正在以非常积极的方式发展。",
           "url": "https://flash.jin10.com/detail/20260301234818748800",
           "source": "金十数据",
@@ -132,6 +145,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "美国总统特朗普：美国已基本摧毁伊朗海军总部。",
+          "url": "https://flash.jin10.com/detail/20260302012327447800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        },
+        {
+          "title": "美国总统特朗普：接下来我们还会继续追击剩余的船只。",
+          "url": "https://flash.jin10.com/detail/20260302012309532800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时23分"
         },
         {
           "title": "美国总统特朗普：（谈伊朗行动）我们一口气干掉了48个领导人，而且进展迅速。",
@@ -151,9 +186,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "美国总统特朗普：我刚刚接到消息，我们已经摧毁并击沉了9艘伊朗海军舰艇，其中有些舰艇规模较大且十分重要。",
+          "url": "https://flash.jin10.com/detail/20260302012251829800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时23分"
         },
         {
           "title": "据CNBC：美国总统特朗普表示，对伊朗的军事行动“进度超前”。",
@@ -184,9 +230,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "据华盛顿邮报：特朗普政府官员表示，轰炸而非对话是优先事项。",
+          "url": "https://flash.jin10.com/detail/20260302011522830800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时23分"
         },
         {
           "title": "据福克斯新闻：美国总统特朗普称，针对伊朗方面的行动进展迅速。“没人能相信我们取得的成功会如此之大”。",
@@ -198,23 +255,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "据路透社/益普索民调：约半数美国人——包括四分之一的共和党人——认为特朗普过于倾向于动用武力。",
+          "url": "https://flash.jin10.com/detail/20260302005855191800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时23分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "美国袭击伊朗，致美军3死5重伤",
           "url": "https://wallstreetcn.com/livenews/3061236",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时23分]"
         },
         {
           "title": "伊朗外长：美国为何在谈判期间发动攻击，明明协议触手可及",
@@ -224,8 +293,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 02时23分]"
         },
         {
           "title": "伊朗足协主席：美国袭击后很难期待世界杯",
@@ -235,8 +304,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 02时23分]"
         },
         {
           "title": "下周重磅日程：中国两会、美国非农、伊朗局势进展、MiniMax京东B站财报",
@@ -247,8 +316,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 02时23分]"
         },
         {
           "title": "伊朗公布击中美国MQ-9无人机画面",
@@ -258,8 +327,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 02时23分]"
         },
         {
           "title": "盘点｜哈梅内伊殉职！美国曾对伊朗发起哪些重大军事打击？",
@@ -270,8 +339,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 02时23分]"
         },
         {
           "title": "美国出兵,联手以军炸伊朗",
@@ -282,41 +351,44 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 02时23分]"
         },
         {
           "title": "伊朗公布击中美国MQ-9无人机的画面",
           "url": "https://wallstreetcn.com/livenews/3061226",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时23分]"
         },
         {
           "title": "印度反对派团体谴责总理莫迪上周的以色列之行。 称莫迪此举是默许“（以色列和美国）对伊朗发动一系列激发地区危机的军事袭击”。",
           "url": "https://wallstreetcn.com/livenews/3061217",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时23分]"
         },
         {
           "title": "伊朗外长：没有封锁霍尔木兹海峡的计划，邻国应该对美国和以色列施压",
           "url": "https://wallstreetcn.com/livenews/3061215",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时23分]"
         },
         {
           "title": "日本防卫省：关于当前的伊朗局势，防卫大臣与日本防卫省/自卫队正与包括我们的盟友美国在内的多个国家，以及中东国家进行密切沟通。",
@@ -325,9 +397,53 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "据NBC新闻：美国官员表示，被伊朗杀害的三名美国军人当时在科威特。",
+          "url": "https://flash.jin10.com/detail/20260302012208916800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        },
+        {
+          "title": "美国中央司令部：昨晚，美国B-2隐形轰炸机携带2000磅炸弹，袭击了伊朗加固的弹道导弹设施。任何国家都不应怀疑美国的决心。",
+          "url": "https://flash.jin10.com/detail/20260302010234613800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        },
+        {
+          "title": "伊朗官员：无意攻击别国 打的是美国",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AE%98%E5%91%98%EF%BC%9A%E6%97%A0%E6%84%8F%E6%94%BB%E5%87%BB%E5%88%AB%E5%9B%BD+%E6%89%93%E7%9A%84%E6%98%AF%E7%BE%8E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        },
+        {
+          "title": "据路透社/益普索民调：四分之一的美国人赞成美国发动的击毙伊朗领导人的空袭，43%的人表示不赞成。",
+          "url": "https://flash.jin10.com/detail/20260302005913885800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时23分"
         }
       ]
     },
@@ -344,8 +460,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 02时23分]"
         }
       ]
     }
