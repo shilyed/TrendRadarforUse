@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T07:15:55.419124+08:00",
-  "total_titles_processed": 673,
+  "generated_at": "2026-03-01T09:28:02.341878+08:00",
+  "total_titles_processed": 820,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 61,
       "titles": [
         {
           "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 07时15分]"
+          "appearance_count": 14,
+          "time_info": "[00时18分 ~ 09时28分]"
         },
         {
           "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
@@ -37,11 +37,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32671945",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 07时15分]"
+          "appearance_count": 14,
+          "time_info": "[00时18分 ~ 09时28分]"
         },
         {
           "title": "Anthropic拒绝五角大楼要求，特朗普下令联邦机构停用Anthropic产品",
@@ -56,6 +57,17 @@
           "time_info": "[00时18分 ~ 05时14分]"
         },
         {
+          "title": "实时更新丨特朗普宣布哈梅内伊已死",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时15分 ~ 09时28分]"
+        },
+        {
           "title": "实时更新丨特朗普认为哈梅内伊已死报道准确",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -67,16 +79,28 @@
           "time_info": "[06时15分 ~ 06时16分]"
         },
         {
+          "title": "特朗普称哈梅内伊已死",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E5%B7%B2%E6%AD%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 09时28分]"
+        },
+        {
           "title": "特朗普：对伊朗的不间断打击将持续一周甚至更长时间",
           "url": "https://wallstreetcn.com/livenews/3061008",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            4
+            4,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时16分 ~ 07时15分]"
+          "appearance_count": 3,
+          "time_info": "[06时16分 ~ 09时28分]"
         },
         {
           "title": "特朗普：伊朗最高领袖哈梅内伊已身亡",
@@ -85,18 +109,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
-          "title": "实时更新丨特朗普宣布哈梅内伊已死",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -118,9 +131,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "美国前副总统哈里斯不赞成特朗普与以色列联手攻击伊朗的决定，称其为“拿美国人的生命进行不必要的赌博”。",
+          "url": "https://flash.jin10.com/detail/20260301092120625800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         },
         {
           "title": "特朗普宣布哈梅内伊已死",
@@ -129,7 +153,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -154,7 +178,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -179,6 +203,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
+        },
+        {
+          "title": "特朗普称他知道他想让谁来领导伊朗",
+          "url": "https://flash.jin10.com/detail/20260301091828733800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         },
         {
           "title": "白宫：特朗普彻夜关注伊朗局势 并与内塔尼亚胡通电话",
@@ -254,11 +289,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            7
+            7,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时16分 ~ 07时15分]"
+          "appearance_count": 3,
+          "time_info": "[06时16分 ~ 09时28分]"
         },
         {
           "title": "特朗普请求美最高法院重审关税裁决",
@@ -344,6 +380,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时16分 ~ 07时15分]"
+        },
+        {
+          "title": "白宫发照片：特朗普监控美对伊朗行动",
+          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%AE%AB%E5%8F%91%E7%85%A7%E7%89%87%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E7%9B%91%E6%8E%A7%E7%BE%8E%E5%AF%B9%E4%BC%8A%E6%9C%97%E8%A1%8C%E5%8A%A8",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 09时28分]"
         },
         {
           "title": "美国总统特朗普在社交平台发文称，伊朗最高领袖哈梅内伊已死。",
@@ -439,13 +486,35 @@
           "time_info": "04时18分"
         },
         {
+          "title": "美国国会的关键成员要求迅速就一项战争权力决议进行投票，该决议将限制特朗普对伊朗的军事打击。",
+          "url": "https://flash.jin10.com/detail/20260301085524533800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "Anthropic大模型Claude在苹果公司Apple Store免费APP排名上升至第二，该公司此前因美国国防部AI权限争端而被特朗普政府拉黑。",
+          "url": "https://wallstreetcn.com/livenews/3061018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
           "title": "Claude 遭特朗普封杀，亚马逊、英伟达等联手助 OpenAI 完成 1100 亿美元融资，对此你怎么看？",
           "url": "https://www.zhihu.com/question/2011023228328510169",
           "source": "知乎",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -514,6 +583,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "华盛顿邮报报道称，特朗普受到以色列和沙特的施压，要求对伊朗采取军事行动。",
+          "url": "https://flash.jin10.com/detail/20260301084218132800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "特朗普监控对伊行动照片发布",
+          "url": "https://flash.jin10.com/detail/20260301083946102800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         },
         {
           "title": "据NBC新闻：美国副总统万斯、美国能源部长赖特、美国财长贝森特与美国总统特朗普一同关注伊朗袭击事件。",
@@ -602,23 +693,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普称，伊朗有一些合格的领导人选。",
+          "url": "https://flash.jin10.com/detail/20260301082940458800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 27,
+      "match_count": 33,
       "titles": [
         {
           "title": "美国出兵,联手以军炸伊朗",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351135&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%87%BA%E5%85%B5%2C%E8%81%94%E6%89%8B%E4%BB%A5%E5%86%9B%E7%82%B8%E4%BC%8A%E6%9C%97",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 07时15分]"
+          "appearance_count": 14,
+          "time_info": "[00时18分 ~ 09时28分]"
         },
         {
           "title": "伊朗军队正在对美国中东地区的军事基地实施打击，战火会蔓延至其他国家吗？中东各国有何反应？",
@@ -722,6 +825,17 @@
           "time_info": "[06时16分 ~ 07时15分]"
         },
         {
+          "title": "伊朗足协主席：美国袭击后很难期待世界杯",
+          "url": "https://sports.ifeng.com/c/8r6raCLXIuk",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 09时28分]"
+        },
+        {
           "title": "伊朗国家媒体称，伊朗伊斯兰革命卫队袭击了美国位于伊拉克的哈里尔空军基地。",
           "url": "https://flash.jin10.com/detail/20260301054241112800",
           "source": "金十数据",
@@ -768,6 +882,17 @@
           "time_info": "00时18分"
         },
         {
+          "title": "伊朗国家媒体：伊朗最高领袖哈梅内伊的女儿和外孙在美国和以色列的袭击中丧生。",
+          "url": "https://wallstreetcn.com/livenews/3061025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
           "title": "伊朗媒体援引红新月会的消息称，美国和以色列的袭击造成201人死亡，747人受伤，波及24个省份。",
           "url": "https://flash.jin10.com/detail/20260301013840546800",
           "source": "金十数据",
@@ -801,6 +926,17 @@
           "time_info": "01时15分"
         },
         {
+          "title": "澳大利亚总理阿尔巴尼斯：澳大利亚支持美国阻止伊朗获得核武器的努力。",
+          "url": "https://flash.jin10.com/detail/20260301085111244800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
           "title": "德国总理默茨：美国数周来一直寻求与伊朗达成谈判解决方案，但伊朗并未同意一项全面、可靠且可核查的协议以终止其军事核计划。",
           "url": "https://flash.jin10.com/detail/20260301003641186800",
           "source": "金十数据",
@@ -823,6 +959,17 @@
           "time_info": "02时23分"
         },
         {
+          "title": "古巴驻美国大使馆：古巴外交部发表声明，呼吁结束美国和以色列对伊朗的新一轮侵略。",
+          "url": "https://flash.jin10.com/detail/20260301085051167800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
           "title": "据福克斯新闻：美国联邦调查局（FBI）反恐和反间谍团队在伊朗袭击事件发生后，已在全国范围内进入高度戒备状态。",
           "url": "https://flash.jin10.com/detail/20260301013129812800",
           "source": "金十数据",
@@ -843,6 +990,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "中东周六局势回顾：美国和以色列发动袭击，伊朗反击",
+          "url": "https://wallstreetcn.com/livenews/3061013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "美国方面评估认为，伊朗目前并未在研发洲际弹道导弹，如果他们选择开发，需时10年才能生产。",
+          "url": "https://flash.jin10.com/detail/20260301084728644800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         },
         {
           "title": "美国中央司令部：我们成功抵御了数百次伊朗导弹和无人机袭击。尚未有美军人员伤亡或与作战相关的受伤报告。美军设施受损程度轻微，未影响作战行动。",
@@ -928,17 +1097,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "“中东火药桶”炸了！美以对伊朗发起袭击，金价油价或继续飙涨",
-          "url": "https://finance.ifeng.com/c/8r7FgvfAN7q",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 07时15分]"
-        },
-        {
           "title": "金价",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -946,7 +1104,19 @@
             13,
             23,
             12,
-            14
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时18分 ~ 09时28分]"
+        },
+        {
+          "title": "“中东火药桶”炸了！美以对伊朗发起袭击，金价油价或继续飙涨",
+          "url": "https://finance.ifeng.com/c/8r7FgvfAN7q",
+          "source": "凤凰网",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 12,
@@ -980,19 +1150,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 07时15分]"
+          "appearance_count": 14,
+          "time_info": "[00时18分 ~ 09时28分]"
         },
         {
           "title": "以色列突袭伊朗，正准备 4 天的联合进攻，原油、黄金、美股接下来怎么走？",
           "url": "https://www.zhihu.com/question/2011096140146286806",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 07时15分]"
+          "appearance_count": 14,
+          "time_info": "[00时18分 ~ 09时28分]"
         }
       ]
     },
@@ -1014,6 +1185,23 @@
       ]
     },
     {
+      "keyword_group": "白银",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄金白银未来走势如何",
+          "url": "https://www.toutiao.com/trending/7612067200987303470/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 09时28分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "存储芯片",
       "match_count": 1,
       "titles": [
@@ -1025,8 +1213,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 07时15分]"
+          "appearance_count": 14,
+          "time_info": "[00时18分 ~ 09时28分]"
         }
       ]
     }
