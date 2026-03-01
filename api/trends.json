@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T16:22:52.777540+08:00",
-  "total_titles_processed": 1314,
+  "generated_at": "2026-03-01T17:23:15.512235+08:00",
+  "total_titles_processed": 1388,
   "failed_sources": [],
   "trends": [
     {
@@ -34,6 +34,19 @@
           "time_info": "[00时18分 ~ 15时28分]"
         },
         {
+          "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
+          "url": "https://wallstreetcn.com/articles/3766446",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时15分 ~ 17时23分]"
+        },
+        {
           "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
           "url": "https://m.thepaper.cn/newsDetail_forward_32669796",
           "source": "澎湃新闻",
@@ -48,16 +61,18 @@
           "time_info": "[00时18分 ~ 07时15分]"
         },
         {
-          "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
-          "url": "https://wallstreetcn.com/articles/3766446",
+          "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
+          "url": "https://wallstreetcn.com/articles/3766454",
           "source": "华尔街见闻",
           "ranks": [
-            4,
-            5
+            9,
+            7,
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时15分 ~ 16时22分]"
+          "appearance_count": 7,
+          "time_info": "[12时15分 ~ 17时23分]"
         },
         {
           "title": "Anthropic拒绝五角大楼要求，特朗普下令联邦机构停用Anthropic产品",
@@ -83,20 +98,6 @@
           "time_info": "[07时15分 ~ 09时28分]"
         },
         {
-          "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
-          "url": "https://wallstreetcn.com/articles/3766454",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时15分 ~ 16时22分]"
-        },
-        {
           "title": "实时更新丨特朗普认为哈梅内伊已死报道准确",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -106,6 +107,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 06时16分]"
+        },
+        {
+          "title": "特朗普称哈梅内伊已身亡 伊外交部此前回应称其“安然无恙”",
+          "url": "https://www.cls.cn/detail/2298666",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时15分 ~ 17时23分]"
         },
         {
           "title": "特朗普称哈梅内伊已死",
@@ -309,18 +322,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
-        },
-        {
-          "title": "特朗普称哈梅内伊已身亡 伊外交部此前回应称其“安然无恙”",
-          "url": "https://www.cls.cn/detail/2298666",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时15分 ~ 16时22分]"
         },
         {
           "title": "特朗普说美国开始在伊朗实施重大作战行动，美以发动本次袭击的目的是什么？后续还会有哪些行动​？",
@@ -634,7 +635,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -939,7 +940,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "美国出兵,联手以军炸伊朗",
@@ -954,8 +955,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时18分 ~ 16时22分]"
+          "appearance_count": 21,
+          "time_info": "[00时18分 ~ 17时23分]"
         },
         {
           "title": "伊朗军队正在对美国中东地区的军事基地实施打击，战火会蔓延至其他国家吗？中东各国有何反应？",
@@ -1021,6 +1022,17 @@
           "time_info": "[00时18分 ~ 06时16分]"
         },
         {
+          "title": "伊朗足协主席：美国袭击后很难期待世界杯",
+          "url": "https://sports.ifeng.com/c/8r6raCLXIuk",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时27分 ~ 17时23分]"
+        },
+        {
           "title": "伊朗宣布报复美国、以色列",
           "url": "https://www.cls.cn/detail/2298369",
           "source": "财联社热门",
@@ -1047,17 +1059,6 @@
           "time_info": "[00时18分 ~ 04时18分]"
         },
         {
-          "title": "伊朗足协主席：美国袭击后很难期待世界杯",
-          "url": "https://sports.ifeng.com/c/8r6raCLXIuk",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时27分 ~ 16时22分]"
-        },
-        {
           "title": "伊朗外长：美国为何在谈判期间发动攻击，明明协议触手可及",
           "url": "https://news.ifeng.com/c/8r8HbwEHkpv",
           "source": "凤凰网",
@@ -1065,8 +1066,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时15分 ~ 16时22分]"
+          "appearance_count": 7,
+          "time_info": "[12时15分 ~ 17时23分]"
         },
         {
           "title": "巴基斯坦官方紧急救援组织“救援1122”发言人3月1日表示，在美国驻卡拉奇领事馆外发生的抗议活动中有至少6人死亡、12人受伤。抗议活动是在伊朗最高领袖哈梅内伊遇害后发生的。",
@@ -1075,7 +1076,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -1217,9 +1218,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
+        },
+        {
+          "title": "据伊朗媒体3月1日报道，德黑兰红新月会说，美国和以色列对伊朗发动军事打击以来，在首都德黑兰共发动60起袭击，造成57人死亡。 (新华社)",
+          "url": "https://flash.jin10.com/detail/20260301163304632800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
         },
         {
           "title": "伊朗国家媒体：伊朗最高领袖哈梅内伊的女儿和外孙在美国和以色列的袭击中丧生。",
@@ -1239,7 +1251,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -1602,6 +1614,23 @@
       ]
     },
     {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄金暗盘价格为何跌了",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E6%9A%97%E7%9B%98%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E8%B7%8C%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 17时23分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -1650,8 +1679,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时18分 ~ 16时22分]"
+          "appearance_count": 21,
+          "time_info": "[00时18分 ~ 17时23分]"
         }
       ]
     }
