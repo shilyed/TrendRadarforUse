@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T12:15:50.030366+08:00",
-  "total_titles_processed": 990,
+  "generated_at": "2026-03-01T13:46:44.103759+08:00",
+  "total_titles_processed": 1117,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 70,
+      "match_count": 72,
       "titles": [
         {
           "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
@@ -39,11 +39,12 @@
           "ranks": [
             17,
             14,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时18分 ~ 12时15分]"
+          "appearance_count": 16,
+          "time_info": "[00时18分 ~ 13时46分]"
         },
         {
           "title": "Anthropic拒绝五角大楼要求，特朗普下令联邦机构停用Anthropic产品",
@@ -89,6 +90,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时27分 ~ 09时28分]"
+        },
+        {
+          "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
+          "url": "https://wallstreetcn.com/articles/3766446",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 13时46分]"
         },
         {
           "title": "特朗普：对伊朗的不间断打击将持续一周甚至更长时间",
@@ -217,15 +229,15 @@
           "time_info": "09时28分"
         },
         {
-          "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
-          "url": "https://wallstreetcn.com/articles/3766446",
-          "source": "华尔街见闻",
+          "title": "美国总统特朗普：伊朗刚刚表示，他们今天将发动一次力度空前的猛烈袭击。他们最好别那样做。因为如果伊朗敢那样做，我们将以前所未有的力量打击他们。",
+          "url": "https://wallstreetcn.com/livenews/3061070",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时15分"
+          "time_info": "13时46分"
         },
         {
           "title": "白宫：特朗普彻夜关注伊朗局势 并与内塔尼亚胡通电话",
@@ -346,6 +358,42 @@
           "time_info": "[03时16分 ~ 05时14分]"
         },
         {
+          "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
+          "url": "https://wallstreetcn.com/livenews/3061056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 13时46分]"
+        },
+        {
+          "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
+          "url": "https://wallstreetcn.com/articles/3766454",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 13时46分]"
+        },
+        {
+          "title": "特朗普称此次袭击要摧毁伊朗导弹工业，消灭伊朗海军，伊朗导弹工业、伊朗海军目前处于什么水平？",
+          "url": "https://www.zhihu.com/question/2011106123147675013",
+          "source": "知乎",
+          "ranks": [
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 13时46分]"
+        },
+        {
           "title": "特朗普发文确认：伊朗最高领袖哈梅内伊已死 精准轰炸将持续进行",
           "url": "https://flash.jin10.com/detail/20260301054807770800",
           "source": "金十数据",
@@ -356,6 +404,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时16分 ~ 07时15分]"
+        },
+        {
+          "title": "特朗普称哈梅内伊已身亡 伊外交部此前回应称其“安然无恙”",
+          "url": "https://www.cls.cn/detail/2298666",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 13时46分]"
         },
         {
           "title": "特朗普前盟友批评美国对伊朗动武",
@@ -429,6 +488,18 @@
           "time_info": "[06时16分 ~ 07时15分]"
         },
         {
+          "title": "特朗普称伊朗最高领袖哈梅内伊“已死”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32676301",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 13时46分]"
+        },
+        {
           "title": "俄罗斯驻联合国大使：美国总统特朗普称袭击伊朗旨在阻止伊朗获得核武器的说法毫无根据。",
           "url": "https://flash.jin10.com/detail/20260301053729109800",
           "source": "金十数据",
@@ -439,6 +510,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时16分 ~ 07时15分]"
+        },
+        {
+          "title": "美以对伊军事打击后，白宫：特朗普仍计划出席共和党筹款活动",
+          "url": "https://wallstreetcn.com/livenews/3061046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 13时46分]"
         },
         {
           "title": "据沙特国家通讯社：沙特王储接到来自美国总统特朗普的电话。",
@@ -476,17 +559,6 @@
           "time_info": "04时18分"
         },
         {
-          "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
-          "url": "https://wallstreetcn.com/livenews/3061056",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
           "title": "特朗普政府高级官员：伊朗在谈判中拒绝讨论弹道导弹问题。",
           "url": "https://flash.jin10.com/detail/20260301035010661800",
           "source": "金十数据",
@@ -498,17 +570,6 @@
           "time_info": "04时18分"
         },
         {
-          "title": "特朗普称此次袭击要摧毁伊朗导弹工业，消灭伊朗海军，伊朗导弹工业、伊朗海军目前处于什么水平？",
-          "url": "https://www.zhihu.com/question/2011106123147675013",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
           "title": "特朗普政府高级官员：美国有情报显示，伊朗打算先发制人地发动袭击，而美国总统特朗普决定不让美军承受导弹袭击。",
           "url": "https://flash.jin10.com/detail/20260301034954179800",
           "source": "金十数据",
@@ -518,28 +579,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
-        },
-        {
-          "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
-          "url": "https://wallstreetcn.com/articles/3766454",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
-          "title": "特朗普称哈梅内伊已身亡 伊外交部此前回应称其“安然无恙”",
-          "url": "https://www.cls.cn/detail/2298666",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
         },
         {
           "title": "美国国会的关键成员要求迅速就一项战争权力决议进行投票，该决议将限制特朗普对伊朗的军事打击。",
@@ -586,17 +625,6 @@
           "time_info": "04时18分"
         },
         {
-          "title": "美以对伊军事打击后，白宫：特朗普仍计划出席共和党筹款活动",
-          "url": "https://wallstreetcn.com/livenews/3061046",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
           "title": "据AXIOS网站：美国总统特朗普表示，伊朗方面曾一度接近谈判，随后又退缩，“我由此明白，他们并不真正想要达成协议。”",
           "url": "https://flash.jin10.com/detail/20260301032707313800",
           "source": "金十数据",
@@ -606,17 +634,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
-        },
-        {
-          "title": "特朗普称伊朗最高领袖哈梅内伊“已死”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32676301",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
         },
         {
           "title": "据AXIOS网站：美国总统特朗普就伊朗问题表示，他们需要数年时间才能从这次袭击中恢复过来。",
@@ -680,7 +697,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -694,6 +711,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
+        },
+        {
+          "title": "特朗普监控伊朗行动照片曝光",
+          "url": "https://www.toutiao.com/trending/7611449201683353107/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
         },
         {
           "title": "据NBC新闻：美国副总统万斯、美国能源部长赖特、美国财长贝森特与美国总统特朗普一同关注伊朗袭击事件。",
@@ -735,7 +763,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -809,7 +837,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "美国出兵,联手以军炸伊朗",
@@ -818,11 +846,12 @@
           "ranks": [
             4,
             5,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时18分 ~ 12时15分]"
+          "appearance_count": 16,
+          "time_info": "[00时18分 ~ 13时46分]"
         },
         {
           "title": "伊朗军队正在对美国中东地区的军事基地实施打击，战火会蔓延至其他国家吗？中东各国有何反应？",
@@ -914,6 +943,17 @@
           "time_info": "[00时18分 ~ 04时18分]"
         },
         {
+          "title": "伊朗伊斯兰革命卫队发布6号公告，27个美国基地及以色列总司令部等均遭到袭击",
+          "url": "https://wallstreetcn.com/livenews/3061068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
+        },
+        {
           "title": "美国驻联合国大使就伊朗问题表示，在缺乏真正停止侵略的意愿的情况下，外交不可能取得成功。",
           "url": "https://flash.jin10.com/detail/20260301060633668800",
           "source": "金十数据",
@@ -933,8 +973,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 12时15分]"
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 13时46分]"
+        },
+        {
+          "title": "伊朗外长：美国为何在谈判期间发动攻击，明明协议触手可及",
+          "url": "https://news.ifeng.com/c/8r8HbwEHkpv",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 13时46分]"
         },
         {
           "title": "伊朗国家媒体称，伊朗伊斯兰革命卫队袭击了美国位于伊拉克的哈里尔空军基地。",
@@ -961,15 +1012,16 @@
           "time_info": "[06时16分 ~ 07时15分]"
         },
         {
-          "title": "伊朗外长：美国为何在谈判期间发动攻击，明明协议触手可及",
-          "url": "https://news.ifeng.com/c/8r8HbwEHkpv",
-          "source": "凤凰网",
+          "title": "外媒：美国或放弃让伊朗国王之子巴列维上位",
+          "url": "https://wallstreetcn.com/livenews/3061041",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            20,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 13时46分]"
         },
         {
           "title": "以色列政府机构COGAT表示，因以色列和美国对伊朗的打击，多个通往加沙地带的口岸已关闭。",
@@ -989,7 +1041,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -1066,7 +1118,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -1110,7 +1162,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -1165,18 +1217,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
-          "title": "外媒：美国或放弃让伊朗国王之子巴列维上位",
-          "url": "https://wallstreetcn.com/livenews/3061041",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -1190,6 +1231,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "伊朗3场世界杯小组赛都在美国球场踢",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%973%E5%9C%BA%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%8F%E7%BB%84%E8%B5%9B%E9%83%BD%E5%9C%A8%E7%BE%8E%E5%9B%BD%E7%90%83%E5%9C%BA%E8%B8%A2%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
         },
         {
           "title": "据福克斯新闻：美国官员证实，美方认为伊朗最高领袖哈梅内伊及5至10名伊朗高级领导人已在以色列对一处住所的首轮袭击中丧生。",
@@ -1345,7 +1397,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -1380,6 +1432,23 @@
       ]
     },
     {
+      "keyword_group": "半导体",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "韩国2月份半导体出口额同比增长160.8% 刷新历史纪录",
+          "url": "https://wallstreetcn.com/livenews/3061063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
+        }
+      ]
+    },
+    {
       "keyword_group": "存储芯片",
       "match_count": 1,
       "titles": [
@@ -1392,8 +1461,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时18分 ~ 12时15分]"
+          "appearance_count": 16,
+          "time_info": "[00时18分 ~ 13时46分]"
         }
       ]
     }
