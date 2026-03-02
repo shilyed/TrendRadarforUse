@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T12:07:51.666344+08:00",
-  "total_titles_processed": 968,
+  "generated_at": "2026-03-02T13:46:57.809439+08:00",
+  "total_titles_processed": 1103,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 56,
       "titles": [
         {
           "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
@@ -64,6 +64,18 @@
           "time_info": "[05时16分 ~ 07时17分]"
         },
         {
+          "title": "特朗普：对伊朗的军事行动可能持续四周左右",
+          "url": "https://news.ifeng.com/c/8r9ZKyKXgpq",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时20分 ~ 13时46分]"
+        },
+        {
           "title": "特朗普：基本摧毁伊朗海军总部",
           "url": "https://news.ifeng.com/c/8r9Q9rcc6AT",
           "source": "凤凰网",
@@ -102,25 +114,13 @@
           "time_info": "[00时19分 ~ 03时18分]"
         },
         {
-          "title": "特朗普：对伊朗的军事行动可能持续四周左右",
-          "url": "https://news.ifeng.com/c/8r9ZKyKXgpq",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时20分 ~ 12时07分]"
-        },
-        {
           "title": "美以伊战争最新动态｜特朗普与内塔尼亚胡肖像被烧毁",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -134,6 +134,42 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
+        },
+        {
+          "title": "“不得不说，特朗普的计划落空了”",
+          "url": "https://news.ifeng.com/c/8rAA4FIm65f",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
+        },
+        {
+          "title": "特朗普：伊朗新领导层希望恢复谈判，我同意了",
+          "url": "https://news.ifeng.com/c/8r9Nda8tUH6",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时17分 ~ 13时46分]"
+        },
+        {
+          "title": "特朗普称对伊朗军事行动或持续约4周，伊朗公布反击“成果”，英法德或采取防御",
+          "url": "https://wallstreetcn.com/articles/3766474",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时20分 ~ 13时46分]"
         },
         {
           "title": "白宫：特朗普已分别与以色列、巴林及阿联酋领导人通话",
@@ -171,18 +207,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时16分 ~ 06时17分]"
-        },
-        {
-          "title": "特朗普：伊朗新领导层希望恢复谈判，我同意了",
-          "url": "https://news.ifeng.com/c/8r9Nda8tUH6",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时17分 ~ 12时07分]"
         },
         {
           "title": "据《大西洋月刊》：美国总统特朗普在谈及与伊朗谈判的时机时表示，我不能告诉你。",
@@ -271,16 +295,15 @@
           "time_info": "[05时16分 ~ 07时17分]"
         },
         {
-          "title": "特朗普称对伊朗军事行动或持续约4周，伊朗公布反击“成果”，英法德或采取防御",
-          "url": "https://wallstreetcn.com/articles/3766474",
+          "title": "特朗普称不达目标不停战 伊朗称何时停战由伊方决定",
+          "url": "https://wallstreetcn.com/articles/3766483",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时20分 ~ 12时07分]"
+          "time_info": "[12时07分 ~ 13时46分]"
         },
         {
           "title": "据《大西洋月刊》：美国总统特朗普表示，伊朗希望对话，他也同意对话。",
@@ -306,17 +329,6 @@
           "time_info": "06时17分"
         },
         {
-          "title": "特朗普称不达目标不停战 伊朗称何时停战由伊方决定",
-          "url": "https://wallstreetcn.com/articles/3766483",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
           "title": "美国总统特朗普：呼吁伊朗人民抓住这一时机，夺回自己的国家。",
           "url": "https://flash.jin10.com/detail/20260302052042480800",
           "source": "金十数据",
@@ -328,6 +340,17 @@
           "time_info": "06时17分"
         },
         {
+          "title": "“委内瑞拉模式”结局是选项之一？特朗普：同意与伊朗新领导层对话，伊朗：不谈",
+          "url": "https://wallstreetcn.com/articles/3766494",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
+        },
+        {
           "title": "美国总统特朗普：敦促伊朗革命卫队、伊朗军方及警方放下武器，即可获得豁免，否则必死无疑。",
           "url": "https://flash.jin10.com/detail/20260302052037888800",
           "source": "金十数据",
@@ -337,6 +360,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "特朗普没有“速战速决”！全球市场直面“伊朗冲击”，焦点是“持续时间”",
+          "url": "https://wallstreetcn.com/articles/3766482",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
         },
         {
           "title": "美国总统特朗普：拥有远程导弹和核武器的伊朗政权将对每一个美国人构成严重威胁。",
@@ -372,6 +406,17 @@
           "time_info": "06时17分"
         },
         {
+          "title": "特朗普称不达目标不停战",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E8%BE%BE%E7%9B%AE%E6%A0%87%E4%B8%8D%E5%81%9C%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
+        },
+        {
           "title": "特朗普：已摧毁并击沉9艘伊朗军舰 美已基本摧毁伊朗海军总部",
           "url": "https://flash.jin10.com/detail/20260302012641441800",
           "source": "金十数据",
@@ -389,7 +434,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -570,6 +615,17 @@
           "time_info": "00时19分"
         },
         {
+          "title": "沙特否认劝特朗普对伊朗动手",
+          "url": "https://wallstreetcn.com/livenews/3061525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
+        },
+        {
           "title": "据路透社/益普索民调：约半数美国人——包括四分之一的共和党人——认为特朗普过于倾向于动用武力。",
           "url": "https://flash.jin10.com/detail/20260302005855191800",
           "source": "金十数据",
@@ -595,7 +651,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "下周重磅日程：中国两会、美国非农、伊朗局势进展、MiniMax京东B站财报",
@@ -711,6 +767,18 @@
           "time_info": "03时18分"
         },
         {
+          "title": "本周重磅日程：中国两会、美国非农、伊朗局势进展、MiniMax京东B站财报",
+          "url": "https://wallstreetcn.com/articles/3766412",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时20分 ~ 13时46分]"
+        },
+        {
           "title": "美国袭击伊朗，致美军3死5重伤",
           "url": "https://wallstreetcn.com/livenews/3061236",
           "source": "华尔街见闻-快讯",
@@ -724,6 +792,17 @@
           "time_info": "[00时19分 ~ 03时18分]"
         },
         {
+          "title": "伊朗称不会与美国谈判",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E7%A7%B0%E4%B8%8D%E4%BC%9A%E4%B8%8E%E7%BE%8E%E5%9B%BD%E8%B0%88%E5%88%A4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
+        },
+        {
           "title": "伊拉克首都巴格达传出几声巨响，因一架试图袭击美国大使馆的伊朗单向攻击无人机被成功拦截，并在巴格达国际机场附近坠毁。",
           "url": "https://flash.jin10.com/detail/20260302064528547800",
           "source": "金十数据",
@@ -733,18 +812,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
-        },
-        {
-          "title": "本周重磅日程：中国两会、美国非农、伊朗局势进展、MiniMax京东B站财报",
-          "url": "https://wallstreetcn.com/articles/3766412",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时20分 ~ 12时07分]"
         },
         {
           "title": "伊朗公布击中美国MQ-9无人机的画面",
@@ -758,6 +825,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时19分 ~ 03时18分]"
+        },
+        {
+          "title": "3名美国军人在对伊朗军事行动中死亡",
+          "url": "https://www.toutiao.com/trending/7612301599255301682/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时20分 ~ 13时46分]"
         },
         {
           "title": "印度反对派团体谴责总理莫迪上周的以色列之行。 称莫迪此举是默许“（以色列和美国）对伊朗发动一系列激发地区危机的军事袭击”。",
@@ -784,6 +864,18 @@
           "time_info": "[00时19分 ~ 02时23分]"
         },
         {
+          "title": "美国防部将就针对伊朗行动开发布会",
+          "url": "https://www.toutiao.com/trending/7611632431304756777/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 13时46分]"
+        },
+        {
           "title": "美国中央司令部：在持续进行的行动中，已打击超过1000个伊朗目标。",
           "url": "https://flash.jin10.com/detail/20260302032829073800",
           "source": "金十数据",
@@ -794,18 +886,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时19分 ~ 05时16分]"
-        },
-        {
-          "title": "3名美国军人在对伊朗军事行动中死亡",
-          "url": "https://www.toutiao.com/trending/7612301599255301682/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时20分 ~ 12时07分]"
         },
         {
           "title": "据美联社援引美国中央司令部发言人的话报道称，自伊朗袭击开始以来，没有美国船只遭到攻击。",
@@ -828,17 +908,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
-        },
-        {
-          "title": "美国防部将就针对伊朗行动开发布会",
-          "url": "https://www.toutiao.com/trending/7611632431304756777/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
         },
         {
           "title": "英国首相斯塔默：已接受美国的请求，允许使用英国军事基地，对伊朗的导弹储存库或发射装置实施防御性打击。",
@@ -902,9 +971,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
+        },
+        {
+          "title": "美以 28 日袭击伊朗，70 多年来，美国、伊朗这对曾经的战略盟友如何走向兵戎相见？",
+          "url": "https://www.zhihu.com/question/2011111265607632415",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
         },
         {
           "title": "据CNN：消息人士透露，数月以来，以色列和美国的情报机构，包括美国中央情报局（CIA），一直在秘密监视伊朗最高领袖哈梅内伊，只为等待最佳时机。",
@@ -968,7 +1048,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -998,7 +1078,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美以袭击伊朗金价为何下跌",
@@ -1036,6 +1116,17 @@
           "time_info": "09时20分"
         },
         {
+          "title": "中东战火“燃爆”避险情绪，国际金价有望再创新高？一文读懂",
+          "url": "https://www.cls.cn/detail/2299381",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
+        },
+        {
           "title": "金价波动",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -1059,9 +1150,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 13时46分]"
         },
         {
           "title": "全球市场开盘“未见恐慌”：美股三大股指期货均跌1%，油价跳涨13%但涨幅显著回落，黄金逼近5400美元",
@@ -1180,11 +1271,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时20分 ~ 12时07分]"
+          "appearance_count": 3,
+          "time_info": "[09时20分 ~ 13时46分]"
         }
       ]
     },
@@ -1200,8 +1292,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时20分 ~ 12时07分]"
+          "appearance_count": 3,
+          "time_info": "[09时20分 ~ 13时46分]"
         }
       ]
     }
