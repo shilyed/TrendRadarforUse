@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T03:35:34.696918+08:00",
-  "total_titles_processed": 484,
+  "generated_at": "2026-03-04T04:25:51.775426+08:00",
+  "total_titles_processed": 527,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 29,
       "titles": [
         {
           "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 03时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 04时25分]"
         },
         {
           "title": "斩首?老外通报特朗普坐标",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 03时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 04时25分]"
         },
         {
           "title": "动武后才通知国会！特朗普向国会提交《战争权力法案》通知",
@@ -37,8 +37,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 03时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 04时25分]"
+        },
+        {
+          "title": "美国总统特朗普：如果伊朗参加世界杯，我真不在乎。",
+          "url": "https://flash.jin10.com/detail/20260304035531242800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
         },
         {
           "title": "特朗普政府高级官员：未借助任何国家作为与伊朗的沟通桥梁。",
@@ -50,17 +61,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
-        },
-        {
-          "title": "特朗普称将切断贸易往来，西班牙回应：美国须尊重双边协定",
-          "url": "https://wallstreetcn.com/livenews/3062981",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时35分"
         },
         {
           "title": "特朗普：可容忍油价短期内上涨 优先消除伊朗威胁",
@@ -85,6 +85,29 @@
           "time_info": "00时38分"
         },
         {
+          "title": "特朗普称将切断贸易往来，西班牙回应：美国须尊重双边协定",
+          "url": "https://wallstreetcn.com/livenews/3062981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时35分 ~ 04时25分]"
+        },
+        {
+          "title": "胡锡进：伊朗希望用新的“中东泥潭”吓退特朗普",
+          "url": "https://news.ifeng.com/c/8rCZ8DyypW7",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时38分 ~ 04时25分]"
+        },
+        {
           "title": "报道：特朗普今日将评估控制能源价格的方案",
           "url": "https://wallstreetcn.com/livenews/3062950",
           "source": "华尔街见闻-快讯",
@@ -97,15 +120,28 @@
           "time_info": "[02时38分 ~ 03时35分]"
         },
         {
-          "title": "胡锡进：伊朗希望用新的“中东泥潭”吓退特朗普",
-          "url": "https://news.ifeng.com/c/8rCZ8DyypW7",
-          "source": "凤凰网",
+          "title": "美国参议院民主党领导人Schumer：参议院将于周三表决（总统特朗普）对伊朗发动战争的权力。",
+          "url": "https://wallstreetcn.com/livenews/3062968",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            12,
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时38分 ~ 03时35分]"
+          "time_info": "[03时35分 ~ 04时25分]"
+        },
+        {
+          "title": "特朗普否认被以色列“拖入战争”",
+          "url": "https://wallstreetcn.com/livenews/3062965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时35分 ~ 04时25分]"
         },
         {
           "title": "特朗普就对伊动武的给出最新解释：确信伊朗即将袭击美国 系“先发制人”",
@@ -119,6 +155,17 @@
           "time_info": "02时38分"
         },
         {
+          "title": "特朗普宣布为海上原油运输提供保险 必要时海军将护航",
+          "url": "https://flash.jin10.com/detail/20260304034529973800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
           "title": "领袖遇刺后的伊朗：有人喊报复，有人跳特朗普舞",
           "url": "https://news.ifeng.com/c/8rCTN6bsA7p",
           "source": "凤凰网",
@@ -128,6 +175,72 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        },
+        {
+          "title": "美、布两油短线跳水近2美元，特朗普宣布保障原油海上运输的措施。",
+          "url": "https://flash.jin10.com/detail/20260304034033102800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "美国总统特朗普的商务部长卢特尼克自愿就自己与爱泼斯坦的关系出席听证会。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3062988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "美国总统特朗普：如有必要，美国海军将尽快开始护送油轮通过霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260304033906785800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "美国总统特朗普：已指示美国国际开发金融公司（DFC）以非常合理的价格提供政治风险保险和保证，确保所有海上贸易的金融安全，特别是通过海湾的能源贸易。",
+          "url": "https://flash.jin10.com/detail/20260304033851666800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "据华尔街日报：特朗普考虑支持民兵组织以推翻伊朗政权。",
+          "url": "https://flash.jin10.com/detail/20260304033637754800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "美国原油期货短线跳水超2美元，特朗普将为途经海湾地区的贸易提供保险",
+          "url": "https://wallstreetcn.com/livenews/3062985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
         },
         {
           "title": "沃什未上任已挑战重重，同僚质疑与油价飙升恐令其难圆特朗普的降息梦",
@@ -152,35 +265,13 @@
           "time_info": "02时38分"
         },
         {
-          "title": "美国参议院民主党领导人Schumer：参议院将于周三表决（总统特朗普）对伊朗发动战争的权力。",
-          "url": "https://wallstreetcn.com/livenews/3062968",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时35分"
-        },
-        {
-          "title": "特朗普否认被以色列“拖入战争”",
-          "url": "https://wallstreetcn.com/livenews/3062965",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时35分"
-        },
-        {
           "title": "西班牙：有办法遏制美国总统特朗普威胁的切断贸易往来的影响。 特朗普在贸易问题上必须尊重国际法。",
           "url": "https://wallstreetcn.com/livenews/3062959",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时35分"
         },
@@ -191,7 +282,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时35分"
         },
@@ -253,8 +344,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 03时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 04时25分]"
         },
         {
           "title": "专家：欧洲在法理上反对美国打伊朗，背地里却希望伊政权更迭",
@@ -264,8 +355,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 03时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 04时25分]"
         },
         {
           "title": "英国财政大臣Reeves：英国不会根据美国贸易关系来做出关于伊朗的决定。",
@@ -319,7 +410,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时35分"
         },
@@ -349,8 +440,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "美元指数涨约0.7%，美股早盘曾创逾三个月新高",
+          "url": "https://wallstreetcn.com/livenews/3062993",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
         {
           "title": "战火升级点燃恐慌情绪 美股三大期指均跌超1% | 今夜看点",
           "url": "https://www.cls.cn/detail/2301690",
@@ -360,8 +462,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 03时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 04时25分]"
         },
         {
           "title": "金十图示：2026年03月03日（周二）美股热门股票行情一览（美股盘中）",
@@ -389,18 +491,30 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美元走强压倒避险需求 黄金日内跌超4% 白银一度暴跌近13%",
           "url": "https://www.cls.cn/detail/2301724",
           "source": "财联社热门",
           "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时35分 ~ 04时25分]"
+        },
+        {
+          "title": "白银对工业有多重要",
+          "url": "https://www.toutiao.com/trending/7612589191927267379/",
+          "source": "今日头条",
+          "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时35分"
+          "time_info": "04时25分"
         },
         {
           "title": "黄金白银跌不停",
@@ -438,8 +552,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 03时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 04时25分]"
         },
         {
           "title": "恒天然：3月3日全球乳品贸易（GDT）拍卖价格指数上涨5.7%，奶粉各合同期FAS拍卖均价4,301美元/吨。 批发奶粉价格指数涨4.5%，报3,863美元/吨。",
@@ -468,8 +582,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 03时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 04时25分]"
         },
         {
           "title": "沪指跌超1%，“三桶油”再度集体涨停，半导体产业链大跌，恒科指跌超2%，大模型股MINIMAX逆势涨超9%",
@@ -480,8 +594,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 03时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 04时25分]"
         }
       ]
     },
@@ -498,8 +612,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 03时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 04时25分]"
         }
       ]
     },
@@ -515,8 +629,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 03时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 04时25分]"
         }
       ]
     }
