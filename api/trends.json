@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T06:22:17.497990+08:00",
-  "total_titles_processed": 640,
+  "generated_at": "2026-03-04T07:20:13.906916+08:00",
+  "total_titles_processed": 703,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 41,
       "titles": [
         {
           "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时38分 ~ 06时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 07时20分]"
         },
         {
           "title": "斩首?老外通报特朗普坐标",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时38分 ~ 06时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 07时20分]"
         },
         {
           "title": "动武后才通知国会！特朗普向国会提交《战争权力法案》通知",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时38分 ~ 06时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 07时20分]"
         },
         {
           "title": "胡锡进：伊朗希望用新的“中东泥潭”吓退特朗普",
@@ -48,8 +48,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时38分 ~ 06时22分]"
+          "appearance_count": 8,
+          "time_info": "[02时38分 ~ 07时20分]"
         },
         {
           "title": "美国总统特朗普：如果伊朗参加世界杯，我真不在乎。",
@@ -85,24 +85,13 @@
           "time_info": "02时38分"
         },
         {
-          "title": "市场消息：伊拉克总理候选人阿尔-马利基宣布撤回总理竞选，几周前特朗普曾要求他退出。",
-          "url": "https://flash.jin10.com/detail/20260304054539761800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
           "title": "美国总统特朗普：加密货币行业接近取得真正的成功。",
           "url": "https://wallstreetcn.com/livenews/3063034",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -118,6 +107,17 @@
           "time_info": "00时38分"
         },
         {
+          "title": "CEO Altman告知OpenAI员工：军方的“行动决策”由特朗普政府说了算",
+          "url": "https://wallstreetcn.com/livenews/3063046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
           "title": "特朗普称将切断贸易往来，西班牙回应：美国须尊重双边协定",
           "url": "https://wallstreetcn.com/livenews/3062981",
           "source": "华尔街见闻-快讯",
@@ -128,6 +128,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时35分 ~ 04时25分]"
+        },
+        {
+          "title": "市场消息：伊拉克总理候选人阿尔-马利基宣布撤回总理竞选，几周前特朗普曾要求他退出。",
+          "url": "https://flash.jin10.com/detail/20260304054539761800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时20分]"
         },
         {
           "title": "报道：特朗普今日将评估控制能源价格的方案",
@@ -301,6 +313,28 @@
           "time_info": "02时38分"
         },
         {
+          "title": "特朗普表示：不会让银行“破坏”加密货币议程",
+          "url": "https://wallstreetcn.com/livenews/3063034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "美国总统特朗普：《天才法案》正受到银行的威胁和破坏，这是不可接受的。",
+          "url": "https://flash.jin10.com/detail/20260304060328619800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
           "title": "西班牙：有办法遏制美国总统特朗普威胁的切断贸易往来的影响。 特朗普在贸易问题上必须尊重国际法。",
           "url": "https://wallstreetcn.com/livenews/3062959",
           "source": "华尔街见闻-快讯",
@@ -436,7 +470,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "美国什么时候决定袭击伊朗的？美特使透露",
@@ -446,8 +480,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时38分 ~ 06时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 07时20分]"
         },
         {
           "title": "专家：欧洲在法理上反对美国打伊朗，背地里却希望伊政权更迭",
@@ -457,8 +491,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时38分 ~ 06时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 07时20分]"
+        },
+        {
+          "title": "美国参议院就伊朗“战争权力决议”进行的首次投票定于周三下午4点（北京时间周四早上5点）举行。",
+          "url": "https://flash.jin10.com/detail/20260304070110018800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         },
         {
           "title": "美国国务卿鲁比奥：在伊朗的行动有“明确目标”，不会无休止地进行下去。",
@@ -467,7 +512,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -552,6 +597,17 @@
           "time_info": "05时29分"
         },
         {
+          "title": "据CNN：消息人士称，美国中央情报局正试图为库尔德武装提供武器，以促使他们在伊朗进行夺权。",
+          "url": "https://flash.jin10.com/detail/20260304061905708800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
           "title": "美国参议院少数党领袖舒默：参议院明天将对伊朗战争权力决议进行投票。",
           "url": "https://flash.jin10.com/detail/20260304025909464800",
           "source": "金十数据",
@@ -588,7 +644,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "战火升级点燃恐慌情绪 美股三大期指均跌超1% | 今夜看点",
@@ -599,8 +655,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时38分 ~ 06时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 07时20分]"
+        },
+        {
+          "title": "特朗普承诺“护航”，美股指跌幅收窄，纳指仍跌超1%，原油冲高回落涨5%，美元强势二连涨，金银重挫",
+          "url": "https://wallstreetcn.com/articles/3766590",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时19分 ~ 07时20分]"
         },
         {
           "title": "美元指数涨约0.7%，美股早盘曾创逾三个月新高",
@@ -639,6 +706,41 @@
           "time_info": "[05时29分 ~ 06时22分]"
         },
         {
+          "title": "美股收盘：中东冲突加剧通胀担忧 三大股指集体收跌",
+          "url": "https://www.cls.cn/detail/2301893",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时19分 ~ 07时20分]"
+        },
+        {
+          "title": "周二（3月3日），在美股时段交易的费城金银指数收跌8.08%，报431.35点，美股盘初跳水、整体呈现出长尾L形走势。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌7.68%，报3053.61点，全天处于下跌状态，美股开盘之前保持微幅下跌状态——持稳于32.76点上方，随后跳空下挫，北京时间23:17刷新日低至2975点。 在美股时段交易的原材料指数收跌3.72%，金属与矿业指数收跌3.57%。",
+          "url": "https://wallstreetcn.com/livenews/3063031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时20分]"
+        },
+        {
+          "title": "现货黄金跌4.4%，美股早盘曾跌穿5000美元整数位心理关口，现货白银跌约8.2%，铂金跌超9.4%",
+          "url": "https://wallstreetcn.com/livenews/3063029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时20分]"
+        },
+        {
           "title": "周二（3月3日）美股尾盘，彭博电动汽车价格回报指数跌4.68%，报3524.62点，整体持续下跌。",
           "url": "https://wallstreetcn.com/livenews/3063002",
           "source": "华尔街见闻-快讯",
@@ -649,28 +751,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 06时22分]"
-        },
-        {
-          "title": "周二（3月3日），在美股时段交易的费城金银指数收跌8.08%，报431.35点，美股盘初跳水、整体呈现出长尾L形走势。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌7.68%，报3053.61点，全天处于下跌状态，美股开盘之前保持微幅下跌状态——持稳于32.76点上方，随后跳空下挫，北京时间23:17刷新日低至2975点。 在美股时段交易的原材料指数收跌3.72%，金属与矿业指数收跌3.57%。",
-          "url": "https://wallstreetcn.com/livenews/3063031",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "现货黄金跌4.4%，美股早盘曾跌穿5000美元整数位心理关口，现货白银跌约8.2%，铂金跌超9.4%",
-          "url": "https://wallstreetcn.com/livenews/3063029",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
         },
         {
           "title": "金十图示：2026年03月03日（周二）美股热门股票行情一览（美股盘中）",
@@ -743,8 +823,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时35分 ~ 06时22分]"
+          "appearance_count": 7,
+          "time_info": "[03时35分 ~ 07时20分]"
         },
         {
           "title": "白银对工业有多重要",
@@ -861,8 +941,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时38分 ~ 06时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 07时20分]"
         },
         {
           "title": "A股半导体公司集体发涨价函",
@@ -892,8 +972,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时38分 ~ 06时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 07时20分]"
         }
       ]
     },
@@ -907,11 +987,13 @@
           "source": "今日头条",
           "ranks": [
             2,
-            16
+            16,
+            5,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时28分 ~ 06时22分]"
+          "appearance_count": 5,
+          "time_info": "[05时28分 ~ 07时20分]"
         }
       ]
     }
