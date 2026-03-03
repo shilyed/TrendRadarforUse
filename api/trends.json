@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T09:22:48.550826+08:00",
-  "total_titles_processed": 844,
+  "generated_at": "2026-03-03T12:08:46.453317+08:00",
+  "total_titles_processed": 1002,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 47,
       "titles": [
         {
           "title": "“委内瑞拉模式”结局是选项之一？特朗普：同意与伊朗新领导层对话，伊朗：不谈",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 09时22分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 12时08分]"
         },
         {
           "title": "“不得不说，特朗普的计划落空了”",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 09时22分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 12时08分]"
         },
         {
           "title": "特朗普称对伊朗军事行动或持续约4周，伊朗公布反击“成果”，英法德或采取防御",
@@ -103,6 +103,21 @@
           "time_info": "[00时35分 ~ 07时20分]"
         },
         {
+          "title": "特朗普3月访华能否成行？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32684163",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            19,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时36分 ~ 12时08分]"
+        },
+        {
           "title": "特朗普称不达目标不停战",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E8%BE%BE%E7%9B%AE%E6%A0%87%E4%B8%8D%E5%81%9C%E6%88%98",
           "source": "bilibili 热搜",
@@ -129,20 +144,6 @@
           "time_info": "[00时35分 ~ 01时39分]"
         },
         {
-          "title": "特朗普3月访华能否成行？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32684163",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            19,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时36分 ~ 09时22分]"
-        },
-        {
           "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
           "url": "https://www.cls.cn/detail/2299598",
           "source": "财联社热门",
@@ -154,13 +155,24 @@
           "time_info": "[00时35分 ~ 01时39分]"
         },
         {
+          "title": "动武后才通知国会！特朗普向国会提交《战争权力法案》通知",
+          "url": "https://news.ifeng.com/c/8rBh2u8DdpX",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "特朗普：“不排除派地面部队”",
           "url": "https://wallstreetcn.com/livenews/3062262",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -250,6 +262,17 @@
           "time_info": "[03时32分 ~ 05时26分]"
         },
         {
+          "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
+          "url": "https://wallstreetcn.com/articles/3766558",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时22分 ~ 12时08分]"
+        },
+        {
           "title": "前美联储主席、前美国财政部长耶伦：对美国经济前景感到乐观，但（面临）“严重风险”。 关注伊朗风险，具体取决于（美国和以色列挑起的）战争持续的时间。 如果油价居高不下、或进一步上涨，恐怕会引发美国通胀担忧。 3%的通胀率中，可能有0.5个百分点来自（总统特朗普挑起的）关税。 如果油价偏高，将伤害到经济增长，并构成通胀风险。 伊朗局势将让美联储“更容易维持”政策利率不变。 特朗普对美联储理事库克的所作所为“只能用无法想象来形容”。 美国司法部的任何刑事指控都将对美联储“构成巨大的威胁”。",
           "url": "https://wallstreetcn.com/livenews/3062075",
           "source": "华尔街见闻-快讯",
@@ -298,26 +321,37 @@
           "time_info": "[01时39分 ~ 02时36分]"
         },
         {
-          "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
-          "url": "https://wallstreetcn.com/articles/3766558",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
           "title": "特朗普：不排除派地面部队",
           "url": "https://news.ifeng.com/c/8rBa5Cg6WwD",
           "source": "凤凰网",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
+        },
+        {
+          "title": "特朗普夫人首次主持安理会会议，中方强烈谴责",
+          "url": "https://news.ifeng.com/c/8rBij7DRy9X",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "美国总统特朗普将于美国东部时间周二上午11点（北京时间今夜零点）在白宫与德国总理默茨会晤。",
+          "url": "https://flash.jin10.com/detail/20260303113237211800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "克林顿称特朗普曾提及与爱泼斯坦“有过美好时光”",
@@ -326,7 +360,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -370,7 +404,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -384,6 +418,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        },
+        {
+          "title": "美国会拟限制特朗普继续对伊动武",
+          "url": "https://www.toutiao.com/trending/7611738955826462762/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "美国总统特朗普：我们对伊朗对阿拉伯国家的袭击感到惊讶。",
@@ -414,7 +459,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -502,7 +547,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         }
@@ -510,7 +555,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 30,
       "titles": [
         {
           "title": "伊朗最高国家安全委员会秘书：不会与美国进行谈判",
@@ -518,11 +563,12 @@
           "source": "澎湃新闻",
           "ranks": [
             5,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 09时22分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 12时08分]"
         },
         {
           "title": "伊朗：摧毁美国驻伊拉克埃尔比勒总领馆",
@@ -611,11 +657,12 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时19分 ~ 09时22分]"
+          "appearance_count": 4,
+          "time_info": "[07时19分 ~ 12时08分]"
         },
         {
           "title": "西班牙拒绝美国利用其军事基地攻击伊朗",
@@ -698,6 +745,17 @@
           "time_info": "05时26分"
         },
         {
+          "title": "美国军方拦截了一架针对位于伊拉克北部美军基地的伊朗无人机。",
+          "url": "https://flash.jin10.com/detail/20260303113433884800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "美国国务卿鲁比奥：伊朗政权更迭并不是这次任务的明确目标。",
           "url": "https://flash.jin10.com/detail/20260303045331404800",
           "source": "金十数据",
@@ -764,6 +822,17 @@
           "time_info": "00时36分"
         },
         {
+          "title": "美国总统特使威特科夫：伊朗谈判代表公开夸耀拥有浓缩铀。",
+          "url": "https://flash.jin10.com/detail/20260303112509484800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "美国誓言阻止伊朗拥核 称行动进展快于预期",
           "url": "https://flash.jin10.com/detail/20260303013914275800",
           "source": "金十数据",
@@ -775,13 +844,35 @@
           "time_info": "02时36分"
         },
         {
+          "title": "美国总统特使威特科夫：我们提出了一项交易，包括从国外向伊朗供应核燃料，以换取停止铀浓缩，但伊朗完全拒绝了。",
+          "url": "https://flash.jin10.com/detail/20260303111858890800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "美国总统特使威特科夫：伊朗铀库存本可制造11枚核弹。",
+          "url": "https://flash.jin10.com/detail/20260303111539267800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "大韩航空股价跌7.8%。由于美国对伊朗发动袭击，大韩航空已暂停仁川至迪拜航线，停飞将持续至3月5日。",
           "url": "https://wallstreetcn.com/livenews/3062242",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -795,6 +886,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "美国总统特使威特科夫：伊朗当时距离将铀浓缩至制造核武器所需的90%浓度仅剩一周到十天的时间。",
+          "url": "https://flash.jin10.com/detail/20260303111513284800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         }
       ]
     },
@@ -819,11 +921,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时36分 ~ 09时22分]"
+          "appearance_count": 10,
+          "time_info": "[02时36分 ~ 12时08分]"
         },
         {
           "title": "美股收盘：地缘冲突下市场剧烈波动 三大股指涨跌不一",
@@ -831,11 +934,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时19分 ~ 09时22分]"
+          "appearance_count": 4,
+          "time_info": "[07时19分 ~ 12时08分]"
         },
         {
           "title": "美股七巨头收盘播报｜周一（3月2日），美国科技股七巨头（Magnificent 7）指数涨0.66%，报194.61点。 “超大”市值科技股指数涨0.33%，报367.84点。",
@@ -938,7 +1042,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -952,6 +1056,79 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "金十图示：2026年03月03日（周二）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260303115300299800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "美指涨超1%，黄金、白银继续走低",
+          "url": "https://wallstreetcn.com/livenews/3062050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时36分"
+        },
+        {
+          "title": "纽约期金涨1.8%，现货白银跌超4.7%，纽约铜跌1.6%",
+          "url": "https://wallstreetcn.com/livenews/3062164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时20分]"
+        },
+        {
+          "title": "现货白银重返91美元关口上方，日内涨近2%。",
+          "url": "https://wallstreetcn.com/livenews/3062248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "黄金白银双双快速跳水",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%8F%8C%E5%8F%8C%E5%BF%AB%E9%80%9F%E8%B7%B3%E6%B0%B4%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 3月3日（周二）早盘盘初上涨1.23%报1191.16元/克；<br/>上海黄金交易所白银T+D 3月3日（周二）早盘盘初下跌3.29%报22717.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260303090041296800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         }
       ]
     },
@@ -977,9 +1154,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时22分 ~ 12时08分]"
         },
         {
           "title": "短中期美债收益率涨超10个基点，投资者担忧中东局势给美国带来通胀风险",
@@ -1015,68 +1192,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美指涨超1%，黄金、白银继续走低",
-          "url": "https://wallstreetcn.com/livenews/3062050",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "纽约期金涨1.8%，现货白银跌超4.7%，纽约铜跌1.6%",
-          "url": "https://wallstreetcn.com/livenews/3062164",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 07时20分]"
-        },
-        {
-          "title": "现货白银重返91美元关口上方，日内涨近2%。",
-          "url": "https://wallstreetcn.com/livenews/3062248",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "黄金白银双双快速跳水",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%8F%8C%E5%8F%8C%E5%BF%AB%E9%80%9F%E8%B7%B3%E6%B0%B4%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 3月3日（周二）早盘盘初上涨1.23%报1191.16元/克；<br/>上海黄金交易所白银T+D 3月3日（周二）早盘盘初下跌3.29%报22717.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260303090041296800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时22分"
         }
       ]
     },
@@ -1144,6 +1259,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "惠誉旗下研究机构：若中东局势持续，金价本周或创历史新高",
+          "url": "https://flash.jin10.com/detail/20260303114847241800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         }
       ]
     }
