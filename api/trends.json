@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T12:08:46.453317+08:00",
-  "total_titles_processed": 1002,
+  "generated_at": "2026-03-03T13:43:43.658043+08:00",
+  "total_titles_processed": 1132,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 51,
       "titles": [
         {
           "title": "“委内瑞拉模式”结局是选项之一？特朗普：同意与伊朗新领导层对话，伊朗：不谈",
@@ -111,11 +111,12 @@
             18,
             19,
             11,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时36分 ~ 12时08分]"
+          "appearance_count": 11,
+          "time_info": "[02时36分 ~ 13时43分]"
         },
         {
           "title": "特朗普称不达目标不停战",
@@ -159,11 +160,46 @@
           "url": "https://news.ifeng.com/c/8rBh2u8DdpX",
           "source": "凤凰网",
           "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 13时43分]"
+        },
+        {
+          "title": "美以伊战争最新动态｜特朗普回应是否怕美国本土遭袭",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
+          "url": "https://wallstreetcn.com/articles/3766558",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时22分 ~ 13时43分]"
+        },
+        {
+          "title": "特朗普批民主党：如果不动手，他们又要叫唤",
+          "url": "https://news.ifeng.com/c/8rBnoV8tG9m",
+          "source": "凤凰网",
+          "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时08分"
+          "time_info": "13时43分"
         },
         {
           "title": "特朗普：“不排除派地面部队”",
@@ -227,6 +263,18 @@
           "time_info": "[03时32分 ~ 04时29分]"
         },
         {
+          "title": "美国会拟限制特朗普继续对伊动武",
+          "url": "https://www.toutiao.com/trending/7611738955826462762/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 13时43分]"
+        },
+        {
           "title": "特朗普称同意与伊朗新领导层对话",
           "url": "https://m.thepaper.cn/newsDetail_forward_32681474",
           "source": "澎湃新闻",
@@ -262,15 +310,15 @@
           "time_info": "[03时32分 ~ 05时26分]"
         },
         {
-          "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
-          "url": "https://wallstreetcn.com/articles/3766558",
-          "source": "华尔街见闻",
+          "title": "特朗普夫人首次主持安理会会议，中方强烈谴责",
+          "url": "https://news.ifeng.com/c/8rBij7DRy9X",
+          "source": "凤凰网",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时22分 ~ 12时08分]"
+          "time_info": "[12时08分 ~ 13时43分]"
         },
         {
           "title": "前美联储主席、前美国财政部长耶伦：对美国经济前景感到乐观，但（面临）“严重风险”。 关注伊朗风险，具体取决于（美国和以色列挑起的）战争持续的时间。 如果油价居高不下、或进一步上涨，恐怕会引发美国通胀担忧。 3%的通胀率中，可能有0.5个百分点来自（总统特朗普挑起的）关税。 如果油价偏高，将伤害到经济增长，并构成通胀风险。 伊朗局势将让美联储“更容易维持”政策利率不变。 特朗普对美联储理事库克的所作所为“只能用无法想象来形容”。 美国司法部的任何刑事指控都将对美联储“构成巨大的威胁”。",
@@ -332,24 +380,13 @@
           "time_info": "09时22分"
         },
         {
-          "title": "特朗普夫人首次主持安理会会议，中方强烈谴责",
-          "url": "https://news.ifeng.com/c/8rBij7DRy9X",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
           "title": "美国总统特朗普将于美国东部时间周二上午11点（北京时间今夜零点）在白宫与德国总理默茨会晤。",
           "url": "https://flash.jin10.com/detail/20260303113237211800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         },
@@ -398,6 +435,17 @@
           "time_info": "00时36分"
         },
         {
+          "title": "据日本共同社：日本首相高市早苗表示，本月晚些时候在华盛顿举行的峰会期间，他将与美国总统特朗普举行“坦诚会谈”，讨论美国和以色列对伊朗发动的袭击事件。",
+          "url": "https://flash.jin10.com/detail/20260303132618373800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
           "title": "据NewsNation记者：美国总统特朗普表示，他认为无需在伊朗部署地面部队。",
           "url": "https://flash.jin10.com/detail/20260303090416386800",
           "source": "金十数据",
@@ -418,17 +466,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
-        },
-        {
-          "title": "美国会拟限制特朗普继续对伊动武",
-          "url": "https://www.toutiao.com/trending/7611738955826462762/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
         },
         {
           "title": "美国总统特朗普：我们对伊朗对阿拉伯国家的袭击感到惊讶。",
@@ -484,6 +521,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
+        },
+        {
+          "title": "特朗普：美军弹药充足且优质 可“永远打下去且赢得漂亮”",
+          "url": "https://flash.jin10.com/detail/20260303130015137800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
         },
         {
           "title": "美国总统特朗普：已击毁10艘舰艇，我们已领先于此前的预期；我们将会轻松获胜。我们此前预计将持续4到5周，但可能会更久。",
@@ -555,7 +603,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "伊朗最高国家安全委员会秘书：不会与美国进行谈判",
@@ -628,6 +676,19 @@
           "time_info": "05时26分"
         },
         {
+          "title": "伊朗最高领袖遇害，除了谴责美国中方还将如何行动？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32684013",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时19分 ~ 13时43分]"
+        },
+        {
           "title": "美国中央司令部：两天前，伊朗在阿曼湾有11艘船，今天他们一艘都没有。",
           "url": "https://flash.jin10.com/detail/20260303032938989800",
           "source": "金十数据",
@@ -650,19 +711,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 05时26分]"
-        },
-        {
-          "title": "伊朗最高领袖遇害，除了谴责美国中方还将如何行动？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32684013",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时19分 ~ 12时08分]"
         },
         {
           "title": "西班牙拒绝美国利用其军事基地攻击伊朗",
@@ -751,7 +799,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         },
@@ -828,7 +876,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         },
@@ -850,9 +898,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
+        },
+        {
+          "title": "伊朗外长号召美国人夺回自己的国家",
+          "url": "https://wallstreetcn.com/livenews/3062415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
         },
         {
           "title": "美国总统特使威特科夫：伊朗铀库存本可制造11枚核弹。",
@@ -861,7 +920,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         },
@@ -894,7 +953,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         }
@@ -902,7 +961,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "伊朗危机冲击，美股指低开，纳指跌超1.5%，布油涨8%，黄金突破5400",
@@ -938,8 +997,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时19分 ~ 12时08分]"
+          "appearance_count": 5,
+          "time_info": "[07时19分 ~ 13时43分]"
+        },
+        {
+          "title": "美股股指期货跌幅扩大",
+          "url": "https://wallstreetcn.com/livenews/3062444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
         },
         {
           "title": "美股七巨头收盘播报｜周一（3月2日），美国科技股七巨头（Magnificent 7）指数涨0.66%，报194.61点。 “超大”市值科技股指数涨0.33%，报367.84点。",
@@ -1070,7 +1140,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         },
@@ -1137,6 +1207,17 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
+          "url": "https://wallstreetcn.com/articles/3766477",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时22分 ~ 13时43分]"
+        },
+        {
           "title": "伊朗危机点燃通胀担忧，美股指惊险走V，原油暴涨重创美债，美元大涨，黄金冲高回落",
           "url": "https://wallstreetcn.com/articles/3766477",
           "source": "华尔街见闻",
@@ -1146,17 +1227,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时19分 ~ 07时20分]"
-        },
-        {
-          "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
-          "url": "https://wallstreetcn.com/articles/3766477",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时22分 ~ 12时08分]"
         },
         {
           "title": "短中期美债收益率涨超10个基点，投资者担忧中东局势给美国带来通胀风险",
@@ -1273,7 +1343,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         }
