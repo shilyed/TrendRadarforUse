@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T05:29:09.876390+08:00",
-  "total_titles_processed": 589,
+  "generated_at": "2026-03-04T06:22:17.497990+08:00",
+  "total_titles_processed": 640,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 05时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 06时22分]"
         },
         {
           "title": "斩首?老外通报特朗普坐标",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 05时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 06时22分]"
         },
         {
           "title": "动武后才通知国会！特朗普向国会提交《战争权力法案》通知",
@@ -37,8 +37,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 06时22分]"
+        },
+        {
+          "title": "胡锡进：伊朗希望用新的“中东泥潭”吓退特朗普",
+          "url": "https://news.ifeng.com/c/8rCZ8DyypW7",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时38分 ~ 05时29分]"
+          "time_info": "[02时38分 ~ 06时22分]"
         },
         {
           "title": "美国总统特朗普：如果伊朗参加世界杯，我真不在乎。",
@@ -74,6 +85,28 @@
           "time_info": "02时38分"
         },
         {
+          "title": "市场消息：伊拉克总理候选人阿尔-马利基宣布撤回总理竞选，几周前特朗普曾要求他退出。",
+          "url": "https://flash.jin10.com/detail/20260304054539761800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "美国总统特朗普：加密货币行业接近取得真正的成功。",
+          "url": "https://wallstreetcn.com/livenews/3063034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
           "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
           "url": "https://wallstreetcn.com/articles/3766558",
           "source": "华尔街见闻",
@@ -83,17 +116,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
-        },
-        {
-          "title": "胡锡进：伊朗希望用新的“中东泥潭”吓退特朗普",
-          "url": "https://news.ifeng.com/c/8rCZ8DyypW7",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时38分 ~ 05时29分]"
         },
         {
           "title": "特朗普称将切断贸易往来，西班牙回应：美国须尊重双边协定",
@@ -130,6 +152,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时25分 ~ 05时29分]"
+        },
+        {
+          "title": "反弹3美元 特朗普打击油价的效果转瞬即逝",
+          "url": "https://flash.jin10.com/detail/20260304051410604800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时22分]"
         },
         {
           "title": "美国原油期货短线跳水超2美元，特朗普将为途经海湾地区的贸易提供保险",
@@ -245,17 +279,6 @@
           "time_info": "04时25分"
         },
         {
-          "title": "反弹3美元 特朗普打击油价的效果转瞬即逝",
-          "url": "https://flash.jin10.com/detail/20260304051410604800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时29分"
-        },
-        {
           "title": "沃什未上任已挑战重重，同僚质疑与油价飙升恐令其难圆特朗普的降息梦",
           "url": "https://wallstreetcn.com/livenews/3062944",
           "source": "华尔街见闻-快讯",
@@ -317,7 +340,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         },
@@ -350,7 +373,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         },
@@ -361,7 +384,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         },
@@ -383,7 +406,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         },
@@ -394,7 +417,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         },
@@ -405,7 +428,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         }
@@ -413,7 +436,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美国什么时候决定袭击伊朗的？美特使透露",
@@ -423,8 +446,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 05时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 06时22分]"
         },
         {
           "title": "专家：欧洲在法理上反对美国打伊朗，背地里却希望伊政权更迭",
@@ -434,8 +457,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 05时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 06时22分]"
+        },
+        {
+          "title": "美国国务卿鲁比奥：在伊朗的行动有“明确目标”，不会无休止地进行下去。",
+          "url": "https://flash.jin10.com/detail/20260304054057045800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "英国财政大臣Reeves：英国不会根据美国贸易关系来做出关于伊朗的决定。",
@@ -450,6 +484,30 @@
           "time_info": "[02时38分 ~ 03时35分]"
         },
         {
+          "title": "英国外交大臣库珀：伊朗对利雅得的袭击，包括针对美国大使馆的袭击，是完全不能接受的。",
+          "url": "https://flash.jin10.com/detail/20260304051659848800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时22分]"
+        },
+        {
+          "title": "美国务卿称一架伊朗无人机击中美驻迪拜领事馆外停车场",
+          "url": "https://flash.jin10.com/detail/20260304051222493800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时22分]"
+        },
+        {
           "title": "美国纽约联储主席威廉姆斯：伊朗（面对美国以色列挑起的）战争迄今的影响“相对温和”。 （相比对于美国）伊朗局势通过天然气对欧洲造成的影响可能更大。 石油价格对通胀的影响取决于油价涨势是否会顽固存在。 实现2%这个通胀目标真的很重要。 战争对不确定性的影响可能会很重要。 如果久久不能实现通胀目标，将侵蚀预期。 事实证明，美国对油价波动具有韧性。",
           "url": "https://wallstreetcn.com/livenews/3062887",
           "source": "华尔街见闻-快讯",
@@ -461,17 +519,6 @@
           "time_info": "00时38分"
         },
         {
-          "title": "英国外交大臣库珀：伊朗对利雅得的袭击，包括针对美国大使馆的袭击，是完全不能接受的。",
-          "url": "https://flash.jin10.com/detail/20260304051659848800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时29分"
-        },
-        {
           "title": "两位消息人士证实，美国在上周末对伊朗发动袭击期间使用了Anthropic的Claude AI模型，并且目前仍在继续使用。（CBS）",
           "url": "https://wallstreetcn.com/livenews/3062945",
           "source": "华尔街见闻-快讯",
@@ -481,17 +528,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
-        },
-        {
-          "title": "美国务卿称一架伊朗无人机击中美驻迪拜领事馆外停车场",
-          "url": "https://flash.jin10.com/detail/20260304051222493800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时29分"
         },
         {
           "title": "对伊朗打击后，美国加强对境内“潜在威胁”的监测",
@@ -511,7 +547,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         },
@@ -552,7 +588,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "战火升级点燃恐慌情绪 美股三大期指均跌超1% | 今夜看点",
@@ -563,30 +599,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 05时29分]"
-        },
-        {
-          "title": "CrowdStrike四季度营收13.1亿美元，分析师预期13.0亿美元。 四季度调整后每股收益（EPS）为1.12美元，分析师预期1.10美元。 预计2027财年营收58.7亿-59.3亿美元，分析师预期58.7亿美元。 预计2027财年调整后EPS为4.78-4.90美元，分析师预期4.80美元。 预计一季度营收13.6亿-13.64亿美元，分析师预期13.6亿美元。 预计一季度调整后EPS为1.06-1.07美元，分析师预期1.05美元。 CrowdStrike美股盘后跌3%。",
-          "url": "https://wallstreetcn.com/livenews/3063011",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时29分"
-        },
-        {
-          "title": "半导体ETF收跌将近3.8%，领跌美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3063010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时29分"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 06时22分]"
         },
         {
           "title": "美元指数涨约0.7%，美股早盘曾创逾三个月新高",
@@ -601,6 +615,64 @@
           "time_info": "[04时25分 ~ 05时29分]"
         },
         {
+          "title": "CrowdStrike四季度营收13.1亿美元，分析师预期13.0亿美元。 四季度调整后每股收益（EPS）为1.12美元，分析师预期1.10美元。 预计2027财年营收58.7亿-59.3亿美元，分析师预期58.7亿美元。 预计2027财年调整后EPS为4.78-4.90美元，分析师预期4.80美元。 预计一季度营收13.6亿-13.64亿美元，分析师预期13.6亿美元。 预计一季度调整后EPS为1.06-1.07美元，分析师预期1.05美元。 CrowdStrike美股盘后跌3%。",
+          "url": "https://wallstreetcn.com/livenews/3063011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时22分]"
+        },
+        {
+          "title": "半导体ETF收跌将近3.8%，领跌美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3063010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时22分]"
+        },
+        {
+          "title": "周二（3月3日）美股尾盘，彭博电动汽车价格回报指数跌4.68%，报3524.62点，整体持续下跌。",
+          "url": "https://wallstreetcn.com/livenews/3063002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时22分]"
+        },
+        {
+          "title": "周二（3月3日），在美股时段交易的费城金银指数收跌8.08%，报431.35点，美股盘初跳水、整体呈现出长尾L形走势。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌7.68%，报3053.61点，全天处于下跌状态，美股开盘之前保持微幅下跌状态——持稳于32.76点上方，随后跳空下挫，北京时间23:17刷新日低至2975点。 在美股时段交易的原材料指数收跌3.72%，金属与矿业指数收跌3.57%。",
+          "url": "https://wallstreetcn.com/livenews/3063031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "现货黄金跌4.4%，美股早盘曾跌穿5000美元整数位心理关口，现货白银跌约8.2%，铂金跌超9.4%",
+          "url": "https://wallstreetcn.com/livenews/3063029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
           "title": "金十图示：2026年03月03日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260304020824934800",
           "source": "金十数据",
@@ -612,24 +684,13 @@
           "time_info": "02时38分"
         },
         {
-          "title": "周二（3月3日）美股尾盘，彭博电动汽车价格回报指数跌4.68%，报3524.62点，整体持续下跌。",
-          "url": "https://wallstreetcn.com/livenews/3063002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时29分"
-        },
-        {
           "title": "金十图示：2026年03月03日（周二）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260304050554009800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         },
@@ -640,7 +701,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         },
@@ -662,7 +723,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         }
@@ -682,8 +743,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时35分 ~ 05时29分]"
+          "appearance_count": 5,
+          "time_info": "[03时35分 ~ 06时22分]"
         },
         {
           "title": "白银对工业有多重要",
@@ -732,8 +793,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 05时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 06时22分]"
         },
         {
           "title": "美元指数3日上涨",
@@ -742,7 +803,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         },
@@ -771,8 +832,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 05时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 06时22分]"
         },
         {
           "title": "美债收益率在亚欧时段走高，美股开盘前后回吐涨幅",
@@ -781,7 +842,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         }
@@ -800,8 +861,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 05时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 06时22分]"
         },
         {
           "title": "A股半导体公司集体发涨价函",
@@ -831,8 +892,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 05时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 06时22分]"
         }
       ]
     },
@@ -845,11 +906,12 @@
           "url": "https://www.toutiao.com/trending/7612240665126256681/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 05时29分]"
+          "appearance_count": 3,
+          "time_info": "[05时28分 ~ 06时22分]"
         }
       ]
     }
