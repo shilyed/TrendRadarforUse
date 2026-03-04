@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T15:34:29.831949+08:00",
-  "total_titles_processed": 1370,
+  "generated_at": "2026-03-04T16:31:47.106147+08:00",
+  "total_titles_processed": 1464,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 53,
       "titles": [
         {
           "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
@@ -37,11 +37,12 @@
             2,
             13,
             15,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时38分 ~ 15时34分]"
+          "appearance_count": 16,
+          "time_info": "[00时38分 ~ 16时31分]"
         },
         {
           "title": "胡锡进：伊朗希望用新的“中东泥潭”吓退特朗普",
@@ -53,6 +54,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时38分 ~ 07时20分]"
+        },
+        {
+          "title": "特朗普下令两手保海湾地区航运，伊朗警告船只勿经霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/articles/3766660",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时02分 ~ 16时31分]"
         },
         {
           "title": "特朗普威胁：将切断美国和西班牙之间的贸易往来",
@@ -80,6 +94,17 @@
           "time_info": "04时25分"
         },
         {
+          "title": "特朗普“护航”未能平息局势！亚洲市场继续暴跌、韩股创有史以来最大跌幅，泰股停牌，油价再涨3%",
+          "url": "https://wallstreetcn.com/articles/3766668",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
           "title": "特朗普政府高级官员：未借助任何国家作为与伊朗的沟通桥梁。",
           "url": "https://flash.jin10.com/detail/20260304022232395800",
           "source": "金十数据",
@@ -100,18 +125,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
-        },
-        {
-          "title": "特朗普下令两手保海湾地区航运，伊朗警告船只勿经霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/articles/3766660",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时02分 ~ 15时34分]"
         },
         {
           "title": "美国总统特朗普：加密货币行业接近取得真正的成功。",
@@ -184,6 +197,30 @@
           "time_info": "[06时22分 ~ 07时20分]"
         },
         {
+          "title": "“我心中的人选大部分也死了”，特朗普被曝接触地方武装组织",
+          "url": "https://news.ifeng.com/c/8rDb9UBLUA1",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时38分 ~ 16时31分]"
+        },
+        {
+          "title": "美伊战火引发能源危机？特朗普出手：将为“霍尔木兹油轮”护航，并提供保险！",
+          "url": "https://www.cls.cn/detail/2301976",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时38分 ~ 16时31分]"
+        },
+        {
           "title": "报道：特朗普今日将评估控制能源价格的方案",
           "url": "https://wallstreetcn.com/livenews/3062950",
           "source": "华尔街见闻-快讯",
@@ -208,15 +245,16 @@
           "time_info": "[04时25分 ~ 05时29分]"
         },
         {
-          "title": "“我心中的人选大部分也死了”，特朗普被曝接触地方武装组织",
-          "url": "https://news.ifeng.com/c/8rDb9UBLUA1",
-          "source": "凤凰网",
+          "title": "特朗普因西班牙不配合打击伊朗对其发出威胁，外交部：贸易不应被武器化",
+          "url": "https://wallstreetcn.com/livenews/3063455",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            8,
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时38分 ~ 15时34分]"
+          "time_info": "[15时34分 ~ 16时31分]"
         },
         {
           "title": "反弹3美元 特朗普打击油价的效果转瞬即逝",
@@ -241,18 +279,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时25分 ~ 05时29分]"
-        },
-        {
-          "title": "美伊战火引发能源危机？特朗普出手：将为“霍尔木兹油轮”护航，并提供保险！",
-          "url": "https://www.cls.cn/detail/2301976",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时38分 ~ 15时34分]"
         },
         {
           "title": "美国参议院民主党领导人Schumer：参议院将于周三表决（总统特朗普）对伊朗发动战争的权力。",
@@ -332,17 +358,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
-        },
-        {
-          "title": "特朗普因西班牙不配合打击伊朗对其发出威胁，外交部：贸易不应被武器化",
-          "url": "https://wallstreetcn.com/livenews/3063455",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时34分"
         },
         {
           "title": "美国总统特朗普：已指示美国国际开发金融公司（DFC）以非常合理的价格提供政治风险保险和保证，确保所有海上贸易的金融安全，特别是通过海湾的能源贸易。",
@@ -601,7 +616,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "专家：欧洲在法理上反对美国打伊朗，背地里却希望伊政权更迭",
@@ -625,6 +640,31 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时38分 ~ 09时18分]"
+        },
+        {
+          "title": "美国公布4名遭伊朗袭击死亡士兵名单",
+          "url": "https://news.ifeng.com/c/8rDMsJ65qR9",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时02分 ~ 16时31分]"
+        },
+        {
+          "title": "怎么看「美国林肯号航母已遭到伊朗 3 次发射四枚巡航导弹攻击」？",
+          "url": "https://www.zhihu.com/question/2011562207213802554",
+          "source": "知乎",
+          "ranks": [
+            15,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时02分 ~ 16时31分]"
         },
         {
           "title": "美国参议院就伊朗“战争权力决议”进行的首次投票定于周三下午4点（北京时间周四早上5点）举行。",
@@ -671,29 +711,15 @@
           "time_info": "06时22分"
         },
         {
-          "title": "美国公布4名遭伊朗袭击死亡士兵名单",
-          "url": "https://news.ifeng.com/c/8rDMsJ65qR9",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时02分 ~ 15时34分]"
-        },
-        {
-          "title": "怎么看「美国林肯号航母已遭到伊朗 3 次发射四枚巡航导弹攻击」？",
-          "url": "https://www.zhihu.com/question/2011562207213802554",
+          "title": "因不支持美国打击伊朗，西班牙被美国威胁要切断贸易往来，英国拒绝配合也遭美方抱怨，暴露了哪些问题？",
+          "url": "https://www.zhihu.com/question/2012444800209670553",
           "source": "知乎",
           "ranks": [
-            15,
-            14,
-            12
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时02分 ~ 15时34分]"
+          "appearance_count": 3,
+          "time_info": "[14时38分 ~ 16时31分]"
         },
         {
           "title": "英国财政大臣Reeves：英国不会根据美国贸易关系来做出关于伊朗的决定。",
@@ -720,6 +746,18 @@
           "time_info": "[05时29分 ~ 06时22分]"
         },
         {
+          "title": "美国会向伊朗派遣地面部队吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%BC%9A%E5%90%91%E4%BC%8A%E6%9C%97%E6%B4%BE%E9%81%A3%E5%9C%B0%E9%9D%A2%E9%83%A8%E9%98%9F%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时38分 ~ 16时31分]"
+        },
+        {
           "title": "美国务卿称一架伊朗无人机击中美驻迪拜领事馆外停车场",
           "url": "https://flash.jin10.com/detail/20260304051222493800",
           "source": "金十数据",
@@ -730,17 +768,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 06时22分]"
-        },
-        {
-          "title": "因不支持美国打击伊朗，西班牙被美国威胁要切断贸易往来，英国拒绝配合也遭美方抱怨，暴露了哪些问题？",
-          "url": "https://www.zhihu.com/question/2012444800209670553",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时38分 ~ 15时34分]"
         },
         {
           "title": "美国纽约联储主席威廉姆斯：伊朗（面对美国以色列挑起的）战争迄今的影响“相对温和”。 （相比对于美国）伊朗局势通过天然气对欧洲造成的影响可能更大。 石油价格对通胀的影响取决于油价涨势是否会顽固存在。 实现2%这个通胀目标真的很重要。 战争对不确定性的影响可能会很重要。 如果久久不能实现通胀目标，将侵蚀预期。 事实证明，美国对油价波动具有韧性。",
@@ -763,17 +790,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
-        },
-        {
-          "title": "美国会向伊朗派遣地面部队吗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%BC%9A%E5%90%91%E4%BC%8A%E6%9C%97%E6%B4%BE%E9%81%A3%E5%9C%B0%E9%9D%A2%E9%83%A8%E9%98%9F%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时38分"
         },
         {
           "title": "对伊朗打击后，美国加强对境内“潜在威胁”的监测",
@@ -831,6 +847,17 @@
           "time_info": "02时38分"
         },
         {
+          "title": "伊朗低成本武器正耗空美国高端弹药",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E4%BD%8E%E6%88%90%E6%9C%AC%E6%AD%A6%E5%99%A8%E6%AD%A3%E8%80%97%E7%A9%BA%E7%BE%8E%E5%9B%BD%E9%AB%98%E7%AB%AF%E5%BC%B9%E8%8D%AF%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
           "title": "德国总理默茨：（美国和以色列挑起的）伊朗战争损害了我们的经济，希望尽快结束。",
           "url": "https://wallstreetcn.com/livenews/3062926",
           "source": "华尔街见闻-快讯",
@@ -867,8 +894,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时19分 ~ 15时34分]"
+          "appearance_count": 9,
+          "time_info": "[07时19分 ~ 16时31分]"
         },
         {
           "title": "战火升级点燃恐慌情绪 美股三大期指均跌超1% | 今夜看点",
@@ -1047,7 +1074,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美元走强压倒避险需求 黄金日内跌超4% 白银一度暴跌近13%",
@@ -1131,6 +1158,17 @@
           "time_info": "09时18分"
         },
         {
+          "title": "上海黄金交易所黄金T+D 3月4日（周三）收盘下跌2.83%报1152.8元/克；<br/>上海黄金交易所白银T+D 3月4日（周三）收盘下跌3.26%报21538.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260304153207224800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
           "title": "黄金白银跌不停",
           "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E8%B7%8C%E4%B8%8D%E5%81%9C%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -1159,6 +1197,17 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
+          "url": "https://wallstreetcn.com/articles/3766590",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时18分 ~ 16时31分]"
+        },
+        {
           "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
           "url": "https://wallstreetcn.com/articles/3766477",
           "source": "华尔街见闻",
@@ -1170,24 +1219,13 @@
           "time_info": "[00时38分 ~ 06时22分]"
         },
         {
-          "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
-          "url": "https://wallstreetcn.com/articles/3766590",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时18分 ~ 15时34分]"
-        },
-        {
           "title": "荷兰国际：通胀预期或推升二季度美债收益率至4.3%附近",
           "url": "https://flash.jin10.com/detail/20260304151932442800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
@@ -1226,7 +1264,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
@@ -1269,8 +1307,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时38分 ~ 15时34分]"
+          "appearance_count": 16,
+          "time_info": "[00时38分 ~ 16时31分]"
         },
         {
           "title": "中韩半导体ETF迈向四连跌 此前韩国股市重挫并触发熔断",
@@ -1310,26 +1348,8 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价银价断崖式跳水",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%96%AD%E5%B4%96%E5%BC%8F%E8%B7%B3%E6%B0%B4%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 07时20分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "有色",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "有色金属迎价值重估",
@@ -1344,6 +1364,35 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时28分 ~ 07时20分]"
+        },
+        {
+          "title": "恒生指数收盘跌2%，有色能源板块领涨",
+          "url": "https://wallstreetcn.com/livenews/3063487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价银价断崖式跳水",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%96%AD%E5%B4%96%E5%BC%8F%E8%B7%B3%E6%B0%B4%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 07时20分]"
         }
       ]
     },
