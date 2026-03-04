@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T09:18:23.862059+08:00",
-  "total_titles_processed": 859,
+  "generated_at": "2026-03-04T12:03:12.418724+08:00",
+  "total_titles_processed": 1021,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
         {
           "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
@@ -15,19 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 09时18分]"
-        },
-        {
-          "title": "斩首?老外通报特朗普坐标",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351311&amp;topic_name=%E6%96%A9%E9%A6%96%3F%E8%80%81%E5%A4%96%E9%80%9A%E6%8A%A5%E7%89%B9%E6%9C%97%E6%99%AE%E5%9D%90%E6%A0%87",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 09时18分]"
+          "appearance_count": 12,
+          "time_info": "[00时38分 ~ 12时03分]"
         },
         {
           "title": "动武后才通知国会！特朗普向国会提交《战争权力法案》通知",
@@ -39,6 +28,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时38分 ~ 07时20分]"
+        },
+        {
+          "title": "斩首?老外通报特朗普坐标",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351311&amp;topic_name=%E6%96%A9%E9%A6%96%3F%E8%80%81%E5%A4%96%E9%80%9A%E6%8A%A5%E7%89%B9%E6%9C%97%E6%99%AE%E5%9D%90%E6%A0%87",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时38分 ~ 12时03分]"
         },
         {
           "title": "胡锡进：伊朗希望用新的“中东泥潭”吓退特朗普",
@@ -142,6 +143,40 @@
           "time_info": "[06时22分 ~ 07时20分]"
         },
         {
+          "title": "西班牙回应特朗普称将切断贸易往来",
+          "url": "https://www.toutiao.com/trending/7612678791206387775/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时18分 ~ 12时03分]"
+        },
+        {
+          "title": "特朗普威胁：将切断美国和西班牙之间的贸易往来",
+          "url": "https://www.cls.cn/detail/2301855",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时18分 ~ 12时03分]"
+        },
+        {
+          "title": "特朗普下令两手保海湾地区航运，伊朗警告船只勿经霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/articles/3766660",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 12时03分]"
+        },
+        {
           "title": "报道：特朗普今日将评估控制能源价格的方案",
           "url": "https://wallstreetcn.com/livenews/3062950",
           "source": "华尔街见闻-快讯",
@@ -212,17 +247,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时35分 ~ 04时25分]"
-        },
-        {
-          "title": "西班牙回应特朗普称将切断贸易往来",
-          "url": "https://www.toutiao.com/trending/7612678791206387775/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时18分"
         },
         {
           "title": "特朗普就对伊动武的给出最新解释：确信伊朗即将袭击美国 系“先发制人”",
@@ -302,17 +326,6 @@
           "time_info": "04时25分"
         },
         {
-          "title": "特朗普威胁：将切断美国和西班牙之间的贸易往来",
-          "url": "https://www.cls.cn/detail/2301855",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时18分"
-        },
-        {
           "title": "沃什未上任已挑战重重，同僚质疑与油价飙升恐令其难圆特朗普的降息梦",
           "url": "https://wallstreetcn.com/livenews/3062944",
           "source": "华尔街见闻-快讯",
@@ -330,7 +343,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
         },
@@ -352,7 +365,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
         },
@@ -514,7 +527,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "专家：欧洲在法理上反对美国打伊朗，背地里却希望伊政权更迭",
@@ -557,9 +570,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
+        },
+        {
+          "title": "伊朗称动用“卡德尔-380”等导弹击中美国驱逐舰",
+          "url": "https://wallstreetcn.com/livenews/3063278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "美国国务卿鲁比奥：在伊朗的行动有“明确目标”，不会无休止地进行下去。",
@@ -585,6 +609,17 @@
           "time_info": "[02时38分 ~ 03时35分]"
         },
         {
+          "title": "美国公布4名遭伊朗袭击死亡士兵名单",
+          "url": "https://news.ifeng.com/c/8rDMsJ65qR9",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 12时03分]"
+        },
+        {
           "title": "英国外交大臣库珀：伊朗对利雅得的袭击，包括针对美国大使馆的袭击，是完全不能接受的。",
           "url": "https://flash.jin10.com/detail/20260304051659848800",
           "source": "金十数据",
@@ -607,6 +642,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 06时22分]"
+        },
+        {
+          "title": "怎么看「美国林肯号航母已遭到伊朗 3 次发射四枚巡航导弹攻击」？",
+          "url": "https://www.zhihu.com/question/2011562207213802554",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 12时03分]"
         },
         {
           "title": "美国纽约联储主席威廉姆斯：伊朗（面对美国以色列挑起的）战争迄今的影响“相对温和”。 （相比对于美国）伊朗局势通过天然气对欧洲造成的影响可能更大。 石油价格对通胀的影响取决于油价涨势是否会顽固存在。 实现2%这个通胀目标真的很重要。 战争对不确定性的影响可能会很重要。 如果久久不能实现通胀目标，将侵蚀预期。 事实证明，美国对油价波动具有韧性。",
@@ -703,7 +749,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
         }
@@ -711,7 +757,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "战火升级点燃恐慌情绪 美股三大期指均跌超1% | 今夜看点",
@@ -723,8 +769,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 09时18分]"
+          "appearance_count": 12,
+          "time_info": "[00时38分 ~ 12时03分]"
+        },
+        {
+          "title": "美股收盘：中东冲突加剧通胀担忧 三大股指集体收跌",
+          "url": "https://www.cls.cn/detail/2301893",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时19分 ~ 12时03分]"
         },
         {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，纳指仍跌超1%，原油冲高回落涨5%，美元强势二连涨，金银重挫",
@@ -736,18 +794,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时19分 ~ 07时20分]"
-        },
-        {
-          "title": "美股收盘：中东冲突加剧通胀担忧 三大股指集体收跌",
-          "url": "https://www.cls.cn/detail/2301893",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时19分 ~ 09时18分]"
         },
         {
           "title": "美元指数涨约0.7%，美股早盘曾创逾三个月新高",
@@ -798,6 +844,17 @@
           "time_info": "[06时22分 ~ 07时20分]"
         },
         {
+          "title": "亚太股市颓势依旧，日经指数跌3%，韩国股市暴跌触发熔断，三星电子跌超7%，欧美股指期货企稳",
+          "url": "https://wallstreetcn.com/articles/3766668",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 12时03分]"
+        },
+        {
           "title": "现货黄金跌4.4%，美股早盘曾跌穿5000美元整数位心理关口，现货白银跌约8.2%，铂金跌超9.4%",
           "url": "https://wallstreetcn.com/livenews/3063029",
           "source": "华尔街见闻-快讯",
@@ -828,7 +885,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
         },
@@ -891,7 +948,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "美元走强压倒避险需求 黄金日内跌超4% 白银一度暴跌近13%",
@@ -904,8 +961,30 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时35分 ~ 09时18分]"
+          "appearance_count": 10,
+          "time_info": "[03时35分 ~ 12时03分]"
+        },
+        {
+          "title": "金十图示：2026年03月04日（周三）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260304115154262800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "黄金白银再直线拉升",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%86%8D%E7%9B%B4%E7%BA%BF%E6%8B%89%E5%8D%87%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 12时03分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 3月4日（周三）早盘盘初下跌3.09%报1149.72元/克；<br/>上海黄金交易所白银T+D 3月4日（周三）早盘盘初下跌4.69%报21220.0元/千克。",
@@ -914,7 +993,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
         },
@@ -925,7 +1004,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
         },
@@ -936,7 +1015,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
         },
@@ -997,9 +1076,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时18分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时18分 ~ 12时03分]"
         },
         {
           "title": "美债收益率在亚欧时段走高，美股开盘前后回吐涨幅",
@@ -1055,7 +1134,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "沪指跌超1%，“三桶油”再度集体涨停，半导体产业链大跌，恒科指跌超2%，大模型股MINIMAX逆势涨超9%",
@@ -1067,8 +1146,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 09时18分]"
+          "appearance_count": 12,
+          "time_info": "[00时38分 ~ 12时03分]"
         },
         {
           "title": "A股半导体公司集体发涨价函",
@@ -1082,6 +1161,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时38分 ~ 04时25分]"
+        },
+        {
+          "title": "金十图示：2026年03月04日（周三）富时中国A50指数成分股午盘收盘行情一览：多数板块集体调整，半导体股北方华创逆市上涨。",
+          "url": "https://flash.jin10.com/detail/20260304113255340800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         }
       ]
     },
@@ -1120,6 +1210,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时28分 ~ 07时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储芯片",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "伯恩斯坦：存储芯片涨势或在年底前后放缓",
+          "url": "https://flash.jin10.com/detail/20260304111207081800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         }
       ]
     }
