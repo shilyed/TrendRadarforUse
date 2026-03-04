@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T17:33:33.484994+08:00",
-  "total_titles_processed": 1579,
+  "generated_at": "2026-03-04T18:29:22.897140+08:00",
+  "total_titles_processed": 1693,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 56,
       "titles": [
         {
           "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
@@ -39,11 +39,12 @@
             15,
             19,
             21,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时38分 ~ 17时33分]"
+          "appearance_count": 18,
+          "time_info": "[00时38分 ~ 18时29分]"
         },
         {
           "title": "特朗普下令两手保海湾地区航运，伊朗警告船只勿经霍尔木兹海峡",
@@ -55,8 +56,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时02分 ~ 17时33分]"
+          "appearance_count": 8,
+          "time_info": "[12时02分 ~ 18时29分]"
         },
         {
           "title": "胡锡进：伊朗希望用新的“中东泥潭”吓退特朗普",
@@ -174,6 +175,17 @@
           "time_info": "[09时18分 ~ 14时38分]"
         },
         {
+          "title": "“我心中的人选大部分也死了”，特朗普被曝接触地方武装组织",
+          "url": "https://news.ifeng.com/c/8rDb9UBLUA1",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时38分 ~ 18时29分]"
+        },
+        {
           "title": "特朗普称将切断贸易往来，西班牙回应：美国须尊重双边协定",
           "url": "https://wallstreetcn.com/livenews/3062981",
           "source": "华尔街见闻-快讯",
@@ -206,17 +218,6 @@
             12,
             9,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时38分 ~ 17时33分]"
-        },
-        {
-          "title": "“我心中的人选大部分也死了”，特朗普被曝接触地方武装组织",
-          "url": "https://news.ifeng.com/c/8rDb9UBLUA1",
-          "source": "凤凰网",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -257,6 +258,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时34分 ~ 16时31分]"
+        },
+        {
+          "title": "特朗普会见默茨“敲打”欧洲，威胁西班牙切断贸易，否认被以拖入战争，预计油价大跌",
+          "url": "https://wallstreetcn.com/articles/3766656",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 18时29分]"
         },
         {
           "title": "反弹3美元 特朗普打击油价的效果转瞬即逝",
@@ -373,17 +385,6 @@
           "time_info": "04时25分"
         },
         {
-          "title": "特朗普会见默茨“敲打”欧洲，威胁西班牙切断贸易，否认被以拖入战争，预计油价大跌",
-          "url": "https://wallstreetcn.com/articles/3766656",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时33分"
-        },
-        {
           "title": "据华尔街日报：特朗普考虑支持民兵组织以推翻伊朗政权。",
           "url": "https://flash.jin10.com/detail/20260304033637754800",
           "source": "金十数据",
@@ -412,7 +413,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -470,6 +471,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "民调显示 43% 美民众反对打击伊朗，怕重蹈伊拉克覆辙，特朗普为何执意升级打击？为何能越过国会授权开战？",
+          "url": "https://www.zhihu.com/question/2012477817481344424",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "美国总统特朗普：《天才法案》正受到银行的威胁和破坏，这是不可接受的。",
@@ -640,7 +652,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "专家：欧洲在法理上反对美国打伊朗，背地里却希望伊政权更迭",
@@ -674,8 +686,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时02分 ~ 17时33分]"
+          "appearance_count": 8,
+          "time_info": "[12时02分 ~ 18时29分]"
         },
         {
           "title": "怎么看「美国林肯号航母已遭到伊朗 3 次发射四枚巡航导弹攻击」？",
@@ -688,19 +700,30 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时02分 ~ 17时33分]"
+          "appearance_count": 8,
+          "time_info": "[12时02分 ~ 18时29分]"
         },
         {
-          "title": "哈梅内伊高级助理：伊朗无意与美国谈判",
-          "url": "https://wallstreetcn.com/livenews/3063537",
-          "source": "华尔街见闻-快讯",
+          "title": "立陶宛蹚浑水：想帮美国打伊朗",
+          "url": "https://news.ifeng.com/c/8rDn8R81TMC",
+          "source": "凤凰网",
           "ranks": [
-            1
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 18时29分]"
+        },
+        {
+          "title": "据《纽约时报》：美国官员对伊朗是否准备好接受谈判持怀疑态度。",
+          "url": "https://flash.jin10.com/detail/20260304181001083800",
+          "source": "金十数据",
+          "ranks": [
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时33分"
+          "time_info": "18时29分"
         },
         {
           "title": "美国参议院就伊朗“战争权力决议”进行的首次投票定于周三下午4点（北京时间周四早上5点）举行。",
@@ -725,6 +748,17 @@
           "time_info": "09时18分"
         },
         {
+          "title": "据《纽约时报》：了解伊朗与美国中情局接触情况的官员称，伊朗特工曾提出商讨结束战争的条件。",
+          "url": "https://flash.jin10.com/detail/20260304180923805800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
           "title": "伊朗称动用“卡德尔-380”等导弹击中美国驱逐舰",
           "url": "https://wallstreetcn.com/livenews/3063278",
           "source": "华尔街见闻-快讯",
@@ -734,17 +768,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
-        },
-        {
-          "title": "立陶宛蹚浑水：想帮美国打伊朗",
-          "url": "https://news.ifeng.com/c/8rDn8R81TMC",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时33分"
         },
         {
           "title": "美国国务卿鲁比奥：在伊朗的行动有“明确目标”，不会无休止地进行下去。",
@@ -763,11 +786,24 @@
           "source": "知乎",
           "ranks": [
             11,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时38分 ~ 17时33分]"
+          "appearance_count": 5,
+          "time_info": "[14时38分 ~ 18时29分]"
+        },
+        {
+          "title": "哈梅内伊高级助理：伊朗无意与美国谈判",
+          "url": "https://wallstreetcn.com/livenews/3063537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 18时29分]"
         },
         {
           "title": "英国财政大臣Reeves：英国不会根据美国贸易关系来做出关于伊朗的决定。",
@@ -841,6 +877,17 @@
           "time_info": "00时38分"
         },
         {
+          "title": "哈梅内伊高级助理：伊朗无意与美国谈判",
+          "url": "https://www.toutiao.com/trending/7612478619336228883/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
           "title": "两位消息人士证实，美国在上周末对伊朗发动袭击期间使用了Anthropic的Claude AI模型，并且目前仍在继续使用。（CBS）",
           "url": "https://wallstreetcn.com/livenews/3062945",
           "source": "华尔街见闻-快讯",
@@ -896,6 +943,17 @@
           "time_info": "03时35分"
         },
         {
+          "title": "哈梅内伊高级助理：伊朗无意与美国谈判",
+          "url": "https://flash.jin10.com/detail/20260304175727337800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
           "title": "英国财政大臣里夫斯：英国不会基于与美国的贸易关系来决定对伊朗的政策。",
           "url": "https://flash.jin10.com/detail/20260304020248442800",
           "source": "金十数据",
@@ -935,7 +993,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         }
@@ -943,7 +1001,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股收盘：中东冲突加剧通胀担忧 三大股指集体收跌",
@@ -982,15 +1040,15 @@
           "time_info": "[07时19分 ~ 07时20分]"
         },
         {
-          "title": "iShares MSCI韩国ETF美股盘前跌超5%。",
-          "url": "https://wallstreetcn.com/livenews/3063535",
-          "source": "华尔街见闻-快讯",
+          "title": "市场评估特朗普“护航”计划，美股期指转涨，德股涨超1%，韩股历史性暴跌12%，油价再涨3%，白银涨5%",
+          "url": "https://wallstreetcn.com/articles/3766668",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时33分"
+          "time_info": "18时29分"
         },
         {
           "title": "美元指数涨约0.7%，美股早盘曾创逾三个月新高",
@@ -1003,6 +1061,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时25分 ~ 05时29分]"
+        },
+        {
+          "title": "iShares MSCI韩国ETF美股盘前跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3063535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 18时29分]"
         },
         {
           "title": "CrowdStrike四季度营收13.1亿美元，分析师预期13.0亿美元。 四季度调整后每股收益（EPS）为1.12美元，分析师预期1.10美元。 预计2027财年营收58.7亿-59.3亿美元，分析师预期58.7亿美元。 预计2027财年调整后EPS为4.78-4.90美元，分析师预期4.80美元。 预计一季度营收13.6亿-13.64亿美元，分析师预期13.6亿美元。 预计一季度调整后EPS为1.06-1.07美元，分析师预期1.05美元。 CrowdStrike美股盘后跌3%。",
@@ -1093,7 +1163,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -1151,12 +1221,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        },
+        {
+          "title": "美股股指期货盘中走高，纳指期货、标普500指数期货均转涨。",
+          "url": "https://wallstreetcn.com/livenews/3063549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         }
       ]
     },
     {
       "keyword_group": "白银",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "美元走强压倒避险需求 黄金日内跌超4% 白银一度暴跌近13%",
@@ -1246,9 +1327,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
+        },
+        {
+          "title": "现货白银日内大涨5%，现报86.12美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3063553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "上海黄金交易所黄金T+D 3月4日（周三）收盘下跌2.83%报1152.8元/克；<br/>上海黄金交易所白银T+D 3月4日（周三）收盘下跌3.26%报21538.0元/千克。",
@@ -1282,6 +1374,83 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
+        },
+        {
+          "title": "现货白银日内大涨5.00%，现报86.12美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260304175053996800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "沪指跌超1%，“三桶油”再度集体涨停，半导体产业链大跌，恒科指跌超2%，大模型股MINIMAX逆势涨超9%",
+          "url": "https://wallstreetcn.com/articles/3766588",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时38分 ~ 16时31分]"
+        },
+        {
+          "title": "中韩半导体ETF迈向四连跌 此前韩国股市重挫并触发熔断",
+          "url": "https://wallstreetcn.com/livenews/3063351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
+          "title": "A股半导体公司集体发涨价函",
+          "url": "https://www.toutiao.com/trending/7612660746741104650/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 04时25分]"
+        },
+        {
+          "title": "金十图示：2026年03月04日（周三）富时中国A50指数成分股午盘收盘行情一览：多数板块集体调整，半导体股北方华创逆市上涨。",
+          "url": "https://flash.jin10.com/detail/20260304113255340800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "中韩半导体ETF溢价交易引关注 基金公司提示理性投资",
+          "url": "https://wallstreetcn.com/livenews/3063551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         }
       ]
     },
@@ -1297,8 +1466,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时18分 ~ 17时33分]"
+          "appearance_count": 9,
+          "time_info": "[09时18分 ~ 18时29分]"
         },
         {
           "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
@@ -1382,61 +1551,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "沪指跌超1%，“三桶油”再度集体涨停，半导体产业链大跌，恒科指跌超2%，大模型股MINIMAX逆势涨超9%",
-          "url": "https://wallstreetcn.com/articles/3766588",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时38分 ~ 16时31分]"
-        },
-        {
-          "title": "中韩半导体ETF迈向四连跌 此前韩国股市重挫并触发熔断",
-          "url": "https://wallstreetcn.com/livenews/3063351",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时38分"
-        },
-        {
-          "title": "A股半导体公司集体发涨价函",
-          "url": "https://www.toutiao.com/trending/7612660746741104650/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 04时25分]"
-        },
-        {
-          "title": "金十图示：2026年03月04日（周三）富时中国A50指数成分股午盘收盘行情一览：多数板块集体调整，半导体股北方华创逆市上涨。",
-          "url": "https://flash.jin10.com/detail/20260304113255340800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时03分"
         }
       ]
     },
