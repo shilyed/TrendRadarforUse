@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T22:42:56.648977+08:00",
-  "total_titles_processed": 2039,
+  "generated_at": "2026-03-05T23:43:46.202634+08:00",
+  "total_titles_processed": 2127,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时42分 ~ 22时42分]"
+          "appearance_count": 15,
+          "time_info": "[13时42分 ~ 23时43分]"
         },
         {
           "title": "凤凰独家丨伊朗反击包括美国本土吗？驻华大使回应",
@@ -94,6 +94,22 @@
           "time_info": "[16时32分 ~ 22时42分]"
         },
         {
+          "title": "伊朗称用导弹击中一艘美国油轮",
+          "url": "https://www.toutiao.com/trending/7613318067011993641/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            15,
+            21,
+            28,
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时35分 ~ 23时43分]"
+        },
+        {
           "title": "怎么看「美国林肯号航母已遭到伊朗 3 次发射四枚巡航导弹攻击」？",
           "url": "https://www.zhihu.com/question/2011562207213802554",
           "source": "知乎",
@@ -130,21 +146,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[12时06分 ~ 18时32分]"
-        },
-        {
-          "title": "伊朗称用导弹击中一艘美国油轮",
-          "url": "https://www.toutiao.com/trending/7613318067011993641/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            15,
-            21,
-            28,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时35分 ~ 22时42分]"
         },
         {
           "title": "美以伊战争最新动态｜伊朗：用导弹击中美国油轮",
@@ -322,6 +323,18 @@
           "time_info": "[00时35分 ~ 01时33分]"
         },
         {
+          "title": "伊朗导弹能否命中美国航母",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%AF%BC%E5%BC%B9%E8%83%BD%E5%90%A6%E5%91%BD%E4%B8%AD%E7%BE%8E%E5%9B%BD%E8%88%AA%E6%AF%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时42分 ~ 23时43分]"
+        },
+        {
           "title": "据AXIOS网站报道，一名美国官员和另一名消息人士表示，伊朗方面在过去几天里向美国发出消息呼吁进行对话，但美国未作出回应。",
           "url": "https://flash.jin10.com/detail/20260305052145788800",
           "source": "金十数据",
@@ -431,7 +444,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         },
@@ -489,17 +502,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
-        },
-        {
-          "title": "伊朗导弹能否命中美国航母",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%AF%BC%E5%BC%B9%E8%83%BD%E5%90%A6%E5%91%BD%E4%B8%AD%E7%BE%8E%E5%9B%BD%E8%88%AA%E6%AF%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
         },
         {
           "title": "布林肯：伊朗冲突持续将让美国陷入不利地位",
@@ -659,7 +661,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 55,
       "titles": [
         {
           "title": "霍尔木兹遭封锁 特朗普抛出保险与护航方案 航运业态度谨慎",
@@ -692,8 +694,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时32分 ~ 22时42分]"
+          "appearance_count": 8,
+          "time_info": "[18时32分 ~ 23时43分]"
         },
         {
           "title": "特朗普打伊朗，美国国会管不了？参议院未通过叫停特朗普打击伊朗的投票",
@@ -704,11 +706,24 @@
             4,
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时20分 ~ 22时42分]"
+          "appearance_count": 17,
+          "time_info": "[09时20分 ~ 23时43分]"
+        },
+        {
+          "title": "特朗普“大发战争财”，借打伊朗搞募款",
+          "url": "https://news.ifeng.com/c/8rFJaJq0Rej",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时32分 ~ 23时43分]"
         },
         {
           "title": "特朗普夫人，“翻车”了",
@@ -748,18 +763,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时34分 ~ 09时20分]"
-        },
-        {
-          "title": "特朗普“大发战争财”，借打伊朗搞募款",
-          "url": "https://news.ifeng.com/c/8rFJaJq0Rej",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时32分 ~ 22时42分]"
         },
         {
           "title": "弹药告急！特朗普将召见军工大佬，筹划掏500亿美元补充军火",
@@ -849,6 +852,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
+        },
+        {
+          "title": "特朗普称美国不会与西班牙协同合作，西班牙对北约持敌对态度。（纽约邮报）",
+          "url": "https://wallstreetcn.com/livenews/3064584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
+          "title": "沆瀣一气！53对47，美国会参议院否决限制特朗普战争权力的议案",
+          "url": "https://news.ifeng.com/c/8rFoSNRxgNC",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "据《华盛顿邮报》：美国总统特朗普本周在通话中向库尔德领导人表示支持。",
@@ -990,6 +1015,17 @@
           "time_info": "04时25分"
         },
         {
+          "title": "特朗普政府承诺“护航”原油供应？华尔街和行业专家疾呼：还不够！",
+          "url": "https://www.cls.cn/detail/2303813",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
           "title": "据Punchbowl：美国总统特朗普调查共和党人是否应该解雇美国国土安全部部长诺姆。",
           "url": "https://flash.jin10.com/detail/20260305181612479800",
           "source": "金十数据",
@@ -1073,7 +1109,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         },
@@ -1122,6 +1158,17 @@
           "time_info": "03时34分"
         },
         {
+          "title": "特朗普：共和党人必须不惜一切代价全力推进《拯救美国法案》",
+          "url": "https://wallstreetcn.com/livenews/3064566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
           "title": "白宫：特朗普正讨论战后在伊朗的角色 暂无派遣地面部队计划",
           "url": "https://flash.jin10.com/detail/20260305030410423800",
           "source": "金十数据",
@@ -1150,7 +1197,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         },
@@ -1257,7 +1304,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "美国“小非农”超预期回暖，美股指高开，纳指涨幅扩大至1%，美油转跌，断供影响伦铝创四年新高",
@@ -1330,6 +1377,17 @@
           "time_info": "18时32分"
         },
         {
+          "title": "中东局势打击风险偏好，美股指下跌，纳指跌0.5%，美油涨5%，金银齐跌",
+          "url": "https://wallstreetcn.com/articles/3766762",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
           "title": "哔哩哔哩美股盘前涨超5%，公司第四季度净营业额83.2亿元，同比增长8%。",
           "url": "https://wallstreetcn.com/livenews/3064425",
           "source": "华尔街见闻-快讯",
@@ -1347,7 +1405,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         },
@@ -1358,7 +1416,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         },
@@ -1423,6 +1481,19 @@
           "time_info": "[21时57分 ~ 22时42分]"
         },
         {
+          "title": "油价延续涨势冲击市场 美股三大期指集体走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2304327",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时57分 ~ 23时43分]"
+        },
+        {
           "title": "城堡证券的Rubner不再看空美股，预计3月将出现反弹",
           "url": "https://wallstreetcn.com/livenews/3063823",
           "source": "华尔街见闻-快讯",
@@ -1459,18 +1530,6 @@
           "time_info": "[06时24分 ~ 07时24分]"
         },
         {
-          "title": "油价延续涨势冲击市场 美股三大期指集体走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2304327",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时57分 ~ 22时42分]"
-        },
-        {
           "title": "特朗普何时会在对伊战争上收手？华尔街策略师：美股至少得跌10%",
           "url": "https://www.cls.cn/detail/2303241",
           "source": "财联社热门",
@@ -1500,7 +1559,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         },
@@ -1525,6 +1584,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
+        },
+        {
+          "title": "全球航空业ETF跌2.03%，在美股盘初领跌行业ETF，医疗保健ETF跌1.57%，标普日常消费ETF跌1.28%，房地产精选ETF跌1.20%。 标普油气ETF则涨1.7%，北美科技股软件ETF涨2.0%。",
+          "url": "https://wallstreetcn.com/livenews/3064564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "财报公布后，京东(JD.O)美股盘前拉升，现涨0.91%。",
@@ -1558,6 +1628,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
+        },
+        {
+          "title": "美股盘初：道指跌0.7%，黄金股普跌，京东跌约3%，哔哩哔哩跌约7%",
+          "url": "https://wallstreetcn.com/livenews/3064557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "美股收盘：三大股指收涨 芯片股反弹",
@@ -1748,8 +1829,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时24分 ~ 22时42分]"
+          "appearance_count": 18,
+          "time_info": "[07时24分 ~ 23时43分]"
         },
         {
           "title": "10年期美债收益率涨约2.7个基点，本周已涨约15个基点",
