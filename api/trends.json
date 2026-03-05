@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T06:25:02.454158+08:00",
-  "total_titles_processed": 516,
+  "generated_at": "2026-03-06T07:46:22.893939+08:00",
+  "total_titles_processed": 587,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时56分 ~ 06时25分]"
+          "appearance_count": 9,
+          "time_info": "[01时56分 ~ 07时46分]"
         },
         {
           "title": "特朗普“大发战争财”，借打伊朗搞募款",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时56分 ~ 06时25分]"
+          "appearance_count": 9,
+          "time_info": "[01时56分 ~ 07时46分]"
         },
         {
           "title": "沆瀣一气！53对47，美国会参议院否决限制特朗普战争权力的议案",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时56分 ~ 06时25分]"
+          "appearance_count": 9,
+          "time_info": "[01时56分 ~ 07时46分]"
         },
         {
           "title": "特朗普打伊朗，美国国会管不了？参议院未通过叫停特朗普打击伊朗的投票",
@@ -69,9 +69,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "特朗普妄称“必须亲自参与”选定伊朗新领导人",
+          "url": "https://wallstreetcn.com/livenews/3064696",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
         },
         {
           "title": "美国总统特朗普：我们敦促世界各地的伊朗外交官申请庇护。",
@@ -80,18 +91,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时25分"
-        },
-        {
-          "title": "美国总统特朗普：将采取进一步措施来减轻石油压力。 石油价格似乎已经基本稳定下来了。",
-          "url": "https://wallstreetcn.com/livenews/3064675",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -102,18 +102,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时25分"
-        },
-        {
-          "title": "特朗普要求立即赦免以色列总理",
-          "url": "https://wallstreetcn.com/livenews/3064674",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -135,7 +124,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -176,6 +165,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时56分 ~ 03时12分]"
+        },
+        {
+          "title": "美国总统特朗普：将采取进一步措施来减轻石油压力。 石油价格似乎已经基本稳定下来了。",
+          "url": "https://wallstreetcn.com/livenews/3064675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时46分]"
+        },
+        {
+          "title": "特朗普要求立即赦免以色列总理",
+          "url": "https://wallstreetcn.com/livenews/3064674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时46分]"
         },
         {
           "title": "美国总统特朗普：无意动用战略石油储备。（路透社）",
@@ -232,7 +245,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -254,7 +267,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -276,7 +289,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -287,7 +300,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -298,9 +311,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "美国24州宣布提起诉讼，阻止特朗普最新全球关税政策",
+          "url": "https://www.cls.cn/detail/2304459",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
         },
         {
           "title": "特朗普政府承诺“护航”原油供应？华尔街和行业专家疾呼：还不够！",
@@ -334,6 +358,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "美国国防部长赫格塞思：（被问及特朗普有关“有权决定伊朗下一任领导人”的言论）美国并未扩大其在伊朗的军事目标。",
+          "url": "https://flash.jin10.com/detail/20260306061952883800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
         },
         {
           "title": "美国总统特朗普：美国拥有海量军火，国防工业正加大生产。无需启动《国防生产法》。",
@@ -400,12 +435,242 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "特朗普：即将采取进一步措施缓解油市压力",
+          "url": "https://flash.jin10.com/detail/20260306061148335800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
+        },
+        {
+          "title": "特朗普：伊朗之后，下一个目标是古巴",
+          "url": "https://flash.jin10.com/detail/20260306061002917800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 18,
+      "titles": [
+        {
+          "title": "这就是美国的“地面部队”？库尔德武装开始在伊朗境内开展地面活动",
+          "url": "https://wallstreetcn.com/articles/3766761",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时56分 ~ 07时46分]"
+        },
+        {
+          "title": "伊朗导弹能否命中美国航母",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%AF%BC%E5%BC%B9%E8%83%BD%E5%90%A6%E5%91%BD%E4%B8%AD%E7%BE%8E%E5%9B%BD%E8%88%AA%E6%AF%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            17,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时56分 ~ 07时46分]"
+        },
+        {
+          "title": "伊朗称用导弹击中一艘美国油轮",
+          "url": "https://www.toutiao.com/trending/7613318067011993641/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时56分 ~ 06时25分]"
+        },
+        {
+          "title": "伊朗最高国家安全委员会秘书：已作好准备应对美国地面行动",
+          "url": "https://wallstreetcn.com/livenews/3064689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
+        },
+        {
+          "title": "伊朗军方称使用无人机击中“林肯”号航母 美国国土安全部部长将换人 | 环球市场",
+          "url": "https://www.cls.cn/detail/2304483",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
+        },
+        {
+          "title": "美国国务院：美国国务卿鲁比奥与科威特外交部长讨论了美国为应对伊朗威胁而开展的持续行动，以及该地区的其他事态发展。",
+          "url": "https://flash.jin10.com/detail/20260306023812076800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "据华尔街日报：五角大楼官员正在制定计划，以补充过去一周对伊朗作战消耗的美国弹药。",
+          "url": "https://flash.jin10.com/detail/20260306064644416800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
+        },
+        {
+          "title": "美国中央司令部司令：在过去的这一小时内，美国B-2型轰炸机对伊朗的地下导弹发射装置进行了轰炸。",
+          "url": "https://flash.jin10.com/detail/20260306063652539800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：我们没有攻击我们的邻国和穆斯林国家。我们攻击的是美国的目标和美国的基地与设施，而这些不幸地位于我们邻国的土地上。",
+          "url": "https://flash.jin10.com/detail/20260306012603074800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时56分"
+        },
+        {
+          "title": "伊朗外长：并未要求停火 已准备好应对美国地面入侵",
+          "url": "https://flash.jin10.com/detail/20260306012429955800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时56分"
+        },
+        {
+          "title": "美国中央司令部司令：我们已打击伊朗相当于太空司令部的机构。",
+          "url": "https://flash.jin10.com/detail/20260306061911874800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
+        },
+        {
+          "title": "据华盛顿邮报：美国情报部门尚未发现伊朗出现“起义”或内部分裂的迹象。",
+          "url": "https://flash.jin10.com/detail/20260306043940951800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "美国中央司令部司令：随着我们转入此次行动的下一阶段，我们将摧毁伊朗的导弹生产能力。",
+          "url": "https://flash.jin10.com/detail/20260306061631442800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
+        },
+        {
+          "title": "美国中央司令部司令：迄今美国已击沉30多艘伊朗船只。",
+          "url": "https://flash.jin10.com/detail/20260306061623852800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
+        },
+        {
+          "title": "美国中央司令部司令：自冲突“第1天”以来，伊朗的弹道导弹袭击次数已减少了90%。",
+          "url": "https://flash.jin10.com/detail/20260306061535128800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
+        },
+        {
+          "title": "美国国防部长赫格塞思：伊朗若认为美国无法持续作战，那就是误判。",
+          "url": "https://flash.jin10.com/detail/20260306061237838800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
+        },
+        {
+          "title": "美国国防部长赫格塞思：伊朗战争的时间表完全由我们决定。",
+          "url": "https://flash.jin10.com/detail/20260306061235384800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
+        },
+        {
+          "title": "据NBC新闻：伊朗外长阿拉格齐称，伊朗已为美国地面入侵做好准备。",
+          "url": "https://flash.jin10.com/detail/20260306010950514800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时56分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "中东局势打击风险偏好，美股指下跌，纳指跌0.5%，美油涨5%，金银齐跌",
@@ -427,8 +692,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时56分 ~ 06时25分]"
+          "appearance_count": 9,
+          "time_info": "[01时56分 ~ 07时46分]"
+        },
+        {
+          "title": "美股收盘：道琼斯指数暴跌近800点，伊朗冲突外溢油价飙升",
+          "url": "https://www.cls.cn/detail/2304478",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
         },
         {
           "title": "道指跌近800点，小盘股指下挫2%，领跌美股基准股指",
@@ -436,11 +712,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            11
+            11,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 06时25分]"
+          "appearance_count": 3,
+          "time_info": "[05时28分 ~ 07时46分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收盘转涨0.16%",
@@ -448,11 +725,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            12
+            12,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 06时25分]"
+          "appearance_count": 3,
+          "time_info": "[05时28分 ~ 07时46分]"
         },
         {
           "title": "金十图示：2026年03月05日（周四）美股热门股票行情一览（美股收盘）",
@@ -559,99 +837,41 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 8,
+      "keyword_group": "美债",
+      "match_count": 3,
       "titles": [
         {
-          "title": "这就是美国的“地面部队”？库尔德武装开始在伊朗境内开展地面活动",
-          "url": "https://wallstreetcn.com/articles/3766761",
+          "title": "强劲数据重燃风险偏好，科技股带领美股反弹，纳指涨1.3%，美债三连跌，加密货币大涨",
+          "url": "https://wallstreetcn.com/articles/3766668",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            4
           ],
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时56分 ~ 06时25分]"
         },
         {
-          "title": "伊朗导弹能否命中美国航母",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%AF%BC%E5%BC%B9%E8%83%BD%E5%90%A6%E5%91%BD%E4%B8%AD%E7%BE%8E%E5%9B%BD%E8%88%AA%E6%AF%8D",
-          "source": "bilibili 热搜",
+          "title": "非农前夜，油价飙升引发通胀担忧，芯片股领跌美股，美债四连跌，美元走强",
+          "url": "https://wallstreetcn.com/articles/3766762",
+          "source": "华尔街见闻",
           "ranks": [
-            16,
-            17,
-            15
+            1
           ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时56分 ~ 06时25分]"
-        },
-        {
-          "title": "伊朗称用导弹击中一艘美国油轮",
-          "url": "https://www.toutiao.com/trending/7613318067011993641/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时56分 ~ 06时25分]"
-        },
-        {
-          "title": "美国国务院：美国国务卿鲁比奥与科威特外交部长讨论了美国为应对伊朗威胁而开展的持续行动，以及该地区的其他事态发展。",
-          "url": "https://flash.jin10.com/detail/20260306023812076800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时12分"
+          "time_info": "07时46分"
         },
         {
-          "title": "伊朗外长阿拉格齐：我们没有攻击我们的邻国和穆斯林国家。我们攻击的是美国的目标和美国的基地与设施，而这些不幸地位于我们邻国的土地上。",
-          "url": "https://flash.jin10.com/detail/20260306012603074800",
-          "source": "金十数据",
+          "title": "10年期美债收益率涨约3个基点，本周已涨近18个基点",
+          "url": "https://wallstreetcn.com/livenews/3064663",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
-        },
-        {
-          "title": "伊朗外长：并未要求停火 已准备好应对美国地面入侵",
-          "url": "https://flash.jin10.com/detail/20260306012429955800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
-        },
-        {
-          "title": "据华盛顿邮报：美国情报部门尚未发现伊朗出现“起义”或内部分裂的迹象。",
-          "url": "https://flash.jin10.com/detail/20260306043940951800",
-          "source": "金十数据",
-          "ranks": [
-            21
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
-        },
-        {
-          "title": "据NBC新闻：伊朗外长阿拉格齐称，伊朗已为美国地面入侵做好准备。",
-          "url": "https://flash.jin10.com/detail/20260306010950514800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
         }
       ]
     },
@@ -734,34 +954,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "强劲数据重燃风险偏好，科技股带领美股反弹，纳指涨1.3%，美债三连跌，加密货币大涨",
-          "url": "https://wallstreetcn.com/articles/3766668",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时56分 ~ 06时25分]"
-        },
-        {
-          "title": "10年期美债收益率涨约3个基点，本周已涨近18个基点",
-          "url": "https://wallstreetcn.com/livenews/3064663",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
         }
       ]
     },
