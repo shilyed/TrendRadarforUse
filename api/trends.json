@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T19:29:04.328933+08:00",
-  "total_titles_processed": 1747,
+  "generated_at": "2026-03-05T20:42:11.291638+08:00",
+  "total_titles_processed": 1848,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 52,
+      "match_count": 53,
       "titles": [
         {
           "title": "美以伊战争最新动态｜美国防部首次回应伊朗小学遭袭",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时42分 ~ 19时29分]"
+          "appearance_count": 12,
+          "time_info": "[13时42分 ~ 20时42分]"
         },
         {
           "title": "凤凰独家丨伊朗反击包括美国本土吗？驻华大使回应",
@@ -130,6 +130,19 @@
           "time_info": "[16时32分 ~ 17时36分]"
         },
         {
+          "title": "伊朗称用导弹击中一艘美国油轮",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%94%A8%E5%AF%BC%E5%BC%B9%E5%87%BB%E4%B8%AD%E4%B8%80%E8%89%98%E7%BE%8E%E5%9B%BD%E6%B2%B9%E8%BD%AE",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时32分 ~ 20时42分]"
+        },
+        {
           "title": "美国为何非要搞垮伊朗",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E9%9D%9E%E8%A6%81%E6%90%9E%E5%9E%AE%E4%BC%8A%E6%9C%97%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -142,6 +155,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时33分 ~ 07时24分]"
+        },
+        {
+          "title": "伊朗称用导弹击中一艘美国油轮",
+          "url": "https://www.toutiao.com/trending/7613318067011993641/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时35分 ~ 20时42分]"
         },
         {
           "title": "据福克斯新闻记者：美国参议院正在对结束伊朗行动的战争权力决议进行程序性投票。",
@@ -175,41 +201,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
-        },
-        {
-          "title": "印度否认美国在对伊朗军事行动中使用该国港口",
-          "url": "https://wallstreetcn.com/livenews/3064450",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时29分"
-        },
-        {
-          "title": "伊朗称用导弹击中一艘美国油轮",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%94%A8%E5%AF%BC%E5%BC%B9%E5%87%BB%E4%B8%AD%E4%B8%80%E8%89%98%E7%BE%8E%E5%9B%BD%E6%B2%B9%E8%BD%AE",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时32分 ~ 19时29分]"
-        },
-        {
-          "title": "美国承认：伊朗无人机攻势比想象中难对付",
-          "url": "https://wallstreetcn.com/livenews/3064449",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时29分"
         },
         {
           "title": "美众议院议否认美国与伊朗“处于战争状态”",
@@ -269,18 +260,6 @@
           "time_info": "[15时37分 ~ 17时36分]"
         },
         {
-          "title": "伊朗称用导弹击中一艘美国油轮",
-          "url": "https://www.toutiao.com/trending/7613318067011993641/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时35分 ~ 19时29分]"
-        },
-        {
           "title": "据伊朗塔斯尼姆通讯社：伊朗官员表示，未向美国发送任何信息，驳斥此前AXIOS网站的报道。",
           "url": "https://flash.jin10.com/detail/20260305061212928800",
           "source": "金十数据",
@@ -291,6 +270,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时24分]"
+        },
+        {
+          "title": "印度否认美国在对伊朗军事行动中使用该国港口",
+          "url": "https://wallstreetcn.com/livenews/3064450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时29分 ~ 20时42分]"
+        },
+        {
+          "title": "美国承认：伊朗无人机攻势比想象中难对付",
+          "url": "https://wallstreetcn.com/livenews/3064449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时29分 ~ 20时42分]"
         },
         {
           "title": "伊朗称在波斯湾北部击中一艘美国油轮",
@@ -530,6 +533,17 @@
           "time_info": "15时38分"
         },
         {
+          "title": "美国中央司令部：社交媒体上关于美国F-15E战斗机周三在伊朗坠毁的谣言毫无根据，完全不属实。",
+          "url": "https://flash.jin10.com/detail/20260305195424140800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
           "title": "美国国防部长赫格塞思确认，一艘美国潜艇在印度洋用鱼雷击沉了一艘伊朗军舰，称这是自第二次世界大战以来首次用鱼雷击沉敌舰。",
           "url": "https://flash.jin10.com/detail/20260305020736213800",
           "source": "金十数据",
@@ -647,8 +661,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时20分 ~ 19时29分]"
+          "appearance_count": 14,
+          "time_info": "[09时20分 ~ 20时42分]"
         },
         {
           "title": "特朗普夫人，“翻车”了",
@@ -688,6 +702,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时34分 ~ 09时20分]"
+        },
+        {
+          "title": "特朗普：若满分10分，我给美对伊行动打15分",
+          "url": "https://news.ifeng.com/c/8rFQi0S5RcE",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时32分 ~ 20时42分]"
         },
         {
           "title": "弹药告急！特朗普将召见军工大佬，筹划掏500亿美元补充军火",
@@ -741,15 +766,16 @@
           "time_info": "[09时20分 ~ 14时41分]"
         },
         {
-          "title": "特朗普：若满分10分，我给美对伊行动打15分",
-          "url": "https://news.ifeng.com/c/8rFQi0S5RcE",
+          "title": "特朗普“大发战争财”，借打伊朗搞募款",
+          "url": "https://news.ifeng.com/c/8rFJaJq0Rej",
           "source": "凤凰网",
           "ranks": [
-            2
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时32分 ~ 19时29分]"
+          "appearance_count": 5,
+          "time_info": "[18时32分 ~ 20时42分]"
         },
         {
           "title": "美国弹药库存告急！特朗普本周将召集军工巨头赴白宫，讨论加快武器生产",
@@ -790,25 +816,13 @@
           "time_info": "09时20分"
         },
         {
-          "title": "特朗普“大发战争财”，借打伊朗搞募款",
-          "url": "https://news.ifeng.com/c/8rFJaJq0Rej",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时32分 ~ 19时29分]"
-        },
-        {
           "title": "据《华盛顿邮报》：美国总统特朗普本周在通话中向库尔德领导人表示支持。",
           "url": "https://flash.jin10.com/detail/20260305190546098800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -892,7 +906,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -1046,7 +1060,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -1233,8 +1247,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时28分 ~ 19时29分]"
+          "appearance_count": 4,
+          "time_info": "[19时28分 ~ 20时42分]"
         },
         {
           "title": "美股期指集体拉升，油价跳水，韩股暴力反弹近10%，白银跌3%",
@@ -1394,7 +1408,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -1446,7 +1460,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "风险偏好重燃，日韩股市大幅反弹， 三星电子大涨13%，现货白银短线跳水，油价维持涨势",
@@ -1491,6 +1505,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 3月5日（周四）晚盘盘初暂无成交；<br/>上海黄金交易所白银T+D 3月5日（周四）晚盘盘初上涨0.77%报21350.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260305200536019800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         },
         {
           "title": "国投白银LOF：3月6日开市起至当日10:30停牌",
@@ -1609,8 +1634,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时24分 ~ 19时29分]"
+          "appearance_count": 15,
+          "time_info": "[07时24分 ~ 20时42分]"
         },
         {
           "title": "10年期美债收益率涨约2.7个基点，本周已涨约15个基点",
