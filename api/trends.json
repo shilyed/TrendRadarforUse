@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T12:06:31.423307+08:00",
-  "total_titles_processed": 1019,
+  "generated_at": "2026-03-05T13:42:33.811556+08:00",
+  "total_titles_processed": 1137,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "霍尔木兹遭封锁 特朗普抛出保险与护航方案 航运业态度谨慎",
@@ -39,8 +39,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 12时06分]"
+          "appearance_count": 13,
+          "time_info": "[00时34分 ~ 13时42分]"
         },
         {
           "title": "民调显示 43% 美民众反对打击伊朗，怕重蹈伊拉克覆辙，特朗普为何执意升级打击？为何能越过国会授权开战？",
@@ -104,8 +104,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时20分 ~ 12时06分]"
+          "appearance_count": 3,
+          "time_info": "[09时20分 ~ 13时42分]"
         },
         {
           "title": "美以伊战争最新动态｜参议院末能阻止特朗普继续动武",
@@ -119,16 +119,28 @@
           "time_info": "09时20分"
         },
         {
+          "title": "弹药告急！特朗普将召见军工大佬，筹划掏500亿美元补充军火",
+          "url": "https://news.ifeng.com/c/8rFCPechKEM",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        },
+        {
           "title": "特朗普打伊朗，美国国会管不了？参议院未通过叫停特朗普打击伊朗的投票",
           "url": "https://wallstreetcn.com/articles/3766752",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时20分 ~ 12时06分]"
+          "appearance_count": 3,
+          "time_info": "[09时20分 ~ 13时42分]"
         },
         {
           "title": "据知情人士透露，美国白宫计划在3月底之前递交关于下一个财年的预算申请。 特朗普政府尤其希望在3月31日当天披露预算报告。（彭博）",
@@ -172,11 +184,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时20分 ~ 12时06分]"
+          "appearance_count": 3,
+          "time_info": "[09时20分 ~ 13时42分]"
         },
         {
           "title": "特朗普正式提名凯文·沃什担任美联储主席，以接替杰罗姆·鲍威尔",
@@ -203,6 +216,18 @@
           "time_info": "[05时28分 ~ 06时24分]"
         },
         {
+          "title": "西班牙首相回击特朗普",
+          "url": "https://www.douyin.com/hot/2419161",
+          "source": "抖音",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 13时42分]"
+        },
+        {
           "title": "美国参议院未通过叫停特朗普打击伊朗的投票",
           "url": "https://wallstreetcn.com/livenews/3063881",
           "source": "华尔街见闻-快讯",
@@ -212,6 +237,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
+        },
+        {
+          "title": "据CNN：知情人士透露，就在美国对伊朗发起重大军事行动的几天前，FBI局长解雇了负责监控来自伊朗威胁的反情报部门的十多名特工和工作人员。被解职的原因在于：每人都参与了针对特朗普涉嫌海湖庄园机密文件的调查。",
+          "url": "https://flash.jin10.com/detail/20260305131457006800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
         },
         {
           "title": "白宫新闻秘书莱维特：美国总统特朗普将出席在伊朗袭击中丧生的美军官兵的隆重葬礼。",
@@ -278,17 +314,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
-        },
-        {
-          "title": "西班牙首相回击特朗普",
-          "url": "https://www.douyin.com/hot/2419161",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时06分"
         },
         {
           "title": "伊朗高级教士贾瓦迪·阿莫利：当今虔诚的什叶派穆斯林所应做的，就是血洗以色列人和美国总统特朗普。",
@@ -459,7 +484,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 31,
+      "match_count": 36,
       "titles": [
         {
           "title": "美以伊战争最新动态｜美国防部首次回应伊朗小学遭袭",
@@ -585,6 +610,17 @@
           "time_info": "01时33分"
         },
         {
+          "title": "这就是美国的“地面部队”？库尔德武装开始在伊朗境内开展地面活动",
+          "url": "https://wallstreetcn.com/articles/3766761",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        },
+        {
           "title": "据华尔街日报：美国国防部高级官员表示，美军的目标是削弱伊朗威胁。",
           "url": "https://flash.jin10.com/detail/20260305034927999800",
           "source": "金十数据",
@@ -606,6 +642,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时24分]"
+        },
+        {
+          "title": "新民调显示，大多数美国人对袭击伊朗并不买账",
+          "url": "https://news.ifeng.com/c/8rF6Z1Os5Oq",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 13时42分]"
         },
         {
           "title": "美国3月2日宣布，延长与伊朗相关的全美紧急响应时间。",
@@ -667,17 +714,6 @@
           "time_info": "05时28分"
         },
         {
-          "title": "新民调显示，大多数美国人对袭击伊朗并不买账",
-          "url": "https://news.ifeng.com/c/8rF6Z1Os5Oq",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
           "title": "白宫新闻秘书莱维特：美国军队已在伊朗打击超过2000个目标。",
           "url": "https://flash.jin10.com/detail/20260305022410602800",
           "source": "金十数据",
@@ -709,6 +745,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
+        },
+        {
+          "title": "土耳其外交部长菲丹表示，如果伊朗方面接受了美国、土耳其和佩泽希齐扬举行三边会议的提议，那将是一个改变局势的重大进展。",
+          "url": "https://flash.jin10.com/detail/20260305130148982800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
         },
         {
           "title": "伊朗高级军事官员：如果美国和以色列追求政权更迭，我们将瞄准迪莫纳核反应堆和所有地区能源基础设施。",
@@ -755,6 +802,17 @@
           "time_info": "00时35分"
         },
         {
+          "title": "布林肯：伊朗冲突持续将让美国陷入不利地位",
+          "url": "https://flash.jin10.com/detail/20260305125823747800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        },
+        {
           "title": "【伊朗军方称对阿联酋境内目标打击造成至少100美军死亡】总台记者获悉，当地时间3月4日，伊朗哈塔姆·安比亚中央司令部表示，在针对阿联酋迪拜境内美军目标的精确打击行动中，已造成至少100名美国海军陆战队成员死亡。美方对此暂无回应。（央视）",
           "url": "https://wallstreetcn.com/livenews/3063758",
           "source": "华尔街见闻-快讯",
@@ -788,6 +846,17 @@
           "time_info": "02时37分"
         },
         {
+          "title": "伊朗：未向美国发送任何信息",
+          "url": "https://www.toutiao.com/trending/7613159328044007467/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        },
+        {
           "title": "伊朗媒体：伊朗未向美国发送任何信息",
           "url": "https://wallstreetcn.com/livenews/3063952",
           "source": "华尔街见闻-快讯",
@@ -819,6 +888,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时34分"
+        },
+        {
+          "title": "美国中央司令部：消除伊朗政权移动导弹发射能力的努力仍在继续。我们正以致命的精准度找到并摧毁这些威胁。",
+          "url": "https://flash.jin10.com/detail/20260305122419773800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
         }
       ]
     },
@@ -847,8 +927,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 12时06分]"
+          "appearance_count": 13,
+          "time_info": "[00时34分 ~ 13时42分]"
         },
         {
           "title": "美股收盘：通胀担忧暂缓、油价持稳 科技股带动大盘重拾升势",
@@ -860,8 +940,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时24分 ~ 12时06分]"
+          "appearance_count": 4,
+          "time_info": "[07时24分 ~ 13时42分]"
         },
         {
           "title": "美股七巨头收盘播报｜亚马逊收涨将近3.9%，特斯拉涨超3.4%",
@@ -1014,7 +1094,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         }
@@ -1043,8 +1123,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时24分 ~ 12时06分]"
+          "appearance_count": 4,
+          "time_info": "[07时24分 ~ 13时42分]"
         },
         {
           "title": "10年期美债收益率涨约2.7个基点，本周已涨约15个基点",
