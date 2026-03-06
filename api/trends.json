@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T15:35:20.526543+08:00",
-  "total_titles_processed": 1222,
+  "generated_at": "2026-03-06T16:29:42.522759+08:00",
+  "total_titles_processed": 1336,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 63,
+      "match_count": 64,
       "titles": [
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时56分 ~ 15时35分]"
+          "appearance_count": 17,
+          "time_info": "[01时56分 ~ 16时29分]"
         },
         {
           "title": "特朗普“大发战争财”，借打伊朗搞募款",
@@ -50,8 +50,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时23分 ~ 15时35分]"
+          "appearance_count": 8,
+          "time_info": "[09时23分 ~ 16时29分]"
         },
         {
           "title": "美国内政部长透露：特朗普政府正考虑“所有方案”来控制油价！",
@@ -60,11 +60,12 @@
           "ranks": [
             9,
             4,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时23分 ~ 15时35分]"
+          "appearance_count": 8,
+          "time_info": "[09时23分 ~ 16时29分]"
         },
         {
           "title": "特朗普要求立即赦免以色列总理",
@@ -119,8 +120,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时23分 ~ 15时35分]"
+          "appearance_count": 8,
+          "time_info": "[09时23分 ~ 16时29分]"
         },
         {
           "title": "特朗普新关税再遭法律挑战 多州拟联合起诉",
@@ -322,6 +323,18 @@
           "time_info": "[03时12分 ~ 04时31分]"
         },
         {
+          "title": "伊朗战火下美汽油价格大涨 特朗普：不担心，无意动用战略油储！",
+          "url": "https://www.cls.cn/detail/2304532",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时35分 ~ 16时29分]"
+        },
+        {
           "title": "特朗普要求立即赦免以色列总理内塔尼亚胡",
           "url": "https://m.thepaper.cn/newsDetail_forward_32710617",
           "source": "澎湃新闻",
@@ -343,6 +356,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时28分 ~ 06时25分]"
+        },
+        {
+          "title": "特朗普夸梅西强过贝利，还称C罗也很棒！梅西在一旁表情亮了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32711665",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时35分 ~ 16时29分]"
         },
         {
           "title": "美国总统特朗普：（被问及泽连斯基提出协助抵御伊朗无人机的提议）我会接受任何国家的任何援助。",
@@ -433,6 +457,17 @@
           "time_info": "06时25分"
         },
         {
+          "title": "特朗普承诺护航霍尔木兹 高盛也来“泼冷水”：可行性存疑！",
+          "url": "https://www.cls.cn/detail/2304727",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
           "title": "特朗普要求立即赦免以色列总理",
           "url": "https://flash.jin10.com/detail/20260306053531815800",
           "source": "金十数据",
@@ -442,17 +477,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
-        },
-        {
-          "title": "伊朗战火下美汽油价格大涨 特朗普：不担心，无意动用战略油储！",
-          "url": "https://www.cls.cn/detail/2304532",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时35分"
         },
         {
           "title": "美国总统特朗普将于美东时间周五14:30（北京时间次日03:30）会见国防部长赫格塞思和内政部长伯格姆。",
@@ -497,17 +521,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
-        },
-        {
-          "title": "特朗普夸梅西强过贝利，还称C罗也很棒！梅西在一旁表情亮了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32711665",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时35分"
         },
         {
           "title": "特朗普政府正在权衡降低油价的所有选项",
@@ -743,11 +756,12 @@
             16,
             17,
             15,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时56分 ~ 15时35分]"
+          "appearance_count": 17,
+          "time_info": "[01时56分 ~ 16时29分]"
         },
         {
           "title": "伊朗军方称使用无人机击中“林肯”号航母 美国国土安全部部长将换人 | 环球市场",
@@ -815,11 +829,12 @@
           "url": "https://www.zhihu.com/question/2012978514974963211",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时40分 ~ 15时35分]"
+          "appearance_count": 5,
+          "time_info": "[13时40分 ~ 16时29分]"
         },
         {
           "title": "伊朗驳斥封锁霍尔木兹海峡说辞，准备应对美国地面行动，拒绝与美谈判",
@@ -830,8 +845,20 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时38分 ~ 16时29分]"
+        },
+        {
+          "title": "伊朗称击中美国林肯号航母",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%87%BB%E4%B8%AD%E7%BE%8E%E5%9B%BD%E6%9E%97%E8%82%AF%E5%8F%B7%E8%88%AA%E6%AF%8D%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时38分 ~ 15时35分]"
+          "time_info": "[15时35分 ~ 16时29分]"
         },
         {
           "title": "伊朗最高国家安全委员会秘书：已作好准备应对美国地面行动",
@@ -865,17 +892,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
-        },
-        {
-          "title": "伊朗称击中美国林肯号航母",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%87%BB%E4%B8%AD%E7%BE%8E%E5%9B%BD%E6%9E%97%E8%82%AF%E5%8F%B7%E8%88%AA%E6%AF%8D%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时35分"
         },
         {
           "title": "美国中央司令部司令：在过去的这一小时内，美国B-2型轰炸机对伊朗的地下导弹发射装置进行了轰炸。",
@@ -1214,7 +1230,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时35分"
         },
@@ -1277,47 +1293,8 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "非农前夜，油价飙升引发通胀担忧，芯片股领跌美股，美债四连跌，美元走强",
-          "url": "https://wallstreetcn.com/articles/3766762",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时46分 ~ 15时35分]"
-        },
-        {
-          "title": "强劲数据重燃风险偏好，科技股带领美股反弹，纳指涨1.3%，美债三连跌，加密货币大涨",
-          "url": "https://wallstreetcn.com/articles/3766668",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时56分 ~ 06时25分]"
-        },
-        {
-          "title": "10年期美债收益率涨约3个基点，本周已涨近18个基点",
-          "url": "https://wallstreetcn.com/livenews/3064663",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美元指数5日上涨",
@@ -1345,6 +1322,17 @@
           "time_info": "[04时31分 ~ 06时25分]"
         },
         {
+          "title": "【中国人民银行行长：中国没有必要也无意通过汇率贬值获取贸易竞争优势】在十四届全国人大四次会议经济主题记者会上，中国人民银行行长潘功胜表示，今年以来人民币对美元汇率有所升值，与我国经济持续向好、美元指数走弱、企业季节性结汇等都有关。目前人民币对美元双边的汇率水平处于这些年来的中值区间，中国没有必要也无意通过汇率贬值获取贸易竞争优势。",
+          "url": "https://wallstreetcn.com/livenews/3065008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
           "title": "WTI原油扩大涨幅，每桶突破78美元至2025年1月以来最高水平，彭博美元即期指数上涨0.5%至盘中高点。 G-10货币日内全线下跌，澳元以约1%的跌幅领跌。 加元跑赢，在主要货币中跌幅最小。",
           "url": "https://wallstreetcn.com/livenews/3064589",
           "source": "华尔街见闻-快讯",
@@ -1354,6 +1342,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "非农前夜，油价飙升引发通胀担忧，芯片股领跌美股，美债四连跌，美元走强",
+          "url": "https://wallstreetcn.com/articles/3766762",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时46分 ~ 16时29分]"
+        },
+        {
+          "title": "强劲数据重燃风险偏好，科技股带领美股反弹，纳指涨1.3%，美债三连跌，加密货币大涨",
+          "url": "https://wallstreetcn.com/articles/3766668",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时56分 ~ 06时25分]"
+        },
+        {
+          "title": "10年期美债收益率涨约3个基点，本周已涨近18个基点",
+          "url": "https://wallstreetcn.com/livenews/3064663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时28分"
         }
       ]
     },
