@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T16:22:05.073726+08:00",
-  "total_titles_processed": 1262,
+  "generated_at": "2026-03-07T17:22:42.103320+08:00",
+  "total_titles_processed": 1355,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时54分 ~ 16时22分]"
+          "appearance_count": 9,
+          "time_info": "[11时54分 ~ 17时22分]"
         },
         {
           "title": "反转！报道：特朗普政府搁置财政部“操盘”原油期货的计划",
@@ -382,7 +382,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "打伊朗，有人替美国算了笔账",
@@ -394,6 +394,18 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时31分 ~ 13时35分]"
+        },
+        {
+          "title": "伊朗称摧毁位阿联酋和约旦的「萨德」反导系统雷达，此前已摧毁两部，这对美国及其中东盟友将产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2013354916630979959",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时15分 ~ 17时22分]"
         },
         {
           "title": "伊朗称击中美国林肯号航母",
@@ -412,18 +424,6 @@
           "time_info": "[00时31分 ~ 13时35分]"
         },
         {
-          "title": "伊朗称摧毁位阿联酋和约旦的「萨德」反导系统雷达，此前已摧毁两部，这对美国及其中东盟友将产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2013354916630979959",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时15分 ~ 16时22分]"
-        },
-        {
           "title": "据伊朗国家电视台：伊朗高级军事发言人称，伊朗并未关闭霍尔木兹海峡，但与以色列或美国有关的船只无法通行。",
           "url": "https://flash.jin10.com/detail/20260307035544523800",
           "source": "金十数据",
@@ -434,6 +434,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时24分 ~ 09时15分]"
+        },
+        {
+          "title": "别只盯着伊朗，美国私募信贷危机正一步步重现“次贷危机”",
+          "url": "https://wallstreetcn.com/articles/3766940",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时31分 ~ 17时22分]"
         },
         {
           "title": "市场消息：伊朗袭击了阿联酋的一处美国爱国者防空基地。没有人员伤亡报告。",
@@ -447,17 +460,15 @@
           "time_info": "02时34分"
         },
         {
-          "title": "别只盯着伊朗，美国私募信贷危机正一步步重现“次贷危机”",
-          "url": "https://wallstreetcn.com/articles/3766940",
-          "source": "华尔街见闻",
+          "title": "伊朗红新月会主席表示，自美国与以色列对伊朗发动袭击以来，伊朗全国各地共有6668处民用设施遭到攻击。",
+          "url": "https://flash.jin10.com/detail/20260307164918039800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            7,
-            6
+            2
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时31分 ~ 16时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "伊朗哈塔姆·安比亚中央司令部发言人：对巴林美国军队驻地的袭击造成了许多死伤。",
@@ -570,13 +581,24 @@
           "time_info": "[03时30分 ~ 04时24分]"
         },
         {
+          "title": "胡锡进：伊朗总统的表现比美国和以色列领导人文明多了",
+          "url": "https://news.ifeng.com/c/8rInQtijI86",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
           "title": "美国前伊朗问题特使：美以对伊开战不正当 不必要 不合法",
           "url": "https://wallstreetcn.com/livenews/3065653",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -642,7 +664,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -684,8 +706,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时21分 ~ 16时22分]"
+          "appearance_count": 11,
+          "time_info": "[07时21分 ~ 17时22分]"
         },
         {
           "title": "Hims & Hers Health美股盘后涨近37%，报道称诺和诺德计划在Hims的平台上销售其减肥药",
