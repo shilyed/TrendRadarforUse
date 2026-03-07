@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-03-08T01:15:46.233675+08:00",
-  "total_titles_processed": 371,
+  "generated_at": "2026-03-08T02:23:41.310488+08:00",
+  "total_titles_processed": 419,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "别只盯着伊朗，美国私募信贷危机正一步步重现“次贷危机”",
           "url": "https://wallstreetcn.com/articles/3766940",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时23分]"
         },
         {
           "title": "伊朗议会发言人：针对伊朗海水淡化厂的袭击是美国在南部邻国某空军基地的支持下实施的。犯罪行为将收到相应程度的回应。",
@@ -25,9 +26,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "伊朗外交部长：任何加剧伊朗行使自卫权的行为，其责任都将完全由美国承担。",
+          "url": "https://flash.jin10.com/detail/20260308015336557800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时23分"
         },
         {
           "title": "伊朗高级官员：正在寻找新的美国目标进行打击",
@@ -60,8 +72,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时23分]"
         },
         {
           "title": "【伊朗伊斯兰革命卫队说在波斯湾击中一油轮】伊朗伊斯兰革命卫队7日说，当天在波斯湾中部击中一艘悬挂马绍尔群岛国旗的油轮，称该油轮为“美国资产”。 (新华社)",
@@ -71,8 +83,20 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时23分]"
+        },
+        {
+          "title": "美国打伊朗4天成本近110亿美元",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%89%93%E4%BC%8A%E6%9C%974%E5%A4%A9%E6%88%90%E6%9C%AC%E8%BF%91110%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时15分]"
+          "time_info": "[00时19分 ~ 02时23分]"
         },
         {
           "title": "伊朗称击中美国林肯号航母",
@@ -115,7 +139,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
         },
@@ -126,9 +150,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "美国国务院：美国谴责伊朗对阿塞拜疆共和国的无人机袭击。",
+          "url": "https://flash.jin10.com/detail/20260308014431946800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时23分"
         },
         {
           "title": "韩国驻伊朗大使馆：关于韩国可能协助美国对伊朗开战的消息不实。",
@@ -137,20 +172,9 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "美国打伊朗4天成本近110亿美元",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%89%93%E4%BC%8A%E6%9C%974%E5%A4%A9%E6%88%90%E6%9C%AC%E8%BF%91110%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时19分"
+          "time_info": "01时15分"
         },
         {
           "title": "伊朗外交部：回应以色列和美国的残酷军事侵略，是伊朗固有的自卫权利。",
@@ -159,7 +183,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
         },
@@ -192,7 +216,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
         },
@@ -222,7 +246,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普先“赢”上了：伊朗道歉都是我的功劳，今天伊朗将遭受重击",
@@ -232,8 +256,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时23分]"
         },
         {
           "title": "特朗普宣称“与伊朗不会达成任何协议”，军工企业同意将“精良级”武器产量“翻两番”",
@@ -243,8 +267,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时23分]"
         },
         {
           "title": "专家：特朗普的麻烦还在后面，美国与伊朗的战争成本接近300:1",
@@ -254,8 +278,41 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时23分]"
+        },
+        {
+          "title": "伊朗外交部长：我警告特朗普的特使，战争不会改善谈判地位。",
+          "url": "https://flash.jin10.com/detail/20260308015535108800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        },
+        {
+          "title": "伊朗外交部长：总统对地区缓和局势的开放态度，几乎立即就被特朗普总统对我方能力的误判所扼杀。",
+          "url": "https://flash.jin10.com/detail/20260308015301388800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        },
+        {
+          "title": "伊朗外交部长：如果特朗普想升级局势，他将如愿以偿。",
+          "url": "https://flash.jin10.com/detail/20260308015219595800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时23分"
         },
         {
           "title": "据福克斯新闻：特朗普已从佛罗里达出发，前往特拉华州的多佛空军基地，以向在伊朗冲突中阵亡的美国军人致敬。",
@@ -264,7 +321,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
         },
@@ -276,8 +333,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时23分]"
         },
         {
           "title": "市场消息：特朗普将于周一下午5点（北京时间周二早上6点）在众议院共和党人休会期间发表讲话。",
@@ -286,9 +343,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "特朗普：伊朗下任领导人需要对美以表现友好",
+          "url": "https://flash.jin10.com/detail/20260308014948305800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时23分"
         },
         {
           "title": "美国总统特朗普：美国参议院应该专注于，必要时完全专注于《拯救美国法案》，这是大家都想要的！",
@@ -308,7 +376,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
         },
@@ -319,7 +387,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
         },
@@ -330,9 +398,31 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗已经垮了，古巴也会垮，我们正在大获全胜！",
+          "url": "https://flash.jin10.com/detail/20260308010938903800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        },
+        {
+          "title": "美国国务院：特朗普、鲁比奥以及整个国务院都将美国公民的安全和安保视为最高优先事项。我们正在研究其他选项，以协助美国人离开中东。",
+          "url": "https://flash.jin10.com/detail/20260308010746115800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时23分"
         }
       ]
     },
@@ -347,7 +437,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
         }
@@ -365,8 +455,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时23分]"
         }
       ]
     },
@@ -382,8 +472,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时23分]"
         }
       ]
     }
