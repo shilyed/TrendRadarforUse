@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-03-08T00:19:45.432512+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-08T01:15:46.233675+08:00",
+  "total_titles_processed": 371,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 19,
       "titles": [
-        {
-          "title": "伊朗外交部：伊朗对地区内美国军事基地和设施的防御行动绝不应被视为对地区国家的敌意和敌对行为。",
-          "url": "https://flash.jin10.com/detail/20260307235123762800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        },
         {
           "title": "别只盯着伊朗，美国私募信贷危机正一步步重现“次贷危机”",
           "url": "https://wallstreetcn.com/articles/3766940",
@@ -26,8 +15,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 01时15分]"
+        },
+        {
+          "title": "伊朗议会发言人：针对伊朗海水淡化厂的袭击是美国在南部邻国某空军基地的支持下实施的。犯罪行为将收到相应程度的回应。",
+          "url": "https://flash.jin10.com/detail/20260308005448838800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时19分"
+          "time_info": "01时15分"
         },
         {
           "title": "伊朗高级官员：正在寻找新的美国目标进行打击",
@@ -41,6 +41,18 @@
           "time_info": "00时19分"
         },
         {
+          "title": "伊朗外交部：伊朗对地区内美国军事基地和设施的防御行动绝不应被视为对地区国家的敌意和敌对行为。",
+          "url": "https://flash.jin10.com/detail/20260307235123762800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 01时15分]"
+        },
+        {
           "title": "胡锡进：伊朗总统的表现比美国和以色列领导人文明多了",
           "url": "https://news.ifeng.com/c/8rInQtijI86",
           "source": "凤凰网",
@@ -48,8 +60,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 01时15分]"
         },
         {
           "title": "【伊朗伊斯兰革命卫队说在波斯湾击中一油轮】伊朗伊斯兰革命卫队7日说，当天在波斯湾中部击中一艘悬挂马绍尔群岛国旗的油轮，称该油轮为“美国资产”。 (新华社)",
@@ -59,8 +71,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 01时15分]"
+        },
+        {
+          "title": "伊朗称击中美国林肯号航母",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%87%BB%E4%B8%AD%E7%BE%8E%E5%9B%BD%E6%9E%97%E8%82%AF%E5%8F%B7%E8%88%AA%E6%AF%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 01时15分]"
         },
         {
           "title": "据华盛顿邮报：美国国家情报委员会的一份机密报告发现，即使是美国对伊朗发动大规模袭击，也不太可能推翻该伊斯兰共和国根深蒂固的军事和神职机构。",
@@ -85,6 +109,39 @@
           "time_info": "00时19分"
         },
         {
+          "title": "伊朗议会议长：只要美国在中东地区有基地，各国就无法安宁。伊朗的防御政策基于我们殉道者领袖的指导。",
+          "url": "https://flash.jin10.com/detail/20260308003654298800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时15分"
+        },
+        {
+          "title": "伊朗驻英国大使：尽管伊朗总统向邻国道歉，但伊朗将继续打击中东的军事目标，因为以色列和美国的攻击仍在继续。",
+          "url": "https://flash.jin10.com/detail/20260308003137218800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时15分"
+        },
+        {
+          "title": "韩国驻伊朗大使馆：关于韩国可能协助美国对伊朗开战的消息不实。",
+          "url": "https://flash.jin10.com/detail/20260308002509240800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时15分"
+        },
+        {
           "title": "美国打伊朗4天成本近110亿美元",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%89%93%E4%BC%8A%E6%9C%974%E5%A4%A9%E6%88%90%E6%9C%AC%E8%BF%91110%E4%BA%BF%E7%BE%8E%E5%85%83",
           "source": "bilibili 热搜",
@@ -96,22 +153,22 @@
           "time_info": "00时19分"
         },
         {
+          "title": "伊朗外交部：回应以色列和美国的残酷军事侵略，是伊朗固有的自卫权利。",
+          "url": "https://flash.jin10.com/detail/20260308001751673800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时15分"
+        },
+        {
           "title": "伊朗常驻联合国代表团：（针对非军事目标的袭击表示）我们初步评估认为，其中一些事件可能是由美国电子防御系统实施的拦截所致。",
           "url": "https://flash.jin10.com/detail/20260307232538148800",
           "source": "金十数据",
           "ranks": [
             23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
-          "title": "伊朗称击中美国林肯号航母",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%87%BB%E4%B8%AD%E7%BE%8E%E5%9B%BD%E6%9E%97%E8%82%AF%E5%8F%B7%E8%88%AA%E6%AF%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -127,6 +184,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "伊朗外交部：中东国家应该意识到，美国在其领土上的基地并未为地区安全做出贡献，这些基地只是用来支持犹太复国主义者。",
+          "url": "https://flash.jin10.com/detail/20260308001106956800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时15分"
         },
         {
           "title": "伊朗外交部长：美国袭击了格什姆岛的海水淡化厂，犯下了公然且丧心病狂的罪行。30个村庄的供水已受到影响。攻击伊朗基础设施是一个危险的举动，后果严重。这个先例是美国设定的，而不是伊朗。",
@@ -154,7 +222,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 10,
       "titles": [
         {
           "title": "特朗普先“赢”上了：伊朗道歉都是我的功劳，今天伊朗将遭受重击",
@@ -164,8 +232,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 01时15分]"
         },
         {
           "title": "特朗普宣称“与伊朗不会达成任何协议”，军工企业同意将“精良级”武器产量“翻两番”",
@@ -175,8 +243,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 01时15分]"
         },
         {
           "title": "专家：特朗普的麻烦还在后面，美国与伊朗的战争成本接近300:1",
@@ -186,8 +254,41 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 01时15分]"
+        },
+        {
+          "title": "据福克斯新闻：特朗普已从佛罗里达出发，前往特拉华州的多佛空军基地，以向在伊朗冲突中阵亡的美国军人致敬。",
+          "url": "https://flash.jin10.com/detail/20260308004923405800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时19分"
+          "time_info": "01时15分"
+        },
+        {
+          "title": "特朗普宣称考虑扩大打击范围 伊朗或遭受“非常沉重打击”",
+          "url": "https://wallstreetcn.com/livenews/3065718",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 01时15分]"
+        },
+        {
+          "title": "市场消息：特朗普将于周一下午5点（北京时间周二早上6点）在众议院共和党人休会期间发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260308004445538800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时15分"
         },
         {
           "title": "美国总统特朗普：美国参议院应该专注于，必要时完全专注于《拯救美国法案》，这是大家都想要的！",
@@ -201,15 +302,54 @@
           "time_info": "00时19分"
         },
         {
-          "title": "特朗普宣称考虑扩大打击范围 伊朗或遭受“非常沉重打击”",
-          "url": "https://wallstreetcn.com/livenews/3065718",
-          "source": "华尔街见闻-快讯",
+          "title": "据NBC新闻：民调显示，90%的MAGA（让美国再次伟大）信众支持特朗普针对伊朗的行动。",
+          "url": "https://flash.jin10.com/detail/20260308002707649800",
+          "source": "金十数据",
           "ranks": [
-            15
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时19分"
+          "time_info": "01时15分"
+        },
+        {
+          "title": "美国总统特朗普：我们士兵在这场战争中的牺牲是为了整个世界，而不仅仅是中东。",
+          "url": "https://flash.jin10.com/detail/20260308001516686800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时15分"
+        },
+        {
+          "title": "美国总统特朗普：我认为鲁比奥将成为历史上最优秀的国务卿，这是我的看法。",
+          "url": "https://flash.jin10.com/detail/20260308001200353800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价剧烈波动大家开始观望",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%89%A7%E7%83%88%E6%B3%A2%E5%8A%A8%E5%A4%A7%E5%AE%B6%E5%BC%80%E5%A7%8B%E8%A7%82%E6%9C%9B%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时15分"
         }
       ]
     },
@@ -225,8 +365,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 01时15分]"
         }
       ]
     },
@@ -242,8 +382,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 01时15分]"
         }
       ]
     }
