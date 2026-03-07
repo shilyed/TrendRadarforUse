@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T22:18:31.345542+08:00",
-  "total_titles_processed": 1685,
+  "generated_at": "2026-03-07T23:17:02.979088+08:00",
+  "total_titles_processed": 1739,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 43,
       "titles": [
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
@@ -25,11 +25,12 @@
           "ranks": [
             4,
             3,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时54分 ~ 22时18分]"
+          "appearance_count": 16,
+          "time_info": "[11时54分 ~ 23时17分]"
         },
         {
           "title": "反转！报道：特朗普政府搁置财政部“操盘”原油期货的计划",
@@ -81,6 +82,17 @@
           "time_info": "[03时29分 ~ 09时15分]"
         },
         {
+          "title": "美国总统特朗普：我重建了更强大的美国军队。",
+          "url": "https://flash.jin10.com/detail/20260307224229827800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "特朗普：军工企业一致同意将“高精尖”武器产量提高四倍",
           "url": "https://flash.jin10.com/detail/20260307082138210800",
           "source": "金十数据",
@@ -90,6 +102,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
+        },
+        {
+          "title": "美国总统特朗普：美国重视与萨尔瓦多的关系。",
+          "url": "https://flash.jin10.com/detail/20260307224145734800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "美国总统特朗普：美国国防部长赫格塞思表现极为出色。",
+          "url": "https://flash.jin10.com/detail/20260307224055314800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "美能源部长称将尽快开始护航，特朗普宣称“与伊朗不会达成任何协议”",
@@ -103,6 +137,17 @@
           "time_info": "09时15分"
         },
         {
+          "title": "美国总统特朗普：宣布成立新的军事联盟以消灭贩毒集团。",
+          "url": "https://flash.jin10.com/detail/20260307223756013800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "据The Verge：任天堂已起诉美国政府，要求退还特朗普时期征收的关税。",
           "url": "https://flash.jin10.com/detail/20260307034359509800",
           "source": "金十数据",
@@ -113,6 +158,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时24分 ~ 09时15分]"
+        },
+        {
+          "title": "特朗普宣称考虑扩大打击范围 伊朗或遭受“非常沉重打击”",
+          "url": "https://wallstreetcn.com/livenews/3065718",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            9,
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时31分 ~ 23时17分]"
         },
         {
           "title": "奥巴马、拜登“不点名”抨击特朗普政府",
@@ -149,19 +208,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时17分 ~ 19时14分]"
-        },
-        {
-          "title": "特朗普宣称考虑扩大打击范围 伊朗或遭受“非常沉重打击”",
-          "url": "https://wallstreetcn.com/livenews/3065718",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时31分 ~ 22时18分]"
         },
         {
           "title": "Robert Lighthizer将退出特朗普媒体科技集团董事会。",
@@ -319,6 +365,17 @@
           "time_info": "[03时30分 ~ 04时24分]"
         },
         {
+          "title": "美国总统特朗普：3天内击毁42艘伊朗海军舰艇。",
+          "url": "https://flash.jin10.com/detail/20260307223510844800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "特朗普引用纽约邮报文章表示，根据一项民调，叙利亚人对美国和以色列的态度变暖。",
           "url": "https://flash.jin10.com/detail/20260307000512363800",
           "source": "金十数据",
@@ -454,7 +511,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "打伊朗，有人替美国算了笔账",
@@ -476,11 +533,12 @@
             7,
             6,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时31分 ~ 22时18分]"
+          "appearance_count": 13,
+          "time_info": "[14时31分 ~ 23时17分]"
         },
         {
           "title": "伊朗称摧毁位阿联酋和约旦的「萨德」反导系统雷达，此前已摧毁两部，这对美国及其中东盟友将产生哪些影响？",
@@ -508,8 +566,19 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 22时18分]"
+          "appearance_count": 16,
+          "time_info": "[00时31分 ~ 23时17分]"
+        },
+        {
+          "title": "胡锡进：伊朗总统的表现比美国和以色列领导人文明多了",
+          "url": "https://news.ifeng.com/c/8rInQtijI86",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时22分 ~ 23时17分]"
         },
         {
           "title": "据伊朗国家电视台：伊朗高级军事发言人称，伊朗并未关闭霍尔木兹海峡，但与以色列或美国有关的船只无法通行。",
@@ -529,22 +598,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时34分 ~ 22时18分]"
-        },
-        {
-          "title": "胡锡进：伊朗总统的表现比美国和以色列领导人文明多了",
-          "url": "https://news.ifeng.com/c/8rInQtijI86",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时22分 ~ 22时18分]"
+          "appearance_count": 3,
+          "time_info": "[21时34分 ~ 23时17分]"
         },
         {
           "title": "市场消息：伊朗袭击了阿联酋的一处美国爱国者防空基地。没有人员伤亡报告。",
@@ -556,17 +615,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
-        },
-        {
-          "title": "伊朗总统佩泽希齐扬：伊朗寻求与地区国家建立友好关系，但这并不否认伊朗有权自卫，抵御来自美国和以色列的“侵略”。",
-          "url": "https://flash.jin10.com/detail/20260307214602475800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时18分"
         },
         {
           "title": "伊朗哈塔姆·安比亚中央司令部发言人：对巴林美国军队驻地的袭击造成了许多死伤。",
@@ -630,6 +678,18 @@
           "time_info": "[17时22分 ~ 18时17分]"
         },
         {
+          "title": "伊朗总统佩泽希齐扬：伊朗寻求与地区国家建立友好关系，但这并不否认伊朗有权自卫，抵御来自美国和以色列的“侵略”。",
+          "url": "https://flash.jin10.com/detail/20260307214602475800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时18分 ~ 23时17分]"
+        },
+        {
           "title": "据AXIOS网站：一名伊拉克库尔德官员表示，没有观察到美国在武装库尔德人以攻击伊朗。",
           "url": "https://flash.jin10.com/detail/20260307111601530800",
           "source": "金十数据",
@@ -666,6 +726,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时17分 ~ 21时34分]"
+        },
+        {
+          "title": "美媒称美国或应为伊朗小学遇袭负责",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AA%92%E7%A7%B0%E7%BE%8E%E5%9B%BD%E6%88%96%E5%BA%94%E4%B8%BA%E4%BC%8A%E6%9C%97%E5%B0%8F%E5%AD%A6%E9%81%87%E8%A2%AD%E8%B4%9F%E8%B4%A3%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时34分 ~ 23时17分]"
         },
         {
           "title": "伊朗驻埃及大使：不会要求美国重回谈判桌",
@@ -753,18 +825,6 @@
           "time_info": "[21时34分 ~ 22时18分]"
         },
         {
-          "title": "美媒称美国或应为伊朗小学遇袭负责",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AA%92%E7%A7%B0%E7%BE%8E%E5%9B%BD%E6%88%96%E5%BA%94%E4%B8%BA%E4%BC%8A%E6%9C%97%E5%B0%8F%E5%AD%A6%E9%81%87%E8%A2%AD%E8%B4%9F%E8%B4%A3%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时34分 ~ 22时18分]"
-        },
-        {
           "title": "伊朗驻埃及大使说不会再相信美国",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%A9%BB%E5%9F%83%E5%8F%8A%E5%A4%A7%E4%BD%BF%E8%AF%B4%E4%B8%8D%E4%BC%9A%E5%86%8D%E7%9B%B8%E4%BF%A1%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -843,6 +903,17 @@
           "time_info": "09时15分"
         },
         {
+          "title": "据福克斯新闻：美国已击沉43艘伊朗海军舰艇。",
+          "url": "https://flash.jin10.com/detail/20260307215345702800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "伊朗总统称美国要求“无条件投降”是“幻想”",
           "url": "https://wallstreetcn.com/livenews/3065643",
           "source": "华尔街见闻-快讯",
@@ -892,8 +963,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时21分 ~ 22时18分]"
+          "appearance_count": 18,
+          "time_info": "[07时21分 ~ 23时17分]"
         },
         {
           "title": "Hims & Hers Health美股盘后涨近37%，报道称诺和诺德计划在Hims的平台上销售其减肥药",
@@ -1099,11 +1170,12 @@
           "ranks": [
             6,
             10,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时31分 ~ 22时18分]"
+          "appearance_count": 4,
+          "time_info": "[20时31分 ~ 23时17分]"
         },
         {
           "title": "标普500指数收跌90.69点，跌幅1.33%，报6740.02点。 道琼斯工业平均指数收跌453.19点，跌幅0.95%，报47501.55点。 纳斯达克综合指数（纳指）收跌361.307点，跌幅1.59%，报22387.679点。 纳斯达克100指数收跌377.399点，跌幅1.51%，报24643.015点。 费城半导体指数收跌3.93%，报7514.736点。 费城证交所KBW银行指数收跌2.48%，报153.46点。 道琼斯KBW地区银行指数收跌2.32%，报125.41点。",
