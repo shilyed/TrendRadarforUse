@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T01:17:58.909108+08:00",
-  "total_titles_processed": 357,
+  "generated_at": "2026-03-09T02:23:46.071034+08:00",
+  "total_titles_processed": 392,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "王毅谈特朗普访华",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 02时23分]"
         },
         {
           "title": "美以伊战争｜伊朗新任最高领袖将揭晓，特朗普威胁",
@@ -25,20 +25,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
-          "title": "美国驻联合国大使：特朗普总统希望伊朗领导人不会威胁美国或该地区的盟友。",
-          "url": "https://flash.jin10.com/detail/20260309010309555800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 02时23分]"
         },
         {
           "title": "两会外长会｜王毅谈特朗普访华：今年是中美关系“大年”",
@@ -49,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 02时23分]"
         },
         {
           "title": "伊朗：今天或选出最高领袖！特朗普再度妄称：希望参与伊朗下一任领导人选择",
@@ -60,8 +49,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 02时23分]"
+        },
+        {
+          "title": "美国驻联合国大使：特朗普总统希望伊朗领导人不会威胁美国或该地区的盟友。",
+          "url": "https://flash.jin10.com/detail/20260309010309555800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 02时23分]"
         },
         {
           "title": "特朗普：已排除库尔德武装参战可能，部署地面部队需要“非常好的理由”",
@@ -69,11 +70,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 02时23分]"
         },
         {
           "title": "委内瑞拉代总统致函特朗普",
@@ -81,11 +83,35 @@
           "source": "今日头条",
           "ranks": [
             18,
-            15
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 02时23分]"
+        },
+        {
+          "title": "特朗普要求赦免以色列总理 以总统：战争期间“不讨论”",
+          "url": "https://wallstreetcn.com/livenews/3065878",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时17分]"
+          "time_info": "[00时20分 ~ 02时23分]"
+        },
+        {
+          "title": "美国参议院少数党领袖舒默：由于特朗普鲁莽选择战争，油价飙升至多年来的最高水平。而他根本不在乎。今天，我要求特朗普立即从战略石油储备中释放石油，以减轻美国人加油的压力。",
+          "url": "https://flash.jin10.com/detail/20260309004241525800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 02时23分]"
         },
         {
           "title": "英国首相办公室：英国首相斯塔默与美国总统特朗普讨论了中东局势及英美军事合作。",
@@ -112,37 +138,27 @@
           "time_info": "[00时20分 ~ 01时17分]"
         },
         {
-          "title": "特朗普要求赦免以色列总理 以总统：战争期间“不讨论”",
-          "url": "https://wallstreetcn.com/livenews/3065878",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 01时17分]"
-        },
-        {
-          "title": "美国参议院少数党领袖舒默：由于特朗普鲁莽选择战争，油价飙升至多年来的最高水平。而他根本不在乎。今天，我要求特朗普立即从战略石油储备中释放石油，以减轻美国人加油的压力。",
-          "url": "https://flash.jin10.com/detail/20260309004241525800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
           "title": "据以色列N12新闻：特朗普总统的顾问和女婿贾里德·库什纳预计将于周二抵达以色列。",
           "url": "https://flash.jin10.com/detail/20260309003023587800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 02时23分]"
+        },
+        {
+          "title": "法国总统马克龙：我们还讨论了加沙和西岸的情况。伊朗和中东的局势发展不应减缓我们实施特朗普总统提出的和平计划第二阶段的努力。我们特别呼吁全面重新开放拉法口岸，因为这对人道主义援助至关重要。在地区局势紧张之际，我们决心为降低紧张局势、恢复中东和平而努力。",
+          "url": "https://flash.jin10.com/detail/20260309013344642800",
+          "source": "金十数据",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时17分"
+          "time_info": "02时23分"
         },
         {
           "title": "特朗普以“拒签法案”为要挟 敦促参议院强推选举改革法",
@@ -151,7 +167,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
         },
@@ -192,18 +208,40 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
-          "title": "市场消息：美国和以色列伊朗的战争已危及海湾国家3000亿美元的人工智能支出。",
-          "url": "https://flash.jin10.com/detail/20260309005041818800",
+          "title": "伊朗外交部：对于那些坚持忽视我们对美国在该地区军事基地和资产进行防御性打击背后理由的人，导弹是从邻国领土发射到伊朗的，特别是在居民区附近，同时美国战斗机也利用邻国的空域对伊朗进行攻击，这使得地区安全面临威胁。",
+          "url": "https://flash.jin10.com/detail/20260309014453255800",
           "source": "金十数据",
           "ranks": [
-            5
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时17分"
+          "time_info": "02时23分"
+        },
+        {
+          "title": "伊朗外交部：坚决呼吁联合国秘书长和安理会在其职责范围内采取适当措施，以维护国际和平与安全，既要结束正在进行的战争罪行，又要进一步确保美国及其总统的问责；这样的行动将结束有罪不罚的文化。",
+          "url": "https://flash.jin10.com/detail/20260309014130660800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        },
+        {
+          "title": "伊朗、美国、以色列公布最新战报",
+          "url": "https://www.cls.cn/detail/2306227",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 02时23分]"
         },
         {
           "title": "据伊朗媒体Fars News：知情人士称，在美国和以色列对其能源基础设施进行空袭后，伊朗已更新其打击目标。该消息人士表示，德黑兰将不再仅限于军事目标，而是将瞄准该地区关键的美国资产和利益。",
@@ -218,15 +256,16 @@
           "time_info": "[00时20分 ~ 01时17分]"
         },
         {
-          "title": "伊朗、美国、以色列公布最新战报",
-          "url": "https://www.cls.cn/detail/2306227",
-          "source": "财联社热门",
+          "title": "市场消息：美国和以色列伊朗的战争已危及海湾国家3000亿美元的人工智能支出。",
+          "url": "https://flash.jin10.com/detail/20260309005041818800",
+          "source": "金十数据",
           "ranks": [
-            6
+            5,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时17分]"
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 02时23分]"
         },
         {
           "title": "美国能源部长Wright：全球当前并不缺少石油或天然气。 （谈及伊朗战争对石油的影响）这不会是一场长期性的战争。 霍尔木兹海峡将相对迅速地恢复。",
@@ -236,8 +275,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 02时23分]"
         },
         {
           "title": "美国能源部长Wright：就更低的能源价格而言，发动伊朗战争“代价是偏小的”。 对于战争推高油价（的持续时间），我讨论的是数周、而非几个月。",
@@ -247,8 +286,30 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 02时23分]"
+        },
+        {
+          "title": "伊拉克石油产量骤降至170万-180万桶/日，美国和以色列对伊朗发动袭击之前大约430万桶/日。",
+          "url": "https://wallstreetcn.com/livenews/3065882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 02时23分]"
+        },
+        {
+          "title": "伊朗称其六成导弹和无人机火力指向中东的美国目标",
+          "url": "https://wallstreetcn.com/livenews/3065880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 02时23分]"
         },
         {
           "title": "伊朗外交部长：不会考虑再次进行临时停火，认为之前的停火只让以色列和美国重新发动战争。",
@@ -275,28 +336,6 @@
           "time_info": "[00时20分 ~ 01时17分]"
         },
         {
-          "title": "伊拉克石油产量骤降至170万-180万桶/日，美国和以色列对伊朗发动袭击之前大约430万桶/日。",
-          "url": "https://wallstreetcn.com/livenews/3065882",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 01时17分]"
-        },
-        {
-          "title": "伊朗称其六成导弹和无人机火力指向中东的美国目标",
-          "url": "https://wallstreetcn.com/livenews/3065880",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 01时17分]"
-        },
-        {
           "title": "市场消息：美国军方表示，伊朗武装力量正利用人口稠密地区发射自杀式无人机和弹道导弹。",
           "url": "https://flash.jin10.com/detail/20260308231608699800",
           "source": "金十数据",
@@ -317,6 +356,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "做空ETF、恐慌指数都在飙！高盛戳穿美股“假平静”，市场实则极度脆弱",
+          "url": "https://wallstreetcn.com/articles/3766978",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时23分"
         }
       ]
     }
