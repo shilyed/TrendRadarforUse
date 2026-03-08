@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-08T09:21:32.644361+08:00",
-  "total_titles_processed": 687,
+  "generated_at": "2026-03-08T12:05:14.817482+08:00",
+  "total_titles_processed": 839,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 34,
+      "match_count": 38,
       "titles": [
         {
           "title": "别只盯着伊朗，美国私募信贷危机正一步步重现“次贷危机”",
@@ -105,6 +105,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时17分 ~ 07时16分]"
+        },
+        {
+          "title": "据纽约时报：美国官员透露，伊朗可能已经从美国在（去年）六月轰炸的一个地点回收了铀。",
+          "url": "https://flash.jin10.com/detail/20260308110536969800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
         },
         {
           "title": "伊朗最高国家安全委员会秘书拉里贾尼：美国人面临的最重要问题是，他们不理解这个地区，尤其是伊朗的思想结构。",
@@ -236,6 +247,28 @@
           "time_info": "[05时15分 ~ 07时16分]"
         },
         {
+          "title": "投行报告“又惹祸”，贝森特怒喷摩根大通，后者称美国船舶保险“不足以应对伊朗风险”",
+          "url": "https://wallstreetcn.com/articles/3766941",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时04分 ~ 12时05分]"
+        },
+        {
+          "title": "伊朗、美国、以色列公布最新战报",
+          "url": "https://www.cls.cn/detail/2306227",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时04分 ~ 12时05分]"
+        },
+        {
           "title": "据华盛顿邮报：美国国家情报委员会的一份机密报告发现，即使是美国对伊朗发动大规模袭击，也不太可能推翻该伊斯兰共和国根深蒂固的军事和神职机构。",
           "url": "https://flash.jin10.com/detail/20260307233730895800",
           "source": "金十数据",
@@ -278,6 +311,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "美国《纽约时报》援引官员消息称，伊朗仍保留其导弹计划50%的实力。",
+          "url": "https://flash.jin10.com/detail/20260308103825946800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
         },
         {
           "title": "乌克兰总统泽连斯基：我们看到关于俄罗斯对伊朗政权提供援助的信息——有报道称，俄罗斯正在向伊朗政权提供情报，以帮助其调整对美国的打击。",
@@ -415,7 +459,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普先“赢”上了：伊朗道歉都是我的功劳，今天伊朗将遭受重击",
@@ -425,8 +469,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 09时21分]"
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 12时05分]"
         },
         {
           "title": "专家：特朗普的麻烦还在后面，美国与伊朗的战争成本接近300:1",
@@ -436,8 +480,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 09时21分]"
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 12时05分]"
         },
         {
           "title": "特朗普宣称“与伊朗不会达成任何协议”，军工企业同意将“精良级”武器产量“翻两番”",
@@ -451,6 +495,17 @@
           "time_info": "[00时19分 ~ 06时16分]"
         },
         {
+          "title": "特朗普：目前无计划在伊朗部署地面部队",
+          "url": "https://news.ifeng.com/c/8rJig12CHog",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时21分 ~ 12时05分]"
+        },
+        {
           "title": "美以伊战争｜特朗普：目前无计划在伊朗部署地面部队",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -462,24 +517,13 @@
           "time_info": "[07时15分 ~ 07时16分]"
         },
         {
-          "title": "特朗普：目前无计划在伊朗部署地面部队",
-          "url": "https://news.ifeng.com/c/8rJig12CHog",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
           "title": "特朗普称已排除库尔德武装参战可能",
           "url": "https://wallstreetcn.com/livenews/3065786",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -504,6 +548,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "美媒：特朗普打击伊朗的选项包括派遣特种部队摧毁伊朗核设施",
+          "url": "https://flash.jin10.com/detail/20260308105750349800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
         },
         {
           "title": "特朗普：目前无意在伊朗部署地面部队，不希望库尔德武装介入伊朗战事",
@@ -631,6 +686,29 @@
           "time_info": "[00时19分 ~ 03时16分]"
         },
         {
+          "title": "英国可能部署航母至中东，特朗普：不需要",
+          "url": "https://news.ifeng.com/c/8rJVEzbISO2",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时21分 ~ 12时05分]"
+        },
+        {
+          "title": "委内瑞拉代总统致函特朗普",
+          "url": "https://www.toutiao.com/trending/7614119677836476458/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时21分 ~ 12时05分]"
+        },
+        {
           "title": "特朗普：伊朗下任领导人需要对美以表现友好",
           "url": "https://flash.jin10.com/detail/20260308014948305800",
           "source": "金十数据",
@@ -641,28 +719,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时23分 ~ 03时16分]"
-        },
-        {
-          "title": "委内瑞拉代总统致函特朗普",
-          "url": "https://www.toutiao.com/trending/7614119677836476458/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "英国可能部署航母至中东，特朗普：不需要",
-          "url": "https://news.ifeng.com/c/8rJVEzbISO2",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时21分"
         },
         {
           "title": "市场消息：特朗普将于周一下午5点（北京时间周二早上6点）在众议院共和党人休会期间发表讲话。",
@@ -682,7 +738,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -693,7 +749,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -707,6 +763,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "特朗普称没有迹象表明俄罗斯支持伊朗",
+          "url": "https://flash.jin10.com/detail/20260308104028991800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
         },
         {
           "title": "委内瑞拉代总统：我们将特朗普承认我们的这一决定视为对委内瑞拉人民及其为国家真相而斗争的公正事业的认可。我们重申愿意建立基于相互尊重和平等的长期关系。",
@@ -726,7 +793,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -740,6 +807,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "特朗普称没有迹象表明俄罗斯支持伊朗",
+          "url": "https://wallstreetcn.com/livenews/3065812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
         },
         {
           "title": "美国总统特朗普：我们士兵在这场战争中的牺牲是为了整个世界，而不仅仅是中东。",
@@ -849,8 +927,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 09时21分]"
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 12时05分]"
         }
       ]
     }
