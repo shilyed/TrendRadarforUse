@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T22:02:24.119995+08:00",
-  "total_titles_processed": 1834,
+  "generated_at": "2026-03-09T22:58:38.795256+08:00",
+  "total_titles_processed": 1924,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 54,
       "titles": [
         {
           "title": "王毅谈特朗普访华",
@@ -32,8 +32,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时20分 ~ 22时02分]"
+          "appearance_count": 15,
+          "time_info": "[09时20分 ~ 22时58分]"
         },
         {
           "title": "国际油价冲破100大关，特朗普不慌不忙回应“很快会下跌”！",
@@ -112,6 +112,17 @@
           "time_info": "[00时19分 ~ 07时17分]"
         },
         {
+          "title": "特朗普回应拉里贾尼威胁",
+          "url": "https://news.ifeng.com/c/8rM7NkGzfDg",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时38分 ~ 22时58分]"
+        },
+        {
           "title": "特朗普：已排除库尔德武装参战可能，部署地面部队需要“非常好的理由”",
           "url": "https://wallstreetcn.com/articles/3766970",
           "source": "华尔街见闻",
@@ -123,17 +134,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时19分 ~ 06时16分]"
-        },
-        {
-          "title": "特朗普回应拉里贾尼威胁",
-          "url": "https://news.ifeng.com/c/8rM7NkGzfDg",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时38分 ~ 22时02分]"
         },
         {
           "title": "特朗普回应何时结束对伊朗战争",
@@ -159,6 +159,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时10分 ~ 16时36分]"
+        },
+        {
+          "title": "特朗普：将与以总理共同作出停战决定",
+          "url": "https://news.ifeng.com/c/8rM8XXIvw2a",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时41分 ~ 22时58分]"
         },
         {
           "title": "美以伊战争｜中方回应特朗普威胁伊朗最高领袖",
@@ -194,6 +206,17 @@
           "time_info": "09时21分"
         },
         {
+          "title": "胡锡进：伊朗成心气特朗普，把一口带血的痰吐他脸上",
+          "url": "https://news.ifeng.com/c/8rM8XXIvw5H",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时41分 ~ 22时58分]"
+        },
+        {
           "title": "美国总统特朗普：短期内的油价在伊朗核威胁消除后会迅速下降。",
           "url": "https://wallstreetcn.com/livenews/3065949",
           "source": "华尔街见闻-快讯",
@@ -203,18 +226,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
-        },
-        {
-          "title": "特朗普：将与以总理共同作出停战决定",
-          "url": "https://news.ifeng.com/c/8rM8XXIvw2a",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时41分 ~ 22时02分]"
         },
         {
           "title": "美媒使用旧视频掩盖特朗普失礼行为",
@@ -228,17 +239,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时45分 ~ 17时41分]"
-        },
-        {
-          "title": "胡锡进：伊朗成心气特朗普，把一口带血的痰吐他脸上",
-          "url": "https://news.ifeng.com/c/8rM8XXIvw5H",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时41分 ~ 22时02分]"
         },
         {
           "title": "特朗普要求赦免以色列总理 以总统：战争期间“不讨论”",
@@ -385,6 +385,17 @@
           "time_info": "[00时20分 ~ 01时17分]"
         },
         {
+          "title": "是时候卖原油了？美银Hartnett：特朗普要赢中期选举，美伊战争必须在3月“降级”",
+          "url": "https://wallstreetcn.com/articles/3767022",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时58分]"
+        },
+        {
           "title": "据以色列N12新闻：特朗普总统的顾问和女婿贾里德·库什纳预计将于周二抵达以色列。",
           "url": "https://flash.jin10.com/detail/20260309003023587800",
           "source": "金十数据",
@@ -441,17 +452,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
-        },
-        {
-          "title": "是时候卖原油了？美银Hartnett：特朗普要赢中期选举，美伊战争必须在3月“降级”",
-          "url": "https://wallstreetcn.com/articles/3767022",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
         },
         {
           "title": "特朗普的儿子们支持一家瞄准国防部订单的无人机新公司。（华尔街日报）",
@@ -617,12 +617,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "美国总统特朗普：若澳大利亚不向她们提供庇护，美国将接管该球队。",
+          "url": "https://flash.jin10.com/detail/20260309221941681800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "美国总统特朗普：（就伊朗女足国家队返回伊朗）澳大利亚在允许伊朗国家女子足球队返回伊朗的做法上犯了一个可怕的人道主义错误，她们很可能会被杀。不要这样做，总理先生，给她们提供庇护。",
+          "url": "https://flash.jin10.com/detail/20260309221911288800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "伊朗、美国、以色列公布最新战报",
@@ -665,6 +687,18 @@
           "time_info": "[00时20分 ~ 06时16分]"
         },
         {
+          "title": "美国被曝对以袭击伊朗燃料存储设施不满，双方发起军事行动以来「首次出现重大分歧」，会对局势有怎样的影响？",
+          "url": "https://www.zhihu.com/question/2014341784478644036",
+          "source": "知乎",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时41分 ~ 22时58分]"
+        },
+        {
           "title": "马克龙分别与伊朗和美国总统通话，就国际局势交换意见",
           "url": "https://wallstreetcn.com/livenews/3065910",
           "source": "华尔街见闻-快讯",
@@ -687,18 +721,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
-        },
-        {
-          "title": "美国被曝对以袭击伊朗燃料存储设施不满，双方发起军事行动以来「首次出现重大分歧」，会对局势有怎样的影响？",
-          "url": "https://www.zhihu.com/question/2014341784478644036",
-          "source": "知乎",
-          "ranks": [
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时41分 ~ 22时02分]"
         },
         {
           "title": "伊拉克石油产量骤降至170万-180万桶/日，美国和以色列对伊朗发动袭击之前大约430万桶/日。",
@@ -858,6 +880,28 @@
           "time_info": "[04时17分 ~ 05时17分]"
         },
         {
+          "title": "伊朗外长阿拉格齐：在“史诗级错误”行动进行9天后，油价翻了一番，所有商品价格都在飙升。我们知道美国正在策划针对我们的石油和核设施，伊朗已做好充分准备。而我们也准备了许多惊喜。",
+          "url": "https://flash.jin10.com/detail/20260309224742020800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "伊朗最高国家安全委员会秘书拉里贾尼：考虑到美国和以色列在该地区点燃的战争火焰，霍尔木兹海峡不太可能实现任何安全。",
+          "url": "https://flash.jin10.com/detail/20260309224522976800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "伊朗称美国袭击“德纳”号护卫舰已造成104死32伤",
           "url": "https://wallstreetcn.com/livenews/3065937",
           "source": "华尔街见闻-快讯",
@@ -949,9 +993,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时58分]"
         },
         {
           "title": "美股三大股指期货周一全线低开，均跌1%。",
@@ -964,6 +1008,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时16分 ~ 07时17分]"
+        },
+        {
+          "title": "美伊战火会“砸崩”美股？以史为鉴：无需担心，标普500很快反弹！",
+          "url": "https://www.cls.cn/detail/2307187",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时58分]"
+        },
+        {
+          "title": "美股三大股指开盘走低，纳指盘初跌0.91%，标普500指数跌0.88%，道指跌0.96%。科技股普跌，英特尔跌超3%，西部数据、美光科技均跌超1%。石油股走高，康菲石油涨近1%。HIMS&HERS上涨49%，创下单日涨幅纪录，此前与诺和诺德达成减肥药授权协议。",
+          "url": "https://wallstreetcn.com/livenews/3066555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时58分]"
         },
         {
           "title": "美股股指期货跌幅收窄至1%附近，此前均跌超2%。",
@@ -988,35 +1055,13 @@
           "time_info": "07时17分"
         },
         {
-          "title": "美伊战火会“砸崩”美股？以史为鉴：无需担心，标普500很快反弹！",
-          "url": "https://www.cls.cn/detail/2307187",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "美股三大股指开盘走低，纳指盘初跌0.91%，标普500指数跌0.88%，道指跌0.96%。科技股普跌，英特尔跌超3%，西部数据、美光科技均跌超1%。石油股走高，康菲石油涨近1%。HIMS&HERS上涨49%，创下单日涨幅纪录，此前与诺和诺德达成减肥药授权协议。",
-          "url": "https://wallstreetcn.com/livenews/3066555",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
           "title": "金十图示：2026年03月09日（周一）美股热门股票行情一览",
           "url": "https://flash.jin10.com/detail/20260309214134620800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -1190,7 +1235,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         }
