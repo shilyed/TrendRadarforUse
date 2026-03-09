@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T00:54:46.300796+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-10T01:42:31.637842+08:00",
+  "total_titles_processed": 392,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "哈梅内伊次子当选伊朗新任最高领袖 特朗普威胁“难长久”",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时42分]"
         },
         {
           "title": "特朗普回应拉里贾尼威胁",
@@ -26,8 +26,30 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时42分]"
+        },
+        {
+          "title": "美国总统特朗普：谈论缴获伊朗石油还为时尚早。",
+          "url": "https://flash.jin10.com/detail/20260310011925949800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时54分"
+          "time_info": "01时42分"
+        },
+        {
+          "title": "美国白宫：特朗普正在评估所有可能的油价应对方案。",
+          "url": "https://flash.jin10.com/detail/20260310011623908800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时42分"
         },
         {
           "title": "是时候卖原油了？美银Hartnett：特朗普要赢中期选举，美伊战争必须在3月“降级”",
@@ -37,8 +59,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时42分]"
         },
         {
           "title": "特朗普：将与以总理共同作出停战决定",
@@ -48,8 +70,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时42分]"
         },
         {
           "title": "胡锡进：伊朗成心气特朗普，把一口带血的痰吐他脸上",
@@ -59,8 +81,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时42分]"
         },
         {
           "title": "报道：特朗普考虑实施出口限制和税收豁免，来平抑油价",
@@ -96,6 +118,17 @@
           "time_info": "00时54分"
         },
         {
+          "title": "美国总统特朗普将于美东时间周一17:30举行新闻发布会。",
+          "url": "https://wallstreetcn.com/livenews/3066647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时42分"
+        },
+        {
           "title": "特朗普考虑抑制能源价格 选项包括限制美国石油出口等",
           "url": "https://flash.jin10.com/detail/20260310001132057800",
           "source": "金十数据",
@@ -116,6 +149,133 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "伊朗外长阿拉格齐：伊朗将对美国的阴谋做出许多“惊喜回应”。",
+          "url": "https://flash.jin10.com/detail/20260310011856654800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时42分"
+        },
+        {
+          "title": "文件显示，美国就土耳其人民银行（Halkbank）案提交暂缓起诉协议。协议要求土耳其人民银行聘请一名反洗钱和合规专家。该协议禁止土耳其人民银行进行任何有利于伊朗的交易。美国表示，该协议符合美国的最佳利益，体现了特殊的国家安全和外交政策考量。",
+          "url": "https://flash.jin10.com/detail/20260310011452427800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时42分"
+        },
+        {
+          "title": "美国被曝对以袭击伊朗燃料存储设施不满，双方发起军事行动以来「首次出现重大分歧」，会对局势有怎样的影响？",
+          "url": "https://www.zhihu.com/question/2014341784478644036",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时42分]"
+        },
+        {
+          "title": "美国中央司令部：美国陆军高机动火箭炮系统（海马斯）在与伊朗的作战中提供无与伦比的深度打能力。",
+          "url": "https://flash.jin10.com/detail/20260310011205836800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时42分"
+        },
+        {
+          "title": "伊朗外长：伊朗不想伤害那些压倒性投票结束参与昂贵外国战争的普通美国人。",
+          "url": "https://flash.jin10.com/detail/20260310001750623800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
+        },
+        {
+          "title": "伊朗外交部：这场战争不仅针对伊朗，也针对整个地区。包括霍尔木兹海峡在内的地区局势严峻，也是美国和犹太复国主义政权军事侵略的后果。",
+          "url": "https://flash.jin10.com/detail/20260310010916276800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时42分"
+        },
+        {
+          "title": "伊朗外交部：与邻国保持良好关系对伊朗至关重要，但我们绝不能允许美国利用其在该地区的基地攻击我们。我们的防御行动并非针对邻国，而是针对侵略的根源和源头。",
+          "url": "https://flash.jin10.com/detail/20260310010907332800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时42分"
+        },
+        {
+          "title": "伊朗外交部：阿拉格奇补充道：伊朗坚决反对美国和犹太复国主义政权的军事侵略，并将捍卫自身安全。但这并不意味着包括日本在内的国际社会可以免除明确谴责此次军事侵略及侵略者犯下的战争罪行的责任。",
+          "url": "https://flash.jin10.com/detail/20260310010852732800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时42分"
+        },
+        {
+          "title": "伊朗外交部：伊朗外长指出，美国和犹太复国主义政权对伊朗的袭击是犯罪行为，国际社会对这种残暴侵略的绥靖态度在国际体系中开创了一个危险的先例。",
+          "url": "https://flash.jin10.com/detail/20260310010826666800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时42分"
+        },
+        {
+          "title": "伊朗外交部：伊朗外长阿拉格齐与日本外长通电话，讨论了美国和犹太复国主义政权对伊朗发动军事侵略后地区局势的发展及其对地区和全球的影响。",
+          "url": "https://flash.jin10.com/detail/20260310010812624800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时42分"
+        },
+        {
+          "title": "惠誉评级：由于伊朗冲突，美国公共财政网络风险上升。",
+          "url": "https://flash.jin10.com/detail/20260310010706877800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时42分"
         }
       ]
     },
@@ -142,8 +302,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时42分]"
         },
         {
           "title": "标普500指数跌幅收窄至0.5%，美股盘初一度下跌1.5%。",
@@ -151,34 +311,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国被曝对以袭击伊朗燃料存储设施不满，双方发起军事行动以来「首次出现重大分歧」，会对局势有怎样的影响？",
-          "url": "https://www.zhihu.com/question/2014341784478644036",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "伊朗外长：伊朗不想伤害那些压倒性投票结束参与昂贵外国战争的普通美国人。",
-          "url": "https://flash.jin10.com/detail/20260310001750623800",
-          "source": "金十数据",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -200,6 +332,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "纳斯达克100指数涨幅扩大至0.3%，半导体指数涨1.9%。",
+          "url": "https://wallstreetcn.com/livenews/3066646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时42分"
         }
       ]
     }
