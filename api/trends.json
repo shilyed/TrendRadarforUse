@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-10T16:33:05.953774+08:00",
-  "total_titles_processed": 1443,
+  "generated_at": "2026-03-10T17:37:06.353735+08:00",
+  "total_titles_processed": 1564,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 115,
+      "match_count": 117,
       "titles": [
+        {
+          "title": "TACO！特朗普称“战争很快结束”，美国股债深V反转，原油一度较日高跳水30%",
+          "url": "https://wallstreetcn.com/articles/3766990",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时15分 ~ 17时37分]"
+        },
         {
           "title": "特朗普回应拉里贾尼威胁",
           "url": "https://news.ifeng.com/c/8rM7NkGzfDg",
@@ -17,17 +28,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时54分 ~ 07时21分]"
-        },
-        {
-          "title": "TACO！特朗普称“战争很快结束”，美国股债深V反转，原油一度较日高跳水30%",
-          "url": "https://wallstreetcn.com/articles/3766990",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时15分 ~ 16时33分]"
         },
         {
           "title": "哈梅内伊次子当选伊朗新任最高领袖 特朗普威胁“难长久”",
@@ -52,6 +52,20 @@
           "time_info": "[09时15分 ~ 16时33分]"
         },
         {
+          "title": "特朗普：将暂时免除一些制裁以平抑油价 对伊战事“很快”会结束",
+          "url": "https://www.cls.cn/detail/2307862",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时15分 ~ 17时37分]"
+        },
+        {
           "title": "特朗普称伊朗战争已基本结束 国际油价高位跳水",
           "url": "https://www.cls.cn/detail/2307782",
           "source": "财联社热门",
@@ -65,17 +79,16 @@
           "time_info": "[07时21分 ~ 16时33分]"
         },
         {
-          "title": "特朗普：将暂时免除一些制裁以平抑油价 对伊战事“很快”会结束",
-          "url": "https://www.cls.cn/detail/2307862",
-          "source": "财联社热门",
+          "title": "特朗普：对伊行动或很快将结束，但不是在本周，将取消一些制裁以平抑油价",
+          "url": "https://wallstreetcn.com/articles/3767083",
+          "source": "华尔街见闻",
           "ranks": [
             6,
-            4,
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时15分 ~ 16时33分]"
+          "appearance_count": 11,
+          "time_info": "[09时15分 ~ 17时37分]"
         },
         {
           "title": "是时候卖原油了？美银Hartnett：特朗普要赢中期选举，美伊战争必须在3月“降级”",
@@ -93,16 +106,16 @@
           "time_info": "[00时54分 ~ 14时39分]"
         },
         {
-          "title": "特朗普：对伊行动或很快将结束，但不是在本周，将取消一些制裁以平抑油价",
-          "url": "https://wallstreetcn.com/articles/3767083",
-          "source": "华尔街见闻",
+          "title": "美媒：特朗普没有对伊朗的“战后计划”",
+          "url": "https://news.ifeng.com/c/8rN9ezF5RPS",
+          "source": "凤凰网",
           "ranks": [
-            6,
-            2
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时15分 ~ 16时33分]"
+          "appearance_count": 11,
+          "time_info": "[09时15分 ~ 17时37分]"
         },
         {
           "title": "特朗普：将与以总理共同作出停战决定",
@@ -128,16 +141,28 @@
           "time_info": "[00时54分 ~ 12时03分]"
         },
         {
-          "title": "美媒：特朗普没有对伊朗的“战后计划”",
-          "url": "https://news.ifeng.com/c/8rN9ezF5RPS",
+          "title": "美媒最新民调：特朗普支持率下滑至44%",
+          "url": "https://news.ifeng.com/c/8rNS9E6Ovmp",
           "source": "凤凰网",
           "ranks": [
-            7,
-            9
+            7
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[09时15分 ~ 16时33分]"
+          "time_info": "[13时40分 ~ 17时37分]"
+        },
+        {
+          "title": "特朗普：若伊朗阻断霍尔木兹海峡，美将施以“比以往猛烈20倍的打击”",
+          "url": "https://www.cls.cn/detail/2307968",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时40分 ~ 17时37分]"
         },
         {
           "title": "特朗普称对伊战事将很快结束 G7承诺必要时释放石油储备 | 环球市场",
@@ -164,28 +189,6 @@
           "time_info": "[04时25分 ~ 06时21分]"
         },
         {
-          "title": "美媒最新民调：特朗普支持率下滑至44%",
-          "url": "https://news.ifeng.com/c/8rNS9E6Ovmp",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时40分 ~ 16时33分]"
-        },
-        {
-          "title": "美以伊战争｜特朗普：距离向伊朗派兵“还差得远”",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时35分 ~ 03时36分]"
-        },
-        {
           "title": "美以伊战争｜特朗普考虑接替穆杰塔巴人选，中方表态",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -193,20 +196,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时32分 ~ 16时33分]"
-        },
-        {
-          "title": "特朗普：若伊朗阻断霍尔木兹海峡，美将施以“比以往猛烈20倍的打击”",
-          "url": "https://www.cls.cn/detail/2307968",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时40分 ~ 16时33分]"
+          "appearance_count": 4,
+          "time_info": "[16时32分 ~ 17时37分]"
         },
         {
           "title": "普京与特朗普通话讨论伊朗局势",
@@ -219,8 +210,33 @@
             25
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时40分 ~ 17时37分]"
+        },
+        {
+          "title": "专家预言“霍尔木兹危机”将持续更久，特朗普发出“20倍攻击力”警告！",
+          "url": "https://www.cls.cn/detail/2308078",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            6,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[13时40分 ~ 16时33分]"
+          "time_info": "[14时39分 ~ 17时37分]"
+        },
+        {
+          "title": "美以伊战争｜特朗普：距离向伊朗派兵“还差得远”",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时35分 ~ 03时36分]"
         },
         {
           "title": "大逆转！特朗普一句“战争结束”，美国股债深V反转，原油较日高暴跌30%",
@@ -320,19 +336,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
-        },
-        {
-          "title": "专家预言“霍尔木兹危机”将持续更久，特朗普发出“20倍攻击力”警告！",
-          "url": "https://www.cls.cn/detail/2308078",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时39分 ~ 16时33分]"
         },
         {
           "title": "特朗普新闻发布会：对伊军事行动会很快结束、油价涨幅低于预期",
@@ -478,6 +481,17 @@
           "time_info": "[05时26分 ~ 07时21分]"
         },
         {
+          "title": "特朗普称战争会很快结束",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%88%98%E4%BA%89%E4%BC%9A%E5%BE%88%E5%BF%AB%E7%BB%93%E6%9D%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时36分 ~ 17时37分]"
+        },
+        {
           "title": "美国总统特朗普：我们已经摧毁了伊朗大约80%的导弹基地。",
           "url": "https://flash.jin10.com/detail/20260310051025275800",
           "source": "金十数据",
@@ -524,6 +538,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时36分 ~ 04时26分]"
+        },
+        {
+          "title": "3月10日投资避雷针：特朗普称战争已基本结束 WTI原油亚洲开盘一度跌超10%",
+          "url": "https://www.cls.cn/detail/2307855",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时36分 ~ 17时37分]"
         },
         {
           "title": "美国总统特朗普：（谈伊朗行动）我们正与以色列伙伴一道，以压倒性的技术和军事力量击溃敌人。",
@@ -743,7 +768,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -1183,7 +1208,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -1326,6 +1351,17 @@
       "match_count": 29,
       "titles": [
         {
+          "title": "伊朗正为美国准备“惊喜”",
+          "url": "https://news.ifeng.com/c/8rN9LjUkK24",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时15分 ~ 17时37分]"
+        },
+        {
           "title": "美国被曝对以袭击伊朗燃料存储设施不满，双方发起军事行动以来「首次出现重大分歧」，会对局势有怎样的影响？",
           "url": "https://www.zhihu.com/question/2014341784478644036",
           "source": "知乎",
@@ -1337,17 +1373,6 @@
           "time_info": "[00时54分 ~ 07时21分]"
         },
         {
-          "title": "伊朗正为美国准备“惊喜”",
-          "url": "https://news.ifeng.com/c/8rN9LjUkK24",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时15分 ~ 16时33分]"
-        },
-        {
           "title": "伊朗外长：给美国人准备了许多惊喜",
           "url": "https://www.toutiao.com/trending/7614345000603910185/",
           "source": "今日头条",
@@ -1355,11 +1380,12 @@
             17,
             23,
             21,
-            20
+            20,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时03分 ~ 16时33分]"
+          "appearance_count": 10,
+          "time_info": "[12时03分 ~ 17时37分]"
         },
         {
           "title": "伊朗：摧毁近10部美国先进雷达",
@@ -1368,11 +1394,12 @@
           "ranks": [
             18,
             16,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时40分 ~ 16时33分]"
+          "appearance_count": 9,
+          "time_info": "[13时40分 ~ 17时37分]"
         },
         {
           "title": "美国中央司令部：美军已损毁或摧毁50艘伊朗船只。",
@@ -1414,7 +1441,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -1517,7 +1544,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -1846,6 +1873,69 @@
       ]
     },
     {
+      "keyword_group": "白银",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "金十图示：2026年03月10日（周二）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260310115221414800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "纽约白银期货涨约3.1%",
+          "url": "https://wallstreetcn.com/livenews/3066735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时26分 ~ 07时21分]"
+        },
+        {
+          "title": "国投白银LOF：3月11日开市起至10:30停牌",
+          "url": "https://wallstreetcn.com/livenews/3067195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 3月10日（周二）收盘上涨0.61%报1145.6元/克；<br/>上海黄金交易所白银T+D 3月10日（周二）收盘上涨5.67%报22300.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260310153015248800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
+          "title": "现货白银日内涨幅扩大至3.00%，现报86.88美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260310044840238800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "半导体",
       "match_count": 5,
       "titles": [
@@ -1907,58 +1997,6 @@
       ]
     },
     {
-      "keyword_group": "白银",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "金十图示：2026年03月10日（周二）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260310115221414800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "纽约白银期货涨约3.1%",
-          "url": "https://wallstreetcn.com/livenews/3066735",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时26分 ~ 07时21分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 3月10日（周二）收盘上涨0.61%报1145.6元/克；<br/>上海黄金交易所白银T+D 3月10日（周二）收盘上涨5.67%报22300.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260310153015248800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时37分"
-        },
-        {
-          "title": "现货白银日内涨幅扩大至3.00%，现报86.88美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260310044840238800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -1992,7 +2030,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         }
@@ -2043,6 +2081,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时26分 ~ 07时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "有色",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "LME有色金属库存日报",
+          "url": "https://flash.jin10.com/detail/20260310170210422800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         }
       ]
     },
