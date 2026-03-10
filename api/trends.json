@@ -1,12 +1,45 @@
 {
-  "generated_at": "2026-03-11T06:21:29.440723+08:00",
-  "total_titles_processed": 678,
+  "generated_at": "2026-03-11T07:21:39.982589+08:00",
+  "total_titles_processed": 726,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
+        {
+          "title": "特朗普：有可能有条件同伊朗谈判",
+          "url": "https://www.cls.cn/detail/2308807",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 07时21分]"
+        },
+        {
+          "title": "特朗普称对伊军事行动很快结束，专家：美出现短板，被伊朗抓住",
+          "url": "https://news.ifeng.com/c/8rNxjUXwYy8",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 07时21分]"
+        },
+        {
+          "title": "特朗普对伊朗开战的目标达成了吗？他承受了多大压力？",
+          "url": "https://v.ifeng.com/c/8rNwUGNMvZG",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 07时21分]"
+        },
         {
           "title": "TACO！特朗普称“战争很快结束”，美国股债深V反转，原油一度较日高跳水30%",
           "url": "https://wallstreetcn.com/articles/3766990",
@@ -19,45 +52,12 @@
           "time_info": "[00时28分 ~ 06时21分]"
         },
         {
-          "title": "特朗普：有可能有条件同伊朗谈判",
-          "url": "https://www.cls.cn/detail/2308807",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 06时21分]"
-        },
-        {
-          "title": "特朗普称对伊军事行动很快结束，专家：美出现短板，被伊朗抓住",
-          "url": "https://news.ifeng.com/c/8rNxjUXwYy8",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 06时21分]"
-        },
-        {
           "title": "特朗普：对伊行动或很快将结束，但不是在本周，将取消一些制裁以平抑油价",
           "url": "https://wallstreetcn.com/articles/3767083",
           "source": "华尔街见闻",
           "ranks": [
             2,
             3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 06时21分]"
-        },
-        {
-          "title": "特朗普对伊朗开战的目标达成了吗？他承受了多大压力？",
-          "url": "https://v.ifeng.com/c/8rNwUGNMvZG",
-          "source": "凤凰网",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -84,6 +84,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
+        },
+        {
+          "title": "Anthropic PBC在一场听证会上告知美国法官Rita F. Lin，如果总统特朗普在政府承包合同方面封杀该公司，恐怕今年会“损失”（至少）数十亿美元收入。 希望（司法系统）尽快采取行动，阻止五角大楼给公司贴标“供应链风险”的做法。",
+          "url": "https://wallstreetcn.com/livenews/3067607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         },
         {
           "title": "特朗普预计将于本周晚些时候发布行政令，正式切断与Anthropic的业务往来。（CBS）",
@@ -121,6 +132,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时48分 ~ 03时34分]"
+        },
+        {
+          "title": "美国总统特朗普：“美国优先炼油厂”在得州启动新的炼油厂。 感谢印度和Reliance在得克萨斯州炼油领域的投资。",
+          "url": "https://wallstreetcn.com/livenews/3067576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时21分]"
         },
         {
           "title": "美国白宫：一旦美国总统特朗普认定目标已达成，相关行动就会结束，届时伊朗将无条件投降。",
@@ -170,6 +193,17 @@
           "time_info": "03时34分"
         },
         {
+          "title": "如何应对特朗普？收下这本“懂王交易手册”",
+          "url": "https://wallstreetcn.com/articles/3767103",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
           "title": "美国白宫：（关于伊朗学校遇袭的声明）特朗普将接受调查结果，无论结果如何。",
           "url": "https://flash.jin10.com/detail/20260311024917958800",
           "source": "金十数据",
@@ -181,15 +215,15 @@
           "time_info": "03时34分"
         },
         {
-          "title": "美国总统特朗普：“美国优先炼油厂”在得州启动新的炼油厂。 感谢印度和Reliance在得克萨斯州炼油领域的投资。",
-          "url": "https://wallstreetcn.com/livenews/3067576",
+          "title": "特朗普：伊朗若在霍尔木兹海峡部署水雷将承担严重后果",
+          "url": "https://wallstreetcn.com/livenews/3067598",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时21分"
+          "time_info": "07时21分"
         },
         {
           "title": "微软：美国法院应该临时性地阻止总统特朗普的五角大楼封杀Anthropic。",
@@ -198,7 +232,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -209,7 +243,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -231,7 +265,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -242,7 +276,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -349,7 +383,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "美国希望停火？伊朗的条件是什么？伊朗发言人答凤凰问",
@@ -359,8 +393,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 06时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 07时21分]"
         },
         {
           "title": "担心伊朗报复，美国命令更多外交人员撤离中东",
@@ -370,8 +404,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 06时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 07时21分]"
         },
         {
           "title": "伊朗伊斯兰革命卫队：摧毁近10部美国先进雷达",
@@ -381,8 +415,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 06时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 07时21分]"
         },
         {
           "title": "打击伊朗遭遇三大反噬，美国还能撑多久？",
@@ -392,8 +426,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 06时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 07时21分]"
         },
         {
           "title": "伊朗外长：给美国人准备了许多惊喜",
@@ -402,11 +436,12 @@
           "ranks": [
             25,
             20,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 06时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 07时21分]"
         },
         {
           "title": "美国称正在升级对伊朗的战争，削弱了双方谈判的可能性",
@@ -479,6 +514,18 @@
           "time_info": "[00时28分 ~ 06时21分]"
         },
         {
+          "title": "美国中央司令部：美军在霍尔木兹海峡附近击沉16艘伊朗布雷舰艇。",
+          "url": "https://flash.jin10.com/detail/20260311055631731800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时21分]"
+        },
+        {
           "title": "美国白宫：最初对伊朗战争的时间表是4-6周，现在目标已提前实现。",
           "url": "https://flash.jin10.com/detail/20260311023458854800",
           "source": "金十数据",
@@ -491,15 +538,26 @@
           "time_info": "[02时48分 ~ 03时34分]"
         },
         {
-          "title": "美国中央司令部：美军在霍尔木兹海峡附近击沉16艘伊朗布雷舰艇。",
-          "url": "https://flash.jin10.com/detail/20260311055631731800",
-          "source": "金十数据",
+          "title": "【美军称在霍尔木兹海峡附近打击16艘伊朗布雷船只】当地时间3月10日，美国中央司令部表示，美军在霍尔木兹海峡附近打击16艘伊朗布雷船只。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3067594",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时21分"
+          "time_info": "07时21分"
+        },
+        {
+          "title": "据Politico：美国国防部长赫格塞思解散了原本用于调查伊朗女子学校袭击事件的办公室。",
+          "url": "https://flash.jin10.com/detail/20260311062559825800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         },
         {
           "title": "美国要求以色列停止对伊朗能源基础设施的打击。",
@@ -593,7 +651,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
@@ -608,15 +666,15 @@
           "time_info": "[00时28分 ~ 06时21分]"
         },
         {
-          "title": "甲骨文美股盘后涨幅扩大至10%，该公司正在举行分析师电话会议。",
-          "url": "https://wallstreetcn.com/livenews/3067585",
-          "source": "华尔街见闻-快讯",
+          "title": "“护航”乌龙消息搅动市场，原油“过山车”行情，美股冲高回落，新兴市场外汇指数大涨",
+          "url": "https://wallstreetcn.com/articles/3767097",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时21分"
+          "time_info": "07时21分"
         },
         {
           "title": "甲骨文(ORCL.N)美股盘后涨近5%。",
@@ -667,6 +725,18 @@
           "time_info": "[05时24分 ~ 06时21分]"
         },
         {
+          "title": "甲骨文美股盘后涨幅扩大至10%，该公司正在举行分析师电话会议。",
+          "url": "https://wallstreetcn.com/livenews/3067585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时21分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜英伟达收涨超1.1%，Meta涨1%",
           "url": "https://wallstreetcn.com/livenews/3067555",
           "source": "华尔街见闻-快讯",
@@ -690,6 +760,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时34分 ~ 05时24分]"
+        },
+        {
+          "title": "美股收盘：油价暴跌超11% 三大指数涨跌不一 标普500小幅下跌",
+          "url": "https://www.cls.cn/detail/2309059",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         },
         {
           "title": "金十图示：2026年03月10日（周二）美股热门股票行情一览（美股盘中）",
@@ -753,7 +834,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         }
@@ -785,6 +866,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 3月10日（周二）晚盘收盘上涨0.57%报1152.5元/克；<br/>上海黄金交易所白银T+D 3月10日（周二）晚盘收盘上涨0.19%报22304.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260311023019472800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时48分 ~ 03时34分]"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少56.34吨，当前持仓量为15654.57吨。欢迎点击查看数据中心...",
+          "url": "https://flash.jin10.com/detail/20260311062025416800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         }
       ]
     },
@@ -826,29 +936,12 @@
           "url": "https://wallstreetcn.com/livenews/3067587",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "上海黄金交易所黄金T+D 3月10日（周二）晚盘收盘上涨0.57%报1152.5元/克；<br/>上海黄金交易所白银T+D 3月10日（周二）晚盘收盘上涨0.19%报22304.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260311023019472800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            28
+            2,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时48分 ~ 03时34分]"
+          "time_info": "[06时21分 ~ 07时21分]"
         }
       ]
     }
