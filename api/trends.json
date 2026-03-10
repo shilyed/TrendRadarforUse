@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T04:34:35.787214+08:00",
-  "total_titles_processed": 585,
+  "generated_at": "2026-03-11T05:24:28.475264+08:00",
+  "total_titles_processed": 630,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "TACO！特朗普称“战争很快结束”，美国股债深V反转，原油一度较日高跳水30%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 04时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 05时24分]"
         },
         {
           "title": "特朗普：有可能有条件同伊朗谈判",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 04时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 05时24分]"
         },
         {
           "title": "特朗普称对伊军事行动很快结束，专家：美出现短板，被伊朗抓住",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 04时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 05时24分]"
         },
         {
           "title": "特朗普：对伊行动或很快将结束，但不是在本周，将取消一些制裁以平抑油价",
@@ -49,8 +49,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 04时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 05时24分]"
         },
         {
           "title": "特朗普对伊朗开战的目标达成了吗？他承受了多大压力？",
@@ -60,8 +60,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 04时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 05时24分]"
+        },
+        {
+          "title": "美以伊战争｜伊朗在霍尔木兹海峡布雷，特朗普回应",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         },
         {
           "title": "美国能源部长：特朗普总统在对伊朗的军事行动中维持全球能源稳定。美国海军成功护送一艘油轮通过霍尔木兹海峡，以确保石油持续流入全球市场。",
@@ -124,6 +135,30 @@
           "time_info": "[02时48分 ~ 03时34分]"
         },
         {
+          "title": "Alphavalue驻巴黎的副首席执行官Laurent Lamagnere表示：石油价格的剧烈波动令我们感到震惊。 尽管周二市场有所缓和，但“我们认为油价仍将维持在高位”。 “特朗普称战争可能结束，并不意味着它真的会结束。”",
+          "url": "https://wallstreetcn.com/livenews/3067535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 05时24分]"
+        },
+        {
+          "title": "普京与特朗普通话讨论伊朗局势",
+          "url": "https://www.douyin.com/hot/2424957",
+          "source": "抖音",
+          "ranks": [
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 05时24分]"
+        },
+        {
           "title": "美国白宫：特朗普“不排除”在战争中采取任何行动，包括派遣地面部队",
           "url": "https://flash.jin10.com/detail/20260311025134776800",
           "source": "金十数据",
@@ -152,18 +187,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时34分"
-        },
-        {
-          "title": "Alphavalue驻巴黎的副首席执行官Laurent Lamagnere表示：石油价格的剧烈波动令我们感到震惊。 尽管周二市场有所缓和，但“我们认为油价仍将维持在高位”。 “特朗普称战争可能结束，并不意味着它真的会结束。”",
-          "url": "https://wallstreetcn.com/livenews/3067535",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         },
@@ -185,7 +209,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         },
@@ -196,9 +220,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
+        },
+        {
+          "title": "美国总统特朗普：我很高兴地报告，在过去几个小时内，我们已经击中并完全摧毁了10艘闲置的布雷船舰和/或船只，后续还会有更多。",
+          "url": "https://flash.jin10.com/detail/20260311042124562800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         },
         {
           "title": "美国白宫：美国总统特朗普不惧怕在能源问题上采取更多措施。一旦国家安全选项达成，油价将会下跌。",
@@ -218,18 +253,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时34分"
-        },
-        {
-          "title": "普京与特朗普通话讨论伊朗局势",
-          "url": "https://www.douyin.com/hot/2424957",
-          "source": "抖音",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         },
@@ -240,7 +264,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         },
@@ -254,12 +278,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时48分"
+        },
+        {
+          "title": "特朗普将此前关于“伊朗水雷”的帖文删除，并在此前原文的基础上新发了帖文。特朗普表示，我们正在使用针对毒贩部署的相同技术和导弹能力来永久消除任何试图在霍尔木兹海峡布雷的船只。这些目标将会被迅速且严厉地予以打击。",
+          "url": "https://flash.jin10.com/detail/20260311041543955800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美国希望停火？伊朗的条件是什么？伊朗发言人答凤凰问",
@@ -269,8 +304,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 04时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 05时24分]"
         },
         {
           "title": "担心伊朗报复，美国命令更多外交人员撤离中东",
@@ -280,8 +315,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 04时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 05时24分]"
         },
         {
           "title": "伊朗伊斯兰革命卫队：摧毁近10部美国先进雷达",
@@ -291,8 +326,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 04时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 05时24分]"
         },
         {
           "title": "打击伊朗遭遇三大反噬，美国还能撑多久？",
@@ -302,8 +337,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 04时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 05时24分]"
         },
         {
           "title": "伊朗外长：给美国人准备了许多惊喜",
@@ -315,8 +350,19 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 04时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 05时24分]"
+        },
+        {
+          "title": "市场消息：美国“萨德”系统被目击拦截了伊朗发射的弹道导弹，这些导弹瞄准了中东地区的多个目标。",
+          "url": "https://flash.jin10.com/detail/20260311051542356800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         },
         {
           "title": "美国称正在升级对伊朗的战争，削弱了双方谈判的可能性",
@@ -365,6 +411,18 @@
           "time_info": "[02时48分 ~ 03时34分]"
         },
         {
+          "title": "美国打伊朗 欧洲为啥“不跟”",
+          "url": "https://www.toutiao.com/trending/7615276983672602667/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 05时24分]"
+        },
+        {
           "title": "美国白宫：最初对伊朗战争的时间表是4-6周，现在目标已提前实现。",
           "url": "https://flash.jin10.com/detail/20260311023458854800",
           "source": "金十数据",
@@ -375,17 +433,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时48分 ~ 03时34分]"
-        },
-        {
-          "title": "美国打伊朗 欧洲为啥“不跟”",
-          "url": "https://www.toutiao.com/trending/7615276983672602667/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 00时29分]"
         },
         {
           "title": "美国要求以色列停止对伊朗能源基础设施的打击。",
@@ -405,7 +452,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         },
@@ -479,7 +526,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
@@ -490,19 +537,30 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 04时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 05时24分]"
         },
         {
-          "title": "航空业ETF、能源业ETF收跌约1.3%，领跌美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3067560",
+          "title": "纽约期金涨超1.9%，一度在美股早盘逼近5250美元",
+          "url": "https://wallstreetcn.com/livenews/3067567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "在美股时段交易的费城金银指数收涨1.51%，报424.33点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数涨1.64%，报2965.97点，全天处于上涨状态。 在美股时段交易的原材料指数收涨0.58%，金属与矿业指数收涨1.35%。",
+          "url": "https://wallstreetcn.com/livenews/3067565",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时34分"
+          "time_info": "05时24分"
         },
         {
           "title": "甲骨文(ORCL.N)美股盘后涨近5%。",
@@ -511,9 +569,45 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
+        },
+        {
+          "title": "航空业ETF、能源业ETF收跌约1.3%，领跌美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3067560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 05时24分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜英伟达收涨超1.1%，Meta涨1%",
+          "url": "https://wallstreetcn.com/livenews/3067555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 05时24分]"
+        },
+        {
+          "title": "甲骨文第三财季调整后营收171.9亿美元，分析师预期168.9亿美元。 第三财季云基础设施营收（IAAS）为49亿美元，分析师预期47.4亿美元。 第三财季云营收（IAAS+SAAS）为89亿美元，分析师预期88.4亿美元。 预计2026财年营收670亿美元，上调2027年营收指引至900亿美元。 预计2026财年资本开支500亿美元。 预计第四财季营收按恒定汇率将增长18%-20%。 甲骨文美股盘后涨5%。",
+          "url": "https://wallstreetcn.com/livenews/3067553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 05时24分]"
         },
         {
           "title": "金十图示：2026年03月10日（周二）美股热门股票行情一览（美股盘中）",
@@ -527,35 +621,13 @@
           "time_info": "00时50分"
         },
         {
-          "title": "美股七巨头收盘播报｜英伟达收涨超1.1%，Meta涨1%",
-          "url": "https://wallstreetcn.com/livenews/3067555",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时34分"
-        },
-        {
           "title": "金十图示：2026年03月10日（周二）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260311040539654800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时34分"
-        },
-        {
-          "title": "甲骨文第三财季调整后营收171.9亿美元，分析师预期168.9亿美元。 第三财季云基础设施营收（IAAS）为49亿美元，分析师预期47.4亿美元。 第三财季云营收（IAAS+SAAS）为89亿美元，分析师预期88.4亿美元。 预计2026财年营收670亿美元，上调2027年营收指引至900亿美元。 预计2026财年资本开支500亿美元。 预计第四财季营收按恒定汇率将增长18%-20%。 甲骨文美股盘后涨5%。",
-          "url": "https://wallstreetcn.com/livenews/3067553",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         },
@@ -577,7 +649,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         },
@@ -588,7 +660,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         }
@@ -603,11 +675,12 @@
           "url": "https://wallstreetcn.com/livenews/3067537",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            21,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 05时24分]"
         },
         {
           "title": "美元指数10日下跌",
@@ -616,9 +689,38 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "道琼斯日内涨幅达1.0%，报48218.23点。 标普500指数涨0.7%，纳指涨207点涨幅0.9%。 半导体指数涨2.6%，银行指数涨1.8%。",
+          "url": "https://wallstreetcn.com/livenews/3067494",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时48分 ~ 03时34分]"
+        },
+        {
+          "title": "标普500指数收跌14.51点，跌幅0.21%，报6781.48点。 道琼斯工业平均指数收跌34.29点，跌幅0.07%，报47706.51点。 纳斯达克综合指数（纳指）收涨1.158点，涨幅0.01%，报22697.104点。 纳斯达克100指数收跌10.776点，跌幅0.04%，报24956.471点。 费城半导体指数收涨0.70%，报7865.119点。 费城证交所KBW银行指数收跌0.02%，报152.97点。 道琼斯KBW地区银行指数收跌0.14%，报124.65点。 纳斯达克生物科技指数收涨0.74%，报5944.53点。",
+          "url": "https://wallstreetcn.com/livenews/3067549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         }
       ]
     },
@@ -633,24 +735,6 @@
           "ranks": [
             16,
             28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时48分 ~ 03时34分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "道琼斯日内涨幅达1.0%，报48218.23点。 标普500指数涨0.7%，纳指涨207点涨幅0.9%。 半导体指数涨2.6%，银行指数涨1.8%。",
-          "url": "https://wallstreetcn.com/livenews/3067494",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            27
           ],
           "is_new": false,
           "appearance_count": 2,
