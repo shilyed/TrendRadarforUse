@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T09:15:56.268858+08:00",
-  "total_titles_processed": 891,
+  "generated_at": "2026-03-11T12:04:24.671453+08:00",
+  "total_titles_processed": 1059,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 38,
       "titles": [
         {
           "title": "特朗普：有可能有条件同伊朗谈判",
@@ -98,6 +98,17 @@
           "time_info": "07时21分"
         },
         {
+          "title": "霍尔木兹危机升级！特朗普再度警告伊朗：若布雷，将遭空前打击",
+          "url": "https://www.cls.cn/detail/2309121",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时04分"
+        },
+        {
           "title": "特朗普预计将于本周晚些时候发布行政令，正式切断与Anthropic的业务往来。（CBS）",
           "url": "https://wallstreetcn.com/livenews/3067492",
           "source": "华尔街见闻-快讯",
@@ -109,6 +120,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时42分 ~ 03时34分]"
+        },
+        {
+          "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
+          "url": "https://wallstreetcn.com/articles/3767174",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 12时04分]"
         },
         {
           "title": "美国白宫：特朗普并未排除地面部队的选项。",
@@ -133,6 +156,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时48分 ~ 03时34分]"
+        },
+        {
+          "title": "特朗普：有可能有条件同伊朗谈判！美防长称发起“最高强度”打击！伊议长：绝不寻求停火",
+          "url": "https://wallstreetcn.com/articles/3767165",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 12时04分]"
         },
         {
           "title": "美国总统特朗普：“美国优先炼油厂”在得州启动新的炼油厂。 感谢印度和Reliance在得克萨斯州炼油领域的投资。",
@@ -183,6 +218,17 @@
           "time_info": "[04时34分 ~ 05时24分]"
         },
         {
+          "title": "特朗普政府成“波动之源”，油价又坐一次“过山车”",
+          "url": "https://wallstreetcn.com/articles/3767194",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时04分"
+        },
+        {
           "title": "美国白宫：特朗普“不排除”在战争中采取任何行动，包括派遣地面部队",
           "url": "https://flash.jin10.com/detail/20260311025134776800",
           "source": "金十数据",
@@ -194,26 +240,15 @@
           "time_info": "03时34分"
         },
         {
-          "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
-          "url": "https://wallstreetcn.com/articles/3767174",
+          "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
+          "url": "https://wallstreetcn.com/articles/3767189",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时15分"
-        },
-        {
-          "title": "特朗普：有可能有条件同伊朗谈判！美防长称发起“最高强度”打击！伊议长：绝不寻求停火",
-          "url": "https://wallstreetcn.com/articles/3767165",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时15分"
+          "time_info": "12时04分"
         },
         {
           "title": "如何应对特朗普？收下这本“懂王交易手册”",
@@ -406,7 +441,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "美国希望停火？伊朗的条件是什么？伊朗发言人答凤凰问",
@@ -567,7 +602,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
         },
@@ -603,6 +638,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时48分"
+        },
+        {
+          "title": "市场消息：沙特外交大臣与美国国务卿通话，讨论伊朗的地区侵略行为。",
+          "url": "https://flash.jin10.com/detail/20260311111053915800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时04分"
         },
         {
           "title": "美国中央司令部发布视频，声称正在削弱伊朗在海上投射的力量和骚扰国际航运的能力。",
@@ -700,6 +746,30 @@
           "time_info": "[00时28分 ~ 06时21分]"
         },
         {
+          "title": "“护航”乌龙消息搅动市场，原油“过山车”，美股冲高回落，新兴市场外汇大涨",
+          "url": "https://wallstreetcn.com/articles/3767097",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 12时04分]"
+        },
+        {
+          "title": "美股收盘：油价暴跌超11% 三大指数涨跌不一 标普500小幅下跌",
+          "url": "https://www.cls.cn/detail/2309059",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时21分 ~ 12时04分]"
+        },
+        {
           "title": "“护航”乌龙消息搅动市场，原油“过山车”行情，美股冲高回落，新兴市场外汇指数大涨",
           "url": "https://wallstreetcn.com/articles/3767097",
           "source": "华尔街见闻",
@@ -709,17 +779,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
-        },
-        {
-          "title": "“护航”乌龙消息搅动市场，原油“过山车”，美股冲高回落，新兴市场外汇大涨",
-          "url": "https://wallstreetcn.com/articles/3767097",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时15分"
         },
         {
           "title": "甲骨文(ORCL.N)美股盘后涨近5%。",
@@ -744,18 +803,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时34分 ~ 06时21分]"
-        },
-        {
-          "title": "美股收盘：油价暴跌超11% 三大指数涨跌不一 标普500小幅下跌",
-          "url": "https://www.cls.cn/detail/2309059",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时21分 ~ 09时15分]"
         },
         {
           "title": "纽约期金涨超1.9%，一度在美股早盘逼近5250美元",
@@ -897,7 +944,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
         },
@@ -920,7 +967,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
         },
@@ -934,6 +981,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "金十图示：2026年03月11日（周三）富时中国A50指数成分股午盘收盘行情一览：银行、保险等板块全线飘红，白酒、半导体等板块涨跌分化",
+          "url": "https://flash.jin10.com/detail/20260311113404067800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时04分"
+        },
+        {
+          "title": "道琼斯日内涨幅达1.0%，报48218.23点。 标普500指数涨0.7%，纳指涨207点涨幅0.9%。 半导体指数涨2.6%，银行指数涨1.8%。",
+          "url": "https://wallstreetcn.com/livenews/3067494",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时48分 ~ 03时34分]"
+        },
+        {
+          "title": "标普500指数收跌14.51点，跌幅0.21%，报6781.48点。 道琼斯工业平均指数收跌34.29点，跌幅0.07%，报47706.51点。 纳斯达克综合指数（纳指）收涨1.158点，涨幅0.01%，报22697.104点。 纳斯达克100指数收跌10.776点，跌幅0.04%，报24956.471点。 费城半导体指数收涨0.70%，报7865.119点。 费城证交所KBW银行指数收跌0.02%，报152.97点。 道琼斯KBW地区银行指数收跌0.14%，报124.65点。 纳斯达克生物科技指数收涨0.74%，报5944.53点。",
+          "url": "https://wallstreetcn.com/livenews/3067549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "恒生科技指数涨超1%，蔚来涨近17%，小鹏汽车涨超6%，华虹半导体涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3067726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时04分"
         }
       ]
     },
@@ -967,35 +1065,6 @@
       ]
     },
     {
-      "keyword_group": "半导体",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "道琼斯日内涨幅达1.0%，报48218.23点。 标普500指数涨0.7%，纳指涨207点涨幅0.9%。 半导体指数涨2.6%，银行指数涨1.8%。",
-          "url": "https://wallstreetcn.com/livenews/3067494",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时48分 ~ 03时34分]"
-        },
-        {
-          "title": "标普500指数收跌14.51点，跌幅0.21%，报6781.48点。 道琼斯工业平均指数收跌34.29点，跌幅0.07%，报47706.51点。 纳斯达克综合指数（纳指）收涨1.158点，涨幅0.01%，报22697.104点。 纳斯达克100指数收跌10.776点，跌幅0.04%，报24956.471点。 费城半导体指数收涨0.70%，报7865.119点。 费城证交所KBW银行指数收跌0.02%，报152.97点。 道琼斯KBW地区银行指数收跌0.14%，报124.65点。 纳斯达克生物科技指数收涨0.74%，报5944.53点。",
-          "url": "https://wallstreetcn.com/livenews/3067549",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时24分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -1022,11 +1091,12 @@
           "url": "https://www.zhihu.com/question/2014710084022846319",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 12时04分]"
         }
       ]
     }
