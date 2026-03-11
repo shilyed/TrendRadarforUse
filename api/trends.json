@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T19:28:15.967676+08:00",
-  "total_titles_processed": 1749,
+  "generated_at": "2026-03-11T20:41:22.470753+08:00",
+  "total_titles_processed": 1856,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 48,
       "titles": [
         {
           "title": "特朗普：有可能有条件同伊朗谈判",
@@ -74,8 +74,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时04分 ~ 19时28分]"
+          "appearance_count": 11,
+          "time_info": "[12时04分 ~ 20时41分]"
         },
         {
           "title": "霍尔木兹危机升级！特朗普再度警告伊朗：若布雷，将遭空前打击",
@@ -102,6 +102,19 @@
           "time_info": "[13时42分 ~ 17时35分]"
         },
         {
+          "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
+          "url": "https://wallstreetcn.com/articles/3767189",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时04分 ~ 20时41分]"
+        },
+        {
           "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
           "url": "https://wallstreetcn.com/articles/3767174",
           "source": "华尔街见闻",
@@ -110,20 +123,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时15分 ~ 19时28分]"
-        },
-        {
-          "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
-          "url": "https://wallstreetcn.com/articles/3767189",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时04分 ~ 19时28分]"
+          "appearance_count": 12,
+          "time_info": "[09时15分 ~ 20时41分]"
         },
         {
           "title": "特朗普：有可能有条件同伊朗谈判！美防长称发起“最高强度”打击！伊议长：绝不寻求停火",
@@ -131,11 +132,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时15分 ~ 19时28分]"
+          "appearance_count": 10,
+          "time_info": "[09时15分 ~ 20时41分]"
         },
         {
           "title": "美以伊战争｜特朗普吹上了：帮中国通过海峡，很荣幸",
@@ -191,6 +193,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "据美国哥伦比亚广播公司：美国总统特朗普周二与国际足联代表通话。",
+          "url": "https://flash.jin10.com/detail/20260311201219196800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "据美国哥伦比亚广播公司：美国总统特朗普告诉国际足联，欢迎伊朗在美国举行的世界杯上参赛。",
+          "url": "https://flash.jin10.com/detail/20260311201129117800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "特朗普预计将于本周晚些时候发布行政令，正式切断与Anthropic的业务往来。（CBS）",
@@ -298,6 +322,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普政府重启全球入境计划，该计划可加快低风险旅客的美国海关和移民通关手续。",
+          "url": "https://flash.jin10.com/detail/20260311200902602800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "如何应对特朗普？收下这本“懂王交易手册”",
@@ -507,12 +542,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "市场消息：两名以色列官员称，以色列评估认为，美国总统特朗普尚未接近下令结束战争。",
+          "url": "https://flash.jin10.com/detail/20260311195046381800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 31,
+      "match_count": 35,
       "titles": [
         {
           "title": "美国希望停火？伊朗的条件是什么？伊朗发言人答凤凰问",
@@ -580,8 +626,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时32分 ~ 19时28分]"
+          "appearance_count": 4,
+          "time_info": "[18时32分 ~ 20时41分]"
         },
         {
           "title": "机构韧性与技术霸权双重加持 美国市场在伊朗战火中重拾定价权",
@@ -711,6 +757,17 @@
           "time_info": "[02时48分 ~ 03时34分]"
         },
         {
+          "title": "币安：就相关报道起诉《华尔街日报》。（此前该报称美国司法部正调查伊朗是否利用币安规避美国制裁。）",
+          "url": "https://flash.jin10.com/detail/20260311201030346800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "美国被曝考虑派兵夺取伊朗哈尔克岛",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%A2%AB%E6%9B%9D%E8%80%83%E8%99%91%E6%B4%BE%E5%85%B5%E5%A4%BA%E5%8F%96%E4%BC%8A%E6%9C%97%E5%93%88%E5%B0%94%E5%85%8B%E5%B2%9B%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
@@ -766,6 +823,17 @@
           "time_info": "14时42分"
         },
         {
+          "title": "美国中央司令部：显然，我们在伊朗大部分地区都有空中优势。",
+          "url": "https://flash.jin10.com/detail/20260311195915892800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "美国要求以色列停止对伊朗能源基础设施的打击。",
           "url": "https://flash.jin10.com/detail/20260311022625885800",
           "source": "金十数据",
@@ -810,6 +878,17 @@
           "time_info": "02时48分"
         },
         {
+          "title": "美国中央司令部：在伊朗打击了超过5500个目标，包括60多艘船只。",
+          "url": "https://flash.jin10.com/detail/20260311195555901800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "美国白宫：美国已摧毁超过50艘伊朗船只。",
           "url": "https://flash.jin10.com/detail/20260311022345059800",
           "source": "金十数据",
@@ -819,6 +898,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时48分"
+        },
+        {
+          "title": "美国中央司令部：美军继续对伊朗施加毁灭性打击。",
+          "url": "https://flash.jin10.com/detail/20260311195518918800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "美国中东问题特使威特科夫：俄罗斯昨日通话时表示，未与伊朗共享美军资产情报。",
@@ -868,7 +958,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "“护航”乌龙消息搅动市场，原油“过山车”，美股冲高回落，新兴市场外汇大涨",
@@ -878,8 +968,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时15分 ~ 19时28分]"
+          "appearance_count": 12,
+          "time_info": "[09时15分 ~ 20时41分]"
         },
         {
           "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
@@ -1047,6 +1137,17 @@
           "time_info": "04时34分"
         },
         {
+          "title": "亚马逊与Zoox达成自动驾驶出租车合作，Uber(UBER.N)美股盘前涨4.3%。",
+          "url": "https://flash.jin10.com/detail/20260311200444258800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "甲骨文美股盘前涨超11%，公司营收指引超预期。",
           "url": "https://wallstreetcn.com/livenews/3067922",
           "source": "华尔街见闻-快讯",
@@ -1078,12 +1179,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "英伟达拟投资20亿美元，NEBIUS美股盘前大涨9%。",
+          "url": "https://flash.jin10.com/detail/20260311200239714800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         }
       ]
     },
     {
       "keyword_group": "白银",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "现货白银失守87美元/盎司，日内跌幅1.53%。",
@@ -1163,6 +1275,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 3月11日（周三）晚盘盘初下跌0.36%报1148.0元/克；<br/>上海黄金交易所白银T+D 3月11日（周三）晚盘盘初下跌2.19%报21728.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260311200107103800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         }
       ]
     },
@@ -1241,6 +1364,46 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美国2月CPI数据符合市场预期，美国国债保持稳定，美元指数波动不大，美国股指期货小幅走高。",
+          "url": "https://wallstreetcn.com/livenews/3068098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "周二（3月10日）纽约尾盘，ICE美元指数涨0.11%，报98.842点，日内交投区间为98.939-98.492点，整体呈现出W形走势。 彭博美元指数跌0.11%，报1200.15点，日内交投区间为1202.24-1195.63点。",
+          "url": "https://wallstreetcn.com/livenews/3067537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 05时24分]"
+        },
+        {
+          "title": "美元指数10日下跌",
+          "url": "https://flash.jin10.com/detail/20260311034730547800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时34分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -1269,35 +1432,6 @@
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "周二（3月10日）纽约尾盘，ICE美元指数涨0.11%，报98.842点，日内交投区间为98.939-98.492点，整体呈现出W形走势。 彭博美元指数跌0.11%，报1200.15点，日内交投区间为1202.24-1195.63点。",
-          "url": "https://wallstreetcn.com/livenews/3067537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时34分 ~ 05时24分]"
-        },
-        {
-          "title": "美元指数10日下跌",
-          "url": "https://flash.jin10.com/detail/20260311034730547800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时34分"
-        }
-      ]
-    },
-    {
       "keyword_group": "存储芯片",
       "match_count": 2,
       "titles": [
@@ -1314,8 +1448,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时15分 ~ 19时28分]"
+          "appearance_count": 12,
+          "time_info": "[09时15分 ~ 20时41分]"
         },
         {
           "title": "蔚来汽车总裁秦力洪：受包括存储芯片短缺在内的多重因素干扰，高端电动汽车今年成本或将上涨6000至1万元。",
