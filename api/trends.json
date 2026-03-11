@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T16:32:51.676184+08:00",
-  "total_titles_processed": 1457,
+  "generated_at": "2026-03-11T17:35:59.807517+08:00",
+  "total_titles_processed": 1568,
   "failed_sources": [],
   "trends": [
     {
@@ -85,8 +85,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时42分 ~ 16时32分]"
+          "appearance_count": 6,
+          "time_info": "[13时42分 ~ 17时35分]"
         },
         {
           "title": "特朗普政府成“波动之源”，油价又坐一次“过山车”",
@@ -98,8 +98,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时04分 ~ 16时32分]"
+          "appearance_count": 7,
+          "time_info": "[12时04分 ~ 17时35分]"
+        },
+        {
+          "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
+          "url": "https://wallstreetcn.com/articles/3767174",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时15分 ~ 17时35分]"
         },
         {
           "title": "美以伊战争｜特朗普吹上了：帮中国通过海峡，很荣幸",
@@ -113,8 +125,8 @@
           "time_info": "[13时42分 ~ 14时42分]"
         },
         {
-          "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
-          "url": "https://wallstreetcn.com/articles/3767174",
+          "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
+          "url": "https://wallstreetcn.com/articles/3767189",
           "source": "华尔街见闻",
           "ranks": [
             8,
@@ -122,7 +134,7 @@
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时15分 ~ 16时32分]"
+          "time_info": "[12时04分 ~ 17时35分]"
         },
         {
           "title": "美以伊战争｜伊朗在霍尔木兹海峡布雷，特朗普回应",
@@ -136,16 +148,16 @@
           "time_info": "[05时24分 ~ 06时21分]"
         },
         {
-          "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
-          "url": "https://wallstreetcn.com/articles/3767189",
+          "title": "特朗普：有可能有条件同伊朗谈判！美防长称发起“最高强度”打击！伊议长：绝不寻求停火",
+          "url": "https://wallstreetcn.com/articles/3767165",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            7
+            9,
+            10
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[12时04分 ~ 16时32分]"
+          "time_info": "[09时15分 ~ 17时35分]"
         },
         {
           "title": "美国能源部长：特朗普总统在对伊朗的军事行动中维持全球能源稳定。美国海军成功护送一艘油轮通过霍尔木兹海峡，以确保石油持续流入全球市场。",
@@ -168,18 +180,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
-        },
-        {
-          "title": "特朗普：有可能有条件同伊朗谈判！美防长称发起“最高强度”打击！伊议长：绝不寻求停火",
-          "url": "https://wallstreetcn.com/articles/3767165",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时15分 ~ 16时32分]"
         },
         {
           "title": "特朗普预计将于本周晚些时候发布行政令，正式切断与Anthropic的业务往来。（CBS）",
@@ -317,7 +317,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -490,7 +490,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "美国希望停火？伊朗的条件是什么？伊朗发言人答凤凰问",
@@ -551,6 +551,17 @@
           "time_info": "[00时28分 ~ 07时21分]"
         },
         {
+          "title": "机构韧性与技术霸权双重加持 美国市场在伊朗战火中重拾定价权",
+          "url": "https://flash.jin10.com/detail/20260311171121596800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
           "title": "美国称正在升级对伊朗的战争，削弱了双方谈判的可能性",
           "url": "https://flash.jin10.com/detail/20260311004423730800",
           "source": "金十数据",
@@ -579,7 +590,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -846,8 +857,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时15分 ~ 16时32分]"
+          "appearance_count": 8,
+          "time_info": "[09时15分 ~ 17时35分]"
         },
         {
           "title": "美股收盘：油价暴跌超11% 三大指数涨跌不一 标普500小幅下跌",
@@ -1009,7 +1020,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -1039,7 +1050,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "现货白银失守87美元/盎司，日内跌幅1.53%。",
@@ -1096,6 +1107,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
+        },
+        {
+          "title": "国投白银LOF：3月12日开市起至当日10:30停牌",
+          "url": "https://wallstreetcn.com/livenews/3067969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少56.34吨，当前持仓量为15654.57吨。欢迎点击查看数据中心...",
@@ -1206,7 +1228,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         }
@@ -1256,8 +1278,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时15分 ~ 16时32分]"
+          "appearance_count": 8,
+          "time_info": "[09时15分 ~ 17时35分]"
         },
         {
           "title": "蔚来汽车总裁秦力洪：受包括存储芯片短缺在内的多重因素干扰，高端电动汽车今年成本或将上涨6000至1万元。",
@@ -1266,7 +1288,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         }
@@ -1287,6 +1309,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "有色",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "LME有色金属库存日报",
+          "url": "https://flash.jin10.com/detail/20260311170111357800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         }
       ]
     }
