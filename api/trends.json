@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T12:04:24.671453+08:00",
-  "total_titles_processed": 1059,
+  "generated_at": "2026-03-11T13:43:10.670177+08:00",
+  "total_titles_processed": 1164,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普：有可能有条件同伊朗谈判",
@@ -65,6 +65,18 @@
           "time_info": "[00时28分 ~ 06时21分]"
         },
         {
+          "title": "霍尔木兹危机升级！特朗普再度警告伊朗：若布雷，将遭空前打击",
+          "url": "https://www.cls.cn/detail/2309121",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时04分 ~ 13时43分]"
+        },
+        {
           "title": "美以伊战争｜伊朗在霍尔木兹海峡布雷，特朗普回应",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -74,6 +86,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 06时21分]"
+        },
+        {
+          "title": "美以伊战争｜特朗普吹上了：帮中国通过海峡，很荣幸",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
+        },
+        {
+          "title": "特朗普搅局前，中国狂囤石油，“太明智了”",
+          "url": "https://news.ifeng.com/c/8rP5MhiF7B8",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
         },
         {
           "title": "美国能源部长：特朗普总统在对伊朗的军事行动中维持全球能源稳定。美国海军成功护送一艘油轮通过霍尔木兹海峡，以确保石油持续流入全球市场。",
@@ -98,15 +132,16 @@
           "time_info": "07时21分"
         },
         {
-          "title": "霍尔木兹危机升级！特朗普再度警告伊朗：若布雷，将遭空前打击",
-          "url": "https://www.cls.cn/detail/2309121",
-          "source": "财联社热门",
+          "title": "特朗普政府成“波动之源”，油价又坐一次“过山车”",
+          "url": "https://wallstreetcn.com/articles/3767194",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            6,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时04分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时04分 ~ 13时43分]"
         },
         {
           "title": "特朗普预计将于本周晚些时候发布行政令，正式切断与Anthropic的业务往来。（CBS）",
@@ -130,8 +165,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时15分 ~ 12时04分]"
+          "appearance_count": 4,
+          "time_info": "[09时15分 ~ 13时43分]"
+        },
+        {
+          "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
+          "url": "https://wallstreetcn.com/articles/3767189",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时04分 ~ 13时43分]"
         },
         {
           "title": "美国白宫：特朗普并未排除地面部队的选项。",
@@ -218,17 +264,6 @@
           "time_info": "[04时34分 ~ 05时24分]"
         },
         {
-          "title": "特朗普政府成“波动之源”，油价又坐一次“过山车”",
-          "url": "https://wallstreetcn.com/articles/3767194",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时04分"
-        },
-        {
           "title": "美国白宫：特朗普“不排除”在战争中采取任何行动，包括派遣地面部队",
           "url": "https://flash.jin10.com/detail/20260311025134776800",
           "source": "金十数据",
@@ -238,17 +273,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时34分"
-        },
-        {
-          "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
-          "url": "https://wallstreetcn.com/articles/3767189",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时04分"
         },
         {
           "title": "如何应对特朗普？收下这本“懂王交易手册”",
@@ -441,7 +465,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "美国希望停火？伊朗的条件是什么？伊朗发言人答凤凰问",
@@ -629,6 +653,17 @@
           "time_info": "07时21分"
         },
         {
+          "title": "据伊朗Defapress新闻：伊朗武装部队发言人谢卡尔奇誓言，将对以色列和美国袭击伊朗居民区的行为予以报复。",
+          "url": "https://flash.jin10.com/detail/20260311125734631800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
           "title": "美国要求以色列停止对伊朗能源基础设施的打击。",
           "url": "https://flash.jin10.com/detail/20260311022625885800",
           "source": "金十数据",
@@ -646,7 +681,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         },
@@ -753,8 +788,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时15分 ~ 12时04分]"
+          "appearance_count": 4,
+          "time_info": "[09时15分 ~ 13时43分]"
         },
         {
           "title": "美股收盘：油价暴跌超11% 三大指数涨跌不一 标普500小幅下跌",
@@ -766,8 +801,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时21分 ~ 12时04分]"
+          "appearance_count": 5,
+          "time_info": "[07时21分 ~ 13时43分]"
         },
         {
           "title": "“护航”乌龙消息搅动市场，原油“过山车”行情，美股冲高回落，新兴市场外汇指数大涨",
@@ -935,8 +970,19 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "现货白银失守87美元/盎司，日内跌幅1.53%。",
+          "url": "https://flash.jin10.com/detail/20260311133134569800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
         {
           "title": "上海黄金交易所黄金T+D 3月11日（周三）早盘盘初上涨0.87%报1156.0元/克；<br/>上海黄金交易所白银T+D 3月11日（周三）早盘盘初上涨0.62%报22400.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260311090229539800",
@@ -986,7 +1032,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金十图示：2026年03月11日（周三）富时中国A50指数成分股午盘收盘行情一览：银行、保险等板块全线飘红，白酒、半导体等板块涨跌分化",
@@ -995,9 +1041,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
+        },
+        {
+          "title": "华虹集团投资成立半导体公司",
+          "url": "https://wallstreetcn.com/livenews/3067801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
         },
         {
           "title": "道琼斯日内涨幅达1.0%，报48218.23点。 标普500指数涨0.7%，纳指涨207点涨幅0.9%。 半导体指数涨2.6%，银行指数涨1.8%。",
@@ -1029,7 +1086,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         }
@@ -1095,8 +1152,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时15分 ~ 12时04分]"
+          "appearance_count": 4,
+          "time_info": "[09时15分 ~ 13时43分]"
         }
       ]
     }
