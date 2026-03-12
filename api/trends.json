@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-03-13T06:18:44.228635+08:00",
-  "total_titles_processed": 604,
+  "generated_at": "2026-03-13T07:21:26.415388+08:00",
+  "total_titles_processed": 649,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "中方回应特朗普计划访华",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A1%E5%88%92%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时52分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时52分 ~ 07时21分]"
         },
         {
           "title": "特朗普称对伊朗军事行动“即将结束”，暗示或打击更多目标，伊方警告美或陷入长期耗损战",
@@ -38,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时52分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时52分 ~ 07时21分]"
         },
         {
           "title": "中方回应特朗普计划访华",
@@ -49,8 +50,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时52分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时52分 ~ 07时21分]"
         },
         {
           "title": "美国总统特朗普：美联储主席“杰罗姆·太晚·鲍威尔”今天在哪里？他应该立刻降息，而不是等下一次会议。",
@@ -156,6 +157,17 @@
           "time_info": "05时33分"
         },
         {
+          "title": "释新闻｜特朗普为何改口批准释放石油储备？对平抑油价有多大用处？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32752905",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
           "title": "美国总统特朗普：已全面听取关于密歇根犹太会堂袭击事件的简报。",
           "url": "https://flash.jin10.com/detail/20260313042248877800",
           "source": "金十数据",
@@ -236,7 +248,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "伊朗伊斯兰革命卫队称袭击美国油轮",
@@ -246,19 +258,31 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时52分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时52分 ~ 07时21分]"
         },
         {
           "title": "伊朗袭击美国油轮 火光冲天",
           "url": "https://www.toutiao.com/trending/7616332350032514586/",
           "source": "今日头条",
           "ranks": [
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时52分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时52分 ~ 07时21分]"
+        },
+        {
+          "title": "美媒：全世界都看到美国无法拿下伊朗",
+          "url": "https://news.ifeng.com/c/8rRVRa01b3B",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         },
         {
           "title": "美国财长贝森特声称：伊朗冲突过后，美国（经济）增速将达到3%。",
@@ -266,11 +290,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            10
+            10,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时33分 ~ 06时18分]"
+          "appearance_count": 3,
+          "time_info": "[05时33分 ~ 07时21分]"
         },
         {
           "title": "美国财长贝森特告诉英国天空新闻：认为与英国的的关系将重返正轨。 英美两国首脑的关系将重返正轨。 英美两国有一个伟大的历史关系。 （被问及与美国和以色列袭击伊朗相关的长期金融成本）不足为虑。 （关于俄罗斯从出口石油给印度获得的好处）希望那只是微不足道的利益。",
@@ -278,11 +303,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            12
+            12,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时33分 ~ 06时18分]"
+          "appearance_count": 3,
+          "time_info": "[05时33分 ~ 07时21分]"
         },
         {
           "title": "美国抵押贷款利率创最近11个月最大升幅，伊朗战争推高通胀风险",
@@ -314,11 +340,36 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            14
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时33分 ~ 07时21分]"
+        },
+        {
+          "title": "美国财长贝森特：我们知道伊朗并没有在霍尔木兹海峡进行布雷。",
+          "url": "https://flash.jin10.com/detail/20260313052801304800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时33分 ~ 06时18分]"
+          "time_info": "[06时18分 ~ 07时21分]"
+        },
+        {
+          "title": "美国财长贝森特：伊朗冲突过后，美国（经济）增速将达到3%。",
+          "url": "https://flash.jin10.com/detail/20260313052237475800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时21分]"
         },
         {
           "title": "伊朗：对美国第五舰队基地发动猛烈打击",
@@ -352,28 +403,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
-        },
-        {
-          "title": "美国财长贝森特：我们知道伊朗并没有在霍尔木兹海峡进行布雷。",
-          "url": "https://flash.jin10.com/detail/20260313052801304800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "美国财长贝森特：伊朗冲突过后，美国（经济）增速将达到3%。",
-          "url": "https://flash.jin10.com/detail/20260313052237475800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
         },
         {
           "title": "伊朗最高领袖穆杰塔巴：我建议地区国家的领导人尽快关闭那些美国基地，因为他们现在肯定已经意识到，美国所声称的安全保障与和平不过是谎言。",
@@ -486,6 +515,18 @@
           "time_info": "[04时36分 ~ 05时33分]"
         },
         {
+          "title": "美股收盘：伊朗战事升级引发抛售潮 三大指数均跌逾1.5%",
+          "url": "https://www.cls.cn/detail/2311450",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时21分]"
+        },
+        {
           "title": "美股收盘：纳指跌1.7% 芯片股走弱",
           "url": "https://flash.jin10.com/detail/20260313040117943800",
           "source": "金十数据",
@@ -503,11 +544,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            15
+            15,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时33分 ~ 06时18分]"
+          "appearance_count": 3,
+          "time_info": "[05时33分 ~ 07时21分]"
         },
         {
           "title": "航空业ETF收跌约4%，与半导体ETF领跌美股行业ETF",
@@ -546,17 +588,6 @@
           "time_info": "[05时33分 ~ 06时18分]"
         },
         {
-          "title": "美股收盘：伊朗战事升级引发抛售潮 三大指数均跌逾1.5%",
-          "url": "https://www.cls.cn/detail/2311450",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
           "title": "金十图示：2026年03月12日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260313003325589800",
           "source": "金十数据",
@@ -588,6 +619,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "通胀降温难敌油市恐慌，美股承压、美债遭挫，美元重回99关口，白银下挫3%",
+          "url": "https://wallstreetcn.com/articles/3767236",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时52分 ~ 07时21分]"
+        },
+        {
+          "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，日元暴跌300点，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3767295",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "两年期美债收益率涨10个基点，突破3.76%",
+          "url": "https://wallstreetcn.com/livenews/3069119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时38分 ~ 04时36分]"
         }
       ]
     },
@@ -633,32 +705,42 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 2,
+      "keyword_group": "半导体",
+      "match_count": 3,
       "titles": [
         {
-          "title": "通胀降温难敌油市恐慌，美股承压、美债遭挫，美元重回99关口，白银下挫3%",
-          "url": "https://wallstreetcn.com/articles/3767236",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时52分 ~ 06时18分]"
-        },
-        {
-          "title": "两年期美债收益率涨10个基点，突破3.76%",
-          "url": "https://wallstreetcn.com/livenews/3069119",
+          "title": "日本最大的氦气供应商岩谷产业（Iwatani）表示，到目前为止，它对包括半导体制造商在内的客户保持了稳定供应，部分原因是其货源也来自美国，并在美日两地均有库存。",
+          "url": "https://wallstreetcn.com/livenews/3069196",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            23
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "据知情人士透露，格罗方德半导体（格芯）股票销售获得四倍超额认购。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3069091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时38分 ~ 04时36分]"
+          "time_info": "[03时15分 ~ 03时38分]"
+        },
+        {
+          "title": "标普500指数收跌103.18点，跌幅1.52%，报6672.62点。 道琼斯工业平均指数收跌739.42点，跌幅1.56%，报46677.85点。 纳斯达克综合指数（纳指）收跌404.155点，跌幅1.78%，报22311.979点。 纳斯达克100指数收跌431.423点，跌幅1.73%，报24533.583点。 费城半导体指数收跌3.43%，报7643.173点。 费城证交所KBW银行指数收跌2.47%，报148.20点。 道琼斯KBW地区银行指数收跌0.56%，报122.72点，跳空低开之后逐步收复失地，北京时间23:39以来持续“高位”震荡。 纳斯达克生物科技指数收跌2.69%，报5746.24点。",
+          "url": "https://wallstreetcn.com/livenews/3069135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时36分"
         }
       ]
     },
@@ -689,35 +771,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "据知情人士透露，格罗方德半导体（格芯）股票销售获得四倍超额认购。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3069091",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 03时38分]"
-        },
-        {
-          "title": "标普500指数收跌103.18点，跌幅1.52%，报6672.62点。 道琼斯工业平均指数收跌739.42点，跌幅1.56%，报46677.85点。 纳斯达克综合指数（纳指）收跌404.155点，跌幅1.78%，报22311.979点。 纳斯达克100指数收跌431.423点，跌幅1.73%，报24533.583点。 费城半导体指数收跌3.43%，报7643.173点。 费城证交所KBW银行指数收跌2.47%，报148.20点。 道琼斯KBW地区银行指数收跌0.56%，报122.72点，跳空低开之后逐步收复失地，北京时间23:39以来持续“高位”震荡。 纳斯达克生物科技指数收跌2.69%，报5746.24点。",
-          "url": "https://wallstreetcn.com/livenews/3069135",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
         }
       ]
     },
