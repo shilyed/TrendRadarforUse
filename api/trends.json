@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T21:58:57.772090+08:00",
-  "total_titles_processed": 1946,
+  "generated_at": "2026-03-12T22:48:38.687588+08:00",
+  "total_titles_processed": 2042,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 83,
+      "match_count": 85,
       "titles": [
         {
           "title": "特朗普称对伊朗军事行动“即将结束”，暗示或打击更多目标，伊方警告美或陷入长期耗损战",
@@ -17,19 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[06时20分 ~ 21时58分]"
-        },
-        {
-          "title": "美以伊战争｜特朗普：与伊朗的战争很快就会结束",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时42分 ~ 06时21分]"
+          "appearance_count": 18,
+          "time_info": "[06时20分 ~ 22时48分]"
         },
         {
           "title": "特朗普称将对包括中国在内的贸易伙伴启动新的贸易调查，中方回应",
@@ -43,8 +32,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时34分 ~ 22时48分]"
+        },
+        {
+          "title": "美以伊战争｜特朗普：与伊朗的战争很快就会结束",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[16时34分 ~ 21时58分]"
+          "time_info": "[00时42分 ~ 06时21分]"
         },
         {
           "title": "伊媒：特朗普向多国盟友求援遭拒，仅1国考虑帮忙",
@@ -69,8 +69,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时08分 ~ 21时58分]"
+          "appearance_count": 14,
+          "time_info": "[12时08分 ~ 22时48分]"
         },
         {
           "title": "中方回应特朗普将对华新贸易调查",
@@ -117,8 +117,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时32分 ~ 21时58分]"
+          "appearance_count": 6,
+          "time_info": "[18时32分 ~ 22时48分]"
         },
         {
           "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
@@ -389,6 +389,18 @@
           "time_info": "[09时15分 ~ 14时44分]"
         },
         {
+          "title": "中方回应特朗普计划访华",
+          "url": "https://www.toutiao.com/trending/7615267437721780267/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时40分 ~ 22时48分]"
+        },
+        {
           "title": "特朗普称对伊朗军事行动“即将结束”，暗示可能打击更多目标，伊方警告美或陷入长期耗损战",
           "url": "https://wallstreetcn.com/articles/3767268",
           "source": "华尔街见闻",
@@ -411,18 +423,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时26分 ~ 07时19分]"
-        },
-        {
-          "title": "中方回应特朗普计划访华",
-          "url": "https://www.toutiao.com/trending/7615267437721780267/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 21时58分]"
         },
         {
           "title": "特朗普称美国已击沉28艘伊朗布雷船",
@@ -828,6 +828,17 @@
           "time_info": "06时21分"
         },
         {
+          "title": "美国总统特朗普的司法部提交诉讼，要求阻止加州的电动汽车政策。",
+          "url": "https://wallstreetcn.com/livenews/3068989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
           "title": "特朗普再次威胁将切断与西班牙贸易往来",
           "url": "https://flash.jin10.com/detail/20260312024400952800",
           "source": "金十数据",
@@ -848,6 +859,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
+        },
+        {
+          "title": "美国能源部长赖特：美国总统特朗普担心短期内能源价格走高。",
+          "url": "https://flash.jin10.com/detail/20260312220842654800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "周三（3月11日，美国CPI通胀数据发布日），降息赢家指数跌1.08%，报89.96点，主要低位窄幅震荡。 “特朗普关税输家”指数跌1.10%，“特朗普金融指数”跌0.53%。 散户抱团概念股指数/迷因股（meme stock）指数涨0.80%。",
@@ -1086,11 +1108,12 @@
             7,
             6,
             14,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时32分 ~ 21时58分]"
+          "appearance_count": 6,
+          "time_info": "[18时32分 ~ 22时48分]"
         },
         {
           "title": "伊朗伊斯兰革命卫队称袭击美国油轮",
@@ -1100,8 +1123,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时32分 ~ 21时58分]"
+          "appearance_count": 6,
+          "time_info": "[18时32分 ~ 22时48分]"
         },
         {
           "title": "美国渲染“伊朗威胁”",
@@ -1128,6 +1151,31 @@
           "time_info": "[18时32分 ~ 19时28分]"
         },
         {
+          "title": "伊朗袭击美国油轮 火光冲天",
+          "url": "https://www.toutiao.com/trending/7616332350032514586/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时40分 ~ 22时48分]"
+        },
+        {
+          "title": "伊朗称袭击美国油轮",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E7%A7%B0%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%9B%BD%E6%B2%B9%E8%BD%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时40分 ~ 22时48分]"
+        },
+        {
           "title": "美国情报显示伊朗政府没有崩溃风险",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%83%85%E6%8A%A5%E6%98%BE%E7%A4%BA%E4%BC%8A%E6%9C%97%E6%94%BF%E5%BA%9C%E6%B2%A1%E6%9C%89%E5%B4%A9%E6%BA%83%E9%A3%8E%E9%99%A9",
           "source": "百度热搜",
@@ -1138,30 +1186,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时45分 ~ 15时42分]"
-        },
-        {
-          "title": "伊朗称袭击美国油轮",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E7%A7%B0%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%9B%BD%E6%B2%B9%E8%BD%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 21时58分]"
-        },
-        {
-          "title": "伊朗袭击美国油轮 火光冲天",
-          "url": "https://www.toutiao.com/trending/7616332350032514586/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 21时58分]"
         },
         {
           "title": "美国伊朗冲突",
@@ -1335,7 +1359,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "“护航”乌龙消息搅动市场，原油“过山车”，美股冲高回落，新兴市场外汇大涨",
@@ -1385,6 +1409,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时42分 ~ 12时08分]"
+        },
+        {
+          "title": "伊朗威胁关闭霍尔木兹，美股三大股指低开，现货黄金短线下挫，油价重返100美元",
+          "url": "https://wallstreetcn.com/articles/3767295",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "周四亚太盘初，美国股指期货跌0.3%，摩根士丹利限制私人信用基金的赎回。 摩根士丹利美股盘后跌0.55%。",
@@ -1453,7 +1488,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
         },
@@ -1464,7 +1499,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
         },
@@ -1475,9 +1510,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
+        },
+        {
+          "title": "美股三大指数集体低开 纳指跌0.9%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E7%BA%B3%E6%8C%87%E8%B7%8C0.9%25",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "周三（3月11日），存储芯片与硬件供应链指数涨2.35%，报108.45点，美股盘初持续上涨，北京时间22:00以来持续高位窄幅震荡。 成分股Sandisk收涨5.90%，美光科技、Rambus至多涨3.86%，拉姆研究、应用材料至多涨1.69%，西部数据、希捷科技、泰瑞达TER至多涨0.97%。 信息科技指数涨1.51%，人工智能（AI）赢家指数涨1.43%，AI软件先驱指数涨0.97%。 北美科技软件股指数ETF收涨0.11%。",
@@ -1552,7 +1598,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
         },
@@ -1607,7 +1653,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
         },
@@ -1787,7 +1833,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
         },
@@ -1856,8 +1902,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时19分 ~ 21时58分]"
+          "appearance_count": 16,
+          "time_info": "[07时19分 ~ 22时48分]"
         },
         {
           "title": "30年期美债收益率涨7个基点，美国CPI数据带来瞬间的干扰",
