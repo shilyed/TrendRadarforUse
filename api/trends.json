@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-14T03:28:03.932001+08:00",
-  "total_titles_processed": 492,
+  "generated_at": "2026-03-14T04:26:18.071591+08:00",
+  "total_titles_processed": 552,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 29,
       "titles": [
         {
           "title": "草台班子？特朗普政府低估伊朗决心，让人目瞪口呆",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 03时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 04时26分]"
         },
         {
           "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 03时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 04时26分]"
         },
         {
           "title": "以色列总统称特朗普攻击国家主权",
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 03时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 04时26分]"
         },
         {
           "title": "特朗普没料到，能拦截油轮的，除了伊朗还有一个资本财团",
@@ -48,8 +48,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 03时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 04时26分]"
         },
         {
           "title": "特朗普访华后将签署美国对台一揽子军售方案？外交部回应",
@@ -60,8 +60,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 03时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 04时26分]"
         },
         {
           "title": "欧盟外长高呼“团结对抗特朗普”，业界先哑火了",
@@ -71,8 +71,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 03时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 04时26分]"
         },
         {
           "title": "美国参议员蒂利斯表示，特朗普政府若就美联储主席鲍威尔的裁决提出上诉，只会推迟确认凯文·沃什出任下一任美联储主席。",
@@ -81,18 +81,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "美国总统特朗普签署关于降低住房监管的命令。 前述关于减少抵押贷款监管的命令。（美联社）",
-          "url": "https://wallstreetcn.com/livenews/3069986",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
         },
@@ -108,6 +97,18 @@
           "time_info": "01时29分"
         },
         {
+          "title": "美国总统特朗普签署关于降低住房监管的命令。 前述关于减少抵押贷款监管的命令。（美联社）",
+          "url": "https://wallstreetcn.com/livenews/3069986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时28分 ~ 04时26分]"
+        },
+        {
           "title": "特朗普：美军下周将“猛烈空袭”伊朗，拒绝谈论“夺岛”，不需要乌克兰的反无人机技术",
           "url": "https://wallstreetcn.com/livenews/3069964",
           "source": "华尔街见闻-快讯",
@@ -120,15 +121,81 @@
           "time_info": "[02时32分 ~ 03时28分]"
         },
         {
+          "title": "美国参议院民主党成员Warren：只要特朗普政府没有撤销鲍威尔调查，参议院就不会审议凯文·沃什的美联储主席提名资格。",
+          "url": "https://wallstreetcn.com/livenews/3069995",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "美国总统特朗普放松对委内瑞拉石油和化肥的制裁。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3069994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "特朗普放松对委内瑞拉石油和化肥的制裁 以缓解美国通胀压力",
+          "url": "https://flash.jin10.com/detail/20260314040738808800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "美国联邦住房金融局（FHFA）局长Bill Pulte：总统特朗普让社区银行可以染指抵押贷款。",
+          "url": "https://wallstreetcn.com/livenews/3069993",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "AT&T(T.N)首席执行官斯坦基本周早些时候与特朗普会面。",
+          "url": "https://flash.jin10.com/detail/20260314040328220800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
           "title": "美国联邦法官还表示，特朗普政府非法依赖有关资助消费者金融保护局的法律备忘录。",
           "url": "https://flash.jin10.com/detail/20260314025354973800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        },
+        {
+          "title": "美国检察官：特朗普政府将对法官的美联储传票判决结果提起上诉",
+          "url": "https://wallstreetcn.com/livenews/3069990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         },
         {
           "title": "美国法官命令特朗普政府继续为消费者监管机构申请资金。",
@@ -137,9 +204,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        },
+        {
+          "title": "美国参议员汤姆·蒂利斯（Thom Tillis）：联邦法官针对美联储的判决结果证明，特朗普政府对美联储主席鲍威尔挑起的刑事调查是软弱的。 如果特朗普政府提出上诉，对美联储主席提名人凯文·沃什资格的确认将被推后。",
+          "url": "https://wallstreetcn.com/livenews/3069987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         },
         {
           "title": "美国总统特朗普周五在华盛顿会见韩国总理。",
@@ -148,7 +226,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
         },
@@ -164,13 +242,24 @@
           "time_info": "00时32分"
         },
         {
+          "title": "美国法官暂时阻止美国总统特朗普政府终止对近1100名索马里人的驱逐出境保护措施。",
+          "url": "https://flash.jin10.com/detail/20260314035621052800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
           "title": "特朗普称美军下周将“猛烈空袭”伊朗 拒绝谈论“夺岛”",
           "url": "https://flash.jin10.com/detail/20260314023328148800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
         },
@@ -184,6 +273,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "美国总统特朗普放松对委内瑞拉石油和化肥的制裁，以减轻伊朗战争造成的成本。",
+          "url": "https://flash.jin10.com/detail/20260314035038872800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "美国联邦住房金融局局长Pulte：特朗普正在释放社区银行以提供抵押贷款。",
+          "url": "https://flash.jin10.com/detail/20260314034917662800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "美国白宫：美国总统特朗普签署命令，调整《国防生产法》下的某些授权。",
+          "url": "https://flash.jin10.com/detail/20260314034539989800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         },
         {
           "title": "Cameco Corp一度下跌8.9%，Energy Fuels Inc.一度下跌4.4%，特朗普称目前重点不在于获取伊朗铀材料。",
@@ -211,7 +333,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "伊朗：袭击“林肯”号航母，已致其失去作战能力返回美国！美方：击中靠近航母的伊朗船只，“海军多次炮击不中，直升机射导弹命中”",
@@ -221,8 +343,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 03时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 04时26分]"
         },
         {
           "title": "伊朗称袭击「林肯」号航母已致其失去作战能力，返回美国，是真的吗？「林肯」号航母对战局影响有多大？",
@@ -230,11 +352,36 @@
           "source": "知乎",
           "ranks": [
             20,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 03时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 04时26分]"
+        },
+        {
+          "title": "伊朗放话继续封锁霍尔木兹后美国坐不住：财长称情况允许时尽快护航，能源部长称可能本月",
+          "url": "https://wallstreetcn.com/articles/3767378",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时29分 ~ 04时26分]"
+        },
+        {
+          "title": "FBI警告伊朗或突袭美国本土",
+          "url": "https://s.weibo.com/weibo?q=%23FBI%E8%AD%A6%E5%91%8A%E4%BC%8A%E6%9C%97%E6%88%96%E7%AA%81%E8%A2%AD%E7%BE%8E%E5%9B%BD%E6%9C%AC%E5%9C%9F%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            29,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时29分 ~ 04时26分]"
         },
         {
           "title": "伊朗当局逮捕了14名与美国和以色列有关联的“关键人物”，指控他们意图“制造动乱、骚乱和进行反安全活动”。",
@@ -243,7 +390,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
         },
@@ -259,38 +406,16 @@
           "time_info": "02时32分"
         },
         {
-          "title": "伊朗放话继续封锁霍尔木兹后美国坐不住：财长称情况允许时尽快护航，能源部长称可能本月",
-          "url": "https://wallstreetcn.com/articles/3767378",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时29分 ~ 03时28分]"
-        },
-        {
-          "title": "FBI警告伊朗或突袭美国本土",
-          "url": "https://s.weibo.com/weibo?q=%23FBI%E8%AD%A6%E5%91%8A%E4%BC%8A%E6%9C%97%E6%88%96%E7%AA%81%E8%A2%AD%E7%BE%8E%E5%9B%BD%E6%9C%AC%E5%9C%9F%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时29分 ~ 03时28分]"
-        },
-        {
           "title": "摩根大通与Partners Group Holdings AG因（美国和以色列挑起的）伊朗战争而取消阿联酋活动。",
           "url": "https://wallstreetcn.com/livenews/3069978",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时28分 ~ 04时26分]"
         },
         {
           "title": "白宫新闻秘书莱维特：美国现在的石油和天然气产量创历史新高。创纪录的美国石油生产为应对伊朗的干扰提供了保障。",
@@ -310,9 +435,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        },
+        {
+          "title": "据三位美国官员透露，约有5000名美国海军陆战队员和水兵正部署到中东，支援伊朗行动。",
+          "url": "https://flash.jin10.com/detail/20260314035534902800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "视频显示，美国制造的发射装置从巴林向伊朗发射导弹。",
+          "url": "https://flash.jin10.com/detail/20260314035316268800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         },
         {
           "title": "美国白宫：伊朗的全部弹道导弹能力已被基本摧毁。伊朗海军被评估为丧失作战能力。美国对伊朗拥有压倒性的空中优势。",
@@ -329,8 +476,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "金十图示：2026年03月13日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260314040823519800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
         {
           "title": "美股三大指数集体高开 百度涨超2%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%852%25",
@@ -343,6 +501,17 @@
           "time_info": "[00时31分 ~ 01时29分]"
         },
         {
+          "title": "金十图示：2026年03月13日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260314040819364800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
           "title": "美股延续跌势，纳斯达克指数下跌1.00%。",
           "url": "https://flash.jin10.com/detail/20260314015012456800",
           "source": "金十数据",
@@ -352,6 +521,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
+        },
+        {
+          "title": "美股高开低收，道指初步收跌0.25%、标普500指数跌0.6%、纳指跌0.93%。部分明星科技股走软，Adobe(ADBE.O)跌7.5%、Meta Platforms(META.O)跌3.8%、博通(AVGO.O)跌4.1%。纳斯达克中国金龙指数收涨0.75%。",
+          "url": "https://flash.jin10.com/detail/20260314040028174800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         },
         {
           "title": "金十图示：2026年03月13日（周五）美股热门股票行情一览（美股盘中）",
@@ -379,7 +559,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "现货白银日内跌5.00%，现报79.69美元/盎司。",
@@ -404,6 +584,17 @@
           "time_info": "00时32分"
         },
         {
+          "title": "美国商品期货交易委员会（CFTC）：3月10日当周，投机者所持COMEX黄金净多头头寸增加1,381手合约，至102,236手合约，创六周新高。 所持COMEX白银净多头头寸创七个月新高，所持COMEX铜净多头头寸创五个月新低。 所持NYMEX铂金净多头头寸创八周新高，所持NYMEX钯金净多头头寸创六周新低。",
+          "url": "https://wallstreetcn.com/livenews/3069989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
           "title": "现货白银日内跌超4.00%，现报80.52美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260313234320780800",
           "source": "金十数据",
@@ -421,9 +612,49 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "布油破百引爆通胀担忧，全球股市普跌，美元指数重回100关口，日元创20个月新低",
+          "url": "https://wallstreetcn.com/articles/3767392",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 04时26分]"
+        },
+        {
+          "title": "彭博美元现货指数创2026年收盘新高。",
+          "url": "https://wallstreetcn.com/livenews/3070004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "美元指数收盘价创年内新高。",
+          "url": "https://flash.jin10.com/detail/20260314040234290800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         }
       ]
     },
@@ -440,8 +671,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 03时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 04时26分]"
         },
         {
           "title": "美国三大股指悉数转跌，标普500指数跌超0.2%，纳指跌0.5%，半导体指数涨0.4%，银行指数涨0.2%，小盘股指跌超0.1%。",
@@ -468,26 +699,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 03时28分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "布油破百引爆通胀担忧，全球股市普跌，美元指数重回100关口，日元创20个月新低",
-          "url": "https://wallstreetcn.com/articles/3767392",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 03时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 04时26分]"
         }
       ]
     }
