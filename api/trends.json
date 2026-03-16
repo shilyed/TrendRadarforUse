@@ -1,12 +1,57 @@
 {
-  "generated_at": "2026-03-17T04:31:42.079258+08:00",
-  "total_titles_processed": 487,
+  "generated_at": "2026-03-17T05:32:07.520833+08:00",
+  "total_titles_processed": 545,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 59,
       "titles": [
+        {
+          "title": "外交部回应特朗普将推迟访华言论，「双方就特朗普总统访华事宜保持着沟通」，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2016900692145637068",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 05时32分]"
+        },
+        {
+          "title": "特朗普会投入地面部队吗？",
+          "url": "https://news.ifeng.com/c/8rXXAfLW18s",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 05时32分]"
+        },
+        {
+          "title": "外交部：中美双方就特朗普总统访华事保持着沟通",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32776754",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 05时32分]"
+        },
+        {
+          "title": "特朗普，赚了近100亿",
+          "url": "https://news.ifeng.com/c/8rXsIKxSU6H",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 05时32分]"
+        },
         {
           "title": "美以伊战争丨特朗普求护航，德国：这不是北约的战争",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
@@ -19,49 +64,49 @@
           "time_info": "[01时02分 ~ 04时31分]"
         },
         {
-          "title": "外交部回应特朗普将推迟访华言论，「双方就特朗普总统访华事宜保持着沟通」，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2016900692145637068",
-          "source": "知乎",
+          "title": "特朗普强推“护航联盟”：不派舰，北约未来“非常糟糕”；日澳已拒绝",
+          "url": "https://wallstreetcn.com/articles/3767606",
+          "source": "华尔街见闻",
           "ranks": [
-            1,
-            2
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时31分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 05时32分]"
         },
         {
-          "title": "特朗普会投入地面部队吗？",
-          "url": "https://news.ifeng.com/c/8rXXAfLW18s",
+          "title": "特朗普点名多国参加护航霍尔木兹海峡，德法日韩：不去",
+          "url": "https://news.ifeng.com/c/8rXCGrQJNtV",
           "source": "凤凰网",
           "ranks": [
-            2
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时31分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 05时32分]"
         },
         {
-          "title": "外交部：中美双方就特朗普总统访华事保持着沟通",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32776754",
+          "title": "特朗普暗示袭击哈尔克岛石油设施",
+          "url": "https://flash.jin10.com/detail/20260317051712836800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
+          "title": "伊朗外长：从未请求停火或谈判，特朗普想“找乐子”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32775868",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时31分]"
-        },
-        {
-          "title": "特朗普，赚了近100亿",
-          "url": "https://news.ifeng.com/c/8rXsIKxSU6H",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时31分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 05时32分]"
         },
         {
           "title": "特朗普：打击哈尔克岛石油设施仍在备选方案中",
@@ -97,38 +142,26 @@
           "time_info": "03时50分"
         },
         {
-          "title": "特朗普强推“护航联盟”：不派舰，北约未来“非常糟糕”；日澳已拒绝",
-          "url": "https://wallstreetcn.com/articles/3767606",
-          "source": "华尔街见闻",
+          "title": "万斯称支持特朗普对伊行动 批评媒体挑拨关系",
+          "url": "https://flash.jin10.com/detail/20260317050625478800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            6
+            3
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
         },
         {
-          "title": "特朗普点名多国参加护航霍尔木兹海峡，德法日韩：不去",
-          "url": "https://news.ifeng.com/c/8rXCGrQJNtV",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：我认为我可以对古巴做任何事情，无论是让它自由，还是把它拿下。",
+          "url": "https://flash.jin10.com/detail/20260317050036634800",
+          "source": "金十数据",
           "ranks": [
-            9
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时31分]"
-        },
-        {
-          "title": "伊朗外长：从未请求停火或谈判，特朗普想“找乐子”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32775868",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
         },
         {
           "title": "中美就特朗普总统访华事保持着沟通",
@@ -137,11 +170,12 @@
           "ranks": [
             30,
             18,
-            22
+            22,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 04时31分]"
+          "appearance_count": 5,
+          "time_info": "[02时02分 ~ 05时32分]"
         },
         {
           "title": "美国总统特朗普：英国国王很快就要来美国。",
@@ -236,6 +270,28 @@
           "time_info": "02时02分"
         },
         {
+          "title": "美国总统特朗普宣称：最高法院的关税判决结果不会改变（自己挑起的）关税。 （最高法院否决之后）我从另外一个方面再次挑起关税。",
+          "url": "https://wallstreetcn.com/livenews/3071166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
+          "title": "美国总统特朗普：我确实认为我将有幸把古巴“拿下”。",
+          "url": "https://flash.jin10.com/detail/20260317045819803800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
           "title": "美国总统特朗普：美联储应立即召开特别会议降息。",
           "url": "https://flash.jin10.com/detail/20260317002907185800",
           "source": "金十数据",
@@ -245,6 +301,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "特朗普承认伊朗报复范围超出预期",
+          "url": "https://flash.jin10.com/detail/20260317045813169800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
         },
         {
           "title": "特朗普称美方已打击伊朗逾7000个目标",
@@ -324,6 +391,17 @@
           "time_info": "03时50分"
         },
         {
+          "title": "美国总统特朗普：最高法院关于关税的裁决不会改变关税政策。我会以不同的方式重新开始征收关税。",
+          "url": "https://flash.jin10.com/detail/20260317045000093800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
           "title": "特朗普：希望欧洲国家等协助保障霍尔木兹海峡安全",
           "url": "https://wallstreetcn.com/livenews/3071063",
           "source": "华尔街见闻-快讯",
@@ -390,6 +468,17 @@
           "time_info": "02时02分"
         },
         {
+          "title": "美国总统特朗普：战争很快就会结束，但不是这周。",
+          "url": "https://flash.jin10.com/detail/20260317044608983800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
           "title": "美国总统特朗普：各国理应乐于帮助我们。",
           "url": "https://flash.jin10.com/detail/20260317002306362800",
           "source": "金十数据",
@@ -423,6 +512,17 @@
           "time_info": "03时50分"
         },
         {
+          "title": "美国总统特朗普：我们并不清楚是否有任何水雷被布设在霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260317044201946800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
           "title": "美国总统特朗普：白宫幕僚长Wiles被诊断出早期乳腺癌。",
           "url": "https://wallstreetcn.com/livenews/3071041",
           "source": "华尔街见闻-快讯",
@@ -434,6 +534,17 @@
           "time_info": "01时02分"
         },
         {
+          "title": "美国总统特朗普宣称：我比几乎任何人都不希望发动战争。",
+          "url": "https://wallstreetcn.com/livenews/3071153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
           "title": "美国总统特朗普：我曾预言本·拉登会炸毁世贸中心。",
           "url": "https://flash.jin10.com/detail/20260317002249551800",
           "source": "金十数据",
@@ -443,6 +554,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "特朗普政府请求法官重新考虑阻止针对鲍威尔刑事调查的裁决",
+          "url": "https://flash.jin10.com/detail/20260317044129034800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
         },
         {
           "title": "美国总统特朗普：以色列不会使用核武器。",
@@ -511,6 +633,17 @@
           "time_info": "02时02分"
         },
         {
+          "title": "美国总统特朗普：将在“合适的时机”揭示哪些国家在提供帮助。",
+          "url": "https://flash.jin10.com/detail/20260317043657484800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
           "title": "美国总统特朗普：很多油轮船主不想冒风险。",
           "url": "https://flash.jin10.com/detail/20260317010535305800",
           "source": "金十数据",
@@ -520,12 +653,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "美国总统特朗普：（谈英国首相斯塔默）我告诉他，我们不需要你的航母。",
+          "url": "https://flash.jin10.com/detail/20260317043528007800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "霍尔木兹海峡现通航迹象，美股指高开，纳指涨1%，WTI原油日内跌幅达3%，现货黄金重回5000美元",
@@ -535,8 +679,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时31分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 05时32分]"
         },
         {
           "title": "金十图示：2026年03月16日（周一）美股热门股票行情一览（美股收盘）",
@@ -545,7 +689,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -556,7 +700,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -567,15 +711,26 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "航空业ETF收涨2.2%，领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3071150",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "6问美以伊战事走向：美国如何停战？伊朗是否会恋战？",
@@ -585,8 +740,30 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时31分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 05时32分]"
+        },
+        {
+          "title": "伊朗黑客出手！美国遭遇最严重的战时网络攻击",
+          "url": "https://news.ifeng.com/c/8rXqJcAsWfv",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 05时32分]"
+        },
+        {
+          "title": "【伊朗武装部队：若哈尔克岛设施遭袭，将进行果断有力回击】伊朗武装部队高级发言人谢卡尔希当地时间17日表示，近期美国官员及军方指挥官多次扬言要对哈尔克岛发动袭击和侵略。谢卡尔希代表伊朗武装部队和伊朗人民发出警告，倘若美国对哈尔克岛及其石油设施与枢纽实施任何侵略或攻击，伊朗的回应将是果断而有力的。 谢卡尔希表示，在这种情况下，所有发起针对哈尔克岛袭击行动国家的石油和天然气设施，都将成为伊朗武装部队的目标，并将遭到强力打击。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3071175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
         },
         {
           "title": "美国内政部长称：伊朗战争激发亚洲对进口美国能源的兴趣",
@@ -601,17 +778,6 @@
           "time_info": "[03时50分 ~ 04时31分]"
         },
         {
-          "title": "伊朗黑客出手！美国遭遇最严重的战时网络攻击",
-          "url": "https://news.ifeng.com/c/8rXqJcAsWfv",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时31分]"
-        },
-        {
           "title": "伊朗总统：美国利用在该地区的基地对抗伊朗，目的是破坏我们与邻国的关系，伊朗不会向霸凌者屈服。除非我们确保未来不再发生针对我国领土的袭击，否则（目前）谈论结束战争毫无意义。",
           "url": "https://flash.jin10.com/detail/20260317012609942800",
           "source": "金十数据",
@@ -621,6 +787,52 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数跌0.7%",
+          "url": "https://wallstreetcn.com/livenews/3071122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 04时31分]"
+        },
+        {
+          "title": "美元指数16日下跌",
+          "url": "https://flash.jin10.com/detail/20260317044815242800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价持稳于5000美元整数位心理关口附近，铂金、钯金涨约4%",
+          "url": "https://wallstreetcn.com/livenews/3071167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
         }
       ]
     },
@@ -643,20 +855,19 @@
       ]
     },
     {
-      "keyword_group": "美元",
+      "keyword_group": "半导体",
       "match_count": 1,
       "titles": [
         {
-          "title": "美元指数跌0.7%",
-          "url": "https://wallstreetcn.com/livenews/3071122",
+          "title": "纳指科技指数收涨约1.5%，半导体指数涨超1.9%",
+          "url": "https://wallstreetcn.com/livenews/3071138",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            20
+            28
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时50分 ~ 04时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
         }
       ]
     },
@@ -669,11 +880,12 @@
           "url": "https://wallstreetcn.com/livenews/3071136",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时31分 ~ 05时32分]"
         }
       ]
     }
