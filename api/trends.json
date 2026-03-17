@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-03-17T07:25:09.023774+08:00",
-  "total_titles_processed": 653,
+  "generated_at": "2026-03-17T09:21:32.975079+08:00",
+  "total_titles_processed": 810,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 71,
+      "match_count": 76,
       "titles": [
         {
           "title": "特朗普会投入地面部队吗？",
           "url": "https://news.ifeng.com/c/8rXXAfLW18s",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 07时25分]"
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 09时21分]"
         },
         {
           "title": "外交部回应特朗普将推迟访华言论，「双方就特朗普总统访华事宜保持着沟通」，哪些信息值得关注？",
@@ -25,22 +26,24 @@
           "ranks": [
             1,
             2,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 07时25分]"
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 09时21分]"
         },
         {
           "title": "外交部：中美双方就特朗普总统访华事保持着沟通",
           "url": "https://m.thepaper.cn/newsDetail_forward_32776754",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 07时25分]"
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 09时21分]"
         },
         {
           "title": "特朗普，赚了近100亿",
@@ -62,8 +65,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 07时25分]"
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 09时21分]"
+        },
+        {
+          "title": "伊朗外长：从未请求停火或谈判，特朗普想“找乐子”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32775868",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 09时21分]"
         },
         {
           "title": "特朗普点名多国参加护航霍尔木兹海峡，德法日韩：不去",
@@ -86,18 +102,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时02分 ~ 04时31分]"
-        },
-        {
-          "title": "伊朗外长：从未请求停火或谈判，特朗普想“找乐子”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32775868",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 07时25分]"
         },
         {
           "title": "中美就特朗普总统访华事保持着沟通",
@@ -169,6 +173,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
+        },
+        {
+          "title": "白宫官员：特朗普拒绝重启与伊朗谈判",
+          "url": "https://news.ifeng.com/c/8rYnLJ4bT0Q",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         },
         {
           "title": "特朗普暗示袭击哈尔克岛石油设施",
@@ -339,6 +354,28 @@
           "time_info": "[05时32分 ~ 06时25分]"
         },
         {
+          "title": "特朗普抱怨部分盟友不帮忙 并暗示将袭击哈尔克岛石油设施 | 环球市场",
+          "url": "https://www.cls.cn/detail/2314895",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "特朗普“三个很开心”，让全世界脊背发凉",
+          "url": "https://news.ifeng.com/c/8rYllPsJnfC",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
           "title": "油价缩减跌幅，布伦特原油一度转涨，消息面上，特朗普再次呼吁其他国家协助重新开放霍尔木兹海峡。",
           "url": "https://flash.jin10.com/detail/20260317003357598800",
           "source": "金十数据",
@@ -348,6 +385,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "特朗普“护航联盟”为何应者寥寥？美军真的会夺哈尔克岛吗｜907编辑部",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32777497",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         },
         {
           "title": "美国总统特朗普：英国国王很快就要来访。",
@@ -433,7 +481,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -482,6 +530,17 @@
           "time_info": "06时25分"
         },
         {
+          "title": "全球前瞻｜特朗普称将继续“猛烈空袭”伊朗，中美正探讨建立全新机制",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32776082",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
           "title": "美国总统特朗普：真主党一直是个问题。",
           "url": "https://flash.jin10.com/detail/20260317011359200800",
           "source": "金十数据",
@@ -510,7 +569,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -576,7 +635,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -653,7 +712,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -708,7 +767,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -814,80 +873,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "霍尔木兹海峡现通航迹象，美股指高开，纳指涨1%，WTI原油日内跌幅达3%，现货黄金重回5000美元",
-          "url": "https://wallstreetcn.com/articles/3767567",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时02分 ~ 06时25分]"
-        },
-        {
-          "title": "美股收盘：标普纳指均涨超1% 国际油价回落提振市场情绪",
-          "url": "https://www.cls.cn/detail/2314857",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时24分 ~ 07时25分]"
-        },
-        {
-          "title": "金十图示：2026年03月16日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260317040623869800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时31分"
-        },
-        {
-          "title": "金十图示：2026年03月16日（周一）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260317040621186800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时31分"
-        },
-        {
-          "title": "美股收盘：三大股指集体收涨 部分芯片股走强",
-          "url": "https://flash.jin10.com/detail/20260317040132511800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时31分"
-        },
-        {
-          "title": "航空业ETF收涨2.2%，领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3071150",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时32分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "6问美以伊战事走向：美国如何停战？伊朗是否会恋战？",
@@ -910,6 +897,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时02分 ~ 07时25分]"
+        },
+        {
+          "title": "美以伊战争丨伊朗警告：美国或卷入另一场越南战争",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         },
         {
           "title": "【伊朗武装部队：若哈尔克岛设施遭袭，将进行果断有力回击】伊朗武装部队高级发言人谢卡尔希当地时间17日表示，近期美国官员及军方指挥官多次扬言要对哈尔克岛发动袭击和侵略。谢卡尔希代表伊朗武装部队和伊朗人民发出警告，倘若美国对哈尔克岛及其石油设施与枢纽实施任何侵略或攻击，伊朗的回应将是果断而有力的。 谢卡尔希表示，在这种情况下，所有发起针对哈尔克岛袭击行动国家的石油和天然气设施，都将成为伊朗武装部队的目标，并将遭到强力打击。（央视）",
@@ -956,12 +954,118 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "据AXIOS网站：美国总统特使威特科夫周二将就伊朗问题向两党参议员小组作简报。",
+          "url": "https://flash.jin10.com/detail/20260317085631432800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "美国总统特使威特科夫周二将向一些参议员通报伊朗相关情况。（AXIOS）",
+          "url": "https://wallstreetcn.com/livenews/3071268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "霍尔木兹海峡现通航迹象，美股指高开，纳指涨1%，WTI原油日内跌幅达3%，现货黄金重回5000美元",
+          "url": "https://wallstreetcn.com/articles/3767567",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 06时25分]"
+        },
+        {
+          "title": "美股收盘：标普纳指均涨超1% 国际油价回落提振市场情绪",
+          "url": "https://www.cls.cn/detail/2314857",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时24分 ~ 09时21分]"
+        },
+        {
+          "title": "金十图示：2026年03月16日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260317040623869800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "金十图示：2026年03月16日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260317040621186800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "布油期货涨幅扩大至2.6%，报每桶102.85美元。 美股期货小幅走低，标普500指数期货跌0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3071267",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "美股收盘：三大股指集体收涨 部分芯片股走强",
+          "url": "https://flash.jin10.com/detail/20260317040132511800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "航空业ETF收涨2.2%，领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3071150",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时32分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "霍尔木兹海峡现通航迹象，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
@@ -975,6 +1079,17 @@
           "time_info": "[07时24分 ~ 07时25分]"
         },
         {
+          "title": "霍尔木兹海峡受阻缓解，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
+          "url": "https://wallstreetcn.com/articles/3767567",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
           "title": "10年期美债收益率跌约5.7个基点",
           "url": "https://wallstreetcn.com/livenews/3071128",
           "source": "华尔街见闻-快讯",
@@ -985,6 +1100,45 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时50分 ~ 04时31分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "现货白银日内跌幅达1.00%，现报79.91美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260317090409101800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 3月17日（周二）早盘盘初下跌0.52%报1112.7元/克；<br/>上海黄金交易所白银T+D 3月17日（周二）早盘盘初上涨1.12%报20440.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260317090114136800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "真金白银增持回购，券商积极提振投资者信心",
+          "url": "https://wallstreetcn.com/livenews/3071209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         }
       ]
     },
@@ -1068,7 +1222,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         }
@@ -1089,23 +1243,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时32分 ~ 06时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "真金白银增持回购，券商积极提振投资者信心",
-          "url": "https://wallstreetcn.com/livenews/3071209",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时25分"
         }
       ]
     }
