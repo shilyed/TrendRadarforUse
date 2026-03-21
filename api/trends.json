@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-21T13:07:22.517425+08:00",
-  "total_titles_processed": 951,
+  "generated_at": "2026-03-21T14:34:24.951360+08:00",
+  "total_titles_processed": 1032,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "特朗普据称考虑占领或封锁哈尔克岛 以迫使伊朗重开霍尔木兹海峡",
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 13时07分]"
+          "appearance_count": 13,
+          "time_info": "[00时35分 ~ 14时34分]"
         },
         {
           "title": "响应特朗普呼声，以色列总理称将暂停空袭伊朗能源设施，卡塔尔称伊袭破坏17%LNG产能",
@@ -53,11 +53,12 @@
             15,
             12,
             9,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 13时07分]"
+          "appearance_count": 13,
+          "time_info": "[00时35分 ~ 14时34分]"
         },
         {
           "title": "高市早苗抵达白宫，特朗普张开双臂欢迎，两人热情拥抱",
@@ -94,8 +95,38 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时15分 ~ 13时07分]"
+          "appearance_count": 4,
+          "time_info": "[09时15分 ~ 14时34分]"
+        },
+        {
+          "title": "美国或向中东增派数千士兵，特朗普先称不想停火、后称考虑对伊军事行动逐步降级，伊朗威胁毁灭性打击美以“邪恶官员”",
+          "url": "https://wallstreetcn.com/articles/3768030",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时20分 ~ 14时34分]"
+        },
+        {
+          "title": "特朗普称正考虑逐步降级对伊朗的军事行动",
+          "url": "https://www.cls.cn/detail/2320213",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时22分 ~ 14时34分]"
         },
         {
           "title": "美以伊战争丨特朗普：当美想结束冲突时，以也会同步",
@@ -121,34 +152,6 @@
           "time_info": "[05时24分 ~ 09时15分]"
         },
         {
-          "title": "美国或向中东增派数千士兵，特朗普先称不想停火、后称考虑对伊军事行动逐步降级，伊朗威胁毁灭性打击美以“邪恶官员”",
-          "url": "https://wallstreetcn.com/articles/3768030",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时20分 ~ 13时07分]"
-        },
-        {
-          "title": "特朗普称正考虑逐步降级对伊朗的军事行动",
-          "url": "https://www.cls.cn/detail/2320213",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时22分 ~ 13时07分]"
-        },
-        {
           "title": "美以伊战争丨特朗普：正考虑逐步降级对伊朗军事行动",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -169,17 +172,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时33分"
-        },
-        {
-          "title": "据Politico：联合国秘书长表示，他正与特朗普在加沙的和平委员会合作。",
-          "url": "https://flash.jin10.com/detail/20260321115027994800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时07分"
         },
         {
           "title": "特朗普：我的支持率达到了前所未有的100%",
@@ -219,6 +211,31 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时20分 ~ 09时15分]"
+        },
+        {
+          "title": "特朗普称正考虑降级对伊行动 贵金属价格延续跌势 | 环球市场",
+          "url": "https://www.cls.cn/detail/2320222",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时15分 ~ 14时34分]"
+        },
+        {
+          "title": "据Politico：联合国秘书长表示，他正与特朗普在加沙的和平委员会合作。",
+          "url": "https://flash.jin10.com/detail/20260321115027994800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 14时34分]"
         },
         {
           "title": "美国总统特朗普：（谈及停火）你知道，当你正在彻底摧毁对方时，是不可能停火的。",
@@ -281,17 +298,28 @@
           "time_info": "[04时24分 ~ 07时22分]"
         },
         {
-          "title": "特朗普称正考虑降级对伊行动 贵金属价格延续跌势 | 环球市场",
-          "url": "https://www.cls.cn/detail/2320222",
-          "source": "财联社热门",
+          "title": "“谁是主子，谁是奴才？”特朗普给高市上课",
+          "url": "https://news.ifeng.com/c/8rfRldwHGa7",
+          "source": "凤凰网",
           "ranks": [
-            8,
-            7,
-            9
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时15分 ~ 13时07分]"
+          "time_info": "[11时59分 ~ 14时34分]"
+        },
+        {
+          "title": "对话｜海湾战事三周（上）：特朗普矛盾表态是策略，伊朗非对称作战奏效",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32802192",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时59分 ~ 14时34分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普仍然侧重于在伊朗（实现）“全面”胜利。 国防部预计，完成任务（还）需要4-6周时间。",
@@ -305,17 +333,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时22分 ~ 11时59分]"
-        },
-        {
-          "title": "“谁是主子，谁是奴才？”特朗普给高市上课",
-          "url": "https://news.ifeng.com/c/8rfRldwHGa7",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 13时07分]"
         },
         {
           "title": "特朗普：撤出驻西班牙和德国美军是“合理的”",
@@ -352,18 +369,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时24分 ~ 05时24分]"
-        },
-        {
-          "title": "对话｜海湾战事三周（上）：特朗普矛盾表态是策略，伊朗非对称作战奏效",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32802192",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 13时07分]"
         },
         {
           "title": "消息人士称，特朗普政府正制定方案以夺取伊朗核材料储备",
@@ -494,6 +499,17 @@
           "time_info": "09时15分"
         },
         {
+          "title": "视频丨美防长声称全世界都应对特朗普说声“谢谢”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32800200",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
           "title": "美国总统特朗普：我们可以与伊朗对话，但我不想要停火。",
           "url": "https://flash.jin10.com/detail/20260321034743329800",
           "source": "金十数据",
@@ -618,7 +634,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "美军价值约 1 亿美元 F-35 战机疑在伊朗上空被击中，这会对美国及其盟友作战体系产生哪些冲击？",
@@ -648,6 +664,17 @@
           "time_info": "[00时35分 ~ 09时15分]"
         },
         {
+          "title": "美国有条件放松对伊朗油品的制裁，为期30天",
+          "url": "https://news.ifeng.com/c/8rfRldwHGb9",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时59分 ~ 14时34分]"
+        },
+        {
           "title": "伊朗攻击美国多个军事基地",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%94%BB%E5%87%BB%E7%BE%8E%E5%9B%BD%E5%A4%9A%E4%B8%AA%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -661,17 +688,6 @@
           "time_info": "[02时36分 ~ 07时22分]"
         },
         {
-          "title": "美国有条件放松对伊朗油品的制裁，为期30天",
-          "url": "https://news.ifeng.com/c/8rfRldwHGb9",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 13时07分]"
-        },
-        {
           "title": "美以伊战争丨美国解除对部分伊朗石油制裁",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -681,6 +697,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
+        },
+        {
+          "title": "消息人士称美国正计划夺取伊朗“核储备”",
+          "url": "https://wallstreetcn.com/livenews/3074411",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
+          "title": "美国驻联合国代表：对伊朗石油制裁的任何放松都将是“非常短暂的”，且持续时间有限。",
+          "url": "https://flash.jin10.com/detail/20260321134018308800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
         },
         {
           "title": "伊朗战争引发通胀担忧，美国市政债市场抛售加剧",
@@ -708,6 +746,20 @@
           "time_info": "[00时35分 ~ 01时31分]"
         },
         {
+          "title": "美国允许出售目前滞留海上的伊朗石油，贝森特：可迅速提供约1.4亿桶石油",
+          "url": "https://wallstreetcn.com/livenews/3074382",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            20,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时15分 ~ 14时34分]"
+        },
+        {
           "title": "伊朗石油部发言人：伊朗没有过剩石油，美国财政部长贝森特关于解除制裁的言论“旨在给买家提供希望并控制市场心理”。",
           "url": "https://flash.jin10.com/detail/20260321034838956800",
           "source": "金十数据",
@@ -720,29 +772,40 @@
           "time_info": "[04时24分 ~ 07时22分]"
         },
         {
-          "title": "美国允许出售目前滞留海上的伊朗石油，贝森特：可迅速提供约1.4亿桶石油",
-          "url": "https://wallstreetcn.com/livenews/3074382",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            20,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时15分 ~ 13时07分]"
-        },
-        {
           "title": "美国批准临时交付和销售源自伊朗的石油",
           "url": "https://m.thepaper.cn/newsDetail_forward_32805006",
           "source": "澎湃新闻",
           "ranks": [
             11,
-            9
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时59分 ~ 14时34分]"
+        },
+        {
+          "title": "美国批准临时交付和销售源自伊朗的石油，原因为何？如何看待美方此举？",
+          "url": "https://www.zhihu.com/question/2018595180429726456",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时59分 ~ 14时34分]"
+        },
+        {
+          "title": "美国发布伊朗石油30天制裁豁免令 贝森特：将向全球供油约1.4亿桶",
+          "url": "https://www.cls.cn/detail/2320263",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时59分 ~ 13时07分]"
+          "time_info": "[13时07分 ~ 14时34分]"
         },
         {
           "title": "美国官员：已有232名美军士兵在对伊朗军事行动中受伤",
@@ -757,28 +820,6 @@
           "time_info": "[01时31分 ~ 02时37分]"
         },
         {
-          "title": "美国批准临时交付和销售源自伊朗的石油，原因为何？如何看待美方此举？",
-          "url": "https://www.zhihu.com/question/2018595180429726456",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 13时07分]"
-        },
-        {
-          "title": "美国发布伊朗石油30天制裁豁免令 贝森特：将向全球供油约1.4亿桶",
-          "url": "https://www.cls.cn/detail/2320263",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时07分"
-        },
-        {
           "title": "美国官员：自与伊朗开战以来，有232名美国士兵受伤。",
           "url": "https://flash.jin10.com/detail/20260321001214497800",
           "source": "金十数据",
@@ -788,6 +829,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队：第70波针对美国和以色列在海湾地区及其他地区利益的报复性打击已针对超过55个地点。",
+          "url": "https://flash.jin10.com/detail/20260321124750248800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
         },
         {
           "title": "美国有条件放松对伊朗油品的制裁 为期30天",
@@ -896,8 +948,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 13时07分]"
+          "appearance_count": 13,
+          "time_info": "[00时35分 ~ 14时34分]"
         },
         {
           "title": "油价高位震荡 美股或连跌四周 逼近回调区间 | 今夜看点",
@@ -920,8 +972,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时15分 ~ 13时07分]"
+          "appearance_count": 4,
+          "time_info": "[09时15分 ~ 14时34分]"
         },
         {
           "title": "美股收盘：七巨头齐挫纳指收低2% 三大指数连跌四周",
@@ -930,11 +982,12 @@
           "ranks": [
             6,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时22分 ~ 13时07分]"
+          "appearance_count": 5,
+          "time_info": "[07时22分 ~ 14时34分]"
         },
         {
           "title": "金十图示：2026年03月20日（周五）美股热门股票行情一览（美股收盘）",
@@ -969,6 +1022,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
+        },
+        {
+          "title": "周五从“升级到降级”，投资者“左右打脸”！特朗普夜间称“正逐步考虑减少对伊军事行动”，油价回落美股期货上涨",
+          "url": "https://wallstreetcn.com/articles/3768043",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时59分 ~ 14时34分]"
         },
         {
           "title": "在美股时段交易的费城金银指数收跌3.82%，报328.28点，本周累计下跌14.50%，3月18-20日持续走低。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌3.17%，报2319.72点，本周累跌13.87%。 在美股时段交易的原材料指数收跌2.72%，报229.09点，本周累跌6.46%。 在美股时段交易的金属与矿业指数收跌3.29%，报220.05点，本周累跌5.70%。",
@@ -1006,18 +1072,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时24分 ~ 09时15分]"
-        },
-        {
-          "title": "周五从“升级到降级”，投资者“左右打脸”！特朗普夜间称“正逐步考虑减少对伊军事行动”，油价回落美股期货上涨",
-          "url": "https://wallstreetcn.com/articles/3768043",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 13时07分]"
         },
         {
           "title": "超微电脑美股盘后涨1.6%。",
@@ -1205,7 +1259,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "金价一周大跌11%",
@@ -1238,33 +1292,36 @@
           "source": "百度热搜",
           "ranks": [
             13,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 13时07分]"
+          "appearance_count": 3,
+          "time_info": "[11时59分 ~ 14时34分]"
         },
         {
           "title": "“你好通胀，再见降息”，值金价10%的跌幅？｜大师复盘",
           "url": "https://flash.jin10.com/detail/20260321113654707800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 14时34分]"
         },
         {
           "title": "金价大跌 情侣火速买五金",
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C+%E6%83%85%E4%BE%A3%E7%81%AB%E9%80%9F%E4%B9%B0%E4%BA%94%E9%87%91",
           "source": "百度热搜",
           "ranks": [
-            16
+            16,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 14时34分]"
         },
         {
           "title": "金价大跌情侣火速买五金",
@@ -1273,9 +1330,20 @@
           "ranks": [
             21
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 14时34分]"
+        },
+        {
+          "title": "金价失守4500美元",
+          "url": "https://www.douyin.com/hot/2438156",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时07分"
+          "time_info": "14时34分"
         },
         {
           "title": "强美元与增兵传闻双重夹击 现货金价失守4500大关",
@@ -1409,11 +1477,12 @@
           "url": "https://wallstreetcn.com/articles/3768031",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 14时34分]"
         }
       ]
     },
