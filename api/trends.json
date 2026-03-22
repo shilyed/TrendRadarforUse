@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-03-22T12:13:21.023887+08:00",
-  "total_titles_processed": 724,
+  "generated_at": "2026-03-22T13:49:07.043785+08:00",
+  "total_titles_processed": 810,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
-        {
-          "title": "特朗普称正考虑逐步降级对伊朗的军事行动",
-          "url": "https://www.cls.cn/detail/2320213",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时20分 ~ 12时13分]"
-        },
         {
           "title": "美国或向中东增派数千士兵，特朗普先称不想停火、后称考虑对伊军事行动逐步降级，伊朗威胁毁灭性打击美以“邪恶官员”",
           "url": "https://wallstreetcn.com/articles/3768030",
@@ -28,6 +17,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时20分 ~ 06时17分]"
+        },
+        {
+          "title": "特朗普称正考虑逐步降级对伊朗的军事行动",
+          "url": "https://www.cls.cn/detail/2320213",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时20分 ~ 13时49分]"
         },
         {
           "title": "对话｜海湾战事三周（上）：特朗普矛盾表态是策略，伊朗非对称作战奏效",
@@ -84,8 +85,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时20分 ~ 12时13分]"
+          "appearance_count": 15,
+          "time_info": "[00时20分 ~ 13时49分]"
         },
         {
           "title": "特朗普称正考虑降级对伊行动 贵金属价格延续跌势 | 环球市场",
@@ -106,9 +107,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时13分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时13分 ~ 13时49分]"
         },
         {
           "title": "美国总统特朗普：如果民主党人不同意向国土安全部拨款，我将在下周一让移民与海关执法局（ICE）特工前往机场。",
@@ -145,11 +146,36 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 12时13分]"
+          "appearance_count": 3,
+          "time_info": "[09时24分 ~ 13时49分]"
+        },
+        {
+          "title": "特朗普要求伊朗48小时内开放霍尔木兹海峡，威胁摧毁发电厂",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32809575",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时13分 ~ 13时49分]"
+        },
+        {
+          "title": "伊朗回应特朗普袭击电厂威胁",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AD%E5%87%BB%E7%94%B5%E5%8E%82%E5%A8%81%E8%83%81%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时13分 ~ 13时49分]"
         },
         {
           "title": "美国总统特朗普：如果激进左翼民主党人不立即签署协议，让我们的国家，特别是我们的机场，再次获得自由和安全，我将把移民执法局（ICE）特工调往机场，他们将执行前所未有的安保措施，包括立即逮捕所有非法入境的移民，重点打击来自索马里的非法移民。",
@@ -174,6 +200,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时24分 ~ 12时13分]"
+        },
+        {
+          "title": "伊朗回应特朗普袭击电厂威胁：若遭袭将打击美及其盟友关键设施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32809836",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 13时49分]"
         },
         {
           "title": "特朗普威胁伊朗48小时内开放霍尔木兹",
@@ -207,28 +244,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
-        },
-        {
-          "title": "伊朗回应特朗普袭击电厂威胁",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AD%E5%87%BB%E7%94%B5%E5%8E%82%E5%A8%81%E8%83%81%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时13分"
-        },
-        {
-          "title": "特朗普要求伊朗48小时内开放霍尔木兹海峡，威胁摧毁发电厂",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32809575",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时13分"
         },
         {
           "title": "特朗普要求伊朗开放霍尔木兹海峡",
@@ -270,7 +285,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
         }
@@ -288,8 +303,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时20分 ~ 12时13分]"
+          "appearance_count": 15,
+          "time_info": "[00时20分 ~ 13时49分]"
         },
         {
           "title": "美国批准临时交付和销售源自伊朗的石油",
@@ -304,6 +319,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时20分 ~ 07时18分]"
+        },
+        {
+          "title": "为何“临时豁免海上伊朗石油”？美国“形势所迫”：全球原油缓冲正迅速减少",
+          "url": "https://wallstreetcn.com/articles/3768051",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时24分 ~ 13时49分]"
         },
         {
           "title": "伊朗称成功打击以色列及美国海军第五舰队目标",
@@ -348,18 +376,6 @@
           "ranks": [
             13,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 12时13分]"
-        },
-        {
-          "title": "为何“临时豁免海上伊朗石油”？美国“形势所迫”：全球原油缓冲正迅速减少",
-          "url": "https://wallstreetcn.com/articles/3768051",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -435,20 +451,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
-        },
-        {
-          "title": "国际金价“八连跌”",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E2%80%9C%E5%85%AB%E8%BF%9E%E8%B7%8C%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 12时13分]"
         },
         {
           "title": "金价",
@@ -457,6 +462,17 @@
           "ranks": [
             18,
             21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时24分 ~ 13时49分]"
+        },
+        {
+          "title": "国际金价“八连跌”",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E2%80%9C%E5%85%AB%E8%BF%9E%E8%B7%8C%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -519,11 +535,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时20分 ~ 12时13分]"
+          "appearance_count": 15,
+          "time_info": "[00时20分 ~ 13时49分]"
         },
         {
           "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
@@ -547,11 +564,12 @@
           "url": "https://flash.jin10.com/detail/20260322112216406800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时13分 ~ 13时49分]"
         }
       ]
     },
