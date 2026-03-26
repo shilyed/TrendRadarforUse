@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T01:55:34.326173+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2026-03-27T02:56:31.458381+08:00",
+  "total_titles_processed": 452,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "伊朗拒绝美国停战方案、称不允许特朗普决定停战时间，白宫称美伊在谈判且有成效，伊外长称信息交流并非谈判",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 02时56分]"
         },
         {
           "title": "担心特朗普叫停，内塔尼亚胡下令猛炸伊朗",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 02时56分]"
         },
         {
           "title": "外交部：中美双方就特朗普总统访华保持着沟通",
@@ -61,6 +61,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
+        },
+        {
+          "title": "中方回应特朗普称5月中旬访华",
+          "url": "https://www.toutiao.com/trending/7621462030418972210/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 02时56分]"
         },
         {
           "title": "美国总统特朗普：（暂停汽油税）是我们口袋里的筹码之一。",
@@ -97,28 +110,17 @@
           "time_info": "[00时06分 ~ 01时55分]"
         },
         {
-          "title": "中方回应特朗普称5月中旬访华",
-          "url": "https://www.toutiao.com/trending/7621462030418972210/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 01时55分]"
-        },
-        {
           "title": "特朗普称将在5月中旬访华，外交部：中美就此事保持着沟通",
           "url": "https://m.thepaper.cn/newsDetail_forward_32835719",
           "source": "澎湃新闻",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 02时56分]"
         },
         {
           "title": "伊朗战争还将持续多久？据传特朗普希望4-6周内终结战事",
@@ -129,8 +131,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 02时56分]"
         },
         {
           "title": "特朗普重大公告前，市场多次出现抢跑交易，特朗普真的在操纵金融市场吗？背后都有哪些可能？",
@@ -140,8 +142,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 02时56分]"
         },
         {
           "title": "外交部回应「特朗普称将在 5 月中旬访华」，表示中美保持着沟通，透露出哪些信息？",
@@ -151,8 +153,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 02时56分]"
         },
         {
           "title": "“我们大赢特赢”，特朗普：伊朗太想达成协议，就是不敢承认",
@@ -163,8 +165,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 02时56分]"
         },
         {
           "title": "美国总统特朗普：曾考虑过暂停征收联邦汽油税。",
@@ -184,7 +186,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
         },
@@ -255,6 +257,17 @@
           "time_info": "00时06分"
         },
         {
+          "title": "美国（特朗普政府）调查斯坦福大学医学院的招生政策。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3077621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
           "title": "特朗普开玩笑称：沃什可以在白宫办公",
           "url": "https://wallstreetcn.com/livenews/3077570",
           "source": "华尔街见闻-快讯",
@@ -294,7 +307,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
         }
@@ -302,7 +315,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "王毅同加拿大外长阿南德通电话：美国和伊朗都有重启谈判的意愿，国际社会应鼓励双方重回谈判桌，寻求政治解决的有效途径",
@@ -313,8 +326,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 02时56分]"
+        },
+        {
+          "title": "法国外长巴罗：所有迹象都表明，俄罗斯正在援助伊朗的军事行动，而这些行动正被用于打击美国目标。",
+          "url": "https://flash.jin10.com/detail/20260327023141918800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
+          "title": "伊朗回应美国提出的停火协议",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E6%8F%90%E5%87%BA%E7%9A%84%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 02时56分]"
         },
         {
           "title": "伊朗战争搅动楼市，美国抵押贷款利率飙升至6.38%",
@@ -328,18 +365,6 @@
           "time_info": "00时06分"
         },
         {
-          "title": "伊朗回应美国提出的停火协议",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E6%8F%90%E5%87%BA%E7%9A%84%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 01时55分]"
-        },
-        {
           "title": "伊朗已正式回应美国提出的停火协议",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%B7%B2%E6%AD%A3%E5%BC%8F%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E6%8F%90%E5%87%BA%E7%9A%84%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE",
           "source": "百度热搜",
@@ -347,8 +372,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 02时56分]"
         },
         {
           "title": "美以伊战争丨伊朗正式回应美国15点停火协议",
@@ -358,8 +383,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 02时56分]"
         },
         {
           "title": "美国被曝制定“最后一击”方案，或进行地面战，伊朗：若地面入侵，将开辟新战线，曼德海峡是下个目标",
@@ -369,8 +394,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 02时56分]"
         },
         {
           "title": "伊朗已正式回应美国提出的停火协议 15 点内容，含必须明确承诺赔偿战争损失并加以落实等，美方会接受吗？",
@@ -380,8 +405,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 02时56分]"
         },
         {
           "title": "白宫称伊朗若不接受现实将遭更沉重打击，伊朗：美国想谈是承认失败",
@@ -392,8 +417,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 02时56分]"
         },
         {
           "title": "美媒：在启动任何谈判前 伊朗希望美国先降低要求",
@@ -402,7 +427,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
         },
@@ -427,6 +452,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
+        },
+        {
+          "title": "美国国务卿卢比奥：如果伊朗允许，霍尔木兹海峡明天就可以开放",
+          "url": "https://wallstreetcn.com/livenews/3077627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
         },
         {
           "title": "美国财长贝森特：我们已系统性地削弱了伊朗资助行动、采购武器的能力。",
@@ -462,6 +498,17 @@
           "time_info": "00时06分"
         },
         {
+          "title": "伊朗外交部：伊朗外长和哈萨克斯坦外长讨论了西亚地区的发展以及美国和以色列对伊朗的军事侵略后果。伊朗外长提到，伊朗在合法自卫权框架内将继续对区域国家的侵略者基地和设施进行防御行动。",
+          "url": "https://flash.jin10.com/detail/20260327020120706800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
           "title": "美国国务卿卢比奥：“正在”摧毁伊朗的导弹（生产）能力。 你们想象一下，要是伊朗拥有核武器，他们还能干啥。",
           "url": "https://wallstreetcn.com/livenews/3077563",
           "source": "华尔街见闻-快讯",
@@ -476,7 +523,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美伊和谈陷入僵局，美股低开高走，纳指跌0.8%，布油突破100美元，现货金银跳水",
@@ -486,8 +533,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 02时56分]"
         },
         {
           "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
@@ -497,8 +544,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 02时56分]"
         },
         {
           "title": "美伊谈判存疑，美股震荡收涨，中概股指跑赢大盘，存储板块走低，迪拜原油暴跌",
@@ -508,8 +555,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 02时56分]"
         },
         {
           "title": "油价重上100美元冲击市场 美股期指走低 金银下跌 | 今夜看点",
@@ -518,9 +565,20 @@
           "ranks": [
             13
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时55分 ~ 02时56分]"
+        },
+        {
+          "title": "美股延续跌势，纳指跌超2.00%，道指现跌约1%，标普500指数跌约1.5%。",
+          "url": "https://flash.jin10.com/detail/20260327015622629800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时55分"
+          "time_info": "02时56分"
         }
       ]
     },
@@ -535,7 +593,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
         },
@@ -546,9 +604,37 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 3月26日（周四）晚盘收盘下跌2.38%报978.55元/克；<br/>上海黄金交易所白银T+D 3月26日（周四）晚盘收盘下跌5.09%报16823.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260327023104127800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
+          "title": "现货白银日内跌超6.00%，现报66.87美元/盎司。纽约期银日内跌超8.00%，现报66.79美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260327022121942800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
         }
       ]
     },
@@ -565,8 +651,25 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 02时56分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "纳指跌2%，半导体指数跌4.27%",
+          "url": "https://wallstreetcn.com/livenews/3077630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
         }
       ]
     }
