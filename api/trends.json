@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T19:37:30.798170+08:00",
-  "total_titles_processed": 1742,
+  "generated_at": "2026-03-27T20:44:54.638813+08:00",
+  "total_titles_processed": 1850,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 76,
+      "match_count": 77,
       "titles": [
         {
           "title": "担心特朗普叫停，内塔尼亚胡下令猛炸伊朗",
@@ -17,6 +17,21 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时05分 ~ 07时25分]"
+        },
+        {
+          "title": "大摩数据印证特朗普口中“大礼” ：霍尔木兹海峡流量正明显增加",
+          "url": "https://www.cls.cn/detail/2326560",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时28分 ~ 20时44分]"
         },
         {
           "title": "伊朗拒绝美国停战方案、称不允许特朗普决定停战时间，白宫称美伊在谈判且有成效，伊外长称信息交流并非谈判",
@@ -31,21 +46,6 @@
           "time_info": "[00时05分 ~ 06时21分]"
         },
         {
-          "title": "大摩数据印证特朗普口中“大礼” ：霍尔木兹海峡流量正明显增加",
-          "url": "https://www.cls.cn/detail/2326560",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时28分 ~ 19时37分]"
-        },
-        {
           "title": "特朗普：不知美伊能否达成协议、我不迫切，伊朗允许十艘油轮通行霍尔木兹，市场对冲突反应没预期剧烈",
           "url": "https://wallstreetcn.com/articles/3768496",
           "source": "华尔街见闻",
@@ -58,8 +58,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[03时52分 ~ 19时37分]"
+          "appearance_count": 17,
+          "time_info": "[03时52分 ~ 20时44分]"
         },
         {
           "title": "特朗普称将在5月中旬访华，外交部：中美就此事保持着沟通",
@@ -100,8 +100,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时28分 ~ 19时37分]"
+          "appearance_count": 11,
+          "time_info": "[09时28分 ~ 20时44分]"
         },
         {
           "title": "伊朗战争还将持续多久？据传特朗普希望4-6周内终结战事",
@@ -347,6 +347,18 @@
           "time_info": "00时06分"
         },
         {
+          "title": "美钞将印上特朗普签名，打破165年来的传统",
+          "url": "https://www.cls.cn/detail/2326823",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时47分 ~ 20时44分]"
+        },
+        {
           "title": "美伊极致拉扯：特朗普称收到“大礼”，再推迟10天打击能源设施！",
           "url": "https://www.cls.cn/detail/2326367",
           "source": "财联社热门",
@@ -394,18 +406,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时31分 ~ 05时25分]"
-        },
-        {
-          "title": "美钞将印上特朗普签名，打破165年来的传统",
-          "url": "https://www.cls.cn/detail/2326823",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时47分 ~ 19时37分]"
         },
         {
           "title": "特朗普揭晓所谓伊朗“大礼”",
@@ -470,7 +470,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
@@ -495,6 +495,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
+        },
+        {
+          "title": "不讲武德！特朗普偏爱“休市”时搞大动作，这周末又要“收割”了？",
+          "url": "https://flash.jin10.com/detail/20260327202039334800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         },
         {
           "title": "特朗普：控制伊朗石油是一个选项",
@@ -885,7 +896,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "王毅同加拿大外长阿南德通电话：美国和伊朗都有重启谈判的意愿，国际社会应鼓励双方重回谈判桌，寻求政治解决的有效途径",
@@ -940,8 +951,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时24分 ~ 19时37分]"
+          "appearance_count": 13,
+          "time_info": "[07时24分 ~ 20时44分]"
         },
         {
           "title": "伊朗已正式回应美国提出的停火协议",
@@ -1013,11 +1024,23 @@
             19,
             16,
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时56分 ~ 19时37分]"
+          "appearance_count": 7,
+          "time_info": "[15时56分 ~ 20时44分]"
+        },
+        {
+          "title": "伊朗称美国在设拉子空投地雷，可能针对附近导弹设施",
+          "url": "https://news.ifeng.com/c/8rq3WiXmIxV",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时37分 ~ 20时44分]"
         },
         {
           "title": "法国外长巴罗：所有迹象都表明，俄罗斯正在援助伊朗的军事行动，而这些行动正被用于打击美国目标。",
@@ -1029,17 +1052,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
-        },
-        {
-          "title": "伊朗称美国在设拉子空投地雷，可能针对附近导弹设施",
-          "url": "https://news.ifeng.com/c/8rq3WiXmIxV",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时37分"
         },
         {
           "title": "伊朗战争搅动楼市，美国抵押贷款利率飙升至6.38%",
@@ -1177,6 +1189,17 @@
           "time_info": "06时21分"
         },
         {
+          "title": "美国国务卿卢比奥与七国集团其他成员国外长就伊朗和乌克兰冲突问题相互交锋。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3078228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
           "title": "美国务卿称与伊朗谈判已取得进展",
           "url": "https://wallstreetcn.com/livenews/3077724",
           "source": "华尔街见闻-快讯",
@@ -1186,6 +1209,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "经济学家预计伊朗冲突将把美国通胀率推至3%以上 并冲击就业和增长",
+          "url": "https://wallstreetcn.com/livenews/3078218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         },
         {
           "title": "美国财长贝森特：我们已系统性地削弱了伊朗资助行动、采购武器的能力。",
@@ -1260,7 +1294,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         }
@@ -1280,8 +1314,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时28分 ~ 19时37分]"
+          "appearance_count": 11,
+          "time_info": "[09时28分 ~ 20时44分]"
         },
         {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
@@ -1294,8 +1328,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时28分 ~ 19时37分]"
+          "appearance_count": 10,
+          "time_info": "[12时28分 ~ 20时44分]"
         },
         {
           "title": "美伊和谈陷入僵局，美股低开高走，纳指跌0.8%，布油突破100美元，现货金银跳水",
@@ -1367,6 +1401,17 @@
           "time_info": "[01时55分 ~ 09时28分]"
         },
         {
+          "title": "美伊局势走向不明，美股期指跌幅扩大，美日债市承压，布油涨超2%，现货金银涨幅收窄",
+          "url": "https://wallstreetcn.com/articles/3768537",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时37分 ~ 20时44分]"
+        },
+        {
           "title": "美股标普纳指创开战后最大单日跌幅",
           "url": "https://www.toutiao.com/trending/7621704767055597083/",
           "source": "今日头条",
@@ -1377,17 +1422,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时28分 ~ 12时29分]"
-        },
-        {
-          "title": "美伊局势走向不明，美股期指跌幅扩大，美日债市承压，布油涨超2%，现货金银涨幅收窄",
-          "url": "https://wallstreetcn.com/articles/3768537",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时37分"
         },
         {
           "title": "金十图示：2026年03月26日（周四）热门中概股行情一览（美股收盘）",
@@ -1450,6 +1484,18 @@
           "time_info": "[04时31分 ~ 05时25分]"
         },
         {
+          "title": "美股期货走低，纳斯达克100指数期货跌0.7%，标普500指数期货跌0.5%，道指期货跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3078195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时37分 ~ 20时44分]"
+        },
+        {
           "title": "3月27日投资避雷针：谷歌推出压缩算法TurboQuant 美股存储板块遭重挫",
           "url": "https://www.cls.cn/detail/2326356",
           "source": "财联社热门",
@@ -1471,17 +1517,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
-        },
-        {
-          "title": "美股期货走低，纳斯达克100指数期货跌0.7%，标普500指数期货跌0.5%，道指期货跌0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3078195",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时37分"
         },
         {
           "title": "美股标普纳指创开战后最大单日跌幅",
@@ -1519,118 +1554,8 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "金价为何反常下跌",
-          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E4%B8%BA%E4%BD%95%E5%8F%8D%E5%B8%B8%E4%B8%8B%E8%B7%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            8,
-            12,
-            3,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时28分 ~ 19时37分]"
-        },
-        {
-          "title": "金价银价急跌",
-          "url": "https://www.douyin.com/hot/2445095",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 12时29分]"
-        },
-        {
-          "title": "德商银行：铂金价格预计到年中将达到每金衡盎司2,100美元，到年底将达到2,300美元。",
-          "url": "https://flash.jin10.com/detail/20260327193219234800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时37分"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 12时29分]"
-        },
-        {
-          "title": "德商银行：将今年年底的金价预测上调至5000美元/盎司，将明年年底的金价预测上调至5200美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260327192835713800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时37分"
-        },
-        {
-          "title": "金十图示：2026年03月27日（周五）上海金午盘价为995.34元/克，较国际金价(987.55元/克)，高7.79元/克",
-          "url": "https://flash.jin10.com/detail/20260327162041254800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
-          "title": "国际金价暴跌到4099时，敢闭眼抄底的“人”是谁？",
-          "url": "https://flash.jin10.com/detail/20260327120146281800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时29分"
-        },
-        {
-          "title": "金价还会猛跌吗",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%BF%98%E4%BC%9A%E7%8C%9B%E8%B7%8C%E5%90%97%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时47分"
-        },
-        {
-          "title": "特朗普再度宣布推迟打击伊朗能源设施，油价短线大跌，金价大涨。",
-          "url": "https://flash.jin10.com/detail/20260327041512908800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时25分"
-        }
-      ]
-    },
-    {
       "keyword_group": "白银",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少104.21吨，当前持仓量为15409.46吨。欢迎点击查看数据中心……",
@@ -1721,6 +1646,17 @@
           "time_info": "14时09分"
         },
         {
+          "title": "上海黄金交易所黄金T+D 3月27日（周五）晚盘盘初下跌0.36%报987.5元/克；<br/>上海黄金交易所白银T+D 3月27日（周五）晚盘盘初下跌1.79%报16978.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260327200147814800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 3月27日（周五）收盘下跌1.01%报992.2元/克；<br/>上海黄金交易所白银T+D 3月27日（周五）收盘下跌1.41%报17475.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260327153016366800",
           "source": "金十数据",
@@ -1730,6 +1666,116 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "金价为何反常下跌",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E4%B8%BA%E4%BD%95%E5%8F%8D%E5%B8%B8%E4%B8%8B%E8%B7%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            8,
+            12,
+            3,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时28分 ~ 20时44分]"
+        },
+        {
+          "title": "金价银价急跌",
+          "url": "https://www.douyin.com/hot/2445095",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时28分 ~ 12时29分]"
+        },
+        {
+          "title": "德商银行：铂金价格预计到年中将达到每金衡盎司2,100美元，到年底将达到2,300美元。",
+          "url": "https://flash.jin10.com/detail/20260327193219234800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时28分 ~ 12时29分]"
+        },
+        {
+          "title": "德商银行：将今年年底的金价预测上调至5000美元/盎司，将明年年底的金价预测上调至5200美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260327192835713800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        },
+        {
+          "title": "金十图示：2026年03月27日（周五）上海金午盘价为995.34元/克，较国际金价(987.55元/克)，高7.79元/克",
+          "url": "https://flash.jin10.com/detail/20260327162041254800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
+          "title": "国际金价暴跌到4099时，敢闭眼抄底的“人”是谁？",
+          "url": "https://flash.jin10.com/detail/20260327120146281800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时29分"
+        },
+        {
+          "title": "金价还会猛跌吗",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%BF%98%E4%BC%9A%E7%8C%9B%E8%B7%8C%E5%90%97%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时47分"
+        },
+        {
+          "title": "特朗普再度宣布推迟打击伊朗能源设施，油价短线大跌，金价大涨。",
+          "url": "https://flash.jin10.com/detail/20260327041512908800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时25分"
         }
       ]
     },
