@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T00:27:11.305689+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-03-30T01:24:23.399560+08:00",
+  "total_titles_processed": 361,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 01时24分]"
         },
         {
           "title": "反对特朗普的浪潮国际化了",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 01时24分]"
         },
         {
           "title": "全美超900万人举行抗议，民众反对特朗普伊朗、移民等政策",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 01时24分]"
         },
         {
           "title": "全美爆发第三轮“不要国王”示威，预计900万人上街抗议特朗普",
@@ -48,8 +48,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 01时24分]"
         },
         {
           "title": "民调显示美国选民对特朗普“不满意率”创新高",
@@ -58,9 +58,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时24分]"
         },
         {
           "title": "美国一民主党参议员敦促特朗普不要向伊朗部署地面部队",
@@ -69,7 +69,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
         }
@@ -77,7 +77,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "下周重磅日程：关注伊朗战事进展、美国非农、中国PMI",
@@ -87,8 +87,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 01时24分]"
         },
         {
           "title": "美国防部被曝在为对伊朗地面行动做准备",
@@ -98,19 +98,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 01时24分]"
         },
         {
           "title": "伊朗：核问题非美国与伊朗核心问题",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E6%A0%B8%E9%97%AE%E9%A2%98%E9%9D%9E%E7%BE%8E%E5%9B%BD%E4%B8%8E%E4%BC%8A%E6%9C%97%E6%A0%B8%E5%BF%83%E9%97%AE%E9%A2%98",
           "source": "百度热搜",
           "ranks": [
-            29
+            29,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 01时24分]"
         },
         {
           "title": "伊朗陆军发言人：核问题绝非美国与伊朗间核心问题",
@@ -119,9 +120,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时24分]"
         },
         {
           "title": "伊朗武装部队发言人：“波斯湾的鲨鱼正等待美国军人”",
@@ -130,9 +131,20 @@
           "ranks": [
             22
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时24分]"
+        },
+        {
+          "title": "巴基斯坦外长：巴基斯坦非常高兴伊朗和美国均表示对巴基斯坦在促成对话方面充满信心。",
+          "url": "https://flash.jin10.com/detail/20260330004149875800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时27分"
+          "time_info": "01时24分"
         }
       ]
     },
@@ -148,8 +160,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 01时24分]"
         }
       ]
     }
