@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T05:36:09.347763+08:00",
-  "total_titles_processed": 611,
+  "generated_at": "2026-03-31T06:28:18.220861+08:00",
+  "total_titles_processed": 642,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "伊朗拒绝“停火协议”，美国筹划“地面进攻”，油价开盘突破115美元",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 05时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 06时28分]"
         },
         {
           "title": "伊朗称未与美国直接对话，代理防长：将继续“全力惩罚侵略者”！",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 05时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 06时28分]"
         },
         {
           "title": "伊朗称美国提的建议非常极端且不合理，美伊双方目前的核心矛盾究竟是什么？双方和谈的可能性有多大？",
@@ -37,8 +37,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 05时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 06时28分]"
         },
         {
           "title": "伊朗第一副总统警告美国：向哈尔克岛派兵将有来无回",
@@ -48,8 +48,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 05时36分]"
+          "appearance_count": 3,
+          "time_info": "[05时35分 ~ 06时28分]"
         },
         {
           "title": "美国白宫：这是伊朗达成协议的千载难逢的机会。",
@@ -130,6 +130,19 @@
           "time_info": "[04时38分 ~ 05时36分]"
         },
         {
+          "title": "美国国务卿卢比奥：伊朗战争结束后或重新评估与北约关系",
+          "url": "https://wallstreetcn.com/livenews/3079571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时38分 ~ 06时28分]"
+        },
+        {
           "title": "白宫：美国与伊朗对话仍在持续进行，且进展顺利",
           "url": "https://wallstreetcn.com/livenews/3079537",
           "source": "华尔街见闻-快讯",
@@ -142,28 +155,29 @@
           "time_info": "[02时50分 ~ 03时51分]"
         },
         {
-          "title": "美国国务卿卢比奥：伊朗战争结束后或重新评估与北约关系",
-          "url": "https://wallstreetcn.com/livenews/3079571",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时38分 ~ 05时36分]"
-        },
-        {
           "title": "美国纽约联储主席（FOMC永久票委，号称美联储三把手）威廉姆斯：美国经济面临实质性风险和高度不确定性。 （伊朗）战争可能会在未来好几个月推高通胀。 战争还可能带来供应冲击，破坏经济。 长期通胀预期与2%目标保持一致。 现在看到能源领域发生供应链紊乱。 诸多指标针对就业市场释放喜忧参半的信号。",
           "url": "https://wallstreetcn.com/livenews/3079563",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            20
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时38分 ~ 06时28分]"
+        },
+        {
+          "title": "伊朗方面坚称自战争爆发以来未与美国进行过谈判",
+          "url": "https://flash.jin10.com/detail/20260331044602642800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时38分 ~ 05时36分]"
+          "time_info": "[05时36分 ~ 06时28分]"
         },
         {
           "title": "【伊朗议会批准对霍尔木兹海峡征收通行费的法案】伊朗议会国家安全委员会通过了拟对霍尔木兹海峡通行船只收费的法案。计划内容包括将以伊朗里亚尔形式实施财务安排和收费系统；将禁止美国和以色列的船只通过霍尔木兹海峡；将维护伊朗及其武装部队的主导地位；将禁止参与对伊朗单边制裁的国家通行；伊朗将与阿曼合作制定相关法律框架。 (央视新闻)",
@@ -223,17 +237,6 @@
           "time_info": "01时46分"
         },
         {
-          "title": "伊朗方面坚称自战争爆发以来未与美国进行过谈判",
-          "url": "https://flash.jin10.com/detail/20260331044602642800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
           "title": "美国白宫：伊朗的领导层非常分散。",
           "url": "https://flash.jin10.com/detail/20260331015446069800",
           "source": "金十数据",
@@ -243,6 +246,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
+        },
+        {
+          "title": "市场消息：美国在科威特的陆军营地布尔林遭伊朗袭击后损毁严重。基地内的飞机库、营房、健身房、仓库、发电站及其他设施均受到损坏。",
+          "url": "https://flash.jin10.com/detail/20260331052552655800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
         },
         {
           "title": "伊朗第一副总统警告美国：向哈尔克岛派兵将有去无回",
@@ -292,7 +306,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普威胁：若不达成协议，就摧毁伊朗发电厂、油井和哈尔克岛",
@@ -303,8 +317,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 05时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 06时28分]"
         },
         {
           "title": "特朗普：若达不成协议将“摧毁伊朗所有发电厂、油井及哈尔克岛”，伊朗回应：若遭袭，将给整个地区断电！",
@@ -315,8 +329,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 05时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 06时28分]"
         },
         {
           "title": "美以伊战争丨特朗普给伊朗“划红线”",
@@ -350,17 +364,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
-        },
-        {
-          "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单",
-          "url": "https://wallstreetcn.com/livenews/3079584",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时36分"
         },
         {
           "title": "特朗普：对伊朗袭击以色列炼油厂的回应“很快到来”",
@@ -399,6 +402,18 @@
           "time_info": "[02时50分 ~ 03时51分]"
         },
         {
+          "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单",
+          "url": "https://wallstreetcn.com/livenews/3079584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时36分 ~ 06时28分]"
+        },
+        {
           "title": "特朗普给伊朗“划红线”",
           "url": "https://news.ifeng.com/c/8rvXSKYsnyO",
           "source": "凤凰网",
@@ -406,8 +421,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 05时36分]"
+          "appearance_count": 3,
+          "time_info": "[05时35分 ~ 06时28分]"
         },
         {
           "title": "白宫：特朗普有意呼吁阿拉伯国家为战争“买单”",
@@ -503,6 +518,17 @@
           "time_info": "02时50分"
         },
         {
+          "title": "以色列总理内塔尼亚胡：美国正在主导军事行动以重新开放霍尔木兹海峡；特朗普目前的优先事项是伊朗的浓缩铀。",
+          "url": "https://flash.jin10.com/detail/20260331052900277800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
+        },
+        {
           "title": "特朗普：若达不成协议将“彻底摧毁伊朗所有发电厂、油井及哈尔克岛”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32862935",
           "source": "澎湃新闻",
@@ -561,7 +587,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普释放缓和信号 美股期指反弹 鲍威尔讲话来袭 | 今夜看点",
@@ -573,8 +599,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 05时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 06时28分]"
         },
         {
           "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
@@ -585,8 +611,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 05时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 06时28分]"
         },
         {
           "title": "抄底买盘提振，美股开盘全线上涨，存储概念股普涨，布油上涨2.67%、铝价上涨5%",
@@ -638,11 +664,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时38分 ~ 05时36分]"
+          "appearance_count": 3,
+          "time_info": "[04时38分 ~ 06时28分]"
         },
         {
           "title": "半导体ETF收跌超3.1%，领跌美股行业ETF",
@@ -650,11 +677,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时38分 ~ 05时36分]"
+          "appearance_count": 3,
+          "time_info": "[04时38分 ~ 06时28分]"
         },
         {
           "title": "美股三大指数高开 爱奇艺涨超12%",
@@ -673,11 +701,23 @@
           "url": "https://wallstreetcn.com/livenews/3079578",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时36分 ~ 06时28分]"
+        },
+        {
+          "title": "美股收盘：三大指数涨跌不一 投资者权衡中东冲突前景",
+          "url": "https://www.cls.cn/detail/2329769",
+          "source": "财联社热门",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时36分"
+          "time_info": "06时28分"
         },
         {
           "title": "金十图示：2026年03月30日（周一）美股热门股票行情一览（美股收盘）",
@@ -689,6 +729,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
+        },
+        {
+          "title": "美股存储芯片指数收跌超6.9%，Rambus跌超11%，美光重挫约10%",
+          "url": "https://wallstreetcn.com/livenews/3079581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
         },
         {
           "title": "金十图示：2026年03月30日（周一）热门中概股行情一览（美股收盘）",
@@ -724,11 +775,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             14,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时38分 ~ 05时36分]"
+          "appearance_count": 3,
+          "time_info": "[04时38分 ~ 06时28分]"
         },
         {
           "title": "周一（3月30日），存储芯片与硬件供应链指数跌6.94%，报96.83点，小幅高开之后迅速转跌，日内绝大部分时间平缓地持续扩大跌幅。 成分股全线收跌，Rambus收跌11.14%，美光科技跌9.92%，西部数据跌8.60%，Sandisk跌7.04%，泰瑞达、拉姆研究、希捷科技、应用材料跌6.52%-4.17%。 北美科技软件股指数ETF涨0.95%，报77.62美元。 信息科技指数跌3.75%，报244.90点。 人工智能（AI）赢家指数跌3.93%，报259.19点。 AI软件先驱指数涨1.02%，报91.46点。",
@@ -737,7 +789,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
         },
@@ -793,6 +845,18 @@
           "time_info": "[02时50分 ~ 03时51分]"
         },
         {
+          "title": "纳指科技股指数收跌约1.3%，半导体指数跌超4.2%，小盘股指跌超1.4%",
+          "url": "https://wallstreetcn.com/livenews/3079560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时36分 ~ 06时28分]"
+        },
+        {
           "title": "标普500指数收跌25.13点，跌幅0.39%，报6343.72点。 道琼斯工业平均指数收涨49.50点，涨幅0.11%，报45216.14点。 纳斯达克综合指数（纳指）收跌153.716点，跌幅0.73%，报20794.641点。 纳斯达克100指数收跌179.394点，跌幅0.78%，报22953.378点。 费城半导体指数收跌4.23%，报7142.334点。 费城证交所KBW银行指数收涨0.19%，报149.04点。 道琼斯KBW地区银行指数收涨0.33%，报123.52点。 纳斯达克生物科技指数收涨0.63%，报5584.44点。",
           "url": "https://wallstreetcn.com/livenews/3079560",
           "source": "华尔街见闻-快讯",
@@ -813,17 +877,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
-        },
-        {
-          "title": "纳指科技股指数收跌约1.3%，半导体指数跌超4.2%，小盘股指跌超1.4%",
-          "url": "https://wallstreetcn.com/livenews/3079560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时36分"
         },
         {
           "title": "据港交所文件：中微半导体（ 深圳）股份有限公司向港交所提交上市申请书。",
@@ -850,8 +903,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 05时36分]"
+          "appearance_count": 3,
+          "time_info": "[05时35分 ~ 06时28分]"
         },
         {
           "title": "短端美债收益率跌超9个基点",
@@ -859,11 +912,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时38分 ~ 05时36分]"
+          "appearance_count": 3,
+          "time_info": "[04时38分 ~ 06时28分]"
         },
         {
           "title": "美国五年期国债收益率跌10个基点，至3.97%。 2-7年期美债收益率跌幅均达到或超过10个基点。",
@@ -889,11 +943,12 @@
           "ranks": [
             7,
             24,
-            28
+            28,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时50分 ~ 04时38分]"
+          "appearance_count": 4,
+          "time_info": "[02时50分 ~ 06时28分]"
         }
       ]
     },
