@@ -1,22 +1,35 @@
 {
-  "generated_at": "2026-04-03T07:28:40.344268+08:00",
-  "total_titles_processed": 653,
+  "generated_at": "2026-04-03T09:29:25.648043+08:00",
+  "total_titles_processed": 809,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普自行宣称：对伊朗战事取得“压倒性胜利”，未来两到三周将开展极其猛烈的打击",
           "url": "https://wallstreetcn.com/articles/3769051",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时49分 ~ 07时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时49分 ~ 09时29分]"
+        },
+        {
+          "title": "特朗普讲话“没有明确降温信号”，市场“很失望”",
+          "url": "https://wallstreetcn.com/articles/3769054",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时49分 ~ 09时29分]"
         },
         {
           "title": "全球市场瞩目！9点“全美讲话”，特朗普会讲什么？",
@@ -30,26 +43,16 @@
           "time_info": "[00时49分 ~ 07时28分]"
         },
         {
-          "title": "特朗普讲话“没有明确降温信号”，市场“很失望”",
-          "url": "https://wallstreetcn.com/articles/3769054",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时49分 ~ 07时28分]"
-        },
-        {
           "title": "外交部谈特朗普涉伊朗言论",
           "url": "https://news.ifeng.com/c/8rzs0Q10Ejk",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时49分 ~ 07时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时49分 ~ 09时29分]"
         },
         {
           "title": "伊朗强硬回应特朗普",
@@ -76,6 +79,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时49分"
+        },
+        {
+          "title": "美以伊战争丨炸完大桥特朗普再发威胁，伊朗回击",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
         },
         {
           "title": "特朗普讲话后金银直线跳水",
@@ -105,6 +119,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时45分 ~ 06时25分]"
+        },
+        {
+          "title": "发了又删，特朗普1小时闭门讲话引发巨大争议",
+          "url": "https://news.ifeng.com/c/8s10y0PIEwa",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
         },
         {
           "title": "特朗普认为伊朗战争结束后 抵押贷款利率将会下降",
@@ -203,6 +228,18 @@
           "time_info": "[04时28分 ~ 05时31分]"
         },
         {
+          "title": "伊朗回应特朗普所谓已胜利 SpaceX有望冲刺2万亿美元估值 | 环球市场",
+          "url": "https://www.cls.cn/detail/2334086",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 09时29分]"
+        },
+        {
           "title": "美华盛顿规划机构批准特朗普白宫宴会厅项目",
           "url": "https://wallstreetcn.com/livenews/3081794",
           "source": "华尔街见闻-快讯",
@@ -238,6 +275,17 @@
           "time_info": "01时43分"
         },
         {
+          "title": "密友出车祸被捕，特朗普紧急出面护短",
+          "url": "https://news.ifeng.com/c/8rs4tUu8kcn",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        },
+        {
           "title": "白宫官员确认，美国总统特朗普免去了帕姆·邦迪的美国司法部长职务。",
           "url": "https://flash.jin10.com/detail/20260403010625479800",
           "source": "金十数据",
@@ -247,17 +295,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
-        },
-        {
-          "title": "伊朗回应特朗普所谓已胜利 SpaceX有望冲刺2万亿美元估值 | 环球市场",
-          "url": "https://www.cls.cn/detail/2334086",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
         },
         {
           "title": "据CNN：美国总统特朗普免去帕姆·邦迪美国司法部长职务。",
@@ -282,13 +319,35 @@
           "time_info": "04时28分"
         },
         {
+          "title": "日本财务大臣片山皋月：特朗普的言论对市场的影响显著。 石油交易和外汇市场的投机行为正在增加。 我们一直以来都在谈论采取大胆的行动，立场是将从各个方面对市场采取行动。 市场波动性正在上升。 货币政策的具体细节由日本央行决定。",
+          "url": "https://wallstreetcn.com/livenews/3081866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        },
+        {
+          "title": "特朗普政府被曝考虑解职更多高官",
+          "url": "https://wallstreetcn.com/livenews/3081865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        },
+        {
           "title": "机构：特朗普对伊战争讲话为油市蒙上阴影，到4月底超6亿桶石油供应面临风险",
           "url": "https://wallstreetcn.com/livenews/3081824",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -313,6 +372,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "马克龙批评特朗普",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%85%8B%E9%BE%99%E6%89%B9%E8%AF%84%E7%89%B9%E6%9C%97%E6%99%AE%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        },
+        {
+          "title": "刚炒了司法部长，特朗普又盯上两个“心腹”：商务部长“如履薄冰”",
+          "url": "https://flash.jin10.com/detail/20260403085404648800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        },
+        {
+          "title": "特朗普炒掉司法部长邦迪",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%82%92%E6%8E%89%E5%8F%B8%E6%B3%95%E9%83%A8%E9%95%BF%E9%82%A6%E8%BF%AA%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
         },
         {
           "title": "伦敦基础金属下跌，特朗普威胁要袭击伊朗电厂",
@@ -349,11 +441,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时49分 ~ 07时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时49分 ~ 09时29分]"
         },
         {
           "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
@@ -397,6 +490,17 @@
           "time_info": "[00时49分 ~ 06时25分]"
         },
         {
+          "title": "美股收盘：三大指数涨跌不一 假期前投资者忧虑犹存",
+          "url": "https://www.cls.cn/detail/2334066",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 09时29分]"
+        },
+        {
           "title": "金十图示：2026年04月02日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260403003135168800",
           "source": "金十数据",
@@ -417,17 +521,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时49分"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 假期前投资者忧虑犹存",
-          "url": "https://www.cls.cn/detail/2334066",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
         },
         {
           "title": "美股周四收盘，道指初步收跌0.13%，标普500指数涨0.1%，纳指涨0.18%。特斯拉(TSLA.O)收跌超5%。纳斯达克中国金龙指数收跌0.34%。",
@@ -523,11 +616,12 @@
           "url": "https://news.ifeng.com/c/8s072hDEVK2",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时49分 ~ 07时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时49分 ~ 09时29分]"
         },
         {
           "title": "伊朗总统发表致美国人民的公开信",
@@ -672,11 +766,12 @@
             23,
             21,
             14,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时48分 ~ 07时28分]"
+          "appearance_count": 7,
+          "time_info": "[03时48分 ~ 09时29分]"
         },
         {
           "title": "10年期美债收益率周四冲高回落，本周仍累跌超12个基点",
@@ -762,7 +857,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
