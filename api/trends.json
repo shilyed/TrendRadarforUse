@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T13:52:59.889900+08:00",
-  "total_titles_processed": 911,
+  "generated_at": "2026-04-04T14:52:02.617859+08:00",
+  "total_titles_processed": 968,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时37分 ~ 13时52分]"
+          "appearance_count": 14,
+          "time_info": "[02时37分 ~ 14时52分]"
         },
         {
           "title": "发了又删，特朗普1小时闭门讲话引发巨大争议",
@@ -136,17 +136,6 @@
           "time_info": "[02时37分 ~ 05时27分]"
         },
         {
-          "title": "一名美军战机飞行员仍失踪，特朗普：希望“那种情况”不会发生",
-          "url": "https://wallstreetcn.com/livenews/3082385",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
-        },
-        {
           "title": "特朗普：美国战机坠毁不会影响与伊朗的谈判",
           "url": "https://flash.jin10.com/detail/20260404034503573800",
           "source": "金十数据",
@@ -186,6 +175,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时26分 ~ 09时23分]"
+        },
+        {
+          "title": "一名美军战机飞行员仍失踪，特朗普：希望“那种情况”不会发生",
+          "url": "https://wallstreetcn.com/livenews/3082385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 14时52分]"
         },
         {
           "title": "特朗普发文吹嘘自己创造了一个强大的经济增长引擎",
@@ -238,6 +239,17 @@
           "time_info": "[04时28分 ~ 07时27分]"
         },
         {
+          "title": "凤凰观察：出乎特朗普意料，伊朗正把一手烂牌打得很出色",
+          "url": "https://news.ifeng.com/c/8s2xxMXfWA9",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时52分 ~ 14时52分]"
+        },
+        {
           "title": "伊朗警告敢发动地面战绝不留活口，伊称击中敌先进战机、美否认，特朗普放炸桥视频施压",
           "url": "https://wallstreetcn.com/articles/3769139",
           "source": "华尔街见闻",
@@ -259,6 +271,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时27分 ~ 09时23分]"
+        },
+        {
+          "title": "特朗普一句话打回原形，市场为何这么容易上当？｜大师复盘",
+          "url": "https://flash.jin10.com/detail/20260404123540502800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 14时52分]"
         },
         {
           "title": "特朗普已就美战机在伊朗被击落听取简报",
@@ -332,28 +356,6 @@
           "time_info": "09时23分"
         },
         {
-          "title": "特朗普一句话打回原形，市场为何这么容易上当？｜大师复盘",
-          "url": "https://flash.jin10.com/detail/20260404123540502800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
-        },
-        {
-          "title": "凤凰观察：出乎特朗普意料，伊朗正把一手烂牌打得很出色",
-          "url": "https://news.ifeng.com/c/8s2xxMXfWA9",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
-        },
-        {
           "title": "如果特朗普休市突袭！开盘第一单该怎么做？",
           "url": "https://flash.jin10.com/detail/20260403233021951800",
           "source": "金十数据",
@@ -412,7 +414,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "伊朗前副总统提出停战方案，“处于弱势的美国会答应”",
@@ -424,6 +426,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时32分 ~ 07时27分]"
+        },
+        {
+          "title": "伊朗宣称击落一美国先进战斗机后，消息称该战机飞行员或被伊朗军方俘虏，若属实，会如何影响战场内外？",
+          "url": "https://www.zhihu.com/question/2023505434653324083",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时23分 ~ 14时52分]"
         },
         {
           "title": "美国防部：365名美军人员在对伊朗军事行动中受伤",
@@ -448,17 +461,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时26分 ~ 09时23分]"
-        },
-        {
-          "title": "伊朗宣称击落一美国先进战斗机后，消息称该战机飞行员或被伊朗军方俘虏，若属实，会如何影响战场内外？",
-          "url": "https://www.zhihu.com/question/2023505434653324083",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时23分 ~ 13时52分]"
         },
         {
           "title": "意大利央行下调2026年GDP预期至增长0.5%，因为（美国和以色列发动）伊朗战争的缘故；之前料增0.6%。 下调2027年GDP预期至增长0.5%（之前料增0.8%），维持2028年预期在增长0.8%不变。",
@@ -562,6 +564,30 @@
           "time_info": "[02时37分 ~ 05时27分]"
         },
         {
+          "title": "可能是伊朗战争迄今最全的一份“美国决策细节”披露",
+          "url": "https://wallstreetcn.com/articles/3769247",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时52分 ~ 14时52分]"
+        },
+        {
+          "title": "伊朗媒体：美国周四曾提议停火48小时，伊朗以猛攻回应",
+          "url": "https://wallstreetcn.com/articles/3769237",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时52分 ~ 14时52分]"
+        },
+        {
           "title": "比特币目前跌0.15%，持稳于66800美元上方。 据NBC报道，美国A-10战斗机在搜救之间坠毁飞机的过程中被伊朗击中。 A-10飞行员在科威特空域内弹射，目前是安全的。",
           "url": "https://wallstreetcn.com/livenews/3082330",
           "source": "华尔街见闻-快讯",
@@ -573,6 +599,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时26分 ~ 09时23分]"
+        },
+        {
+          "title": "美官员：伊朗对美国驻沙特大使馆的袭击造成严重破坏",
+          "url": "https://wallstreetcn.com/livenews/3082368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时11分 ~ 14时52分]"
         },
         {
           "title": "消息人士：美国最新情报称伊朗短期内不太可能开放霍尔木兹海峡",
@@ -623,18 +662,6 @@
           "time_info": "[00时32分 ~ 01时29分]"
         },
         {
-          "title": "美官员：伊朗对美国驻沙特大使馆的袭击造成严重破坏",
-          "url": "https://wallstreetcn.com/livenews/3082368",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时11分 ~ 13时52分]"
-        },
-        {
           "title": "据华尔街日报：伊朗官员表示，其不愿在未来几天内于伊斯兰堡与美国官员会面，且美方提出的要求不可接受。",
           "url": "https://flash.jin10.com/detail/20260404011501739800",
           "source": "金十数据",
@@ -659,17 +686,6 @@
           "time_info": "[00时32分 ~ 01时29分]"
         },
         {
-          "title": "可能是伊朗战争迄今最全的一份“美国决策细节”披露",
-          "url": "https://wallstreetcn.com/articles/3769247",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
-        },
-        {
           "title": "美国官员：伊朗袭击美驻沙特使馆造成的破坏远超披露程度",
           "url": "https://flash.jin10.com/detail/20260404081925220800",
           "source": "金十数据",
@@ -692,15 +708,15 @@
           "time_info": "09时23分"
         },
         {
-          "title": "伊朗媒体：美国周四曾提议停火48小时，伊朗以猛攻回应",
-          "url": "https://wallstreetcn.com/articles/3769237",
-          "source": "华尔街见闻",
+          "title": "以总理称将继续与美国共同打击伊朗",
+          "url": "https://flash.jin10.com/detail/20260404134729900800",
+          "source": "金十数据",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时52分"
+          "time_info": "14时52分"
         },
         {
           "title": "伊朗议长讽刺美国 从“政权更迭”到“找飞行员”",
