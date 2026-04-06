@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-06T18:02:50.483037+08:00",
-  "total_titles_processed": 1146,
+  "generated_at": "2026-04-06T19:43:03.098697+08:00",
+  "total_titles_processed": 1267,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 71,
       "titles": [
         {
           "title": "自周三以来“未公开露面”！特朗普“一反常态”低调，周末“不停工作”连海湖庄园都不去了",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时28分 ~ 18时02分]"
+          "appearance_count": 20,
+          "time_info": "[00时28分 ~ 19时43分]"
         },
         {
           "title": "特朗普想趁机卖油，美媒：结果可能让他后悔莫及",
@@ -75,8 +75,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时28分 ~ 18时02分]"
+          "appearance_count": 20,
+          "time_info": "[00时28分 ~ 19时43分]"
         },
         {
           "title": "下周重磅日程：特朗普再发“最后通牒”、中美通胀数据、三星与天孚通信业绩",
@@ -112,11 +112,12 @@
             7,
             6,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时28分 ~ 18时02分]"
+          "appearance_count": 20,
+          "time_info": "[00时28分 ~ 19时43分]"
         },
         {
           "title": "本周重磅日程：特朗普再发“最后通牒”、中美通胀数据、三星与天孚通信业绩",
@@ -125,11 +126,25 @@
           "ranks": [
             5,
             2,
-            1
+            1,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时48分 ~ 18时02分]"
+          "appearance_count": 8,
+          "time_info": "[09时48分 ~ 19时43分]"
+        },
+        {
+          "title": "“最后通牒”延后一天，特朗普称正与伊朗进行“深入谈判”，4月7日前“很有可能”与伊朗达成协议",
+          "url": "https://wallstreetcn.com/articles/3769299",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时39分 ~ 19时43分]"
         },
         {
           "title": "伊朗军方拒绝特朗普“48小时”通牒",
@@ -194,18 +209,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时28分 ~ 07时26分]"
-        },
-        {
-          "title": "“最后通牒”延后一天，特朗普称正与伊朗进行“深入谈判”，4月7日前“很有可能”与伊朗达成协议",
-          "url": "https://wallstreetcn.com/articles/3769299",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时39分 ~ 18时02分]"
         },
         {
           "title": "特朗普威胁伊朗：炸毁一切，接管石油",
@@ -303,6 +306,30 @@
           "time_info": "[06时22分 ~ 07时26分]"
         },
         {
+          "title": "【早报】特朗普暗示“最后期限”推迟1天，称有望于4月7日前达成协议",
+          "url": "https://www.cls.cn/detail/2335621",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时48分 ~ 19时43分]"
+        },
+        {
+          "title": "特朗普“飙脏话”威胁打开霍尔木兹海峡，伊朗最高领袖回应“将继续利用这一战略杠杆”，伊朗革命卫队称正备战“波斯湾新秩序”",
+          "url": "https://wallstreetcn.com/articles/3769302",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时39分 ~ 19时43分]"
+        },
+        {
           "title": "比特币跌幅收窄至大约0.6%，暂报66876美元。 据福克斯新闻报道，美国总统特朗普此前企图向伊朗抗议者们发放枪支弹药。 特朗普认为，库尔德截留了美方向伊朗抗议者们输送的武器。 特朗普宣称，很有可能会在明天（下周一）达成伊朗协议。",
           "url": "https://wallstreetcn.com/livenews/3082650",
           "source": "华尔街见闻-快讯",
@@ -331,6 +358,18 @@
           "time_info": "[00时28分 ~ 06时23分]"
         },
         {
+          "title": "特朗普：与伊朗协议有望达成 本周二将是“最终期限”",
+          "url": "https://www.cls.cn/detail/2335633",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时27分 ~ 19时43分]"
+        },
+        {
           "title": "特朗普又发“最后通牒”，油价上涨",
           "url": "https://flash.jin10.com/detail/20260406065306685800",
           "source": "金十数据",
@@ -348,7 +387,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -367,28 +406,17 @@
           "time_info": "[09时48分 ~ 18时02分]"
         },
         {
-          "title": "【早报】特朗普暗示“最后期限”推迟1天，称有望于4月7日前达成协议",
-          "url": "https://www.cls.cn/detail/2335621",
-          "source": "财联社热门",
+          "title": "诺奖得主、国际原子能机构前总干事敦促海湾各国：阻止特朗普",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32909372",
+          "source": "澎湃新闻",
           "ranks": [
-            13,
+            17,
+            16,
             12
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时48分 ~ 18时02分]"
-        },
-        {
-          "title": "特朗普“飙脏话”威胁打开霍尔木兹海峡，伊朗最高领袖回应“将继续利用这一战略杠杆”，伊朗革命卫队称正备战“波斯湾新秩序”",
-          "url": "https://wallstreetcn.com/articles/3769302",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时39分 ~ 18时02分]"
+          "time_info": "[14时27分 ~ 19时43分]"
         },
         {
           "title": "特朗普疑似公布对伊朗最后通牒具体时间",
@@ -403,6 +431,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时24分 ~ 04时24分]"
+        },
+        {
+          "title": "中东局势牵动市场 特朗普今夜新闻会！日韩股震荡上涨",
+          "url": "https://www.cls.cn/detail/2335649",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时19分 ~ 19时43分]"
         },
         {
           "title": "特朗普：相信能在6日之前与伊朗达成协议",
@@ -429,18 +469,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时28分 ~ 02时32分]"
-        },
-        {
-          "title": "特朗普：与伊朗协议有望达成 本周二将是“最终期限”",
-          "url": "https://www.cls.cn/detail/2335633",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时27分 ~ 18时02分]"
         },
         {
           "title": "伊朗军方：特朗普和美军遭遇的尴尬难以补救",
@@ -491,18 +519,6 @@
           "time_info": "[00时28分 ~ 01时24分]"
         },
         {
-          "title": "诺奖得主、国际原子能机构前总干事敦促海湾各国：阻止特朗普",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32909372",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时27分 ~ 18时02分]"
-        },
-        {
           "title": "据CNN：美国总统特朗普已经返回白宫。",
           "url": "https://flash.jin10.com/detail/20260406021242247800",
           "source": "金十数据",
@@ -542,17 +558,6 @@
           "time_info": "[01时24分 ~ 03时29分]"
         },
         {
-          "title": "中东局势牵动市场 特朗普今夜新闻会！日韩股震荡上涨",
-          "url": "https://www.cls.cn/detail/2335649",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时19分 ~ 18时02分]"
-        },
-        {
           "title": "据美国《国会山报》：美国总统特朗普表示，如果未能与伊朗达成协议，我们的打击名单上不会排除任何基础设施。",
           "url": "https://flash.jin10.com/detail/20260406011017076800",
           "source": "金十数据",
@@ -564,6 +569,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时32分 ~ 04时24分]"
+        },
+        {
+          "title": "专家：特朗普严重践踏国际法",
+          "url": "https://www.toutiao.com/trending/7624815817067380777/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 19时43分]"
         },
         {
           "title": "伊朗常驻联合国代表团：特朗普企图将中东拖入无休止战争",
@@ -736,7 +752,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -829,6 +845,17 @@
           "time_info": "00时28分"
         },
         {
+          "title": "特朗普再次极限施压，和平协议成市场二元开关 | 每日市场观察4.6",
+          "url": "https://flash.jin10.com/detail/20260406185143337800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
+        {
           "title": "特朗普称对救美飞行员结果满意",
           "url": "https://flash.jin10.com/detail/20260405231433911800",
           "source": "金十数据",
@@ -854,7 +881,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "两架美国“黑鹰”被伊朗山民击中",
@@ -887,6 +914,17 @@
           "time_info": "[00时28分 ~ 18时02分]"
         },
         {
+          "title": "美军炸毁C-130地点成网红打卡点，伊朗民众狂踩美国机徽",
+          "url": "https://v.ifeng.com/c/8s6Thj3S8bb",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时19分 ~ 19时43分]"
+        },
+        {
           "title": "伊朗总统办公室官员：当（美国和以色列发动的）战争造成的破坏“过缴纳通行费的方式”得到赔偿，霍尔木兹海峡就会重新开放。",
           "url": "https://wallstreetcn.com/livenews/3082664",
           "source": "华尔街见闻-快讯",
@@ -902,15 +940,15 @@
           "time_info": "[00时28分 ~ 07时26分]"
         },
         {
-          "title": "美军炸毁C-130地点成网红打卡点，伊朗民众狂踩美国机徽",
-          "url": "https://v.ifeng.com/c/8s6Thj3S8bb",
+          "title": "伊朗最高领袖顾问警告美国：或将封锁曼德海峡作为反制",
+          "url": "https://news.ifeng.com/c/8s65QJ9Vrbr",
           "source": "凤凰网",
           "ranks": [
-            5
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时19分 ~ 18时02分]"
+          "appearance_count": 7,
+          "time_info": "[12时39分 ~ 19时43分]"
         },
         {
           "title": "OPEC+强调（能源供应市场）保护措施的重要性，其中就包括海上通道。 OPEC对（美国和以色列发动伊朗战争造成的）袭击能源基础设施感到忧心忡忡。 战后对能源资产的重建将代价高昂，需要耗费时日。 OPEC+将于5月增产20.6万桶/日。 OPEC+定于6月7日举行下一轮联合部长级监督委员会（JMMC）会议。",
@@ -958,17 +996,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
-        },
-        {
-          "title": "伊朗最高领袖顾问警告美国：或将封锁曼德海峡作为反制",
-          "url": "https://news.ifeng.com/c/8s65QJ9Vrbr",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时39分 ~ 18时02分]"
         },
         {
           "title": "美国中央司令部承认，4月2日，一架F-15E战斗机在伊朗执行作战任务时被击落。",
@@ -1022,6 +1049,18 @@
           "time_info": "[09时48分 ~ 12时39分]"
         },
         {
+          "title": "伊朗警告美国或封锁曼德海峡反制",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A%E7%BE%8E%E5%9B%BD%E6%88%96%E5%B0%81%E9%94%81%E6%9B%BC%E5%BE%B7%E6%B5%B7%E5%B3%A1%E5%8F%8D%E5%88%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时27分 ~ 19时43分]"
+        },
+        {
           "title": "美国在伊朗的营救行动险些失败 原因是飞机无法起飞",
           "url": "https://flash.jin10.com/detail/20260406054643152800",
           "source": "金十数据",
@@ -1032,6 +1071,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时26分]"
+        },
+        {
+          "title": "石油问题冲击民调，高市急了：想和美国、伊朗分别对话",
+          "url": "https://news.ifeng.com/c/8s6aWG6g6uk",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 19时43分]"
         },
         {
           "title": "市场消息：伊朗革命卫队（IRGC）称，霍尔木兹海峡永远不会回到以前的样子，尤其是对美国和以色列而言。",
@@ -1106,15 +1156,15 @@
           "time_info": "[12时39分 ~ 14时27分]"
         },
         {
-          "title": "伊朗警告美国或封锁曼德海峡反制",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A%E7%BE%8E%E5%9B%BD%E6%88%96%E5%B0%81%E9%94%81%E6%9B%BC%E5%BE%B7%E6%B5%B7%E5%B3%A1%E5%8F%8D%E5%88%B6",
-          "source": "bilibili 热搜",
+          "title": "金十数据4月6日讯，伊朗伊斯兰革命卫队称，其袭击了美国两栖攻击舰LHA-7。",
+          "url": "https://flash.jin10.com/detail/20260406191558543800",
+          "source": "金十数据",
           "ranks": [
-            6
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时27分"
+          "time_info": "19时43分"
         },
         {
           "title": "声明显示，伊朗武装力量统一司令部发言人表示，伊朗打击了美国位于科威特布比延岛的新营地。",
@@ -1156,7 +1206,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -1167,9 +1217,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
+        },
+        {
+          "title": "美国政治学家：对中东稳定构成最大威胁的不是伊朗 是美国和以色列",
+          "url": "https://wallstreetcn.com/livenews/3082793",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
         }
       ]
     },
@@ -1230,7 +1291,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -1263,7 +1324,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -1289,11 +1350,12 @@
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%86%8D%E5%BA%A6%E5%9B%9E%E8%90%BD%E4%B8%8B%E8%B7%8C",
           "source": "百度热搜",
           "ranks": [
-            12
+            12,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时19分 ~ 18时02分]"
+          "appearance_count": 5,
+          "time_info": "[16时19分 ~ 19时43分]"
         },
         {
           "title": "机构：降息预期降温、中东冲突结束预期或限制金价上行空间",
@@ -1302,7 +1364,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -1313,7 +1375,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -1369,7 +1431,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         }
