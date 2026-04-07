@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T18:02:30.627607+08:00",
-  "total_titles_processed": 1443,
+  "generated_at": "2026-04-07T19:47:04.480945+08:00",
+  "total_titles_processed": 1584,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 147,
+      "match_count": 151,
       "titles": [
         {
           "title": "伊朗拒绝特朗普“48小时”通牒！华尔街紧绷：4月6日后会发生什么？",
@@ -66,8 +66,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时47分 ~ 18时02分]"
+          "appearance_count": 14,
+          "time_info": "[03时47分 ~ 19时47分]"
         },
         {
           "title": "特朗普：与伊朗协议有望达成 本周二将是“最终期限”",
@@ -144,6 +144,34 @@
           "time_info": "[09时31分 ~ 14时16分]"
         },
         {
+          "title": "特朗普公布营救飞行员细节：调集176架各类飞机、实施欺骗作战，正搜寻媒体泄密者",
+          "url": "https://wallstreetcn.com/articles/3769330",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时31分 ~ 19时47分]"
+        },
+        {
+          "title": "伊方：特朗普只有20个小时，要么屈服要么其盟友将退回石器时代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32915034",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时31分 ~ 19时47分]"
+        },
+        {
           "title": "特朗普：伊朗可在一夜内被击溃 或许就是7日晚上",
           "url": "https://www.cls.cn/detail/2335931",
           "source": "财联社热门",
@@ -155,6 +183,21 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时31分 ~ 16时07分]"
+        },
+        {
+          "title": "特朗普再发威胁：7日20时是“最后期限”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32914898",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            15,
+            14,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时31分 ~ 19时47分]"
         },
         {
           "title": "特朗普：该由美国收霍尔木兹海峡“通行费”",
@@ -169,17 +212,29 @@
           "time_info": "[09时31分 ~ 16时07分]"
         },
         {
-          "title": "特朗普公布营救飞行员细节：调集176架各类飞机、实施欺骗作战，正搜寻媒体泄密者",
-          "url": "https://wallstreetcn.com/articles/3769330",
-          "source": "华尔街见闻",
+          "title": "特朗普设下最后期限之际，美军“末日飞机”升空",
+          "url": "https://news.ifeng.com/c/8s8BIrAcO2o",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            8,
-            7
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时31分 ~ 18时02分]"
+          "appearance_count": 3,
+          "time_info": "[18时02分 ~ 19时47分]"
+        },
+        {
+          "title": "特朗普威胁伊朗“最后期限”，中方表态",
+          "url": "https://www.cls.cn/detail/2336527",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时07分 ~ 19时47分]"
         },
         {
           "title": "美以伊战争丨特朗普：出动上百架军机，为迷惑伊朗",
@@ -191,35 +246,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时15分 ~ 14时16分]"
-        },
-        {
-          "title": "伊方：特朗普只有20个小时，要么屈服要么其盟友将退回石器时代",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32915034",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时31分 ~ 18时02分]"
-        },
-        {
-          "title": "特朗普再发威胁：7日20时是“最后期限”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32914898",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            15,
-            14,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时31分 ~ 18时02分]"
         },
         {
           "title": "伊朗回应特朗普最新威胁：绝不退缩",
@@ -290,15 +316,16 @@
           "time_info": "09时31分"
         },
         {
-          "title": "特朗普设下最后期限之际，美军“末日飞机”升空",
-          "url": "https://news.ifeng.com/c/8s8BIrAcO2o",
-          "source": "凤凰网",
+          "title": "特朗普：一夜之间就能拿下伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32915316",
+          "source": "澎湃新闻",
           "ranks": [
-            2
+            19,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时15分 ~ 19时47分]"
         },
         {
           "title": "内塔尼亚胡警告特朗普",
@@ -323,6 +350,19 @@
           "time_info": "14时16分"
         },
         {
+          "title": "停火协议“希望渐灭”？美伊互下“最后通牒”：美以能源打击或已就绪，伊朗称特朗普“只剩20小时”！",
+          "url": "https://wallstreetcn.com/articles/3769368",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时07分 ~ 19时47分]"
+        },
+        {
           "title": "以色列总理警告特朗普勿仓促停火",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E6%80%BB%E7%90%86%E8%AD%A6%E5%91%8A%E7%89%B9%E6%9C%97%E6%99%AE%E5%8B%BF%E4%BB%93%E4%BF%83%E5%81%9C%E7%81%AB%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -332,6 +372,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "谁的“最后期限”？外媒称特朗普政府陷入进退维谷困境",
+          "url": "https://wallstreetcn.com/livenews/3083452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
         },
         {
           "title": "特朗普最后通牒将到期，全世界都在屏息等待",
@@ -370,6 +421,17 @@
           "time_info": "[12时28分 ~ 16时07分]"
         },
         {
+          "title": "中方回应特朗普威胁一夜击毁伊朗",
+          "url": "https://news.ifeng.com/c/8s8A2GH42fc",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时07分 ~ 19时47分]"
+        },
+        {
           "title": "提醒：美国总统特朗普在白宫的讲话结束。",
           "url": "https://wallstreetcn.com/livenews/3082936",
           "source": "华尔街见闻-快讯",
@@ -394,18 +456,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时46分 ~ 04时31分]"
-        },
-        {
-          "title": "特朗普威胁伊朗“最后期限”，中方表态",
-          "url": "https://www.cls.cn/detail/2336527",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时07分 ~ 18时02分]"
         },
         {
           "title": "金十提示：美国总统特朗普在白宫的新闻发布会结束。",
@@ -552,15 +602,16 @@
           "time_info": "[12时28分 ~ 14时16分]"
         },
         {
-          "title": "特朗普：一夜之间就能拿下伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32915316",
-          "source": "澎湃新闻",
+          "title": "特朗普：伊朗可在一夜内被击溃，或许就是7日晚，美国摧毁只需四小时",
+          "url": "https://wallstreetcn.com/articles/3769340",
+          "source": "华尔街见闻",
           "ranks": [
-            19
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时15分 ~ 18时02分]"
+          "appearance_count": 3,
+          "time_info": "[18时02分 ~ 19时47分]"
         },
         {
           "title": "美国总统特朗普谈及攫取伊朗石油，称：“胜利者”享有“战利品”。",
@@ -615,6 +666,18 @@
           "time_info": "[02时46分 ~ 04时31分]"
         },
         {
+          "title": "中方就特朗普威胁伊朗表态",
+          "url": "https://www.toutiao.com/trending/7624686886321393188/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时02分 ~ 19时47分]"
+        },
+        {
           "title": "伊朗：特朗普言论可能煽动恐怖主义",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E8%A8%80%E8%AE%BA%E5%8F%AF%E8%83%BD%E7%85%BD%E5%8A%A8%E6%81%90%E6%80%96%E4%B8%BB%E4%B9%89",
           "source": "百度热搜",
@@ -636,29 +699,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时28分 ~ 12时29分]"
-        },
-        {
-          "title": "中方回应特朗普威胁一夜击毁伊朗",
-          "url": "https://news.ifeng.com/c/8s8A2GH42fc",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时07分 ~ 18时02分]"
-        },
-        {
-          "title": "停火协议“希望渐灭”？美伊互下“最后通牒”：美以能源打击或已就绪，伊朗称特朗普“只剩20小时”！",
-          "url": "https://wallstreetcn.com/articles/3769368",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时07分 ~ 18时02分]"
         },
         {
           "title": "美国总统特朗普：我不想摧毁伊朗的基础设施。我们最不想做的就是重建发电厂。",
@@ -816,6 +856,17 @@
           "time_info": "[03时47分 ~ 04时31分]"
         },
         {
+          "title": "还剩最后16小时！特朗普会否在伊朗拒和后再次TACO？",
+          "url": "https://www.cls.cn/detail/2336608",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时46分 ~ 19时47分]"
+        },
+        {
           "title": "特朗普：7日是同伊朗达成协议的最终期限",
           "url": "https://wallstreetcn.com/livenews/3082889",
           "source": "华尔街见闻-快讯",
@@ -861,6 +912,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时28分 ~ 12时29分]"
+        },
+        {
+          "title": "内塔尼亚胡：特朗普对我们评价极高，如今的以色列史上最强",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32915431",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时46分 ~ 19时47分]"
         },
         {
           "title": "特朗普对伊朗再发威胁",
@@ -940,17 +1002,6 @@
           "time_info": "02时46分"
         },
         {
-          "title": "特朗普：伊朗可在一夜内被击溃，或许就是7日晚，美国摧毁只需四小时",
-          "url": "https://wallstreetcn.com/articles/3769340",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
           "title": "美国总统特朗普：韩国、澳大利亚和日本没有帮助美国。",
           "url": "https://flash.jin10.com/detail/20260407023039176800",
           "source": "金十数据",
@@ -1004,17 +1055,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
-        },
-        {
-          "title": "中方就特朗普威胁伊朗表态",
-          "url": "https://www.toutiao.com/trending/7624686886321393188/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
         },
         {
           "title": "美国总统特朗普：我希望夺取伊朗的石油。",
@@ -1556,6 +1596,17 @@
           "time_info": "02时46分"
         },
         {
+          "title": "三菱日联：特朗普最后期限到来前，市场交易偏谨慎",
+          "url": "https://flash.jin10.com/detail/20260407191930499800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        },
+        {
           "title": "美国总统特朗普：（谈伊朗最后期限）不会再改了。尚未签署任何停火协议。",
           "url": "https://flash.jin10.com/detail/20260406235420477800",
           "source": "金十数据",
@@ -1661,7 +1712,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -1702,7 +1753,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "伊朗拒绝临时停火，提10项条款回应美国停战提议，称只要领导层认为合适就继续战斗",
@@ -1712,8 +1763,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时39分 ~ 18时02分]"
+          "appearance_count": 17,
+          "time_info": "[01时39分 ~ 19时47分]"
         },
         {
           "title": "美军炸毁C-130地点成网红打卡点，伊朗民众狂踩美国机徽",
@@ -1899,6 +1950,17 @@
           "time_info": "01时39分"
         },
         {
+          "title": "伊朗警告称将打击美国及其盟友的基础设施，威胁在未来数年内切断美国及其盟友在本地区的石油和天然气供应",
+          "url": "https://wallstreetcn.com/livenews/3083447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        },
+        {
           "title": "伊朗外交部发言人：美国人民应该知道，他们政府在西亚对伊朗所做的事情是一种巨大的不公正，是一场不公平和侵略性的战争。美国人民必须让他们的政府对以他们名义所犯下的行为和罪行负责。",
           "url": "https://flash.jin10.com/detail/20260407035133254800",
           "source": "金十数据",
@@ -1981,8 +2043,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时29分 ~ 18时02分]"
+          "appearance_count": 10,
+          "time_info": "[07时29分 ~ 19时47分]"
         },
         {
           "title": "美股收盘：标普纳指连涨四天 存储概念走强希捷收新高",
@@ -2234,6 +2296,34 @@
       ]
     },
     {
+      "keyword_group": "黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "山金国际：预计一季度净利润13.5亿元-14.4亿元，同比增长94.57%-107.54%，黄金和白银价格同比上涨。",
+          "url": "https://wallstreetcn.com/livenews/3083428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        },
+        {
+          "title": "西部黄金：预计2026年第一季度净利润4.5亿元到5.6亿元，同比增加1161.38%到1469.71%；黄金产品销量较上年同期增加，销售价格较上年同期上升以及电解锰的销售价格较上年同期上升。",
+          "url": "https://wallstreetcn.com/livenews/3083414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -2280,7 +2370,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         }
