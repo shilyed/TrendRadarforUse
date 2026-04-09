@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T01:59:25.063881+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2026-04-10T03:07:06.705330+08:00",
+  "total_titles_processed": 452,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 23,
       "titles": [
         {
           "title": "以色列袭击黎巴嫩后霍尔木兹海峡再关闭，伊朗据称将收“过路费”且限量放行，白宫称特朗普反对收费",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 03时07分]"
         },
         {
           "title": "脆弱的停火：以色列依旧“搅屎棍”，特朗普还是“来回变”",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 03时07分]"
         },
         {
           "title": "停火首日即遇变数：特朗普“反复横跳”，不承认伊朗“10点计划”做基础",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 03时07分]"
         },
         {
           "title": "特朗普：10项停战条款是“假新闻”，美军将“继续驻扎在伊朗境内及其周边”",
@@ -48,8 +48,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 03时07分]"
+        },
+        {
+          "title": "特朗普称美媒披露的 10 项停战条款是假新闻，是为了诋毁事件相关人员，如何解读？双方讨论的框架到底是什么？",
+          "url": "https://www.zhihu.com/question/2025532903371580547",
+          "source": "知乎",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 03时07分]"
         },
         {
           "title": "伊朗战争丨特朗普要求内塔尼亚胡减少打击黎巴嫩",
@@ -63,16 +75,15 @@
           "time_info": "00时59分"
         },
         {
-          "title": "特朗普称美媒披露的 10 项停战条款是假新闻，是为了诋毁事件相关人员，如何解读？双方讨论的框架到底是什么？",
-          "url": "https://www.zhihu.com/question/2025532903371580547",
-          "source": "知乎",
+          "title": "特朗普夫人梅拉尼娅：呼吁国会为爱泼斯坦案受害者举行公开听证会。",
+          "url": "https://flash.jin10.com/detail/20260410023656710800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            4
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 01时59分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时07分"
         },
         {
           "title": "特朗普：美媒披露的伊方10项停火条款是“假新闻”",
@@ -82,8 +93,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 03时07分]"
         },
         {
           "title": "白宫称特朗普考虑“退群”：北约背弃美国人民，没能通过考验",
@@ -93,19 +104,108 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 03时07分]"
+        },
+        {
+          "title": "伊朗称黎巴嫩停火等停战条款被违反、破坏“谈判基础”，特朗普称停火不含黎，万斯称从未承诺包括",
+          "url": "https://wallstreetcn.com/articles/3769515",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时59分 ~ 01时59分]"
+          "time_info": "[03时06分 ~ 03时07分]"
         },
         {
           "title": "美国总统特朗普对达成伊朗和平协议“持乐观态度”。 如果伊朗不达成协议，后果将很痛苦。（NBC）",
           "url": "https://wallstreetcn.com/livenews/3085260",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时59分 ~ 03时07分]"
+        },
+        {
+          "title": "特朗普夫人梅拉尼娅：我从未与爱泼斯坦有过关系，爱泼斯坦没有把我介绍给特朗普，这些指控有损我的声誉。",
+          "url": "https://flash.jin10.com/detail/20260410023325174800",
+          "source": "金十数据",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时59分"
+          "time_info": "03时07分"
+        },
+        {
+          "title": "特朗普：已要求内塔尼亚胡在黎巴嫩行动“更低调”",
+          "url": "https://wallstreetcn.com/livenews/3085282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时07分"
+        },
+        {
+          "title": "白宫官员称，美国总统特朗普正考虑从欧洲撤出部分美军。",
+          "url": "https://wallstreetcn.com/livenews/3085281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时07分"
+        },
+        {
+          "title": "特朗普夫人梅拉尼娅：把我与爱泼斯坦扯上关系的谎言今天就必须停止。",
+          "url": "https://flash.jin10.com/detail/20260410023231639800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时07分"
+        },
+        {
+          "title": "白宫官员透露：特朗普正在考虑从欧洲撤回部分美军",
+          "url": "https://flash.jin10.com/detail/20260410022229780800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时07分"
+        },
+        {
+          "title": "特朗普称已要求内塔尼亚胡在黎巴嫩行动“更低调”",
+          "url": "https://flash.jin10.com/detail/20260410021709086800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时07分"
+        },
+        {
+          "title": "市场消息：白宫官员称，美国总统特朗普正考虑从欧洲撤出部分美军。",
+          "url": "https://flash.jin10.com/detail/20260410021546502800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时07分"
         },
         {
           "title": "据NBC新闻：特朗普表示，以色列正在缩减在黎巴嫩的行动。",
@@ -114,7 +214,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
         },
@@ -125,7 +225,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
         },
@@ -136,7 +236,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
         },
@@ -147,7 +247,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
         },
@@ -158,7 +258,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
         }
@@ -166,7 +266,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "伊朗副外长：只有美国真正停止在中东地区的“侵略”行为，霍尔木兹海峡才会重新开放",
@@ -176,8 +276,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 03时07分]"
         },
         {
           "title": "伊朗外长阿拉格齐：霍尔木兹海峡可通过相关指引实现安全通行。 美国应该叫停（以色列）在黎巴嫩、（中东）所有地区的战争。",
@@ -198,8 +298,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 03时07分]"
         },
         {
           "title": "伊朗外长阿拉格齐：内塔尼亚胡的刑事审判将于本周日继续进行。若能达成全地区范围的停火协议（包括在黎巴嫩），则将加速其入狱的命运。如果美国真想通过让内塔尼亚胡破坏外交手段来破坏本国经济，那这将是美国自己的选择。我们认为这样做很愚蠢，但我们对此已做好了准备。",
@@ -224,6 +324,17 @@
           "time_info": "00时59分"
         },
         {
+          "title": "伊朗：停战谈判启动取决于美国在地区各战线履行停火承诺",
+          "url": "https://wallstreetcn.com/livenews/3085280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时07分"
+        },
+        {
           "title": "伊朗外长阿拉格齐：美国应该停止在黎巴嫩及所有地区的战争。",
           "url": "https://flash.jin10.com/detail/20260410002747404800",
           "source": "金十数据",
@@ -241,7 +352,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
         },
@@ -252,7 +363,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
         },
@@ -282,7 +393,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创疫情来最大日跌幅",
@@ -292,8 +403,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 03时07分]"
         },
         {
           "title": "美伊停火持续性存疑 油价反弹美股震荡走弱 | 今夜看点",
@@ -303,8 +414,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 03时07分]"
+        },
+        {
+          "title": "贝莱德：市场对美股的盈利预期过于乐观",
+          "url": "https://wallstreetcn.com/livenews/3085283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时07分"
         }
       ]
     },
@@ -317,11 +439,12 @@
           "url": "https://wallstreetcn.com/livenews/3085261",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时59分 ~ 03时07分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.34%，暂报2510.64点，一度实现宽底U形反转。 MarketVectorTM数字资产100中盘指数跌0.91%，报2795.08点。 MarketVector数字资产100指数持平，报14321.46点。 目前，Solana涨0.05%，狗狗币跌0.88%，XPR持平。 比特币涨0.79%，暂报71841美元；以太坊跌0.36%，暂报2198.36美元。",
@@ -330,7 +453,35 @@
           "ranks": [
             25
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 4月9日（周四）晚盘收盘上涨0.86%报1051.0元/克；<br/>上海黄金交易所白银T+D 4月9日（周四）晚盘收盘上涨2.57%报18740.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260410023457645800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时07分"
+        },
+        {
+          "title": "现货白银日内涨幅扩大至3.00%，现报76.33美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260410011803201800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
         }
@@ -348,25 +499,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 01时59分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "现货白银日内涨幅扩大至3.00%，现报76.33美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260410011803201800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时59分"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 03时07分]"
         }
       ]
     }
