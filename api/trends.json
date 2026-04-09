@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-09T18:06:32.512742+08:00",
-  "total_titles_processed": 1463,
+  "generated_at": "2026-04-09T19:49:05.413772+08:00",
+  "total_titles_processed": 1590,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 83,
+      "match_count": 84,
       "titles": [
         {
           "title": "万斯威胁：特朗普没有多少耐心，希望尽快取得进展",
@@ -77,6 +77,18 @@
           "time_info": "[00时53分 ~ 06时32分]"
         },
         {
+          "title": "以色列袭击黎巴嫩后霍尔木兹海峡再关闭，伊朗据称将收“过路费”且限量放行，白宫称特朗普反对收费",
+          "url": "https://wallstreetcn.com/articles/3769517",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时24分 ~ 19时49分]"
+        },
+        {
           "title": "特朗普最后一刻TACO：中间人来回传话，一天内多轮修改方案，伊朗高层最终拍板，幕后一片混乱",
           "url": "https://wallstreetcn.com/articles/3769471",
           "source": "华尔街见闻",
@@ -92,16 +104,18 @@
           "time_info": "[00时53分 ~ 14时17分]"
         },
         {
-          "title": "以色列袭击黎巴嫩后霍尔木兹海峡再关闭，伊朗据称将收“过路费”且限量放行，白宫称特朗普反对收费",
-          "url": "https://wallstreetcn.com/articles/3769517",
+          "title": "停火首日即遇变数：特朗普“反复横跳”，不承认伊朗“10点计划”做基础",
+          "url": "https://wallstreetcn.com/articles/3769534",
           "source": "华尔街见闻",
           "ranks": [
-            2,
-            1
+            8,
+            5,
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时24分 ~ 18时06分]"
+          "appearance_count": 6,
+          "time_info": "[12时28分 ~ 19时49分]"
         },
         {
           "title": "美伊停火的关键斡旋者：与特朗普私交甚好的巴基斯坦陆军元帅",
@@ -114,6 +128,21 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时53分 ~ 09时24分]"
+        },
+        {
+          "title": "特朗普：美媒披露的伊方10项停火条款是“假新闻”",
+          "url": "https://www.cls.cn/detail/2338839",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            3,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时28分 ~ 19时49分]"
         },
         {
           "title": "尴尬！万斯演讲现场给特朗普打电话，手机那头传来：对不起…",
@@ -164,18 +193,18 @@
           "time_info": "[12时28分 ~ 16时15分]"
         },
         {
-          "title": "停火首日即遇变数：特朗普“反复横跳”，不承认伊朗“10点计划”做基础",
-          "url": "https://wallstreetcn.com/articles/3769534",
-          "source": "华尔街见闻",
+          "title": "美媒披露特朗普发动伊朗战争内幕：“全凭直觉”，除万斯外无人反对",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32927020",
+          "source": "澎湃新闻",
           "ranks": [
-            8,
-            5,
-            4,
-            3
+            20,
+            14,
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时28分 ~ 18时06分]"
+          "appearance_count": 7,
+          "time_info": "[09时24分 ~ 19时49分]"
         },
         {
           "title": "外交部回应特朗普：关税战没有赢家！",
@@ -190,18 +219,17 @@
           "time_info": "[16时15分 ~ 18时06分]"
         },
         {
-          "title": "特朗普：美媒披露的伊方10项停火条款是“假新闻”",
-          "url": "https://www.cls.cn/detail/2338839",
-          "source": "财联社热门",
+          "title": "脆弱的停火：以色列依旧“搅屎棍”，特朗普还是“来回变”",
+          "url": "https://wallstreetcn.com/articles/3769537",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
+            10,
             7,
-            3,
-            1
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时28分 ~ 18时06分]"
+          "appearance_count": 5,
+          "time_info": "[14时17分 ~ 19时49分]"
         },
         {
           "title": "伊朗终止同美直接外交联系、仍通过调解人沟通，巴基斯坦提议宽限两周、特朗普将回应，报道称很快有好消息",
@@ -247,7 +275,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时06分"
         },
@@ -332,30 +360,17 @@
           "time_info": "12时28分"
         },
         {
-          "title": "美媒披露特朗普发动伊朗战争内幕：“全凭直觉”，除万斯外无人反对",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32927020",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时24分 ~ 18时06分]"
-        },
-        {
-          "title": "脆弱的停火：以色列依旧“搅屎棍”，特朗普还是“来回变”",
-          "url": "https://wallstreetcn.com/articles/3769537",
+          "title": "特朗普：提议美伊联管霍尔木兹海峡，威胁向伊朗供武国家征收50%关税",
+          "url": "https://wallstreetcn.com/articles/3769503",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7,
-            4
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时17分 ~ 18时06分]"
+          "appearance_count": 5,
+          "time_info": "[12时28分 ~ 19时49分]"
         },
         {
           "title": "特朗普：所有美国舰船、飞机和军事人员将继续留在伊朗周围",
@@ -430,17 +445,41 @@
           "time_info": "[04时36分 ~ 05时36分]"
         },
         {
-          "title": "特朗普：提议美伊联管霍尔木兹海峡，威胁向伊朗供武国家征收50%关税",
-          "url": "https://wallstreetcn.com/articles/3769503",
-          "source": "华尔街见闻",
+          "title": "特朗普：美军将“继续驻扎在伊朗境内及其周边”",
+          "url": "https://www.cls.cn/detail/2338861",
+          "source": "财联社热门",
           "ranks": [
+            13,
             10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时15分 ~ 19时49分]"
+        },
+        {
+          "title": "特朗普：美媒披露的伊方10项停火条款是“假新闻”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32932623",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时15分 ~ 19时49分]"
+        },
+        {
+          "title": "在特朗普2.0任期内炒股竟有秘诀：标普十大涨幅日九个和TACO有关",
+          "url": "https://www.cls.cn/detail/2338928",
+          "source": "财联社热门",
+          "ranks": [
             9,
-            8
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时28分 ~ 18时06分]"
+          "time_info": "[18时06分 ~ 19时49分]"
         },
         {
           "title": "吹嘘伊朗乞求停火，美防长被打脸：是特朗普先退了",
@@ -452,6 +491,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时24分 ~ 14时17分]"
+        },
+        {
+          "title": "关税战没有赢家！外交部回应特朗普关税言论",
+          "url": "https://www.cls.cn/detail/2339082",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时06分 ~ 19时49分]"
         },
         {
           "title": "外交部回应特朗普认为是中国促使伊朗同意停火，「中方一直积极致力于促和止战」，哪些信息值得关注？",
@@ -491,27 +542,15 @@
           "time_info": "[03时25分 ~ 04时36分]"
         },
         {
-          "title": "特朗普：美军将“继续驻扎在伊朗境内及其周边”",
-          "url": "https://www.cls.cn/detail/2338861",
-          "source": "财联社热门",
+          "title": "特朗普：10项停战条款是“假新闻”，美军将“继续驻扎在伊朗境内及其周边”",
+          "url": "https://wallstreetcn.com/articles/3769556",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时15分 ~ 18时06分]"
-        },
-        {
-          "title": "特朗普：美媒披露的伊方10项停火条款是“假新闻”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32932623",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时15分 ~ 18时06分]"
+          "time_info": "[19时48分 ~ 19时49分]"
         },
         {
           "title": "特朗普称对向伊朗供武国家征收50%关税，中方回应",
@@ -531,7 +570,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时06分"
         },
@@ -575,18 +614,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时06分"
-        },
-        {
-          "title": "在特朗普2.0任期内炒股竟有秘诀：标普十大涨幅日九个和TACO有关",
-          "url": "https://www.cls.cn/detail/2338928",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时06分"
         },
@@ -674,18 +702,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时06分"
-        },
-        {
-          "title": "关税战没有赢家！外交部回应特朗普关税言论",
-          "url": "https://www.cls.cn/detail/2339082",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时06分"
         },
@@ -1026,8 +1043,31 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时53分 ~ 18时06分]"
+          "appearance_count": 15,
+          "time_info": "[00时53分 ~ 19时49分]"
+        },
+        {
+          "title": "车臣军队准备好被部署到伊朗对抗美国？卡德罗夫回应",
+          "url": "https://news.ifeng.com/c/8sB92Olw8mH",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时06分 ~ 19时49分]"
+        },
+        {
+          "title": "凤凰女记者：伊朗要求美国控制住以色列",
+          "url": "https://news.ifeng.com/c/8sBRkJzjodW",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时15分 ~ 19时49分]"
         },
         {
           "title": "埃及外交部：以色列在伊朗与美国达成停火协议后的周三对黎巴嫩发动袭击，反映出以色列蓄意破坏地区和国际社会为缓和局势所作努力的“预谋意图”。",
@@ -1052,17 +1092,6 @@
           "time_info": "07时32分"
         },
         {
-          "title": "车臣军队准备好被部署到伊朗对抗美国？卡德罗夫回应",
-          "url": "https://news.ifeng.com/c/8sB92Olw8mH",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时06分"
-        },
-        {
           "title": "白宫新闻秘书Leavitt：拿走伊朗的浓缩铀是美国的一个顶级优先目标。 美国企图通过外交手段拿走伊朗的浓缩铀。",
           "url": "https://wallstreetcn.com/livenews/3084516",
           "source": "华尔街见闻-快讯",
@@ -1073,18 +1102,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时01分 ~ 03时25分]"
-        },
-        {
-          "title": "凤凰女记者：伊朗要求美国控制住以色列",
-          "url": "https://news.ifeng.com/c/8sBRkJzjodW",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时15分 ~ 18时06分]"
         },
         {
           "title": "伊朗外长说美国必须二选一",
@@ -1416,7 +1433,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "美伊谈判现逆转信号，美股抹平跌幅，盘后又见TACO，美股指期货大涨，油价大跳水，金银跳涨",
@@ -1431,6 +1448,18 @@
           "time_info": "[00时53分 ~ 07时32分]"
         },
         {
+          "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创疫情来最大日跌幅",
+          "url": "https://wallstreetcn.com/articles/3769443",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时32分 ~ 19时49分]"
+        },
+        {
           "title": "报复性反弹！美伊“停火两周”，美股开盘集体上涨，美光涨超8%，现货钯金涨超9%，油价创近六年最大跌幅",
           "url": "https://wallstreetcn.com/articles/3769443",
           "source": "华尔街见闻",
@@ -1440,18 +1469,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时53分 ~ 05时36分]"
-        },
-        {
-          "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创疫情来最大日跌幅",
-          "url": "https://wallstreetcn.com/articles/3769443",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时32分 ~ 18时06分]"
         },
         {
           "title": "伊朗战争反复冲击市场 美股交易强度创历史新高",
@@ -1492,6 +1509,19 @@
           "time_info": "[00时53分 ~ 07时32分]"
         },
         {
+          "title": "又现内幕交易？美伊停火前 神秘资金精准“空原油、多美股”",
+          "url": "https://www.cls.cn/detail/2338764",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时28分 ~ 19时49分]"
+        },
+        {
           "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创六年最大单日跌幅",
           "url": "https://wallstreetcn.com/articles/3769443",
           "source": "华尔街见闻",
@@ -1509,22 +1539,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时06分"
-        },
-        {
-          "title": "又现内幕交易？美伊停火前 神秘资金精准“空原油、多美股”",
-          "url": "https://www.cls.cn/detail/2338764",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时28分 ~ 18时06分]"
         },
         {
           "title": "在美股时段交易的费城金银指数收涨3.28%，报399.65点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数涨4.03%，报2713.10点。 在美股时段交易的原材料指数收涨3.30%，金属与矿业指数收涨4.68%。",
@@ -1709,6 +1726,17 @@
           "time_info": "07时32分"
         },
         {
+          "title": "CoreWeave美股盘前涨超7%，公司与Meta签署210亿美元AI基础设施协议",
+          "url": "https://wallstreetcn.com/livenews/3085038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时49分"
+        },
+        {
           "title": "中信建投：若美股出现又一波下跌 建议积极增持",
           "url": "https://wallstreetcn.com/livenews/3084639",
           "source": "华尔街见闻-快讯",
@@ -1723,7 +1751,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "现货白银日内跌幅达1.00%，现报73.35美元/盎司。",
@@ -1790,6 +1818,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
+        },
+        {
+          "title": "湖南白银：2025年净利润3.4亿元，同比增长100.38%。",
+          "url": "https://wallstreetcn.com/livenews/3085030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "瑞银：对美债保持谨慎 预计德债表现更佳",
+          "url": "https://flash.jin10.com/detail/20260409193909245800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时49分"
+        },
+        {
+          "title": "美债收益率于美联储会议纪要发布后转涨",
+          "url": "https://wallstreetcn.com/livenews/3084556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时36分]"
+        },
+        {
+          "title": "美联储3月会议纪要发布后，标普500指数涨幅维持在2.6%。 现货黄金维持0.8%的涨幅，持稳于北京时间06:32刷新的日低4713.94美元附近。 美国10年期国债收益率维持大约18个基点的跌幅，报4.2753%，01:00披露美债拍卖结果之后、在01:26回升至4.2832%刷新日高。 两年期美债收益率跌幅收窄至大约14个基点，刷新日高至3.7855%。 美元指数跌幅扩大至0.96%，测试98.900点。",
+          "url": "https://wallstreetcn.com/livenews/3084524",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时25分"
         }
       ]
     },
@@ -1829,35 +1908,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美债收益率于美联储会议纪要发布后转涨",
-          "url": "https://wallstreetcn.com/livenews/3084556",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时36分 ~ 05时36分]"
-        },
-        {
-          "title": "美联储3月会议纪要发布后，标普500指数涨幅维持在2.6%。 现货黄金维持0.8%的涨幅，持稳于北京时间06:32刷新的日低4713.94美元附近。 美国10年期国债收益率维持大约18个基点的跌幅，报4.2753%，01:00披露美债拍卖结果之后、在01:26回升至4.2832%刷新日高。 两年期美债收益率跌幅收窄至大约14个基点，刷新日高至3.7855%。 美元指数跌幅扩大至0.96%，测试98.900点。",
-          "url": "https://wallstreetcn.com/livenews/3084524",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时25分"
         }
       ]
     },
