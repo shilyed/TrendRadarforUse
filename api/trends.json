@@ -1,34 +1,23 @@
 {
-  "generated_at": "2026-04-09T07:32:28.989664+08:00",
-  "total_titles_processed": 721,
+  "generated_at": "2026-04-09T09:24:45.221463+08:00",
+  "total_titles_processed": 874,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 57,
       "titles": [
-        {
-          "title": "美副总统万斯：美伊停火为“脆弱休战” 特朗普“急于看到进展”",
-          "url": "https://www.cls.cn/detail/2338136",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 07时32分]"
-        },
         {
           "title": "特朗普威胁对向伊朗供武国家加税",
           "url": "https://news.ifeng.com/c/8sA9vYHDTBG",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 07时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 09时24分]"
         },
         {
           "title": "特朗普提议与伊朗联合管理霍尔木兹海峡",
@@ -38,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 07时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 09时24分]"
         },
         {
           "title": "万斯威胁：特朗普没有多少耐心，希望尽快取得进展",
@@ -47,6 +36,18 @@
           "source": "凤凰网",
           "ranks": [
             5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 09时24分]"
+        },
+        {
+          "title": "美副总统万斯：美伊停火为“脆弱休战” 特朗普“急于看到进展”",
+          "url": "https://www.cls.cn/detail/2338136",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -75,28 +76,30 @@
           "time_info": "[00时53分 ~ 06时32分]"
         },
         {
-          "title": "美伊停火的关键斡旋者：与特朗普私交甚好的巴基斯坦陆军元帅",
-          "url": "https://news.ifeng.com/c/8sA49KKqTTa",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 07时32分]"
-        },
-        {
           "title": "特朗普最后一刻TACO：中间人来回传话，一天内多轮修改方案，伊朗高层最终拍板，幕后一片混乱",
           "url": "https://wallstreetcn.com/articles/3769471",
           "source": "华尔街见闻",
           "ranks": [
             9,
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 07时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 09时24分]"
+        },
+        {
+          "title": "美伊停火的关键斡旋者：与特朗普私交甚好的巴基斯坦陆军元帅",
+          "url": "https://news.ifeng.com/c/8sA49KKqTTa",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 09时24分]"
         },
         {
           "title": "尴尬！万斯演讲现场给特朗普打电话，手机那头传来：对不起…",
@@ -106,8 +109,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 07时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 09时24分]"
         },
         {
           "title": "特朗普宣布对伊朗武器供应国加征 50% 关税，如何看待这一表态？可能带来哪些影响？",
@@ -138,7 +141,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -149,9 +152,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "以色列袭击黎巴嫩后霍尔木兹海峡再关闭，伊朗据称将收“过路费”且限量放行，白宫称特朗普反对收费",
+          "url": "https://wallstreetcn.com/articles/3769517",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         },
         {
           "title": "法国总统马克龙：已告知伊朗总统佩泽希齐扬和美国总统特朗普，他们接受停火的决定是最佳选择。",
@@ -241,11 +255,24 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时32分 ~ 09时24分]"
+        },
+        {
+          "title": "从惊魂到TACO--特朗普震惊世界的12小时",
+          "url": "https://wallstreetcn.com/articles/3769455",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时32分 ~ 07时32分]"
+          "time_info": "[07时32分 ~ 09时24分]"
         },
         {
           "title": "【内塔尼亚胡：临时停火“并非战争的结束”】以色列总理内塔尼亚胡8日晚发表视频讲话称，美国总统特朗普与伊朗达成的临时停火是与以色列协调的结果。这“并非战争的结束”，而是以方所有既定目标实现过程中的一个阶段。（新华社）",
@@ -277,9 +304,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "吹嘘伊朗乞求停火，美防长被打脸：是特朗普先退了",
+          "url": "https://news.ifeng.com/c/8sALx5qaI3W",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         },
         {
           "title": "白宫新闻秘书莱维特：北约经受了考验，但他们失败了。美国总统特朗普期待与北约秘书长吕特进行坦诚对话。",
@@ -310,20 +348,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
         {
-          "title": "从惊魂到TACO--特朗普震惊世界的12小时",
-          "url": "https://wallstreetcn.com/articles/3769455",
+          "title": "特朗普：若谈判不顺，美国能轻易恢复对伊军事行动，万斯：\"脆弱休战\"基础初步形成",
+          "url": "https://wallstreetcn.com/articles/3769486",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时32分"
+          "time_info": "09时24分"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普对伊朗发出了非常严重的威胁。",
@@ -354,7 +392,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -398,7 +436,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -409,7 +447,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -456,6 +494,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时32分"
+        },
+        {
+          "title": "特朗普不满北约：还记得格陵兰岛吗",
+          "url": "https://wallstreetcn.com/livenews/3084653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
+          "title": "美媒披露特朗普发动伊朗战争内幕：“全凭直觉”，除万斯外无人反对",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32927020",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         },
         {
           "title": "特朗普称黎巴嫩未被纳入美伊临时停火范围",
@@ -593,7 +653,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "伊朗接受停火提议：已提交十点计划，敌人“遭受历史性和彻底失败”，与美国谈判不意味着结束战争",
@@ -608,6 +668,20 @@
           "time_info": "[00时53分 ~ 07时32分]"
         },
         {
+          "title": "伊朗称美国原则上承诺履行八项义务，若美不接受“十点计划”，停火协议将无效",
+          "url": "https://wallstreetcn.com/articles/3769476",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 09时24分]"
+        },
+        {
           "title": "美国与伊朗停火是意在脱身中东乱局吗？两周谈判能谈出什么？",
           "url": "https://www.zhihu.com/question/2025249624340914800",
           "source": "知乎",
@@ -616,24 +690,12 @@
             4,
             2,
             3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时01分 ~ 07时32分]"
-        },
-        {
-          "title": "伊朗称美国原则上承诺履行八项义务，若美不接受“十点计划”，停火协议将无效",
-          "url": "https://wallstreetcn.com/articles/3769476",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
+            6,
+            13
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时53分 ~ 07时32分]"
+          "time_info": "[02时01分 ~ 09时24分]"
         },
         {
           "title": "一图看懂｜和伊朗打了39天，美国至少烧了多少钱？",
@@ -642,11 +704,12 @@
           "ranks": [
             17,
             18,
-            19
+            19,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 07时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 09时24分]"
         },
         {
           "title": "埃及外交部：以色列在伊朗与美国达成停火协议后的周三对黎巴嫩发动袭击，反映出以色列蓄意破坏地区和国际社会为缓和局势所作努力的“预谋意图”。",
@@ -666,7 +729,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -749,7 +812,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -829,6 +892,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
+        },
+        {
+          "title": "美媒爆料美国未就涉伊朗临时停火协议及时与以色列协商，内塔尼亚胡否认",
+          "url": "https://wallstreetcn.com/livenews/3084658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         },
         {
           "title": "伊朗外交部：伊朗外长在与土耳其外长的通话中表示，伊朗接受停火协议，将其作为彻底结束战争的基础。 德黑兰方面同意停火是基于其“十点计划”，并将其作为与美国进行谈判的基础。 伊朗外长告诉土耳其外长，如果美方表现出诚意，就有可能实现战争的结束，并建立持久的稳定与安全。",
@@ -977,7 +1051,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "美伊谈判现逆转信号，美股抹平跌幅，盘后又见TACO，美股指期货大涨，油价大跳水，金银跳涨",
@@ -1009,11 +1083,12 @@
           "ranks": [
             6,
             5,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 07时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 09时24分]"
         },
         {
           "title": "美股三大指数大幅高开 纳指涨3.65%",
@@ -1033,9 +1108,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时32分 ~ 09时24分]"
+        },
+        {
+          "title": "美股收盘：三大指数均涨超2% 芯片股全线爆发、能源巨头重挫",
+          "url": "https://www.cls.cn/detail/2338535",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时32分 ~ 09时24分]"
         },
         {
           "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创六年最大单日跌幅",
@@ -1047,17 +1134,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时32分"
-        },
-        {
-          "title": "美股收盘：三大指数均涨超2% 芯片股全线爆发、能源巨头重挫",
-          "url": "https://www.cls.cn/detail/2338535",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时32分"
         },
         {
           "title": "在美股时段交易的费城金银指数收涨3.28%，报399.65点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数涨4.03%，报2713.10点。 在美股时段交易的原材料指数收涨3.30%，金属与矿业指数收涨4.68%。",
@@ -1154,6 +1230,17 @@
           "time_info": "04时36分"
         },
         {
+          "title": "美股三大指数均涨超2% 能源巨头重挫",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%9D%87%E6%B6%A8%E8%B6%852%25+%E8%83%BD%E6%BA%90%E5%B7%A8%E5%A4%B4%E9%87%8D%E6%8C%AB",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
           "title": "金十图示：2026年04月08日（周三）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260409003209598800",
           "source": "金十数据",
@@ -1204,9 +1291,81 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "中信建投：若美股出现又一波下跌 建议积极增持",
+          "url": "https://wallstreetcn.com/livenews/3084639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "现货白银日内跌幅达1.00%，现报73.35美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260409090312753800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
+          "title": "挂单报告：国际现货黄金逼近4700关口 国际现货白银留意空单押注",
+          "url": "https://flash.jin10.com/detail/20260409090209162800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 4月9日（周四）早盘盘初下跌1.68%报1038.68元/克；<br/>上海黄金交易所白银T+D 4月9日（周四）早盘盘初下跌2.72%报18210.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260409090115365800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加67.58吨，当前持仓量为15332.07吨。欢迎点击查看数据中心...",
+          "url": "https://flash.jin10.com/detail/20260409054818249800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时32分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 4月8日（周三）晚盘收盘下跌1.52%报1040.4元/克；<br/>上海黄金交易所白银T+D 4月8日（周三）晚盘收盘下跌2.02%报18340.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260409023114801800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时25分"
         }
       ]
     },
@@ -1265,34 +1424,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加67.58吨，当前持仓量为15332.07吨。欢迎点击查看数据中心...",
-          "url": "https://flash.jin10.com/detail/20260409054818249800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 4月8日（周三）晚盘收盘下跌1.52%报1040.4元/克；<br/>上海黄金交易所白银T+D 4月8日（周三）晚盘收盘下跌2.02%报18340.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260409023114801800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时25分"
         }
       ]
     },
