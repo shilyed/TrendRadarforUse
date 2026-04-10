@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T16:18:29.344880+08:00",
-  "total_titles_processed": 1331,
+  "generated_at": "2026-04-10T18:03:27.235869+08:00",
+  "total_titles_processed": 1481,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 57,
       "titles": [
         {
           "title": "脆弱的停火：以色列依旧“搅屎棍”，特朗普还是“来回变”",
@@ -98,6 +98,18 @@
           "time_info": "[00时59分 ~ 09时48分]"
         },
         {
+          "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
+          "url": "https://wallstreetcn.com/articles/3769619",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时48分 ~ 18时03分]"
+        },
+        {
           "title": "美伊“火药味”又浓了？关于霍尔木兹，特朗普和伊朗最高领袖分别说……",
           "url": "https://www.cls.cn/detail/2339900",
           "source": "财联社热门",
@@ -105,18 +117,6 @@
             3,
             2,
             1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时48分 ~ 16时18分]"
-        },
-        {
-          "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
-          "url": "https://wallstreetcn.com/articles/3769619",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -352,7 +352,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
         },
@@ -423,6 +423,17 @@
           "time_info": "03时07分"
         },
         {
+          "title": "特朗普真要从欧洲撤走美军？白宫称“在商讨”",
+          "url": "https://news.ifeng.com/c/8sDAVEwvCNz",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
           "title": "特朗普夫人梅拉尼娅：把我与爱泼斯坦扯上关系的谎言今天就必须停止。",
           "url": "https://flash.jin10.com/detail/20260410023231639800",
           "source": "金十数据",
@@ -432,6 +443,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "格陵兰岛总理回应特朗普：我们不是一块冰",
+          "url": "https://news.ifeng.com/c/8sClfHB09mn",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "美国总统特朗普表示，他对梅拉尼娅的声明“一无所知”。",
@@ -522,6 +544,17 @@
           "time_info": "07时33分"
         },
         {
+          "title": "特朗普对鲤鱼宣战",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%B2%A4%E9%B1%BC%E5%AE%A3%E6%88%98%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
           "title": "市场消息：白宫官员称，美国总统特朗普正考虑从欧洲撤出部分美军。",
           "url": "https://flash.jin10.com/detail/20260410021546502800",
           "source": "金十数据",
@@ -564,6 +597,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时34分"
+        },
+        {
+          "title": "特朗普要撤军？白宫称“在商讨”",
+          "url": "https://wallstreetcn.com/livenews/3085748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "据NBC新闻：特朗普表示，内塔尼亚胡称他会低调处理。",
@@ -624,7 +668,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "伊朗副外长：只有美国真正停止在中东地区的“侵略”行为，霍尔木兹海峡才会重新开放",
@@ -682,6 +726,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时34分"
+        },
+        {
+          "title": "美伊谈判谁握有主动权？李绍先：美国要零核，伊朗要赔偿",
+          "url": "https://news.ifeng.com/c/8sDDtzEmihG",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "伊朗外长阿拉格齐：霍尔木兹海峡可通过相关指引实现安全通行。 美国应该叫停（以色列）在黎巴嫩、（中东）所有地区的战争。",
@@ -797,6 +852,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "伊朗副外长：美国不能放任以色列对黎杀戮",
+          "url": "https://flash.jin10.com/detail/20260410173743877800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "知情人士：在黎巴嫩停火前 伊朗认为与美国进行谈判的选项已搁置",
@@ -986,7 +1052,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
         },
@@ -997,7 +1063,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
         },
@@ -1081,7 +1147,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
         },
@@ -1267,8 +1333,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时32分 ~ 16时18分]"
+          "appearance_count": 7,
+          "time_info": "[07时32分 ~ 18时03分]"
         },
         {
           "title": "创业板指涨超2%，沪指涨0.61%，深成指涨1.33%，电池、券商、半导体芯片等方向领涨，沪深京三市上涨个股近4300只。",
