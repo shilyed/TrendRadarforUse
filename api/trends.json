@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T18:03:27.235869+08:00",
-  "total_titles_processed": 1481,
+  "generated_at": "2026-04-10T19:42:26.749306+08:00",
+  "total_titles_processed": 1616,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 62,
       "titles": [
         {
           "title": "脆弱的停火：以色列依旧“搅屎棍”，特朗普还是“来回变”",
@@ -72,6 +72,18 @@
           "time_info": "[00时59分 ~ 09时48分]"
         },
         {
+          "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
+          "url": "https://wallstreetcn.com/articles/3769619",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时48分 ~ 19时42分]"
+        },
+        {
           "title": "特朗普：美媒披露的伊方10项停火条款是“假新闻”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32932623",
           "source": "澎湃新闻",
@@ -96,18 +108,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时59分 ~ 09时48分]"
-        },
-        {
-          "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
-          "url": "https://wallstreetcn.com/articles/3769619",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时48分 ~ 18时03分]"
         },
         {
           "title": "美伊“火药味”又浓了？关于霍尔木兹，特朗普和伊朗最高领袖分别说……",
@@ -190,6 +190,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
+        },
+        {
+          "title": "特朗普提出一个要求，内塔尼亚胡会听吗？",
+          "url": "https://news.ifeng.com/c/8sDJxBFO6Rp",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
+          "title": "外媒辛辣提问北约秘书长：你现在还想叫特朗普“爸爸”吗？",
+          "url": "https://news.ifeng.com/c/8sDM78iyrZJ",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         },
         {
           "title": "美国总统特朗普：无论有没有伊朗的帮助，（来自波斯湾的）石油都会开始流动。",
@@ -323,6 +345,18 @@
           "time_info": "[05时40分 ~ 06时34分]"
         },
         {
+          "title": "特朗普对鲤鱼宣战",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%B2%A4%E9%B1%BC%E5%AE%A3%E6%88%98%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时03分 ~ 19时42分]"
+        },
+        {
           "title": "美媒称特朗普要求以色列总理内塔尼亚胡减少对黎巴嫩的打击",
           "url": "https://m.thepaper.cn/newsDetail_forward_32936449",
           "source": "澎湃新闻",
@@ -412,6 +446,17 @@
           "time_info": "07时33分"
         },
         {
+          "title": "美媒：特朗普施压，以黎将于华盛顿开展首轮对话",
+          "url": "https://news.ifeng.com/c/8sDJxBFO6Wy",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
           "title": "白宫官员称，美国总统特朗普正考虑从欧洲撤出部分美军。",
           "url": "https://wallstreetcn.com/livenews/3085281",
           "source": "华尔街见闻-快讯",
@@ -429,7 +474,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         },
@@ -451,7 +496,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         },
@@ -487,6 +532,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "金十数据整理：白宫称特朗普考虑从欧洲撤军，驻欧美军分布一览",
+          "url": "https://flash.jin10.com/detail/20260410190711533800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         },
         {
           "title": "美国总统特朗普：伊朗在允许石油通过霍尔木兹海峡输送方面做得糟糕。 有些人会说，那是不光彩的。 （谈及伊朗与霍尔木兹海峡）那并非我们所达成的协议。",
@@ -544,17 +600,6 @@
           "time_info": "07时33分"
         },
         {
-          "title": "特朗普对鲤鱼宣战",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%B2%A4%E9%B1%BC%E5%AE%A3%E6%88%98%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时03分"
-        },
-        {
           "title": "市场消息：白宫官员称，美国总统特朗普正考虑从欧洲撤出部分美军。",
           "url": "https://flash.jin10.com/detail/20260410021546502800",
           "source": "金十数据",
@@ -605,7 +650,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         },
@@ -654,6 +699,17 @@
           "time_info": "01时59分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-10）",
+          "url": "https://flash.jin10.com/detail/20260410185537249800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
           "title": "据NBC新闻：特朗普表示，乐观地认为伊朗和平协议指日可待。",
           "url": "https://flash.jin10.com/detail/20260410011557152800",
           "source": "金十数据",
@@ -668,7 +724,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "伊朗副外长：只有美国真正停止在中东地区的“侵略”行为，霍尔木兹海峡才会重新开放",
@@ -728,17 +784,6 @@
           "time_info": "06时34分"
         },
         {
-          "title": "美伊谈判谁握有主动权？李绍先：美国要零核，伊朗要赔偿",
-          "url": "https://news.ifeng.com/c/8sDDtzEmihG",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时03分"
-        },
-        {
           "title": "伊朗外长阿拉格齐：霍尔木兹海峡可通过相关指引实现安全通行。 美国应该叫停（以色列）在黎巴嫩、（中东）所有地区的战争。",
           "url": "https://wallstreetcn.com/livenews/3085239",
           "source": "华尔街见闻-快讯",
@@ -787,6 +832,18 @@
           "time_info": "[06时34分 ~ 07时33分]"
         },
         {
+          "title": "美伊谈判谁握有主动权？李绍先：美国要零核，伊朗要赔偿",
+          "url": "https://news.ifeng.com/c/8sDDtzEmihG",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时03分 ~ 19时42分]"
+        },
+        {
           "title": "据了解，Kamal Kharazi已经在美国和以色列发动的袭击中受伤。（伊朗媒体Irna）",
           "url": "https://wallstreetcn.com/livenews/3085342",
           "source": "华尔街见闻-快讯",
@@ -808,6 +865,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "系好安全带！伊朗冲突点燃油价，今晚美国CPI或创四年最大环比涨幅",
+          "url": "https://wallstreetcn.com/articles/3769663",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         },
         {
           "title": "美国白宫警告其雇员，鉴于伊朗战争，不要在预测市场上进行相关下注。",
@@ -860,9 +928,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
+        },
+        {
+          "title": "伊朗议长将率团与美国谈判，美方由副总统万斯率团，谈判主要有哪些议题？最终决定权是否仍在最高领袖手中？",
+          "url": "https://www.zhihu.com/question/2025233700363727989",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         },
         {
           "title": "知情人士：在黎巴嫩停火前 伊朗认为与美国进行谈判的选项已搁置",
@@ -1114,6 +1193,89 @@
       ]
     },
     {
+      "keyword_group": "半导体",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "以黎会谈计划提振停火预期，标普七连涨，半导体指数再新高，原油冲高回落",
+          "url": "https://wallstreetcn.com/articles/3769555",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时32分 ~ 19时42分]"
+        },
+        {
+          "title": "创业板指涨超2%，沪指涨0.61%，深成指涨1.33%，电池、券商、半导体芯片等方向领涨，沪深京三市上涨个股近4300只。",
+          "url": "https://wallstreetcn.com/livenews/3085460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "标普500指数初步收涨0.6%，可选消费板块涨2.4%，能源板块跌1.1%。 纳斯达克100指数初步收涨0.7%，成分股中，亚马逊涨5.3%，英特尔涨4.9%，拉姆研究涨4.8%，美光涨3.6%，科磊涨3.2%，Palantir跌7.2%，CrowdStrike跌7.3%，Axon跌10.8%，Zscaler跌11.5%。 亚马逊领跑道指成分股，卡特彼勒、耐克、安进、沃尔玛等涨超1%，思科跌0.6%，雪佛龙跌1.4%，IBM跌2%，Salesforce跌3%。 费城半导体指数初步收涨2%，继续创收盘历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3085314",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "沃格光电：公司关注到近期有媒体报道称“三星电机向苹果公司供应用于AI服务器定制芯片封装的半导体玻璃基板样品”，公司目前未参与相关产品开发与生产。",
+          "url": "https://wallstreetcn.com/livenews/3085832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
+          "title": "彩虹股份：公司关注到部分媒体报道了“公司于2026年4月7日收到美国国际贸易委员会（ITC）公布337-TA-1441案件初裁结果，认定公司现用自主研发的“616”新料方玻璃基板不侵犯美国康宁公司专利”。目前该裁定属于初裁结果，后续将按照ITC相关程序进入行政复审和最终裁决，公司将持续关注后续进展并依法合规应对。公司关注到有媒体将公司列入“玻璃基板封装概念”，公司主营业务之一为显示用基板玻璃的生产和销售，产品主要客户为液晶面板厂商。公司在持续进行基板玻璃在半导体封装领域的市场分析、技术跟踪与研究，目前尚处于研发阶段，没有产品进入相关领域的测试。",
+          "url": "https://wallstreetcn.com/livenews/3085829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
+          "title": "恒指高开0.54%，报25891.88点；恒生科技指数涨0.47%。华虹半导体涨3.5%，中芯国际、联想涨2.3%。",
+          "url": "https://wallstreetcn.com/livenews/3085433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "沃格光电：未参与半导体玻璃基板产品开发与生产",
+          "url": "https://flash.jin10.com/detail/20260410184835944800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "白银",
       "match_count": 6,
       "titles": [
@@ -1322,56 +1484,6 @@
       ]
     },
     {
-      "keyword_group": "半导体",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "以黎会谈计划提振停火预期，标普七连涨，半导体指数再新高，原油冲高回落",
-          "url": "https://wallstreetcn.com/articles/3769555",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时32分 ~ 18时03分]"
-        },
-        {
-          "title": "创业板指涨超2%，沪指涨0.61%，深成指涨1.33%，电池、券商、半导体芯片等方向领涨，沪深京三市上涨个股近4300只。",
-          "url": "https://wallstreetcn.com/livenews/3085460",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "标普500指数初步收涨0.6%，可选消费板块涨2.4%，能源板块跌1.1%。 纳斯达克100指数初步收涨0.7%，成分股中，亚马逊涨5.3%，英特尔涨4.9%，拉姆研究涨4.8%，美光涨3.6%，科磊涨3.2%，Palantir跌7.2%，CrowdStrike跌7.3%，Axon跌10.8%，Zscaler跌11.5%。 亚马逊领跑道指成分股，卡特彼勒、耐克、安进、沃尔玛等涨超1%，思科跌0.6%，雪佛龙跌1.4%，IBM跌2%，Salesforce跌3%。 费城半导体指数初步收涨2%，继续创收盘历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3085314",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时42分"
-        },
-        {
-          "title": "恒指高开0.54%，报25891.88点；恒生科技指数涨0.47%。华虹半导体涨3.5%，中芯国际、联想涨2.3%。",
-          "url": "https://wallstreetcn.com/livenews/3085433",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -1414,6 +1526,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "有色",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中稀有色：预计2026年一季度净利润同比增加217.32%到280.78%，一季度稀土市场行情整体上涨",
+          "url": "https://wallstreetcn.com/livenews/3085820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         }
       ]
     }
