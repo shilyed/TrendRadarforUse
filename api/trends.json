@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-12T18:32:43.262326+08:00",
-  "total_titles_processed": 1168,
+  "generated_at": "2026-04-12T19:29:00.910091+08:00",
+  "total_titles_processed": 1230,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 52,
+      "match_count": 55,
       "titles": [
         {
           "title": "美伊谈判进行中！伊朗称美国同意在黎巴嫩停火",
@@ -16,8 +16,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时28分 ~ 18时32分]"
+          "appearance_count": 20,
+          "time_info": "[00时28分 ~ 19时29分]"
+        },
+        {
+          "title": "美伊谈判“无果而终”，伊朗称“由于美方贪婪和野心”，万斯表态“已展现灵活和诚意，将返回美国”",
+          "url": "https://wallstreetcn.com/articles/3769753",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时41分 ~ 19时29分]"
         },
         {
           "title": "伊朗称美国同意在黎巴嫩停火",
@@ -29,18 +41,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时28分 ~ 06时24分]"
-        },
-        {
-          "title": "美伊谈判“无果而终”，伊朗称“由于美方贪婪和野心”，万斯表态“已展现灵活和诚意，将返回美国”",
-          "url": "https://wallstreetcn.com/articles/3769753",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时41分 ~ 18时32分]"
         },
         {
           "title": "伊朗称美国同意在黎巴嫩停火，这意味着什么？",
@@ -112,6 +112,20 @@
           "time_info": "[02时33分 ~ 09时50分]"
         },
         {
+          "title": "美国副总统万斯离开巴基斯坦，伊朗代表团将于12日离开",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32954265",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时21分 ~ 19时29分]"
+        },
+        {
           "title": "记者团援引美国官员报道：美国、巴基斯坦、伊朗正举行会谈。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3086259",
           "source": "华尔街见闻-快讯",
@@ -163,6 +177,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        },
+        {
+          "title": "伊朗官员：美国应已明白外交不是发号施令的舞台",
+          "url": "https://flash.jin10.com/detail/20260412184205862800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
+          "title": "伊朗副议长：美国应已明白外交不是发号施令的舞台",
+          "url": "https://wallstreetcn.com/livenews/3086383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
         },
         {
           "title": "3名伊朗公民在美国被捕",
@@ -290,19 +326,6 @@
           "time_info": "[02时33分 ~ 06时24分]"
         },
         {
-          "title": "美国副总统万斯离开巴基斯坦，伊朗代表团将于12日离开",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32954265",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时21分 ~ 18时32分]"
-        },
-        {
           "title": "伊朗政府：虽然存在分歧，但（与美国之间的）磋商将继续进行。",
           "url": "https://wallstreetcn.com/livenews/3086295",
           "source": "华尔街见闻-快讯",
@@ -314,6 +337,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时24分 ~ 09时50分]"
+        },
+        {
+          "title": "伊朗议长：美国未能赢得伊朗信任",
+          "url": "https://wallstreetcn.com/livenews/3086364",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时39分 ~ 19时29分]"
         },
         {
           "title": "伊朗与美国同意，周日举行下一轮磋商。（伊朗国家电视台）",
@@ -353,18 +389,6 @@
           "time_info": "[07时26分 ~ 09时50分]"
         },
         {
-          "title": "伊朗议长：美国未能赢得伊朗信任",
-          "url": "https://wallstreetcn.com/livenews/3086364",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时39分 ~ 18时32分]"
-        },
-        {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：消息人士称，尽管伊朗与美国之间的谈判存在严重分歧，谈判仍通过双方书面信息的交流持续密集进行。",
           "url": "https://flash.jin10.com/detail/20260412031927123800",
           "source": "金十数据",
@@ -395,11 +419,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            11
+            11,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时39分 ~ 18时32分]"
+          "appearance_count": 3,
+          "time_info": "[17时39分 ~ 19时29分]"
         },
         {
           "title": "针对塔斯尼姆通讯社（Tasnim）关于“美军军舰在伊朗警告后撤退”的报道，一名美国官员称，美方并未收到此类警告。（Axios）",
@@ -526,6 +551,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 01时25分]"
+        },
+        {
+          "title": "伊朗议长：美国未能赢得伊朗信任",
+          "url": "https://www.toutiao.com/trending/7627798393137401385/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时28分 ~ 19时29分]"
         },
         {
           "title": "伊朗称美国同意在黎巴嫩停火",
@@ -666,7 +702,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "谈判前夜美伊“剑拔弩张”：伊朗提“新条件”，特朗普威胁“加大打击”",
@@ -700,8 +736,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时41分 ~ 18时32分]"
+          "appearance_count": 9,
+          "time_info": "[12时41分 ~ 19时29分]"
         },
         {
           "title": "仅3国掏钱，170亿就凑了个零头，特朗普的“和平委员会”要黄？",
@@ -828,6 +864,17 @@
           "time_info": "[06时24分 ~ 09时50分]"
         },
         {
+          "title": "英国官员：特朗普的言论让英美关系紧张",
+          "url": "https://news.ifeng.com/c/8sGY3tCnh0U",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时39分 ~ 19时29分]"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：正如特朗普所说，必须清除伊朗的浓缩铀，要么通过协议，要么通过其它方式。",
           "url": "https://flash.jin10.com/detail/20260412022331554800",
           "source": "金十数据",
@@ -893,15 +940,16 @@
           "time_info": "[05时26分 ~ 07时26分]"
         },
         {
-          "title": "英国官员：特朗普的言论让英美关系紧张",
-          "url": "https://news.ifeng.com/c/8sGY3tCnh0U",
-          "source": "凤凰网",
+          "title": "伊朗回应特朗普：封锁伊朗无法让霍尔木兹海峡“开放”",
+          "url": "https://wallstreetcn.com/livenews/3086370",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            8,
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时39分 ~ 18时32分]"
+          "time_info": "[18时32分 ~ 19时29分]"
         },
         {
           "title": "美国法院再审特朗普关税，10%全球税率面临合法性考验",
@@ -951,15 +999,26 @@
           "time_info": "[00时28分 ~ 01时25分]"
         },
         {
-          "title": "伊朗回应特朗普：封锁伊朗无法让霍尔木兹海峡“开放”",
-          "url": "https://wallstreetcn.com/livenews/3086370",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：无论如何美国都赢了，达不达成协议无所谓",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32954237",
+          "source": "澎湃新闻",
           "ranks": [
-            8
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时28分 ~ 19时29分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-12）",
+          "url": "https://flash.jin10.com/detail/20260412182311550800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时32分"
+          "time_info": "19时29分"
         },
         {
           "title": "特朗普威胁：如果伊朗拒绝妥协，将控制霍尔木兹海峡打击伊朗经济",
@@ -968,9 +1027,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
+        },
+        {
+          "title": "伊朗回应特朗普：封锁伊朗无法让霍尔木兹海峡“开放”",
+          "url": "https://flash.jin10.com/detail/20260412180522857800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
         },
         {
           "title": "特朗普转发威胁伊朗的报道链接",
@@ -1061,8 +1131,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时28分 ~ 18时32分]"
+          "appearance_count": 20,
+          "time_info": "[00时28分 ~ 19时29分]"
         },
         {
           "title": "环球下周看点：中东两周停火暂稳市场 美股财报季检验盈利韧性",
@@ -1079,7 +1149,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "印度新政开启白银再货币化，全球金银定价加速东移",
@@ -1099,11 +1169,23 @@
           "source": "金十数据",
           "ranks": [
             3,
-            9
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时39分 ~ 19时29分]"
+        },
+        {
+          "title": "黄金白银销量暴跌 市场剧烈震荡",
+          "url": "https://www.toutiao.com/trending/7627088440979718187/",
+          "source": "今日头条",
+          "ranks": [
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时39分 ~ 18时32分]"
+          "time_info": "[19时28分 ~ 19时29分]"
         }
       ]
     },
