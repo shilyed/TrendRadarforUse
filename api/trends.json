@@ -1,33 +1,35 @@
 {
-  "generated_at": "2026-04-13T07:27:53.858813+08:00",
-  "total_titles_processed": 553,
+  "generated_at": "2026-04-13T09:56:13.077280+08:00",
+  "total_titles_processed": 723,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 40,
       "titles": [
         {
           "title": "伊美14小时谈判“无果”但12日继续，伊朗拒绝美方“共管霍尔木兹海峡”，特朗普称“不在意是否达成协议”",
           "url": "https://wallstreetcn.com/articles/3769751",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 07时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时29分 ~ 09时56分]"
         },
         {
           "title": "特朗普：美国将摧毁霍尔木兹海峡的水雷",
           "url": "https://news.ifeng.com/c/8sGqabTjm0c",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 07时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时29分 ~ 09时56分]"
         },
         {
           "title": "特朗普：美军将封锁任何试图进出霍尔木兹海峡的船只",
@@ -39,8 +41,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 07时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时29分 ~ 09时56分]"
         },
         {
           "title": "特朗普：除核问题外谈判进展顺利 美将封锁霍尔木兹海峡",
@@ -51,11 +53,12 @@
             8,
             7,
             6,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 07时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时29分 ~ 09时56分]"
         },
         {
           "title": "特朗普威胁：如果伊朗拒绝妥协，将控制霍尔木兹海峡打击伊朗经济",
@@ -189,6 +192,28 @@
           "time_info": "[00时30分 ~ 03时35分]"
         },
         {
+          "title": "美媒：特朗普考虑恢复对伊朗的有限军事打击",
+          "url": "https://news.ifeng.com/c/8sHT0I0yzy3",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时55分 ~ 09时56分]"
+        },
+        {
+          "title": "美伊谈判刚不欢而散，特朗普就下令海军封锁霍尔木兹海峡，有何意图？要效仿委内瑞拉模式吗？会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2026779173369246174",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时55分 ~ 09时56分]"
+        },
+        {
           "title": "伊朗议会国家安全与外交政策委员会主席：美国总统唐纳德·特朗普关于霍尔木兹海峡的要求（对霍尔木兹海峡进行海上封锁））永远不会实现。 他说的是他的愿望，那是些从未实现过、也永远不会实现的要求。",
           "url": "https://flash.jin10.com/detail/20260412234154471800",
           "source": "金十数据",
@@ -201,6 +226,17 @@
           "time_info": "[00时30分 ~ 01时29分]"
         },
         {
+          "title": "美伊对峙再升级！特朗普罕见承认：11月中期选举前油价或维持高位",
+          "url": "https://www.cls.cn/detail/2341748",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时55分 ~ 09时56分]"
+        },
+        {
           "title": "特朗普称美国不允许伊朗通过出售石油赚钱",
           "url": "https://flash.jin10.com/detail/20260412231823385800",
           "source": "金十数据",
@@ -211,6 +247,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时30分 ~ 01时29分]"
+        },
+        {
+          "title": "特朗普：美国海军将开始阻止任何船只进出霍尔木兹海峡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32956224",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时55分 ~ 09时56分]"
         },
         {
           "title": "美国总统特朗普：伊朗谈判代表们还没有离开谈判桌。 我预计伊朗将回来，满足“我们想要的”。 （谈及未来可能进行的会谈）我想要一切。 一个小时之内，我就能摧毁伊朗的全部能源。 （谈及摧毁伊朗的可能性）若他们不放弃，美国就会这么做。",
@@ -249,15 +296,37 @@
           "time_info": "[00时30分 ~ 01时29分]"
         },
         {
+          "title": "美国总统特朗普：我们的石油储量比俄罗斯和沙特加起来还多。",
+          "url": "https://flash.jin10.com/detail/20260413093230704800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
           "title": "特朗普放狠话全面封锁霍尔木兹，美军却说只堵伊朗港口，油价暴拉10%",
           "url": "https://flash.jin10.com/detail/20260413064841077800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "特朗普：不在乎伊朗是否重返谈判桌",
+          "url": "https://wallstreetcn.com/livenews/3086568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         },
         {
           "title": "特朗普说海峡全封 美军说只封伊朗港口船只",
@@ -266,7 +335,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         },
@@ -277,7 +346,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         },
@@ -288,9 +357,42 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "特朗普重申对北约非常失望。",
+          "url": "https://wallstreetcn.com/livenews/3086559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
+          "title": "裂痕加深？英国拒绝加入特朗普的霍尔木兹封锁计划",
+          "url": "https://flash.jin10.com/detail/20260413092320494800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
+          "title": "特朗普：霍尔木兹海峡正在发生非常好的事情。 伊朗的大部分布雷艇都不见了。 霍尔木兹海峡的封锁将非常有效。 我们的石油储量比俄罗斯和沙特加起来还多。 伊朗的处境非常糟糕，伊朗将不会有核武器。 伊朗导弹基本耗尽。 我们在伊朗并没有炸毁太多桥梁。",
+          "url": "https://wallstreetcn.com/livenews/3086557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         },
         {
           "title": "特朗普：北约有意愿帮助我们维护海峡安全、海湾盟友已展开协助",
@@ -384,7 +486,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "美伊谈判“无果而终”，伊朗称“由于美方贪婪和野心”，万斯表态“已展现灵活和诚意，将返回美国”",
@@ -394,8 +496,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 07时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时29分 ~ 09时56分]"
         },
         {
           "title": "伊朗称美国找借口退出谈判",
@@ -414,11 +516,12 @@
           "url": "https://news.ifeng.com/c/8sGoEBUoWC6",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 07时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时29分 ~ 09时56分]"
         },
         {
           "title": "美国副总统万斯离开巴基斯坦，伊朗代表团将于12日离开",
@@ -431,8 +534,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 07时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时29分 ~ 09时56分]"
         },
         {
           "title": "伊朗接连回怼美国",
@@ -649,6 +752,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
+        },
+        {
+          "title": "伊朗官员警告称，伊朗仍有“未使用的筹码”可以对抗美国海上封锁。",
+          "url": "https://flash.jin10.com/detail/20260413092255040800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         }
       ]
     },
@@ -666,8 +780,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 07时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时29分 ~ 09时56分]"
         },
         {
           "title": "国际油价开盘跳涨，美股期货跌超1%",
@@ -706,7 +820,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         },
@@ -717,7 +831,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         }
@@ -734,7 +848,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         }
