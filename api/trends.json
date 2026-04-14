@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T09:51:19.022799+08:00",
-  "total_titles_processed": 844,
+  "generated_at": "2026-04-14T12:41:10.291664+08:00",
+  "total_titles_processed": 1027,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 61,
       "titles": [
         {
           "title": "贝森特告知特朗普：如果战争持续8-12周，美国面临油价上涨风险，亚欧将受影响最大",
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时56分 ~ 07时36分]"
+        },
+        {
+          "title": "特朗普：伊朗致电美方说希望达成协议",
+          "url": "https://news.ifeng.com/c/8sIkl2LlAOK",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[04时45分 ~ 12时41分]"
         },
         {
           "title": "美媒鼓噪：特朗普让美国利益遭四连击，中俄获利",
@@ -41,8 +53,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时56分 ~ 09时51分]"
+          "appearance_count": 12,
+          "time_info": "[00时56分 ~ 12时41分]"
         },
         {
           "title": "特朗普呼吁中国购买美国和委内瑞拉石油，中方回应",
@@ -85,18 +97,6 @@
           "time_info": "[00时56分 ~ 07时36分]"
         },
         {
-          "title": "特朗普：伊朗致电美方说希望达成协议",
-          "url": "https://news.ifeng.com/c/8sIkl2LlAOK",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时45分 ~ 09时51分]"
-        },
-        {
           "title": "特朗普宣布：今晚10点就封锁！霍尔木兹海峡再次完全中断，两艘船紧急掉头",
           "url": "https://wallstreetcn.com/articles/3769804",
           "source": "华尔街见闻",
@@ -105,8 +105,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时56分 ~ 09时51分]"
+          "appearance_count": 12,
+          "time_info": "[00时56分 ~ 12时41分]"
         },
         {
           "title": "布林肯阴阳特朗普：他选择退让或是因为厌倦了“胜利”",
@@ -173,6 +173,17 @@
           "time_info": "[00时56分 ~ 07时17分]"
         },
         {
+          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
+          "url": "https://wallstreetcn.com/articles/3769872",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 12时41分]"
+        },
+        {
           "title": "伊朗强硬回应特朗普封锁威胁",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%BC%BA%E7%A1%AC%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%81%E9%94%81%E5%A8%81%E8%83%81%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -187,13 +198,25 @@
           "time_info": "[03时04分 ~ 07时36分]"
         },
         {
+          "title": "【早报】中办、国办：推动行业协会商会深化改革；特朗普：已对所有进出伊朗港口船只实施封锁",
+          "url": "https://www.cls.cn/detail/2342892",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时36分 ~ 12时41分]"
+        },
+        {
           "title": "伊朗战争丨伊方称最多停铀浓缩5年，特朗普拒绝",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -242,17 +265,6 @@
           "time_info": "05时41分"
         },
         {
-          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
-          "url": "https://wallstreetcn.com/articles/3769872",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
           "title": "美联邦法官驳回特朗普对《华尔街日报》的诽谤诉讼",
           "url": "https://flash.jin10.com/detail/20260414052030287800",
           "source": "金十数据",
@@ -286,18 +298,6 @@
           "time_info": "05时41分"
         },
         {
-          "title": "【早报】中办、国办：推动行业协会商会深化改革；特朗普：已对所有进出伊朗港口船只实施封锁",
-          "url": "https://www.cls.cn/detail/2342892",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时36分 ~ 09时51分]"
-        },
-        {
           "title": "特朗普重申将封锁进出伊朗港口船只 中方回应",
           "url": "https://www.cls.cn/detail/2342207",
           "source": "财联社热门",
@@ -322,6 +322,29 @@
           "time_info": "[00时56分 ~ 01时55分]"
         },
         {
+          "title": "特朗普发了一张图，让西方大吃一惊",
+          "url": "https://news.ifeng.com/c/8sJFcW7Qqjq",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 12时41分]"
+        },
+        {
+          "title": "特朗普“封锁令”已生效！资深交易员：美汽油价格或很快突破5美元",
+          "url": "https://www.cls.cn/detail/2342938",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 12时41分]"
+        },
+        {
           "title": "连封锁霍尔木兹这招都用上了，特朗普在伊朗问题上已无牌可打？",
           "url": "https://wallstreetcn.com/articles/3769807",
           "source": "华尔街见闻",
@@ -331,6 +354,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时16分 ~ 07时36分]"
+        },
+        {
+          "title": "特朗普：伊朗“合适的人”致电说“希望达成协议”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32963970",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 12时41分]"
         },
         {
           "title": "特朗普威胁若中国向伊朗供武就加征关税，外交部：关税战没有赢家",
@@ -355,6 +390,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时56分 ~ 01时55分]"
+        },
+        {
+          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
+          "url": "https://www.toutiao.com/trending/7628414997059784242/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 12时41分]"
         },
         {
           "title": "特朗普：伊朗致电美方说希望达成协议",
@@ -435,18 +481,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "特朗普发了一张图，让西方大吃一惊",
-          "url": "https://news.ifeng.com/c/8sJFcW7Qqjq",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -484,17 +519,6 @@
           "time_info": "07时17分"
         },
         {
-          "title": "特朗普“封锁令”已生效！资深交易员：美汽油价格或很快突破5美元",
-          "url": "https://www.cls.cn/detail/2342938",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
           "title": "特朗普再次批教皇 拒绝就此前表态道歉",
           "url": "https://flash.jin10.com/detail/20260414011952450800",
           "source": "金十数据",
@@ -528,6 +552,17 @@
           "time_info": "05时41分"
         },
         {
+          "title": "一些矿业公司对美国总统特朗普的战略性关键矿产储备计划“金库计划”（Project Vault）表示担忧，警告称这可能会扭曲大宗商品市场，并造成“巨大的过剩”。",
+          "url": "https://flash.jin10.com/detail/20260414120850356800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
           "title": "特朗普抨击纽约时报是假新闻。",
           "url": "https://flash.jin10.com/detail/20260414045620948800",
           "source": "金十数据",
@@ -537,17 +572,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
-        },
-        {
-          "title": "特朗普：伊朗“合适的人”致电说“希望达成协议”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32963970",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
         },
         {
           "title": "特朗普删除“化身耶稣”的图片：本意想扮演医生",
@@ -644,7 +668,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -688,7 +712,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         }
@@ -696,7 +720,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "美媒刊文：打来打去，美国盟友成伊朗战争的“输家”",
@@ -707,8 +731,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时56分 ~ 09时51分]"
+          "appearance_count": 12,
+          "time_info": "[00时56分 ~ 12时41分]"
         },
         {
           "title": "伊朗申请不去美国踢世界杯，国际足协拒绝",
@@ -782,6 +806,17 @@
           "time_info": "[07时17分 ~ 07时36分]"
         },
         {
+          "title": "伊朗硬刚美国军舰封锁还有哪些手段",
+          "url": "https://www.toutiao.com/trending/7628450600203750958/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 12时41分]"
+        },
+        {
           "title": "国际能源署（IEA）署长Birol：油价并没有体现出（伊朗战争）问题的严峻程度。 希望无需再次释放石油储备，但“我们准备（再次采取这样的）行动”。 （美国和以色列挑起）伊朗战争以来，超过80处石油与天然气设施遭到破坏，其中包括输送枢纽与炼油厂。",
           "url": "https://wallstreetcn.com/livenews/3087094",
           "source": "华尔街见闻-快讯",
@@ -834,7 +869,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -861,6 +896,17 @@
           "time_info": "04时45分"
         },
         {
+          "title": "美媒：美国海上封锁伊朗 超15艘美军舰已到位",
+          "url": "https://wallstreetcn.com/livenews/3087396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
           "title": "美媒：美国要求伊朗暂停铀浓缩20年 伊朗希望暂停期限更短",
           "url": "https://flash.jin10.com/detail/20260414001552288800",
           "source": "金十数据",
@@ -878,7 +924,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -900,7 +946,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -983,11 +1029,12 @@
           "ranks": [
             7,
             6,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时16分 ~ 09时51分]"
+          "appearance_count": 6,
+          "time_info": "[07时16分 ~ 12时41分]"
         },
         {
           "title": "金十图示：2026年04月13日（周一）美股热门股票行情一览（美股盘中）",
@@ -1131,7 +1178,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "美伊交涉现进展，标普收复年内跌幅，半导体指数历史性站上9000点，油价冲高回落",
@@ -1144,6 +1191,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时41分 ~ 07时36分]"
+        },
+        {
+          "title": "石化供应链乱成一锅粥 日本“半导体牛股”暂停部分业务接单",
+          "url": "https://www.cls.cn/detail/2342840",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 12时41分]"
         },
         {
           "title": "纳指涨幅扩大至1.1%，标普涨超0.8%，道指涨0.4%，半导体指数涨1.6%。",
@@ -1164,9 +1222,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "A股半导体设备股震荡拉升，金海通封涨停，京仪装备、富创精密涨超10%，中科飞测、强一股份、华峰测控涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3087381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         },
         {
           "title": "标普收复美以挑起伊朗战争以来的所有失地，半导体指数历史上首次收于9000点关口上方",
@@ -1178,6 +1247,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 4月13日（周一）晚盘收盘下跌0.11%报1040.05元/克；<br/>上海黄金交易所白银T+D 4月13日（周一）晚盘收盘上涨0.99%报18630.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260414023321851800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少19.71吨，当前持仓量为15271.53吨。欢迎点击查看数据中心…",
+          "url": "https://flash.jin10.com/detail/20260414062740663800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 07时36分]"
+        },
+        {
+          "title": "周一（4月13日）纽约尾盘，现货白银跌0.34%，报75.62美元/盎司，亚太盘初地雷低走，北京时间06:23跌至72.6369美元，00:00过后曾跌幅迅速收窄。 COMEX白银期货跌1.06%，报75.670美元/盎司，06:23刷新日低至72.545美元。 COMEX铜期货涨1.91%，报6.0570美元/磅。 现货铂金涨1.27%，现货钯金涨3.38%。",
+          "url": "https://wallstreetcn.com/livenews/3087161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时41分"
+        },
+        {
+          "title": "金十图示：2026年04月14日（周二）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260414115436024800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         }
       ]
     },
@@ -1223,46 +1343,6 @@
       ]
     },
     {
-      "keyword_group": "白银",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "上海黄金交易所黄金T+D 4月13日（周一）晚盘收盘下跌0.11%报1040.05元/克；<br/>上海黄金交易所白银T+D 4月13日（周一）晚盘收盘上涨0.99%报18630.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260414023321851800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时05分"
-        },
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少19.71吨，当前持仓量为15271.53吨。欢迎点击查看数据中心…",
-          "url": "https://flash.jin10.com/detail/20260414062740663800",
-          "source": "金十数据",
-          "ranks": [
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时17分 ~ 07时36分]"
-        },
-        {
-          "title": "周一（4月13日）纽约尾盘，现货白银跌0.34%，报75.62美元/盎司，亚太盘初地雷低走，北京时间06:23跌至72.6369美元，00:00过后曾跌幅迅速收窄。 COMEX白银期货跌1.06%，报75.670美元/盎司，06:23刷新日低至72.545美元。 COMEX铜期货涨1.91%，报6.0570美元/磅。 现货铂金涨1.27%，现货钯金涨3.38%。",
-          "url": "https://wallstreetcn.com/livenews/3087161",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时41分"
-        }
-      ]
-    },
-    {
       "keyword_group": "有色",
       "match_count": 2,
       "titles": [
@@ -1285,9 +1365,37 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储芯片",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "A股存储芯片板块延续强势，协创数据20cm涨停，大为股份、佰维存储涨超7%，股价双双创历史新高，香农芯创、普冉股份、朗科科技跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3087302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "港股午评：科网股冲高回落 存储芯片板块持续活跃",
+          "url": "https://flash.jin10.com/detail/20260414120544371800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         }
       ]
     },
@@ -1305,23 +1413,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储芯片",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "A股存储芯片板块延续强势，协创数据20cm涨停，大为股份、佰维存储涨超7%，股价双双创历史新高，香农芯创、普冉股份、朗科科技跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3087302",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
         }
       ]
     }
