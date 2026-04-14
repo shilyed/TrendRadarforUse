@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T07:36:46.265632+08:00",
-  "total_titles_processed": 681,
+  "generated_at": "2026-04-14T09:51:19.022799+08:00",
+  "total_titles_processed": 844,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 59,
       "titles": [
         {
           "title": "贝森特告知特朗普：如果战争持续8-12周，美国面临油价上涨风险，亚欧将受影响最大",
@@ -18,6 +18,44 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时56分 ~ 07时36分]"
+        },
+        {
+          "title": "美媒鼓噪：特朗普让美国利益遭四连击，中俄获利",
+          "url": "https://news.ifeng.com/c/8sI5EiH0EGq",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 09时51分]"
+        },
+        {
+          "title": "一个颠覆性观点：制造能源危机，特朗普蓄谋已久！",
+          "url": "https://wallstreetcn.com/articles/3769823",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 09时51分]"
+        },
+        {
+          "title": "特朗普呼吁中国购买美国和委内瑞拉石油，中方回应",
+          "url": "https://www.cls.cn/detail/2342732",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 09时51分]"
         },
         {
           "title": "特朗普“封锁霍尔木兹”，高盛：股市迎来“最终决战”",
@@ -47,51 +85,16 @@
           "time_info": "[00时56分 ~ 07时36分]"
         },
         {
-          "title": "特朗普呼吁中国购买美国和委内瑞拉石油，中方回应",
-          "url": "https://www.cls.cn/detail/2342732",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 07时36分]"
-        },
-        {
           "title": "特朗普：伊朗致电美方说希望达成协议",
           "url": "https://news.ifeng.com/c/8sIkl2LlAOK",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时45分 ~ 07时36分]"
-        },
-        {
-          "title": "美媒鼓噪：特朗普让美国利益遭四连击，中俄获利",
-          "url": "https://news.ifeng.com/c/8sI5EiH0EGq",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 07时36分]"
-        },
-        {
-          "title": "一个颠覆性观点：制造能源危机，特朗普蓄谋已久！",
-          "url": "https://wallstreetcn.com/articles/3769823",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 07时36分]"
+          "appearance_count": 6,
+          "time_info": "[04时45分 ~ 09时51分]"
         },
         {
           "title": "特朗普宣布：今晚10点就封锁！霍尔木兹海峡再次完全中断，两艘船紧急掉头",
@@ -102,8 +105,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 07时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 09时51分]"
         },
         {
           "title": "布林肯阴阳特朗普：他选择退让或是因为厌倦了“胜利”",
@@ -184,6 +187,17 @@
           "time_info": "[03时04分 ~ 07时36分]"
         },
         {
+          "title": "伊朗战争丨伊方称最多停铀浓缩5年，特朗普拒绝",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
           "title": "美国总统特朗普：昨日有34艘船只通过霍尔木兹海峡。",
           "url": "https://flash.jin10.com/detail/20260414003358396800",
           "source": "金十数据",
@@ -228,6 +242,17 @@
           "time_info": "05时41分"
         },
         {
+          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
+          "url": "https://wallstreetcn.com/articles/3769872",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
           "title": "美联邦法官驳回特朗普对《华尔街日报》的诽谤诉讼",
           "url": "https://flash.jin10.com/detail/20260414052030287800",
           "source": "金十数据",
@@ -245,7 +270,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
         },
@@ -259,6 +284,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
+        },
+        {
+          "title": "【早报】中办、国办：推动行业协会商会深化改革；特朗普：已对所有进出伊朗港口船只实施封锁",
+          "url": "https://www.cls.cn/detail/2342892",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时36分 ~ 09时51分]"
         },
         {
           "title": "特朗普重申将封锁进出伊朗港口船只 中方回应",
@@ -392,6 +429,28 @@
           "time_info": "[01时55分 ~ 03时05分]"
         },
         {
+          "title": "特朗普为何抨击教皇",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E6%8A%A8%E5%87%BB%E6%95%99%E7%9A%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "特朗普发了一张图，让西方大吃一惊",
+          "url": "https://news.ifeng.com/c/8sJFcW7Qqjq",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
           "title": "据福克斯新闻：特朗普随时可能发表讲话。",
           "url": "https://flash.jin10.com/detail/20260414003040329800",
           "source": "金十数据",
@@ -425,15 +484,15 @@
           "time_info": "07时17分"
         },
         {
-          "title": "【早报】中办、国办：推动行业协会商会深化改革；特朗普：已对所有进出伊朗港口船只实施封锁",
-          "url": "https://www.cls.cn/detail/2342892",
+          "title": "特朗普“封锁令”已生效！资深交易员：美汽油价格或很快突破5美元",
+          "url": "https://www.cls.cn/detail/2342938",
           "source": "财联社热门",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时36分"
+          "time_info": "09时51分"
         },
         {
           "title": "特朗普再次批教皇 拒绝就此前表态道歉",
@@ -453,7 +512,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
         },
@@ -480,6 +539,17 @@
           "time_info": "05时41分"
         },
         {
+          "title": "特朗普：伊朗“合适的人”致电说“希望达成协议”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32963970",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
           "title": "特朗普删除“化身耶稣”的图片：本意想扮演医生",
           "url": "https://flash.jin10.com/detail/20260414015709253800",
           "source": "金十数据",
@@ -497,7 +567,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
         },
@@ -568,6 +638,17 @@
           "time_info": "05时41分"
         },
         {
+          "title": "美国副总统万斯：罗马教皇应该“专注于道德问题”，让特朗普来主导美国的公共政策。",
+          "url": "https://flash.jin10.com/detail/20260414092907197800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
           "title": "特朗普：不会接受任何允许伊朗拥有核武器的协议",
           "url": "https://flash.jin10.com/detail/20260414005615622800",
           "source": "金十数据",
@@ -596,15 +677,26 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
+        },
+        {
+          "title": "特朗普称伊朗致电说希望达成协议",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BC%8A%E6%9C%97%E8%87%B4%E7%94%B5%E8%AF%B4%E5%B8%8C%E6%9C%9B%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "美媒刊文：打来打去，美国盟友成伊朗战争的“输家”",
@@ -615,8 +707,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 07时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 09时51分]"
         },
         {
           "title": "伊朗申请不去美国踢世界杯，国际足协拒绝",
@@ -736,6 +828,17 @@
           "time_info": "03时05分"
         },
         {
+          "title": "伊朗致信联合国谴责美国海上封锁",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%87%B4%E4%BF%A1%E8%81%94%E5%90%88%E5%9B%BD%E8%B0%B4%E8%B4%A3%E7%BE%8E%E5%9B%BD%E6%B5%B7%E4%B8%8A%E5%B0%81%E9%94%81",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
           "title": "报道：美国要求伊朗将铀浓缩活动冻结20年",
           "url": "https://wallstreetcn.com/livenews/3087079",
           "source": "华尔街见闻-快讯",
@@ -769,6 +872,17 @@
           "time_info": "00时56分"
         },
         {
+          "title": "消息人士称，美国和伊朗可能即将举行第二轮会谈，巴基斯坦首都伊斯兰堡再次被列为会谈举办地点的讨论对象。瑞士日内瓦也是一个可能的选择，虽然会谈地点和时间尚未确定，但有可能在周四举行。",
+          "url": "https://flash.jin10.com/detail/20260414093041416800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
           "title": "据知情人士透露，刚果铜矿与钴矿行业降低化学品的使用量，美国和以色列发动的伊朗战争干扰到供应。（路透）",
           "url": "https://wallstreetcn.com/livenews/3087073",
           "source": "华尔街见闻-快讯",
@@ -778,6 +892,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "美国封锁伊朗海上交通有何后果",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%81%E9%94%81%E4%BC%8A%E6%9C%97%E6%B5%B7%E4%B8%8A%E4%BA%A4%E9%80%9A%E6%9C%89%E4%BD%95%E5%90%8E%E6%9E%9C",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
         },
         {
           "title": "美国副总统万斯：（谈及潜在的第二轮会谈）现在球在伊朗一方。",
@@ -850,6 +975,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时56分 ~ 04时45分]"
+        },
+        {
+          "title": "美股收盘：标普纳指均涨超1% 高速互联、存储、CPU牛股领涨",
+          "url": "https://www.cls.cn/detail/2342867",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时16分 ~ 09时51分]"
         },
         {
           "title": "金十图示：2026年04月13日（周一）美股热门股票行情一览（美股盘中）",
@@ -934,18 +1072,6 @@
           "time_info": "[07时17分 ~ 07时36分]"
         },
         {
-          "title": "美股收盘：标普纳指均涨超1% 高速互联、存储、CPU牛股领涨",
-          "url": "https://www.cls.cn/detail/2342867",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时16分 ~ 07时36分]"
-        },
-        {
           "title": "戴尔科技美股盘后跌3%，惠普（HPQ）跌3%，英伟达否认媒体的收购传闻。",
           "url": "https://wallstreetcn.com/livenews/3087151",
           "source": "华尔街见闻-快讯",
@@ -1000,6 +1126,58 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美伊交涉现进展，标普收复年内跌幅，半导体指数历史性站上9000点，油价冲高回落",
+          "url": "https://wallstreetcn.com/articles/3769784",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时41分 ~ 07时36分]"
+        },
+        {
+          "title": "纳指涨幅扩大至1.1%，标普涨超0.8%，道指涨0.4%，半导体指数涨1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3087139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时45分 ~ 05时41分]"
+        },
+        {
+          "title": "恒指高开1.05%，报25929.40点；恒生科技指数涨1.37%。金山软件涨超7%，金蝶国际涨超5%，华虹半导体、中芯国际涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3087281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "标普收复美以挑起伊朗战争以来的所有失地，半导体指数历史上首次收于9000点关口上方",
+          "url": "https://wallstreetcn.com/livenews/3087143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时41分"
         }
       ]
     },
@@ -1085,43 +1263,31 @@
       ]
     },
     {
-      "keyword_group": "半导体",
-      "match_count": 3,
+      "keyword_group": "有色",
+      "match_count": 2,
       "titles": [
         {
-          "title": "美伊交涉现进展，标普收复年内跌幅，半导体指数历史性站上9000点，油价冲高回落",
-          "url": "https://wallstreetcn.com/articles/3769784",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时41分 ~ 07时36分]"
-        },
-        {
-          "title": "纳指涨幅扩大至1.1%，标普涨超0.8%，道指涨0.4%，半导体指数涨1.6%。",
-          "url": "https://wallstreetcn.com/livenews/3087139",
+          "title": "产品供销两旺推高景气度，有色行业上市公司业绩亮眼",
+          "url": "https://wallstreetcn.com/livenews/3087200",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16,
-            30
+            10,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时45分 ~ 05时41分]"
+          "time_info": "[07时17分 ~ 07时36分]"
         },
         {
-          "title": "标普收复美以挑起伊朗战争以来的所有失地，半导体指数历史上首次收于9000点关口上方",
-          "url": "https://wallstreetcn.com/livenews/3087143",
-          "source": "华尔街见闻-快讯",
+          "title": "A股有色金属板块高开，腾远钴业开涨近14%，寒锐钴业、中色股份、洛阳钼业、紫金矿业纷纷跟涨。",
+          "url": "https://flash.jin10.com/detail/20260414092754849800",
+          "source": "金十数据",
           "ranks": [
-            27
+            25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时41分"
+          "time_info": "09时51分"
         }
       ]
     },
@@ -1143,20 +1309,19 @@
       ]
     },
     {
-      "keyword_group": "有色",
+      "keyword_group": "存储芯片",
       "match_count": 1,
       "titles": [
         {
-          "title": "产品供销两旺推高景气度，有色行业上市公司业绩亮眼",
-          "url": "https://wallstreetcn.com/livenews/3087200",
+          "title": "A股存储芯片板块延续强势，协创数据20cm涨停，大为股份、佰维存储涨超7%，股价双双创历史新高，香农芯创、普冉股份、朗科科技跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3087302",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            21
+            3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时17分 ~ 07时36分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
         }
       ]
     }
