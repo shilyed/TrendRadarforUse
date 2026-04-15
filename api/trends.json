@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T02:01:53.506291+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2026-04-16T03:27:18.773515+08:00",
+  "total_titles_processed": 493,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 25,
       "titles": [
         {
           "title": "美国被曝将向中东增派数千名士兵，施压伊朗达成协议",
@@ -36,7 +36,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
         },
@@ -47,9 +47,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "据AXIOS网站：美国尚未正式要求以色列在黎巴嫩停火，这不在与伊朗的谈判中。",
+          "url": "https://flash.jin10.com/detail/20260416030934587800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
         },
         {
           "title": "【美军：对伊朗海上封锁48小时内无船只突破管控】4月15日，美国中央司令部表示，在美方对伊朗港口实施海上封锁的前48小时内，暂无任何船只突破美军封锁线。此外，已有9艘船只在美方指令下掉头返回伊朗港口或沿海区域。总部位于英国的海事分析公司温沃德14日发布报告称，美国对所有进出伊朗港口的船舶实施封锁后，仍有部分船舶进出霍尔木兹海峡，航运并未因美国封锁而完全停止。（央视）",
@@ -69,7 +80,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
         },
@@ -80,7 +91,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
         },
@@ -90,11 +101,12 @@
           "source": "今日头条",
           "ranks": [
             9,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 03时27分]"
         },
         {
           "title": "伊朗将使用替代港口绕开美国对霍尔木兹海峡的封锁，能破解美国围堵吗？",
@@ -104,8 +116,19 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 03时27分]"
+        },
+        {
+          "title": "【伊朗外交部发言人：伊美是否延长停火无法确认】伊朗外交部发言人巴加埃15日在首都德黑兰举行的记者会上表示，有关伊美延长停火的相关猜测尚无法确认，需观察美方就其宣称的外交立场是否具备实际诚意。 据伊朗伊斯兰共和国通讯社报道，巴加埃在回答关于“伊美停火是否可能延长，以及谈判中哪些问题取得相对进展”的提问时表示，美国“立场多次变化、表述相互矛盾”，即便达成某种共识，也难以确保其会履行。因此，伊美之间的对话是在非常复杂的情况下进行的。 谈及谈判进展，巴加埃表示，相关议题具有整体性，各项内容需作为一个整体加以推进。目前对话仍通过巴基斯坦作为中间方继续进行。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3088738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
         },
         {
           "title": "美国财长贝森特：美国已要求冻结伊朗革命卫队的资金以及伊朗领导层的资金。",
@@ -114,9 +137,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "美国参议院投票，按52-47票阻止了一项决议，该决议旨在阻止美国在未经国会批准的情况下对伊朗发动进一步打击。",
+          "url": "https://wallstreetcn.com/livenews/3088735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
+        },
+        {
+          "title": "伊朗将使用替代港口绕开美国封锁，有油轮已“成功闯关”霍尔木兹",
+          "url": "https://wallstreetcn.com/articles/3770023",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
         },
         {
           "title": "报道：美国和伊朗考虑将停火协议延长两周，以争取时间和谈",
@@ -147,7 +192,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
         },
@@ -158,7 +203,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
         },
@@ -169,9 +214,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "美国参议院以52票对47票的投票阻止了一项决议，该决议旨在阻止美国在未经国会批准的情况下对伊朗发动进一步打击。",
+          "url": "https://flash.jin10.com/detail/20260416025527318800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
         },
         {
           "title": "美国：9艘船只遵守美方要求，驶向伊朗。",
@@ -183,6 +239,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
+        },
+        {
+          "title": "美国财长贝森特：美国财政部将继续切断伊朗的非法走私和恐怖代理网络。",
+          "url": "https://flash.jin10.com/detail/20260416024927797800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
+        },
+        {
+          "title": "【伊朗：至今尚未同意延长停火请求】伊朗方面15日消息称，尽管美国提出了延长两周停火的请求，伊朗至今尚未同意该请求。 伊朗方面认为，美国应当履行当前停火协议中的承诺，而不是请求延长停火，并应停止在谈判中提出过分要求。 美国白宫新闻秘书卡罗琳·莱维特稍早前表示，美国尚未正式请求延长与伊朗的停火协议，相关报道“不属实”，当前双方仍在持续接触并推进谈判。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3088718",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
         },
         {
           "title": "伊朗将使用替代港口绕开美国封锁",
@@ -210,7 +288,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
@@ -220,8 +298,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 03时27分]"
         },
         {
           "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
@@ -231,8 +309,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 03时27分]"
         },
         {
           "title": "特朗普称美国对伊朗的战争已经结束",
@@ -242,8 +320,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 03时27分]"
         },
         {
           "title": "特朗普再次威胁袭击伊朗",
@@ -253,8 +331,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 03时27分]"
         },
         {
           "title": "特朗普拒向教宗道歉，美国民众：很失望",
@@ -264,8 +342,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 03时27分]"
+        },
+        {
+          "title": "美国参议院投票否决旨在限制特朗普对伊战争权力的动议",
+          "url": "https://flash.jin10.com/detail/20260416031330828800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
+        },
+        {
+          "title": "据AXIOS网站：一名美国高级官员称，特朗普欢迎将结束战斗纳入以色列与黎巴嫩之间达成的协议的一部分。",
+          "url": "https://flash.jin10.com/detail/20260416030837567800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
         },
         {
           "title": "特朗普：没必要延长停火，接下来两天很精彩",
@@ -275,8 +375,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 03时27分]"
         },
         {
           "title": "谈判重启前美国向伊朗施压：数千士兵增派中东，特朗普保留“所有选项”！",
@@ -286,8 +386,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 03时27分]"
         },
         {
           "title": "特朗普威胁：如果任期结束后鲍威尔不离职，他将强行解雇鲍威尔",
@@ -295,11 +395,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 03时27分]"
         },
         {
           "title": "特朗普：没必要延长同伊朗的停火，接下来两天将非常精彩",
@@ -310,8 +411,19 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 03时27分]"
+        },
+        {
+          "title": "特朗普禁令被绕过？Anthropic新模型魅力太大 美政府机构争相合作",
+          "url": "https://www.cls.cn/detail/2344964",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时10分 ~ 02时01分]"
+          "time_info": "[02时01分 ~ 03时27分]"
         },
         {
           "title": "特朗普不满美英“特殊关系” 斯塔默说不会妥协",
@@ -325,15 +437,26 @@
           "time_info": "00时10分"
         },
         {
-          "title": "特朗普禁令被绕过？Anthropic新模型魅力太大 美政府机构争相合作",
-          "url": "https://www.cls.cn/detail/2344964",
-          "source": "财联社热门",
+          "title": "白宫：特朗普将提交“美国凯旋拱门”建设计划",
+          "url": "https://wallstreetcn.com/livenews/3088727",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时01分"
+          "time_info": "03时27分"
+        },
+        {
+          "title": "特朗普：北约完全不管美国",
+          "url": "https://wallstreetcn.com/livenews/3088726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
         },
         {
           "title": "美国调查特朗普对伊政策转向前发生的异常石油交易",
@@ -342,9 +465,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "白宫：特朗普将提交“美国凯旋拱门”建设计划",
+          "url": "https://flash.jin10.com/detail/20260416024007634800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
+        },
+        {
+          "title": "市场消息：美国参议院以多数票否决了一项旨在迫使特朗普在未获国会批准的情况下停止对伊朗打击的努力，投票仍在继续。",
+          "url": "https://flash.jin10.com/detail/20260416023735449800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
         }
       ]
     },
@@ -361,8 +506,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 03时27分]"
         },
         {
           "title": "谈判曙光提振市场，美股高开，美银、大摩涨近4%，阿斯麦跌3%，黄金重回4800美元，布油再度转跌",
@@ -373,8 +518,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 03时27分]"
         },
         {
           "title": "美股期指基本持平 标普500指数冲击新高 | 今夜看点",
@@ -384,8 +529,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 03时27分]"
         }
       ]
     },
@@ -401,8 +546,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 03时27分]"
         }
       ]
     },
@@ -417,7 +562,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
         }
