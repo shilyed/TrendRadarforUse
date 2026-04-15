@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T14:45:35.783212+08:00",
-  "total_titles_processed": 1220,
+  "generated_at": "2026-04-15T16:24:39.275443+08:00",
+  "total_titles_processed": 1362,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普赐两杯“毒酒”，万斯干了",
@@ -55,6 +55,30 @@
           "time_info": "[00时57分 ~ 04时01分]"
         },
         {
+          "title": "特朗普最新表态：美国对伊战争已结束 未来两天或重返谈判桌",
+          "url": "https://www.cls.cn/detail/2344264",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 16时24分]"
+        },
+        {
+          "title": "特朗普：美国对伊朗的战争已经结束",
+          "url": "https://www.cls.cn/detail/2344245",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 16时24分]"
+        },
+        {
           "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
           "url": "https://www.zhihu.com/question/2027301230691596085",
           "source": "知乎",
@@ -68,27 +92,17 @@
           "time_info": "[00时01分 ~ 06时39分]"
         },
         {
-          "title": "特朗普最新表态：美国对伊战争已结束 未来两天或重返谈判桌",
-          "url": "https://www.cls.cn/detail/2344264",
-          "source": "财联社热门",
+          "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
+          "url": "https://wallstreetcn.com/articles/3769962",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            6,
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时47分 ~ 14时45分]"
-        },
-        {
-          "title": "特朗普：美国对伊朗的战争已经结束",
-          "url": "https://www.cls.cn/detail/2344245",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时47分 ~ 14时45分]"
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 16时24分]"
         },
         {
           "title": "【早报】特朗普：与伊朗会谈可能未来两天内举行；国际油价重挫",
@@ -101,19 +115,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时37分 ~ 14时45分]"
-        },
-        {
-          "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
-          "url": "https://wallstreetcn.com/articles/3769962",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时47分 ~ 14时45分]"
         },
         {
           "title": "伊朗战争丨特朗普称美国对伊朗的战争已结束",
@@ -133,7 +134,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -167,7 +168,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -178,7 +179,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -193,6 +194,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时01分 ~ 02时02分]"
+        },
+        {
+          "title": "特朗普：没有必要延长同伊朗的停火",
+          "url": "https://www.cls.cn/detail/2344586",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时45分 ~ 16时24分]"
         },
         {
           "title": "特朗普暗示美伊“未来两天”或重启伊斯兰堡会谈",
@@ -213,11 +226,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时47分 ~ 14时45分]"
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 16时24分]"
         },
         {
           "title": "4月15日投资避雷针：特朗普称美国对伊朗的战争已经结束",
@@ -225,22 +239,24 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时47分 ~ 14时45分]"
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 16时24分]"
         },
         {
           "title": "英媒：特朗普次子将以个人身份陪同访华",
           "url": "https://news.ifeng.com/c/8sL7wyoFoMW",
           "source": "凤凰网",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时41分 ~ 14时45分]"
+          "appearance_count": 3,
+          "time_info": "[12时41分 ~ 16时24分]"
         },
         {
           "title": "美国参议院多数党领袖约翰·图恩（John Thune）：（总统特朗普派兵）封锁霍尔木兹海峡是必要的，太聪明了。",
@@ -255,15 +271,15 @@
           "time_info": "[05时01分 ~ 05时55分]"
         },
         {
-          "title": "特朗普：没有必要延长同伊朗的停火",
-          "url": "https://www.cls.cn/detail/2344586",
-          "source": "财联社热门",
+          "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
+          "url": "https://news.ifeng.com/c/8sLS5AcutoB",
+          "source": "凤凰网",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时45分"
+          "time_info": "16时24分"
         },
         {
           "title": "据ABC新闻记者表示，特朗普对匈牙利总理欧尔班的失利并不在意，并对即将上任的总理毛焦尔·彼得表示赞赏。",
@@ -283,7 +299,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -316,7 +332,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -327,7 +343,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -349,7 +365,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -360,7 +376,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -478,7 +494,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "如果美国海军的封锁切断伊朗的石油出口，伊朗将不得不在两周内大幅削减石油产量。卫星数据显示，该国用于储存无法装上油轮出口的原油的储油罐，目前已装满51%以上。",
@@ -538,6 +554,17 @@
           "time_info": "07时37分"
         },
         {
+          "title": "伊朗将使用替代港口绕开美国对霍尔木兹海峡的封锁",
+          "url": "https://flash.jin10.com/detail/20260415154610397800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "美国财长贝森特在华尔街日报一个活动上讲话：美国经济保持强劲状态，将在伊朗战争结束之后“追赶上来”。",
           "url": "https://wallstreetcn.com/livenews/3087989",
           "source": "华尔街见闻-快讯",
@@ -593,6 +620,17 @@
           "time_info": "07时37分"
         },
         {
+          "title": "伊朗将使用除南部港口以外的其他港口，以绕过美国的封锁。",
+          "url": "https://flash.jin10.com/detail/20260415153646559800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "美国财政部：允许销售伊朗石油的短期许可在未来几天到期后将不再续期。",
           "url": "https://flash.jin10.com/detail/20260415024525113800",
           "source": "金十数据",
@@ -621,7 +659,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -681,6 +719,17 @@
           "time_info": "02时02分"
         },
         {
+          "title": "伊朗将使用替代港口绕开美国对霍尔木兹海峡的封锁",
+          "url": "https://wallstreetcn.com/livenews/3088293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "《华尔街日报》援引美国参议员Chris Coons称，五角大楼可能会削减伊朗战争的拨款申请。",
           "url": "https://wallstreetcn.com/livenews/3088048",
           "source": "华尔街见闻-快讯",
@@ -706,7 +755,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "美国通胀低于预期，美股指高开，科技股、航空股上涨，WTI原油跌近95美元，黄金涨至4800美元",
@@ -751,8 +800,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时41分 ~ 14时45分]"
+          "appearance_count": 3,
+          "time_info": "[12时41分 ~ 16时24分]"
         },
         {
           "title": "美股收盘：纳指10连阳 光通信、燃料电池、半导体牛股齐创新高",
@@ -789,6 +838,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时01分 ~ 05时55分]"
+        },
+        {
+          "title": "博通美股盘前涨2.9%，公司与Meta延长定制芯片合作协议。",
+          "url": "https://wallstreetcn.com/livenews/3088315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "美股率先收复所有失地！美伊冲突第七周 全球市场正迎来“大洗牌”？",
+          "url": "https://www.cls.cn/detail/2344302",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "耐克美股盘前上涨2.4%，此前首席执行官增持公司股票。",
+          "url": "https://wallstreetcn.com/livenews/3088311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "金十图示：2026年04月14日（周二）美股热门股票行情一览（美股盘中）",
@@ -838,7 +920,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "周二（4月14日）纽约尾盘，现货白银涨5.30%，报79.6131美元/盎司，全天持续上涨。 COMEX白银期货涨5.42%，报79.765美元/盎司。 COMEX铜期货涨1.60%，报6.146美元/磅。 现货铂金涨1.52%，现货钯金涨0.74%。",
@@ -885,6 +967,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 4月15日（周三）收盘上涨0.79%报1055.0元/克；<br/>上海黄金交易所白银T+D 4月15日（周三）收盘上涨3.92%报19556.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260415153119239800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "现货白银日内涨超1.00%，现报80.36美元/盎司。",
@@ -937,7 +1030,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         }
@@ -967,7 +1060,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         }
