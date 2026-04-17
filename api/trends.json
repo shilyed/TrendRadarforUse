@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-18T06:31:29.749819+08:00",
-  "total_titles_processed": 628,
+  "generated_at": "2026-04-18T07:33:20.296305+08:00",
+  "total_titles_processed": 658,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 48,
       "titles": [
         {
           "title": "特朗普证实伊朗宣布开放霍尔木兹海峡",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时46分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 07时33分]"
         },
         {
           "title": "特朗普：北约“纸老虎”离远点儿，一点用没有",
@@ -40,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时46分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 07时33分]"
         },
         {
           "title": "心心念念的大房子不让造，特朗普暴怒开喷",
@@ -52,8 +52,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时46分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 07时33分]"
         },
         {
           "title": "伊朗开放霍尔木兹特朗普发帖说谢谢",
@@ -65,11 +65,12 @@
             19,
             9,
             20,
-            7
+            7,
+            24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时46分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 07时33分]"
         },
         {
           "title": "特朗普确认伊朗开放霍尔木兹海峡",
@@ -80,8 +81,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时46分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 07时33分]"
+        },
+        {
+          "title": "特朗普确认伊朗开放霍尔木兹，称海峡局势结束、美封锁将持续至达成协议，料协议“一两天内”达成",
+          "url": "https://wallstreetcn.com/articles/3770269",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时37分 ~ 07时33分]"
         },
         {
           "title": "伊朗战争丨特朗普：伊朗同意永不关闭霍尔木兹海峡",
@@ -93,17 +106,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时46分 ~ 05时35分]"
-        },
-        {
-          "title": "特朗普确认伊朗开放霍尔木兹，称海峡局势结束、美封锁将持续至达成协议，料协议“一两天内”达成",
-          "url": "https://wallstreetcn.com/articles/3770269",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时37分 ~ 06时31分]"
         },
         {
           "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
@@ -118,37 +120,59 @@
           "time_info": "[00时46分 ~ 02时47分]"
         },
         {
-          "title": "美国总统特朗普重申：不会有金钱交易（不会解冻伊朗的资金）。",
-          "url": "https://wallstreetcn.com/livenews/3090356",
+          "title": "特朗普称很快发布第一批UFO文件",
+          "url": "https://wallstreetcn.com/livenews/3090367",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时31分"
+          "time_info": "07时33分"
         },
         {
-          "title": "美国总统特朗普重申：伊朗方面表示霍尔木兹海峡开放。 （针对霍尔木兹海峡的）海上封锁将继续全面实施，直至与伊朗的交易达成。 与伊朗相关的大部分要点已经达成一致意见。 伊朗问题进程将很快。",
-          "url": "https://wallstreetcn.com/livenews/3090354",
+          "title": "特朗普认为美伊之间显著分歧不多",
+          "url": "https://news.ifeng.com/c/8sOMvFG8cEL",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "美国总统特朗普：某天，将把旗插在火星上。",
+          "url": "https://wallstreetcn.com/livenews/3090365",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时31分"
+          "time_info": "07时33分"
         },
         {
-          "title": "美国总统特朗普声称：我们将赢得中期选举。",
-          "url": "https://wallstreetcn.com/livenews/3090353",
+          "title": "伊朗议长卡利巴夫：特朗普1小时内发布7项声明，“均不属实”",
+          "url": "https://wallstreetcn.com/livenews/3090364",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时31分"
+          "time_info": "07时33分"
+        },
+        {
+          "title": "美国总统特朗普：已经指示战争部长海格塞斯公布不明飞行物（UFO）文件。 文件发布的程序将很快启动。",
+          "url": "https://wallstreetcn.com/livenews/3090363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "特朗普确认伊朗开放霍尔木兹，称海上封锁将持续至达成协议，料协议“一两天内”达成",
@@ -174,15 +198,15 @@
           "time_info": "02时47分"
         },
         {
-          "title": "特朗普认为美伊之间显著分歧不多",
-          "url": "https://wallstreetcn.com/livenews/3090351",
+          "title": "美国总统特朗普赞赏油价下跌。",
+          "url": "https://wallstreetcn.com/livenews/3090361",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时31分"
+          "time_info": "07时33分"
         },
         {
           "title": "美国司法部接近递交针对禽蛋生产行业的反垄断诉讼文件。 特朗普政府将把Cal-Maine Foods与Versova推上被告席。 禽蛋生产行业被控涉嫌串谋操纵价格。（华尔街日报）",
@@ -203,11 +227,36 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            16
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时35分 ~ 07时33分]"
+        },
+        {
+          "title": "美国总统特朗普重申：不会有金钱交易（不会解冻伊朗的资金）。",
+          "url": "https://wallstreetcn.com/livenews/3090356",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时35分 ~ 06时31分]"
+          "time_info": "[06时31分 ~ 07时33分]"
+        },
+        {
+          "title": "美国总统特朗普重申：伊朗方面表示霍尔木兹海峡开放。 （针对霍尔木兹海峡的）海上封锁将继续全面实施，直至与伊朗的交易达成。 与伊朗相关的大部分要点已经达成一致意见。 伊朗问题进程将很快。",
+          "url": "https://wallstreetcn.com/livenews/3090354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时33分]"
         },
         {
           "title": "特朗普连续发帖：“感谢”伊朗开放海峡 美将继续对伊海上封锁",
@@ -222,6 +271,18 @@
           "time_info": "[01时42分 ~ 02时47分]"
         },
         {
+          "title": "美国总统特朗普声称：我们将赢得中期选举。",
+          "url": "https://wallstreetcn.com/livenews/3090353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时33分]"
+        },
+        {
           "title": "美国总统特朗普声称：美国与伊朗将在本周末会谈。 清除伊朗浓缩铀不会动用地面部队。 伊朗的浓缩铀将被带到美国。（CBS）",
           "url": "https://wallstreetcn.com/livenews/3090284",
           "source": "华尔街见闻-快讯",
@@ -234,6 +295,18 @@
           "time_info": "[02时47分 ~ 03时54分]"
         },
         {
+          "title": "特朗普认为美伊之间显著分歧不多",
+          "url": "https://wallstreetcn.com/livenews/3090351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时33分]"
+        },
+        {
           "title": "美媒：特朗普称以色列“禁止”轰炸黎巴嫩 以色列寻求澄清",
           "url": "https://flash.jin10.com/detail/20260418040911468800",
           "source": "金十数据",
@@ -241,8 +314,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时38分 ~ 06时31分]"
+          "appearance_count": 4,
+          "time_info": "[04时38分 ~ 07时33分]"
         },
         {
           "title": "据AXIOS：特朗普发帖称对黎巴嫩的袭击是“被禁止的”，这一表态震惊了以色列总理内塔尼亚胡。",
@@ -252,8 +325,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时38分 ~ 06时31分]"
+          "appearance_count": 4,
+          "time_info": "[04时38分 ~ 07时33分]"
         },
         {
           "title": "伊朗议长：绝不放弃控制霍尔木兹海峡 特朗普妄言摧毁伊朗文明已失败",
@@ -263,8 +336,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时38分 ~ 06时31分]"
+          "appearance_count": 4,
+          "time_info": "[04时38分 ~ 07时33分]"
         },
         {
           "title": "市场消息：精神航空（Spirit Airlines）因油价飙升威胁复苏，寻求美国政府援助。精神航空已向特朗普政府申请数亿美元的紧急资金支持。",
@@ -274,8 +347,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时38分 ~ 06时31分]"
+          "appearance_count": 4,
+          "time_info": "[04时38分 ~ 07时33分]"
         },
         {
           "title": "美国总统特朗普声称，他认为自己可以相信伊朗人。 特使Witkoff、库什纳将参与（下次的）谈判，副总统万斯可能也会前往。（ABC新闻）",
@@ -283,11 +356,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            20
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时35分 ~ 07时33分]"
+        },
+        {
+          "title": "伊朗官员否认美国总统特朗普有关浓缩铀问题的论调。（CNN）",
+          "url": "https://wallstreetcn.com/livenews/3090347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时35分 ~ 06时31分]"
+          "time_info": "[06时31分 ~ 07时33分]"
         },
         {
           "title": "伊朗议长：绝不放弃控制霍尔木兹海峡，特朗普妄言摧毁伊朗文明已失败",
@@ -311,6 +397,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时37分 ~ 04时38分]"
+        },
+        {
+          "title": "伊朗：特朗普7项声明“均不属实”",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE7%E9%A1%B9%E5%A3%B0%E6%98%8E%E2%80%9C%E5%9D%87%E4%B8%8D%E5%B1%9E%E5%AE%9E%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "据美国哥伦比亚广播公司（CBS）：特朗普称这些材料将被运往美国。",
@@ -377,17 +474,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
-        },
-        {
-          "title": "伊朗官员否认美国总统特朗普有关浓缩铀问题的论调。（CNN）",
-          "url": "https://wallstreetcn.com/livenews/3090347",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
         },
         {
           "title": "美国总统特朗普在社交媒体上指责西班牙在美国对伊朗的行动中没有配合美国。",
@@ -491,8 +577,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时46分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 07时33分]"
         },
         {
           "title": "美国自伊朗战事以来第三批借出2603万桶SPR石油",
@@ -515,6 +601,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
+        },
+        {
+          "title": "伊朗海军司令：美国对伊海上封锁是“海盗行为”",
+          "url": "https://wallstreetcn.com/livenews/3090336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时35分 ~ 07时33分]"
         },
         {
           "title": "伊朗高级官员：维持霍尔木兹海峡开放的前提是遵守伊朗与美国达成的停火条款。 伊朗与美国之间仍存在重大分歧，包括核问题，需要进行严肃谈判。 未来几天可能达成初步协议，并有可能延长停火期限。 此类初步协议可能为解除制裁、确保战争损失赔偿的谈判创造空间。 如果其诉求得到满足，伊朗准备向世界保证其核工作的和平性质。（路透）",
@@ -551,18 +650,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时42分 ~ 02时47分]"
-        },
-        {
-          "title": "伊朗海军司令：美国对伊海上封锁是“海盗行为”",
-          "url": "https://wallstreetcn.com/livenews/3090336",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 06时31分]"
         },
         {
           "title": "【伊朗外交部：美方海上封锁违反停火协议】伊朗外交部发言人巴加埃表示，美国对伊朗实施的海上封锁被视为违反停火协议，伊方将采取必要措施予以回应。巴加埃同时强调，伊朗是霍尔木兹海峡的“守护者”，在必要情况下，伊朗将毫不妥协地采取行动，切实维护本国人民的利益与权利。（央视）",
@@ -680,18 +767,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "一图看懂 | A股七姐妹vs美股七姐妹，今年谁更能涨？",
           "url": "https://www.cls.cn/detail/2347485",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时46分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 07时33分]"
         },
         {
           "title": "中东紧张局势持续，美股勉强新高，纳指十二连涨，中概股指跑赢大盘，原油两连涨",
@@ -714,8 +802,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时46分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 07时33分]"
         },
         {
           "title": "Cal-Maine美股盘后跌4%。",
@@ -731,6 +819,39 @@
           "time_info": "[04时38分 ~ 06时31分]"
         },
         {
+          "title": "金十图示：2026年04月17日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260418040730604800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时38分 ~ 07时33分]"
+        },
+        {
+          "title": "金十图示：2026年04月17日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260418040536470800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时38分 ~ 07时33分]"
+        },
+        {
+          "title": "美股收盘：三大股指均涨超1% 纳指13连涨续创新高",
+          "url": "https://flash.jin10.com/detail/20260418040102520800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时38分 ~ 07时33分]"
+        },
+        {
           "title": "美股行业ETF普遍收涨，航空ETF涨超4.8%",
           "url": "https://wallstreetcn.com/livenews/3090324",
           "source": "华尔街见闻-快讯",
@@ -744,48 +865,38 @@
           "time_info": "[04时38分 ~ 06时31分]"
         },
         {
-          "title": "金十图示：2026年04月17日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260418040730604800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时38分 ~ 06时31分]"
-        },
-        {
-          "title": "金十图示：2026年04月17日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260418040536470800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时38分 ~ 06时31分]"
-        },
-        {
-          "title": "美股收盘：三大股指均涨超1% 纳指13连涨续创新高",
-          "url": "https://flash.jin10.com/detail/20260418040102520800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时38分 ~ 06时31分]"
-        },
-        {
           "title": "周五（4月17日）纽约尾盘，ICE美元指数涨0.01%，报98.227点，北京时间16:00之前大致持平、之后呈现出V形反转，本周累计下跌0.43%，周二北京时间24:00之前持续下挫，随后持续交投于98.200点附近。 彭博美元指数跌0.06%，报1192.87点，20:00以来也呈现出V形走势，本周累跌0.49%。 美元兑日元跌0.34%，报158.63日元，本周累计下跌0.40%，整体交投区间为159.86-157.50日元，周五美股开盘前后显著下挫。",
           "url": "https://wallstreetcn.com/livenews/3090349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时33分]"
+        },
+        {
+          "title": "周五（4月17日），美股存储芯片与硬件供应链指数收涨1.90%，报139.09点，本周累计上涨5.94%。 周五当天，成分股Rambus收涨5.75%，泰瑞达TER涨3.95%，希捷科技涨3%，西部数据、拉姆研究至少涨2.54%，应用材料涨1.81%，SanDisk涨0.17%，美光科技跌0.47%。 信息科技指数涨1.21%，报323.02点，本周累涨10.44%，整体平滑地持续走高。 人工智能（AI）赢家指数涨1.34%，报340.68点，本周累涨8.26%。 AI软件先驱指数涨0.70%，报97.60点，本周累涨15.83%。",
+          "url": "https://wallstreetcn.com/livenews/3090359",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时31分"
+          "time_info": "07时33分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收涨3%，苹果涨约2.6%",
+          "url": "https://wallstreetcn.com/livenews/3090358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "金十图示：2026年04月17日（周五）美股热门股票行情一览（美股盘中）",
@@ -797,6 +908,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "美股收盘：纳指13连涨 追平1992年以来最长连涨纪录",
+          "url": "https://www.cls.cn/detail/2348129",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "金十图示：2026年04月17日（周五）热门中概股行情一览（美股盘中）",
@@ -879,11 +1001,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            17
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 06时31分]"
+          "appearance_count": 3,
+          "time_info": "[05时35分 ~ 07时33分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至4月14日当周，COMEX黄金投机者将净多头头寸增加6,739手，至98,850手。COMEX白银投机者将净多头头寸增加1,007手，至11,046手。COMEX铜投机者将净多头头寸增加13,333手，至52,137手。",
@@ -907,11 +1030,12 @@
           "url": "https://wallstreetcn.com/livenews/3090345",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时33分]"
         }
       ]
     },
