@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-04-17T09:51:02.892841+08:00",
-  "total_titles_processed": 784,
+  "generated_at": "2026-04-17T12:44:51.771441+08:00",
+  "total_titles_processed": 975,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 52,
       "titles": [
         {
           "title": "特朗普：美伊下次会晤或在本周末举行",
           "url": "https://news.ifeng.com/c/8sN3kmBakib",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时01分 ~ 09时51分]"
+          "appearance_count": 11,
+          "time_info": "[03时01分 ~ 12时44分]"
         },
         {
           "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
@@ -41,8 +42,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时05分 ~ 09时51分]"
+          "appearance_count": 13,
+          "time_info": "[01时05分 ~ 12时44分]"
         },
         {
           "title": "特朗普就访华明确表态，中方回应",
@@ -116,6 +117,18 @@
           "time_info": "03时02分"
         },
         {
+          "title": "中东迎“曙光”？特朗普：美伊下次会晤或在本周末，以黎同意停火10天！",
+          "url": "https://www.cls.cn/detail/2346891",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 12时44分]"
+        },
+        {
           "title": "特朗普称或前往巴基斯坦推动与伊朗达成协议",
           "url": "https://flash.jin10.com/detail/20260417024512631800",
           "source": "金十数据",
@@ -144,9 +157,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
+          "url": "https://wallstreetcn.com/articles/3770182",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 12时44分]"
         },
         {
           "title": "美国总统特朗普：意大利（在发动伊朗战争方面）不支持我们，我们将来也不会支持他们。",
@@ -186,33 +211,11 @@
           "time_info": "[06时07分 ~ 06时33分]"
         },
         {
-          "title": "中东迎“曙光”？特朗普：美伊下次会晤或在本周末，以黎同意停火10天！",
-          "url": "https://www.cls.cn/detail/2346891",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
-        },
-        {
           "title": "特朗普称伊朗同意几乎所有要求",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BC%8A%E6%9C%97%E5%90%8C%E6%84%8F%E5%87%A0%E4%B9%8E%E6%89%80%E6%9C%89%E8%A6%81%E6%B1%82%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
-        },
-        {
-          "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
-          "url": "https://wallstreetcn.com/articles/3770182",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -275,6 +278,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时08分 ~ 06时33分]"
+        },
+        {
+          "title": "特朗普喊话意大利：你不帮我，我也不会帮你",
+          "url": "https://news.ifeng.com/c/8sOVPzGvey0",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
           "title": "特朗普称伊朗同意不拥有核武器，伊方暂无回应",
@@ -360,7 +374,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -385,6 +399,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "美国共和党参议员格雷厄姆（特朗普的盟友）称，他不信任黎巴嫩武装部队能够解除真主党的武装。",
+          "url": "https://flash.jin10.com/detail/20260417114248677800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
           "title": "美国总统特朗普提名Erica Schwartz为疾控中心（CDC）主任。",
@@ -558,7 +583,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -569,7 +594,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         }
@@ -577,7 +602,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "伊朗战争丨伊朗总统：民众对美国不再抱有任何信任",
@@ -680,11 +705,12 @@
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%80%BB%E7%BB%9F%EF%BC%9A%E4%BC%8A%E6%9C%97%E4%BA%BA%E6%B0%91%E5%AF%B9%E7%BE%8E%E5%9B%BD%E5%AE%8C%E5%85%A8%E5%A4%B1%E5%8E%BB%E4%BF%A1%E4%BB%BB",
           "source": "百度热搜",
           "ranks": [
-            14
+            14,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 12时44分]"
         },
         {
           "title": "伊朗：美国成以色列“第七个行政区”",
@@ -696,6 +722,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时40分 ~ 04时41分]"
+        },
+        {
+          "title": "伊朗战争丨美国部署到中东的军舰物资短缺，士气低落",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
           "title": "伊朗议会议长：美国屡屡违约阻碍地区和平进程",
@@ -729,6 +766,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
+        },
+        {
+          "title": "受伊朗战事影响 美国将推迟向部分欧洲国家交付武器",
+          "url": "https://wallstreetcn.com/livenews/3089769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
           "title": "海湾国家和欧洲官员认为美国需六个月才能达成伊朗协议",
@@ -778,7 +826,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "停火延长预期提振市场，美股高开，台积电跌超1%，布油涨2%",
@@ -799,11 +847,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时05分 ~ 09时51分]"
+          "appearance_count": 13,
+          "time_info": "[01时05分 ~ 12时44分]"
         },
         {
           "title": "AI需求强劲支撑涨势 美股三大期指小幅走高 | 今夜看点",
@@ -828,8 +877,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时33分 ~ 09时51分]"
+          "appearance_count": 5,
+          "time_info": "[06时33分 ~ 12时44分]"
         },
         {
           "title": "中东紧张局势持续，美股勉强新高，纳指十二连涨，中概股指跑赢大盘，原油两连涨",
@@ -839,8 +888,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 12时44分]"
         },
         {
           "title": "周四（4月16日），美股行业ETF涨跌各异，能源业ETF、科技行业ETF、全球科技股指数ETF、网络股指数ETF至多涨1.47%，银行业ETF收跌0.38%，医疗业ETF跌0.79%，生物科技指数ETF跌1.06%，全球航空业ETF跌1.44%。",
@@ -915,6 +964,17 @@
           "time_info": "[09时50分 ~ 09时51分]"
         },
         {
+          "title": "这轮美股新高，散户集体踏空！大多头Tom Lee：下一波上涨将由他们主导",
+          "url": "https://wallstreetcn.com/articles/3770147",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
           "title": "金十图示：2026年04月16日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260417040757477800",
           "source": "金十数据",
@@ -946,6 +1006,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "动物精神强势回归，散户无视伊朗冲突涌入美股",
+          "url": "https://flash.jin10.com/detail/20260417120037670800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
           "title": "金十图示：2026年04月16日（周四）美股热门股票行情一览（美股盘中）",
@@ -1113,7 +1184,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         }
