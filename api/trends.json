@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-19T02:37:24.555171+08:00",
-  "total_titles_processed": 380,
+  "generated_at": "2026-04-19T03:36:11.937776+08:00",
+  "total_titles_processed": 408,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普强称“伊朗让步了”，伊朗“他撒谎”，投资者：“他在与市场谈判，完全无视伊朗”",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 03时36分]"
         },
         {
           "title": "特朗普称若伊不达成停火或发动打击",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 03时36分]"
         },
         {
           "title": "特朗普：伊朗不会拥有核武器",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 03时36分]"
         },
         {
           "title": "伊朗发声：特朗普7项声明“均不属实”，绝不放弃控制霍尔木兹海峡，拒绝将浓缩铀运往国外，不接受临时停火",
@@ -50,8 +50,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 03时36分]"
         },
         {
           "title": "前白宫律师爆料：特朗普表现出典型的痴呆症状",
@@ -61,8 +61,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 03时36分]"
+        },
+        {
+          "title": "特朗普：美国已禁止以色列这样做，适可而止",
+          "url": "https://www.cls.cn/detail/2348149",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 03时36分]"
+        },
+        {
+          "title": "特朗普：以色列，适可而止",
+          "url": "https://news.ifeng.com/c/8sPsxH8Oocr",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 03时36分]"
         },
         {
           "title": "特朗普确认伊朗开放霍尔木兹，称海峡局势结束、美封锁将持续至达成协议，料协议“一两天内”达成",
@@ -76,39 +98,6 @@
           "time_info": "00时31分"
         },
         {
-          "title": "美媒：特朗普召开白宫战情室会议，商讨霍尔木兹海峡危机及美伊谈判",
-          "url": "https://flash.jin10.com/detail/20260419013804388800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时37分"
-        },
-        {
-          "title": "特朗普：美国已禁止以色列这样做，适可而止",
-          "url": "https://www.cls.cn/detail/2348149",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时37分]"
-        },
-        {
-          "title": "特朗普：以色列，适可而止",
-          "url": "https://news.ifeng.com/c/8sPsxH8Oocr",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时37分]"
-        },
-        {
           "title": "特朗普证实伊朗宣布开放霍尔木兹海峡",
           "url": "https://www.cls.cn/detail/2347896",
           "source": "财联社热门",
@@ -116,8 +105,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 03时36分]"
         },
         {
           "title": "特朗普称伊朗无法“要挟”美国",
@@ -127,8 +116,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 03时36分]"
+        },
+        {
+          "title": "美媒：特朗普召开白宫战情室会议，商讨霍尔木兹海峡危机及美伊谈判",
+          "url": "https://flash.jin10.com/detail/20260419013804388800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时37分 ~ 03时36分]"
         },
         {
           "title": "特朗普：美伊正对话 “今天结束前会有消息”",
@@ -138,8 +139,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 03时36分]"
         },
         {
           "title": "特朗普签署行政令以促进迷幻药物研究。（彭博）",
@@ -149,8 +150,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 03时36分]"
         },
         {
           "title": "特朗普谈伊朗：我们之间的对话进展顺利。 将在今天结束前获得一些信息。 政权更迭是“强制性的”，我们正在与伊朗对话。 （谈与伊朗的谈判）我们采取强硬立场。 伊朗想再次封锁霍尔木兹海峡，不能让他们以此勒索美国。",
@@ -160,8 +161,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 03时36分]"
         },
         {
           "title": "特朗普对伊博格碱（Ibogaine）研究发表评论：政府正在投入资金用于对伊博格碱的研究。",
@@ -171,8 +172,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 03时36分]"
         },
         {
           "title": "特朗普：加快对精神致幻药物相关研究的获取。 签署行政命令以审查某些致幻药物。 感谢小罗伯特·肯尼迪在降低药价的努力中做了“出色”的工作。",
@@ -182,8 +183,19 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 03时36分]"
+        },
+        {
+          "title": "伊朗革命卫队海军发表声明表示，船只及其所有者应遵循伊朗革命卫队海军发布的消息，并称美国总统特朗普关于霍尔木兹海峡的声明“没有有效性”。",
+          "url": "https://flash.jin10.com/detail/20260419021741854800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时36分"
         },
         {
           "title": "美国总统特朗普：今天结束前会有一些信息。",
@@ -222,7 +234,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "伊朗开火逼退油轮，霍尔木兹不到24小时再封锁！伊军方：美国“屡次违背承诺”，已恢复控制",
@@ -233,21 +245,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 03时36分]"
         },
         {
-          "title": "据华尔街日报：美国官员称，美军准备在未来几天内在国际水域登检与伊朗有关的船只并扣押商船。",
-          "url": "https://flash.jin10.com/detail/20260418230133041800",
+          "title": "据伊朗Press TV：伊朗议会发言人称，我们果断应对了美国的扫雷行动，几乎走到了战争边缘，但敌人退却了。",
+          "url": "https://flash.jin10.com/detail/20260419025451652800",
           "source": "金十数据",
           "ranks": [
-            7,
-            17,
-            26
+            4
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时36分"
         },
         {
           "title": "伊朗军方称因美国「背信弃义」伊方已恢复对霍尔木兹海峡管控，短暂放开后立刻恢复管控对市场有怎样的影响？",
@@ -257,8 +267,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 03时36分]"
         },
         {
           "title": "伊朗尚未同意与美国举行下一轮谈判",
@@ -268,8 +278,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 03时36分]"
         },
         {
           "title": "伊朗表示尚未同意与美国举行下一轮谈判，伊斯兰革命卫队向霍尔木兹海峡附近一艘油轮开火，局势会再度升级吗？",
@@ -279,8 +289,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 03时36分]"
         },
         {
           "title": "伊朗最高安全机构声明：伊朗正在重新审视美国近日提出的提议。伊朗决心保持对霍尔木兹海峡的控制直至战争结束。只要美国继续实施封锁，伊朗就不会开放霍尔木兹海峡。（伊朗国有媒体MIZAN）",
@@ -288,6 +298,19 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 03时36分]"
+        },
+        {
+          "title": "据华尔街日报：美国官员称，美军准备在未来几天内在国际水域登检与伊朗有关的船只并扣押商船。",
+          "url": "https://flash.jin10.com/detail/20260418230133041800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            17,
+            26
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -304,6 +327,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 01时31分]"
+        },
+        {
+          "title": "据伊朗国家电视台：伊朗革命卫队海军地方指挥官表示，任何在霍尔木兹海峡内无视警告的船只将成为打击目标。如果美国海军攻击伊朗船只，将遭受“沉重打击”。",
+          "url": "https://flash.jin10.com/detail/20260419023821635800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时36分"
+        },
+        {
+          "title": "伊朗首席谈判代表：美国封锁是“无知的决定”，因为不可能允许其他船只通过霍尔木兹海峡而禁止伊朗通行。",
+          "url": "https://flash.jin10.com/detail/20260419022709177800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时36分"
         },
         {
           "title": "俄罗斯国家原子能公司负责人：我们已准备好协助从伊朗移除浓缩铀。俄罗斯是与伊朗方面合作的唯一拥有积极经验的国家。我们密切关注美国与伊朗之间谈判的进展。",
@@ -327,11 +372,12 @@
           "url": "https://www.cls.cn/detail/2348169",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 03时36分]"
         }
       ]
     },
@@ -347,8 +393,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 03时36分]"
         }
       ]
     }
