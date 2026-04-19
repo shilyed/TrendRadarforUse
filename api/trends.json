@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-19T07:28:10.133512+08:00",
-  "total_titles_processed": 471,
+  "generated_at": "2026-04-19T09:54:51.651992+08:00",
+  "total_titles_processed": 614,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普强称“伊朗让步了”，伊朗“他撒谎”，投资者：“他在与市场谈判，完全无视伊朗”",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 09时54分]"
         },
         {
           "title": "特朗普称若伊不达成停火或发动打击",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 09时54分]"
         },
         {
           "title": "特朗普：伊朗不会拥有核武器",
@@ -58,22 +58,12 @@
           "url": "https://news.ifeng.com/c/8sQQLEAQZYu",
           "source": "凤凰网",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时28分]"
-        },
-        {
-          "title": "特朗普：美国已禁止以色列这样做，适可而止",
-          "url": "https://www.cls.cn/detail/2348149",
-          "source": "财联社热门",
-          "ranks": [
+            5,
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 09时54分]"
         },
         {
           "title": "特朗普：以色列，适可而止",
@@ -85,6 +75,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时31分 ~ 07时28分]"
+        },
+        {
+          "title": "特朗普：美国已禁止以色列这样做，适可而止",
+          "url": "https://www.cls.cn/detail/2348149",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 09时54分]"
         },
         {
           "title": "特朗普证实伊朗宣布开放霍尔木兹海峡",
@@ -114,11 +116,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             16,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 07时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 09时54分]"
         },
         {
           "title": "特朗普签署行政令以促进迷幻药物研究。（彭博）",
@@ -126,11 +129,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             17,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 07时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 09时54分]"
         },
         {
           "title": "特朗普谈伊朗：我们之间的对话进展顺利。 将在今天结束前获得一些信息。 政权更迭是“强制性的”，我们正在与伊朗对话。 （谈与伊朗的谈判）我们采取强硬立场。 伊朗想再次封锁霍尔木兹海峡，不能让他们以此勒索美国。",
@@ -145,6 +149,28 @@
           "time_info": "[00时31分 ~ 07时28分]"
         },
         {
+          "title": "特朗普称以色列是“勇敢的盟友” 批评其他盟友“暴露本性”",
+          "url": "https://flash.jin10.com/detail/20260419091413176800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "美国总统特朗普：无论人们是否喜欢以色列，他们都证明了自己是美国的伟大盟友。",
+          "url": "https://flash.jin10.com/detail/20260419090827382800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
           "title": "特朗普确认伊朗开放霍尔木兹，称海峡局势结束、美封锁将持续至达成协议，料协议“一两天内”达成",
           "url": "https://wallstreetcn.com/articles/3770269",
           "source": "华尔街见闻",
@@ -154,6 +180,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队宣布封锁海峡：特朗普言论不可信",
+          "url": "https://news.ifeng.com/c/8sR74oZ1935",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
         },
         {
           "title": "美媒：特朗普召开白宫战情室会议，商讨霍尔木兹海峡危机及美伊谈判",
@@ -217,6 +254,17 @@
           "time_info": "[03时36分 ~ 05时27分]"
         },
         {
+          "title": "专家：伊朗短暂重开海峡后再次关闭，特朗普乐观谈判前景遭质疑",
+          "url": "https://flash.jin10.com/detail/20260419055846431800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
           "title": "美国总统特朗普：今天结束前会有一些信息。",
           "url": "https://flash.jin10.com/detail/20260418214748360800",
           "source": "金十数据",
@@ -253,7 +301,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "伊朗开火逼退油轮，霍尔木兹不到24小时再封锁！伊军方：美国“屡次违背承诺”，已恢复控制",
@@ -264,19 +312,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时28分]"
-        },
-        {
-          "title": "伊朗军方称因美国「背信弃义」伊方已恢复对霍尔木兹海峡管控，短暂放开后立刻恢复管控对市场有怎样的影响？",
-          "url": "https://www.zhihu.com/question/2028881240292418278",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 09时54分]"
         },
         {
           "title": "伊朗尚未同意与美国举行下一轮谈判",
@@ -284,7 +321,19 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            14
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 09时54分]"
+        },
+        {
+          "title": "伊朗军方称因美国「背信弃义」伊方已恢复对霍尔木兹海峡管控，短暂放开后立刻恢复管控对市场有怎样的影响？",
+          "url": "https://www.zhihu.com/question/2028881240292418278",
+          "source": "知乎",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 11,
@@ -314,17 +363,6 @@
           "time_info": "[00时31分 ~ 07时28分]"
         },
         {
-          "title": "据纽约时报：美国情报评估认为，伊朗仍保有战前约40%的无人机库存，并在停火期间挖掘地下导弹城，目前仍拥有约60%的导弹发射装置，以及可能高达70%的导弹库存。",
-          "url": "https://flash.jin10.com/detail/20260419055830651800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时26分 ~ 07时28分]"
-        },
-        {
           "title": "据伊朗Press TV：伊朗议会发言人称，我们果断应对了美国的扫雷行动，几乎走到了战争边缘，但敌人退却了。",
           "url": "https://flash.jin10.com/detail/20260419025451652800",
           "source": "金十数据",
@@ -337,6 +375,29 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时36分 ~ 07时28分]"
+        },
+        {
+          "title": "伊朗副外长：不会向美国输送浓缩铀",
+          "url": "https://news.ifeng.com/c/8sRXaEHu6dm",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "据纽约时报：美国情报评估认为，伊朗仍保有战前约40%的无人机库存，并在停火期间挖掘地下导弹城，目前仍拥有约60%的导弹发射装置，以及可能高达70%的导弹库存。",
+          "url": "https://flash.jin10.com/detail/20260419055830651800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时26分 ~ 09时54分]"
         },
         {
           "title": "美国中央司令部：导弹驱逐舰“平克尼”号（DDG 91）在区域水域巡逻，以支持封锁行动。此次封锁已完全阻止了进出伊朗的海上经济贸易。",
@@ -416,6 +477,17 @@
           "time_info": "[00时31分 ~ 01时31分]"
         },
         {
+          "title": "伊朗：关闭霍尔木兹海峡 直至美国解除封锁",
+          "url": "https://www.cls.cn/detail/2348363",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
           "title": "俄罗斯国家原子能公司负责人：我们已准备好协助从伊朗移除浓缩铀。俄罗斯是与伊朗方面合作的唯一拥有积极经验的国家。我们密切关注美国与伊朗之间谈判的进展。",
           "url": "https://flash.jin10.com/detail/20260418213159927800",
           "source": "金十数据",
@@ -438,11 +510,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 09时54分]"
         }
       ]
     },
@@ -455,11 +528,29 @@
           "url": "https://www.cls.cn/detail/2348129",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 09时54分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【早报】伊方已恢复对霍尔木兹海峡的控制；半导体行业又迎涨价函",
+          "url": "https://www.cls.cn/detail/2348376",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
         }
       ]
     }
