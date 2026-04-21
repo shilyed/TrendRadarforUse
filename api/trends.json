@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T09:52:00.771314+08:00",
-  "total_titles_processed": 811,
+  "generated_at": "2026-04-21T12:44:32.743830+08:00",
+  "total_titles_processed": 981,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普：若有突破进展，愿同伊朗高级别领导人会面",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时57分 ~ 09时52分]"
+          "appearance_count": 13,
+          "time_info": "[00时57分 ~ 12时44分]"
         },
         {
           "title": "消息人士：巴基斯坦陆军参谋长同特朗普通话",
@@ -57,22 +57,23 @@
           "url": "https://www.cls.cn/detail/2350106",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 09时52分]"
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 12时44分]"
         },
         {
-          "title": "特朗普：伊朗将进行谈判，希望双方能够达成“公平协议”",
-          "url": "https://news.ifeng.com/c/8sUsyyCLV6x",
-          "source": "凤凰网",
+          "title": "民调：特朗普支持率创第二任期内新低",
+          "url": "https://www.toutiao.com/trending/7630352961877655571/",
+          "source": "今日头条",
           "ranks": [
-            5
+            2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 09时52分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
           "title": "美国国务院发言人：特朗普总统明确表示，我们不会允许敌对势力威胁我们在美洲的利益。我们正与地区伙伴采取切实措施，打击如贩毒集团等恐怖组织，并撤销那些可能危害我们公民安全的人的签证。",
@@ -81,7 +82,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
         },
@@ -92,9 +93,45 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
+        },
+        {
+          "title": "特朗普：延长停火极不可能 在达成“协议”前不会解除对伊朗的封锁",
+          "url": "https://www.cls.cn/detail/2350029",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时36分 ~ 12时44分]"
+        },
+        {
+          "title": "特朗普：伊朗将进行谈判，希望双方能够达成“公平协议”",
+          "url": "https://news.ifeng.com/c/8sUsyyCLV6x",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 12时44分]"
+        },
+        {
+          "title": "特朗普撇清：以色列可说不动我",
+          "url": "https://news.ifeng.com/c/8sUslKZt0DW",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
           "title": "欧洲央行行长拉加德：央行将根据形势的需要而采取行动。 （欧元区）经济形势仍然高度不确定。 欧元区还没有陷入恶劣的假设场景。 （美国总统特朗普造成的）伊朗战争的“停止-启动”本性让人难以评估战争所构成的影响。 恢复至战争爆发之前的水平谈何容易。 迄今，供应链所受干扰有限。 在（对伊朗战争）得出结论之前，央行需要掌握更多信息。",
@@ -222,16 +259,15 @@
           "time_info": "[02时55分 ~ 04时41分]"
         },
         {
-          "title": "特朗普：延长停火极不可能 在达成“协议”前不会解除对伊朗的封锁",
-          "url": "https://www.cls.cn/detail/2350029",
-          "source": "财联社热门",
+          "title": "特朗普称21日美伊谈判、如未达成协议“几无可能”延长停火，伊朗最高领袖重申三大立场",
+          "url": "https://wallstreetcn.com/articles/3770427",
+          "source": "华尔街见闻",
           "ranks": [
-            9,
-            7
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时36分 ~ 09时52分]"
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 12时44分]"
         },
         {
           "title": "特朗普威胁停火到期将开炸",
@@ -244,17 +280,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时41分 ~ 07时37分]"
-        },
-        {
-          "title": "特朗普称21日美伊谈判、如未达成协议“几无可能”延长停火，伊朗最高领袖重申三大立场",
-          "url": "https://wallstreetcn.com/articles/3770427",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 09时52分]"
         },
         {
           "title": "伊朗议长：特朗普妄图将谈判桌变成投降桌",
@@ -315,15 +340,37 @@
           "time_info": "07时37分"
         },
         {
+          "title": "据英国金融时报：特朗普的“和平委员会”已与迪拜环球港务集团就加沙重建事宜举行了会谈。",
+          "url": "https://flash.jin10.com/detail/20260421120318110800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
           "title": "白宫新闻秘书莱维特：美国从未如此接近与伊朗达成一项好的协议。 如果与伊朗没有达成协议，特朗普仍然有其他选择。",
           "url": "https://wallstreetcn.com/livenews/3091434",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
+        },
+        {
+          "title": "美伊局势会如何演绎？特朗普面前有五条路 最危险的通往200美元油价！",
+          "url": "https://www.cls.cn/detail/2350258",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
           "title": "特朗普：没有压力达成伊朗协议 不会被外界催促",
@@ -428,7 +475,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 25,
       "titles": [
         {
           "title": "“停火最后期限”临近，伊朗再封海峡、美国首次扣船，双方都在争取“谈判砝码”",
@@ -458,11 +505,23 @@
           "url": "https://www.toutiao.com/trending/7630980651969154606/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时36分 ~ 09时52分]"
+          "appearance_count": 5,
+          "time_info": "[07时36分 ~ 12时44分]"
+        },
+        {
+          "title": "美国防部：415名美军人员在对伊朗军事行动中受伤",
+          "url": "https://wallstreetcn.com/livenews/3091515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
           "title": "伊朗外交部声明：伊朗外长告知巴基斯坦外长，美国“持续违反停火协议”是外交进程继续推进的主要障碍。 德黑兰在综合考虑各方面因素后，将就如何推进此事做出决定。",
@@ -612,6 +671,17 @@
           "time_info": "[03时57分 ~ 04时41分]"
         },
         {
+          "title": "伊朗要求美国立即释放被扣押船只及人员",
+          "url": "https://wallstreetcn.com/livenews/3091509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
           "title": "惠誉：伊朗战争和软件中断成为美国信用的双重风险。",
           "url": "https://flash.jin10.com/detail/20260421012003513800",
           "source": "金十数据",
@@ -629,7 +699,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
         },
@@ -645,13 +715,35 @@
           "time_info": "00时58分"
         },
         {
+          "title": "伊朗外交部：伊朗已提请联合国秘书长、安理会成员及国际海事组织关注此事，并要求国际机构和负责任的各国政府对美国针对国际商业航运的犯罪行为采取坚决且严肃的回应。",
+          "url": "https://flash.jin10.com/detail/20260421114254538800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "伊朗外交部：我们对美国袭击伊朗商船“Touska号”的非法且野蛮的行为表示最强烈的谴责。这不仅违反了《联合国宪章》的基本原则和国际法准则，更是构成了对伊朗的侵略行为。",
+          "url": "https://flash.jin10.com/detail/20260421114240159800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
           "title": "美国中央司令部：“林肯号”航母在阿拉伯海与“卡尔·布拉希尔号”补给舰进行了垂直补给，接收了相关物资。目前，“林肯号”正在中东地区执行任务，对进出伊朗港口的船只实施美国海军封锁。",
           "url": "https://flash.jin10.com/detail/20260421091052670800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
         },
@@ -665,6 +757,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "伊朗外交部：美国对地区局势恶化负有全部责任。",
+          "url": "https://flash.jin10.com/detail/20260421113442619800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
         }
       ]
     },
@@ -691,8 +794,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时36分 ~ 09时52分]"
+          "appearance_count": 6,
+          "time_info": "[06时36分 ~ 12时44分]"
         },
         {
           "title": "美股三大期指盘前集体走低 伊朗商船遭袭谈判迷雾笼罩 | 今夜看点",
@@ -717,8 +820,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时36分 ~ 09时52分]"
+          "appearance_count": 6,
+          "time_info": "[06时36分 ~ 12时44分]"
         },
         {
           "title": "高盛交易员：美股已经做好本周回调的准备",
@@ -854,7 +957,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "上海黄金交易所黄金T+D 4月20日（周一）晚盘收盘下跌0.0%报1055.95元/克；<br/>上海黄金交易所白银T+D 4月20日（周一）晚盘收盘下跌0.33%报19907.0元/千克。",
@@ -894,15 +997,88 @@
           "time_info": "[05时40分 ~ 06时36分]"
         },
         {
+          "title": "金十图示：2026年04月21日（周二）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260421115513921800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
           "title": "中信期货：白银短线跟随黄金偏强震荡，波动率或高于黄金，关注美伊谈判进展和海峡复航情况",
           "url": "https://flash.jin10.com/detail/20260421090835737800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "创业板指跌超1%，沪指跌0.24%，深成指跌0.87%，液冷、算力租赁、电网设备、半导体等方向跌幅居前，沪深京三市下跌个股近3600只。",
+          "url": "https://wallstreetcn.com/livenews/3091445",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
+          "title": "日本突发7.4级地震，影响多家半导体公司",
+          "url": "https://wallstreetcn.com/livenews/3091248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 01时55分]"
+        },
+        {
+          "title": "日本突发7.4级地震，影响多家半导体公司",
+          "url": "https://wallstreetcn.com/articles/3770431",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "做多半导体成“最拥挤交易”，全球机构跳出“抱团”寻觅细分方向",
+          "url": "https://wallstreetcn.com/livenews/3091364",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时37分"
+        },
+        {
+          "title": "金十图示：2026年04月21日（周二）富时中国A50指数成分股午盘收盘行情一览：半导体、通信设备板块全线下跌，工业金属板块涨跌不一",
+          "url": "https://flash.jin10.com/detail/20260421113732316800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
         }
       ]
     },
@@ -949,42 +1125,36 @@
       ]
     },
     {
-      "keyword_group": "半导体",
-      "match_count": 3,
+      "keyword_group": "金价",
+      "match_count": 1,
       "titles": [
         {
-          "title": "创业板指跌超1%，沪指跌0.24%，深成指跌0.87%，液冷、算力租赁、电网设备、半导体等方向跌幅居前，沪深京三市下跌个股近3600只。",
-          "url": "https://wallstreetcn.com/livenews/3091445",
-          "source": "华尔街见闻-快讯",
+          "title": "重要事件将接踵而至，金价还能“冷静”吗？",
+          "url": "https://flash.jin10.com/detail/20260421115803997800",
+          "source": "金十数据",
           "ranks": [
-            5
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时52分"
-        },
+          "time_info": "12时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "日本突发7.4级地震，影响多家半导体公司",
-          "url": "https://wallstreetcn.com/livenews/3091248",
-          "source": "华尔街见闻-快讯",
+          "title": "投机性黄金头寸已接近出清，稳定流动性下价格正趋于健康",
+          "url": "https://flash.jin10.com/detail/20260421114529031800",
+          "source": "金十数据",
           "ranks": [
-            17,
-            28
+            18
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时55分]"
-        },
-        {
-          "title": "做多半导体成“最拥挤交易”，全球机构跳出“抱团”寻觅细分方向",
-          "url": "https://wallstreetcn.com/livenews/3091364",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时37分"
+          "time_info": "12时44分"
         }
       ]
     },
