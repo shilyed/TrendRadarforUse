@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T07:31:17.816778+08:00",
-  "total_titles_processed": 680,
+  "generated_at": "2026-04-22T09:50:59.493234+08:00",
+  "total_titles_processed": 846,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 51,
       "titles": [
         {
           "title": "特朗普一顿迷惑操作搞懵美媒，美官员：只会添乱",
@@ -17,6 +17,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时51分 ~ 07时31分]"
+        },
+        {
+          "title": "一图看懂｜特朗普执政一年后，美国科学界面临什么困境",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33015762",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时51分 ~ 09时50分]"
         },
         {
           "title": "特朗普称美伊停火到期将继续轰炸",
@@ -42,27 +56,14 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时51分 ~ 07时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时51分 ~ 09时50分]"
         },
         {
           "title": "凤凰女记者：巴外长不断给伊朗做工作，特朗普态度成关键",
           "url": "https://news.ifeng.com/c/8sVQzCFVrqc",
           "source": "凤凰网",
           "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时51分 ~ 07时31分]"
-        },
-        {
-          "title": "一图看懂｜特朗普执政一年后，美国科学界面临什么困境",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33015762",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
             9
           ],
           "is_new": false,
@@ -78,8 +79,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时01分 ~ 07时31分]"
+          "appearance_count": 7,
+          "time_info": "[03时01分 ~ 09时50分]"
         },
         {
           "title": "伊朗战争丨特朗普宣布延长对伊朗停火，多方回应",
@@ -97,11 +98,24 @@
           "url": "https://www.cls.cn/detail/2351434",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时30分 ~ 07时31分]"
+          "appearance_count": 3,
+          "time_info": "[07时30分 ~ 09时50分]"
+        },
+        {
+          "title": "特朗普：预计美伊将达成“重大协议”，如果沃什不迅速降息将会感到失望",
+          "url": "https://wallstreetcn.com/articles/3770519",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时01分 ~ 09时50分]"
         },
         {
           "title": "特朗普延长停火期限",
@@ -113,17 +127,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时30分 ~ 07时31分]"
-        },
-        {
-          "title": "特朗普：预计美伊将达成“重大协议”，如果沃什不迅速降息将会感到失望",
-          "url": "https://wallstreetcn.com/articles/3770519",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时01分 ~ 07时31分]"
         },
         {
           "title": "伊朗战争丨特朗普宣布延长对伊朗停火",
@@ -143,9 +146,34 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "最后时刻反转！伊朗拒绝谈判，特朗普宣布延长停火，维持海上封锁等待伊朗提交方案",
+          "url": "https://wallstreetcn.com/articles/3770539",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时30分 ~ 09时50分]"
+        },
+        {
+          "title": "特朗普宣布延长停火期限 直至伊朗拿出一份“统一谈判方案”",
+          "url": "https://www.cls.cn/detail/2351404",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时33分 ~ 09时50分]"
         },
         {
           "title": "特朗普：伊朗将进行谈判，希望双方能够达成“公平协议”",
@@ -193,29 +221,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时33分 ~ 07时31分]"
-        },
-        {
-          "title": "特朗普宣布延长停火期限 直至伊朗拿出一份“统一谈判方案”",
-          "url": "https://www.cls.cn/detail/2351404",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时33分 ~ 07时31分]"
-        },
-        {
-          "title": "最后时刻反转！伊朗拒绝谈判，特朗普宣布延长停火，维持海上封锁等待伊朗提交方案",
-          "url": "https://wallstreetcn.com/articles/3770539",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时30分 ~ 07时31分]"
         },
         {
           "title": "沃什听证会强调美联储独立性，称绝不会成为特朗普的“提线木偶”，需要新的通胀框架",
@@ -293,7 +298,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -340,6 +345,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "特朗普宣布延长同伊朗的停火",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33023082",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         },
         {
           "title": "伊朗最高联合军事指挥部警告称，鉴于特朗普的反复威胁，将对预定目标进行“强有力的攻击”。",
@@ -397,6 +413,17 @@
           "time_info": "05时39分"
         },
         {
+          "title": "美议员：大家宁可特朗普打高尔夫 也不希望他进战情室",
+          "url": "https://flash.jin10.com/detail/20260422092930094800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
           "title": "【斡旋方巴基斯坦：特朗普接受了我们延长停火的要求】巴基斯坦总理：感谢美国总统特朗普接受我们延长停火协议的请求。 巴基斯坦将继续为通过谈判解决冲突做出真诚努力。 希望双方继续遵守停火协议。 希望在伊斯兰堡举行的第二轮会谈中，双方能够达成全面的“和平协议”，以永久结束冲突。",
           "url": "https://wallstreetcn.com/livenews/3092111",
           "source": "华尔街见闻-快讯",
@@ -406,6 +433,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
+        },
+        {
+          "title": "“特朗普总是临阵脱逃”：TACO背后的股市反常繁荣和内幕交易争议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33019660",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         },
         {
           "title": "特朗普宣布延长停火期限，维持海上封锁等待伊朗提交方案",
@@ -527,12 +565,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
+        },
+        {
+          "title": "特朗普考虑延长对《琼斯法案》的豁免令，以简化美国石油运输。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3092185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "特朗普：如果美国解除海上封锁 就永远不可能与伊朗达成协议",
+          "url": "https://wallstreetcn.com/livenews/3092182",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
         {
           "title": "伊朗外长：美国封锁伊港口是一种战争行为",
@@ -544,6 +604,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时06分 ~ 07时31分]"
+        },
+        {
+          "title": "伊朗武装部队警告美国：随时准备开火",
+          "url": "https://news.ifeng.com/c/8sWH57YfkrU",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "伊朗致信联合国：责令美国“放人”",
+          "url": "https://news.ifeng.com/c/8sWcIvC6CVY",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         },
         {
           "title": "布伦特原油期货突破100美元心理关口，为4月13日以来盘中首次，涨幅扩大至5%。 WTI原油日内涨幅达5.0%，报91.94美元/桶。 据美联社报道，美国副总统万斯取消了前往巴基斯坦的行程。 据伊朗塔斯尼姆通讯社援引消息人士称，伊朗将不参加周三在巴基斯坦举行的会谈。",
@@ -593,6 +675,17 @@
           "time_info": "[03时01分 ~ 04时06分]"
         },
         {
+          "title": "伊朗拒绝出席谈判 美国延长停火期限",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%8B%92%E7%BB%9D%E5%87%BA%E5%B8%AD%E8%B0%88%E5%88%A4+%E7%BE%8E%E5%9B%BD%E5%BB%B6%E9%95%BF%E5%81%9C%E7%81%AB%E6%9C%9F%E9%99%90",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
           "title": "伊朗军官：警告海湾邻国不要帮助美国发动对伊袭击",
           "url": "https://wallstreetcn.com/livenews/3092060",
           "source": "华尔街见闻-快讯",
@@ -624,6 +717,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "美伊第二轮谈判搁置？伊朗代表：美国解除对伊封锁是谈判前提条件",
+          "url": "https://www.cls.cn/detail/2351498",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         },
         {
           "title": "一艘载有液化气的伊朗船只正穿越美国军队的封锁",
@@ -764,7 +868,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -778,6 +882,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        },
+        {
+          "title": "伊朗敦促联合国责令美国释放伊朗被扣货船",
+          "url": "https://wallstreetcn.com/livenews/3092187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         }
       ]
     },
@@ -807,8 +922,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时51分 ~ 07时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时51分 ~ 09时50分]"
         },
         {
           "title": "SpaceX压境前夜：美股IPO市场上演“疯狂冲刺”",
@@ -816,11 +931,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            13
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时51分 ~ 07时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时51分 ~ 09时50分]"
         },
         {
           "title": "美股收盘：三大指数尾盘跳水集体收跌 中东战火阴影盖过财报利好",
@@ -831,8 +947,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时33分 ~ 09时50分]"
+        },
+        {
+          "title": "伊朗停火谈判生变，美股收跌，芯片股指十五连涨，油价再涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3770463",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[06时33分 ~ 07时31分]"
+          "time_info": "[07时30分 ~ 09时50分]"
         },
         {
           "title": "伊朗停火谈判生变，美股收跌，油价飙升，金银下挫",
@@ -844,17 +971,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时39分 ~ 06时33分]"
-        },
-        {
-          "title": "伊朗停火谈判生变，美股收跌，芯片股指十五连涨，油价再涨，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3770463",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时30分 ~ 07时31分]"
         },
         {
           "title": "现货黄金日内大跌3.00%，现报4675.97美元/盎司；美股短线跳水。",
@@ -916,6 +1032,79 @@
       ]
     },
     {
+      "keyword_group": "白银",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "现货白银日内大跌5.00%，现报75.68美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260422034325768800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时06分"
+        },
+        {
+          "title": "白银只值40美元？德国商业银行：现在是黄金在“带飞”",
+          "url": "https://flash.jin10.com/detail/20260422093629673800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "周二（4月21日）纽约尾盘，现货白银跌3.74%，报76.7435美元/盎司，全天持续走低，北京时间04:08刷新日低至75.4068美元。 COMEX白银期货跌3.99%，报77.265美元/盎司，04:08刷新日低至76美元。 COMEX铜期货跌0.46%，报6.0785美元/磅。 现货铂金跌2.45%，现货钯金跌1.17%。",
+          "url": "https://wallstreetcn.com/livenews/3092104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时33分]"
+        },
+        {
+          "title": "现货白银日内跌幅达4%",
+          "url": "https://flash.jin10.com/detail/20260422003015526800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时52分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 4月21日（周二）晚盘收盘下跌1.58%报1036.0元/克；<br/>上海黄金交易所白银T+D 4月21日（周二）晚盘收盘下跌3.11%报19102.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260422023102887800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "现货白银日内大涨1美元，现报77.69美元/盎司，涨幅1.32%。纽约期金日内涨幅扩大至1.00%，现报4766.90美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260422092409554800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 4,
       "titles": [
@@ -963,57 +1152,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "现货白银日内大跌5.00%，现报75.68美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260422034325768800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时06分"
-        },
-        {
-          "title": "周二（4月21日）纽约尾盘，现货白银跌3.74%，报76.7435美元/盎司，全天持续走低，北京时间04:08刷新日低至75.4068美元。 COMEX白银期货跌3.99%，报77.265美元/盎司，04:08刷新日低至76美元。 COMEX铜期货跌0.46%，报6.0785美元/磅。 现货铂金跌2.45%，现货钯金跌1.17%。",
-          "url": "https://wallstreetcn.com/livenews/3092104",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时39分 ~ 06时33分]"
-        },
-        {
-          "title": "现货白银日内跌幅达4%",
-          "url": "https://flash.jin10.com/detail/20260422003015526800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 4月21日（周二）晚盘收盘下跌1.58%报1036.0元/克；<br/>上海黄金交易所白银T+D 4月21日（周二）晚盘收盘下跌3.11%报19102.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260422023102887800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
         }
       ]
     },
