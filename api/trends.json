@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T19:55:37.783216+08:00",
-  "total_titles_processed": 1570,
+  "generated_at": "2026-04-22T21:08:28.357384+08:00",
+  "total_titles_processed": 1685,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 70,
       "titles": [
         {
           "title": "特朗普一顿迷惑操作搞懵美媒，美官员：只会添乱",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时30分 ~ 19时55分]"
+          "appearance_count": 11,
+          "time_info": "[07时30分 ~ 21时08分]"
         },
         {
           "title": "沃什听证会强调美联储独立性，称绝不会成为特朗普的“提线木偶”，从未被要求作出降息承诺",
@@ -41,8 +41,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[03时01分 ~ 19时55分]"
+          "appearance_count": 15,
+          "time_info": "[03时01分 ~ 21时08分]"
         },
         {
           "title": "【早报】特朗普：延长停火期限；伊朗：拒绝出席伊美第二轮谈判",
@@ -120,11 +120,12 @@
             9,
             10,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时01分 ~ 19时55分]"
+          "appearance_count": 11,
+          "time_info": "[03时01分 ~ 21时08分]"
         },
         {
           "title": "凤凰女记者：巴外长不断给伊朗做工作，特朗普态度成关键",
@@ -159,8 +160,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时05分 ~ 19时55分]"
+          "appearance_count": 8,
+          "time_info": "[13时05分 ~ 21时08分]"
         },
         {
           "title": "“特朗普总是临阵脱逃”：TACO背后的股市反常繁荣和内幕交易争议",
@@ -175,8 +176,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时50分 ~ 19时55分]"
+          "appearance_count": 9,
+          "time_info": "[09时50分 ~ 21时08分]"
         },
         {
           "title": "伊朗战争丨特朗普宣布延长对伊朗停火，多方回应",
@@ -188,6 +189,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时33分 ~ 07时31分]"
+        },
+        {
+          "title": "特朗普延长与伊朗停火，外交部回应",
+          "url": "https://news.ifeng.com/c/8sX5InWbAM4",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时27分 ~ 21时08分]"
         },
         {
           "title": "特朗普延长停火期限",
@@ -232,18 +245,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
-        },
-        {
-          "title": "特朗普延长与伊朗停火，外交部回应",
-          "url": "https://news.ifeng.com/c/8sX5InWbAM4",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时27分 ~ 19时55分]"
         },
         {
           "title": "沃什的“不可能任务”：既要驯服通胀，又要取悦特朗普",
@@ -317,6 +318,20 @@
           "time_info": "[06时33分 ~ 07时31分]"
         },
         {
+          "title": "民调：特朗普支持率下降 美国朝错误方向发展",
+          "url": "https://www.cls.cn/detail/2351804",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时27分 ~ 21时08分]"
+        },
+        {
           "title": "特朗普就关税退款发警告",
           "url": "https://news.ifeng.com/c/8sWa8XCzzKG",
           "source": "凤凰网",
@@ -326,19 +341,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时53分 ~ 18时14分]"
-        },
-        {
-          "title": "民调：特朗普支持率下降 美国朝错误方向发展",
-          "url": "https://www.cls.cn/detail/2351804",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时27分 ~ 19时55分]"
         },
         {
           "title": "沃什听证会强调美联储独立性，称绝不会成为特朗普的“提线木偶”，需要新的通胀框架",
@@ -397,6 +399,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时51分 ~ 00时52分]"
+        },
+        {
+          "title": "特朗普称预计停火到期后将继续轰炸伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33020279",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时55分 ~ 21时08分]"
         },
         {
           "title": "美媒：万斯赴巴之行不明 特朗普私下讨论完全取消行程",
@@ -482,7 +496,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
         },
@@ -518,17 +532,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
-        },
-        {
-          "title": "特朗普称预计停火到期后将继续轰炸伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33020279",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时55分"
         },
         {
           "title": "伊朗最高联合军事指挥部警告称，鉴于特朗普的反复威胁，将对预定目标进行“强有力的攻击”。",
@@ -729,6 +732,17 @@
           "time_info": "06时33分"
         },
         {
+          "title": "打脸特朗普！美军沙特基地列装乌克兰反无人机系统",
+          "url": "https://flash.jin10.com/detail/20260422202152051800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
           "title": "美联储主席提名人沃什：特朗普从来没有要求在具体（哪次）会议上降息。 那些报道特朗普向我施压要求降息的记者需要更好的消息源。 特朗普从未要求我承诺在任何特定会议上降息。 我绝不会那样做。",
           "url": "https://wallstreetcn.com/livenews/3091984",
           "source": "华尔街见闻-快讯",
@@ -809,7 +823,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "伊朗致信联合国：责令美国“放人”",
@@ -820,19 +834,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时50分 ~ 19时55分]"
-        },
-        {
-          "title": "伊朗外长：美国封锁伊港口是一种战争行为",
-          "url": "https://news.ifeng.com/c/8sW9gidNeMi",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时06分 ~ 07时31分]"
+          "appearance_count": 9,
+          "time_info": "[09时50分 ~ 21时08分]"
         },
         {
           "title": "伊朗拒谈判,美国延长停火",
@@ -846,8 +849,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时05分 ~ 19时55分]"
+          "appearance_count": 8,
+          "time_info": "[13时05分 ~ 21时08分]"
+        },
+        {
+          "title": "伊朗外长：美国封锁伊港口是一种战争行为",
+          "url": "https://news.ifeng.com/c/8sW9gidNeMi",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时06分 ~ 07时31分]"
         },
         {
           "title": "美伊第二轮谈判搁置？伊朗代表：美国解除对伊封锁是谈判前提条件",
@@ -921,6 +935,18 @@
           "time_info": "[13时05分 ~ 13时06分]"
         },
         {
+          "title": "拒绝谈判后，伊朗：收到“一些信号”暗示美国准备解除封锁",
+          "url": "https://wallstreetcn.com/articles/3770583",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时55分 ~ 21时08分]"
+        },
+        {
           "title": "【一艘载有液化气的伊朗船只正穿越美国军队的封锁】一艘载有伊朗液化气的伊朗船只正在穿越美国军队的封锁。这是24小时内第三艘通过霍尔木兹海峡的伊朗船只。（央视）",
           "url": "https://wallstreetcn.com/livenews/3092021",
           "source": "华尔街见闻-快讯",
@@ -965,17 +991,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
-        },
-        {
-          "title": "拒绝谈判后，伊朗：收到“一些信号”暗示美国准备解除封锁",
-          "url": "https://wallstreetcn.com/articles/3770583",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时55分"
         },
         {
           "title": "伊朗军官：警告海湾邻国不要帮助美国发动对伊袭击",
@@ -1207,12 +1222,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
+        },
+        {
+          "title": "伊朗炮艇在霍尔木兹海峡向船只开火 其本国油轮闯关美国封锁",
+          "url": "https://wallstreetcn.com/livenews/3092591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "伊朗停火谈判生变，美股收跌，芯片股指十五连涨，油价再涨，金银下挫",
@@ -1223,8 +1249,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时30分 ~ 19时55分]"
+          "appearance_count": 11,
+          "time_info": "[07时30分 ~ 21时08分]"
         },
         {
           "title": "美伊谈判悬而未决，美股指收跌，半导体指数十四连涨，原油大涨",
@@ -1299,26 +1325,27 @@
           "time_info": "04时06分"
         },
         {
-          "title": "波音一季度营收222.2亿美元，预估217.9亿美元。 一季度每股亏损11美分，一季度核心每股亏损20美分。 一季度调整后自由现金流为负14.5亿美元，预期为负26.1亿美元。 第一季度商用飞机营收92.0亿美元，预期100.8亿美元。 波音预计737-7和737-10机型将于2026年获得认证。 波音美股盘前涨近3%。",
-          "url": "https://wallstreetcn.com/livenews/3092589",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时55分"
-        },
-        {
           "title": "阿里巴巴美股盘前抹去早前跌幅，现上涨1%。",
           "url": "https://wallstreetcn.com/livenews/3092583",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
+        },
+        {
+          "title": "波音一季度营收222.2亿美元，预估217.9亿美元。 一季度每股亏损11美分，一季度核心每股亏损20美分。 一季度调整后自由现金流为负14.5亿美元，预期为负26.1亿美元。 第一季度商用飞机营收92.0亿美元，预期100.8亿美元。 波音预计737-7和737-10机型将于2026年获得认证。 波音美股盘前涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/3092589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时55分 ~ 21时08分]"
         },
         {
           "title": "美股三大股指期货周三高开，纳指期货涨0.4%；现货金银同样走高，黄金上涨0.1%，白银上涨0.5%。",
@@ -1356,6 +1383,17 @@
           "time_info": "16时27分"
         },
         {
+          "title": "特朗普延长对伊朗停火 美股三大期指小幅上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2352533",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
           "title": "美股盘前，半导体股普涨，阿斯麦涨约1%，ARM涨约2.5%，美光科技涨约1.5%。",
           "url": "https://wallstreetcn.com/livenews/3092421",
           "source": "华尔街见闻-快讯",
@@ -1378,6 +1416,17 @@
           "time_info": "05时39分"
         },
         {
+          "title": "据报道，谷歌云推出用于人工智能的新型TPU 8T和TPU 8I芯片。 谷歌A美股盘前涨近2%。",
+          "url": "https://wallstreetcn.com/livenews/3092605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
           "title": "周二（4月21日），美股行业ETF普遍收跌，全球航空业ETF收跌2.90%，公用事业ETF、区域银行ETF、银行业ETF、医疗业ETF、生物科技指数ETF跌1.75%-1.01%，半导体ETF涨0.15%，能源业ETF涨1.45%。",
           "url": "https://wallstreetcn.com/livenews/3092085",
           "source": "华尔街见闻-快讯",
@@ -1395,7 +1444,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
         }
@@ -1446,7 +1495,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
         },
@@ -1548,6 +1597,62 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepTalk：国际现货黄金完成典型修正！四个月内金价将突破5600美元？",
+          "url": "https://flash.jin10.com/detail/20260422203426124800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "停火延长但谈判破裂，金价反弹只是喘口气？",
+          "url": "https://flash.jin10.com/detail/20260422114004388800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "两年期美债收益率涨超7个基点，投资者紧盯美国与伊朗能否再次会谈",
+          "url": "https://wallstreetcn.com/livenews/3092069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时06分"
+        },
+        {
+          "title": "交易员加码押注美债将延续平稳走势 料未来几周收益率窄幅波动",
+          "url": "https://wallstreetcn.com/livenews/3092595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        }
+      ]
+    },
+    {
       "keyword_group": "半导体",
       "match_count": 2,
       "titles": [
@@ -1575,40 +1680,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "停火延长但谈判破裂，金价反弹只是喘口气？",
-          "url": "https://flash.jin10.com/detail/20260422114004388800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "两年期美债收益率涨超7个基点，投资者紧盯美国与伊朗能否再次会谈",
-          "url": "https://wallstreetcn.com/livenews/3092069",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时06分"
         }
       ]
     }
