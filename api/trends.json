@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-27T20:18:44.615633+08:00",
-  "total_titles_processed": 1303,
+  "generated_at": "2026-04-27T23:02:06.539746+08:00",
+  "total_titles_processed": 1480,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 70,
+      "match_count": 71,
       "titles": [
         {
           "title": "现场视频丨突发安全事件，特朗普紧急撤离白宫记者晚宴",
@@ -146,6 +146,18 @@
           "time_info": "[00时34分 ~ 07时32分]"
         },
         {
+          "title": "特朗普未来出席活动或须穿防弹衣，枪击案更多细节曝光",
+          "url": "https://news.ifeng.com/c/8sf2y52FJcG",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时29分 ~ 23时02分]"
+        },
+        {
           "title": "为何你总被暗杀？特朗普回应：我研究过，杀手总挑大人物",
           "url": "https://m.thepaper.cn/newsDetail_forward_33058030",
           "source": "澎湃新闻",
@@ -247,8 +259,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时34分 ~ 20时18分]"
+          "appearance_count": 18,
+          "time_info": "[00时34分 ~ 23时02分]"
         },
         {
           "title": "特朗普与英国首相通话，强调需要恢复霍尔木兹海峡航运",
@@ -281,16 +293,15 @@
           "time_info": "[03时41分 ~ 10时02分]"
         },
         {
-          "title": "特朗普未来出席活动或须穿防弹衣，枪击案更多细节曝光",
-          "url": "https://news.ifeng.com/c/8sf2y52FJcG",
+          "title": "美记者当面念枪手宣言，特朗普发怒：你真可耻",
+          "url": "https://news.ifeng.com/c/8sfY3xvuykb",
           "source": "凤凰网",
           "ranks": [
-            5,
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时29分 ~ 20时18分]"
+          "appearance_count": 3,
+          "time_info": "[20时18分 ~ 23时02分]"
         },
         {
           "title": "特朗普：枪击案嫌疑人留下字条",
@@ -380,17 +391,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时01分 ~ 16时08分]"
-        },
-        {
-          "title": "美记者当面念枪手宣言，特朗普发怒：你真可耻",
-          "url": "https://news.ifeng.com/c/8sfY3xvuykb",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时18分"
         },
         {
           "title": "英国首相斯塔默与美国总统特朗普通电话，讨论霍尔木兹海峡通航的紧迫性。",
@@ -497,6 +497,19 @@
           "time_info": "[01时33分 ~ 05时32分]"
         },
         {
+          "title": "为什么先救万斯？特朗普：我不愿意走，想看看怎么回事",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33060612",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时08分 ~ 23时02分]"
+        },
+        {
           "title": "今晨7:00 特朗普采访将播出",
           "url": "https://flash.jin10.com/detail/20260427034708194800",
           "source": "金十数据",
@@ -571,18 +584,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时33分 ~ 03时41分]"
-        },
-        {
-          "title": "为什么先救万斯？特朗普：我不愿意走，想看看怎么回事",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33060612",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时08分 ~ 20时18分]"
         },
         {
           "title": "美国代理司法部长：拒绝置评美联储监察长对美联储翻修大楼（超支）问题的审查。 如果（美联储监察长的）自查没有涉及美联储的不当行为，（特朗普政府）就会（恢复刑事）调查。 不排除（特朗普政府）重新调查美联储的可能性。",
@@ -703,13 +704,24 @@
           "time_info": "[10时01分 ~ 10时02分]"
         },
         {
+          "title": "美国第一夫人梅拉尼娅·特朗普：（关于吉米·基梅尔笑称梅拉尼娅看起来像寡妇）是美国广播公司ABC采取立场的时候了。",
+          "url": "https://flash.jin10.com/detail/20260427222640325800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "白宫贸易顾问纳瓦罗：特朗普政府正在调查肉类价格高企问题。",
           "url": "https://wallstreetcn.com/livenews/3094993",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
         },
@@ -742,7 +754,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
         },
@@ -882,7 +894,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "伊朗：已成功摧毁3枚美国巨型钻地弹",
@@ -941,11 +953,12 @@
           "url": "https://www.toutiao.com/trending/7632821618738167818/",
           "source": "今日头条",
           "ranks": [
-            1
+            1,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时55分 ~ 20时18分]"
+          "appearance_count": 4,
+          "time_info": "[18时55分 ~ 23时02分]"
         },
         {
           "title": "油轮追踪数据显示，美国海军拦截后，价值10亿美元的石油货物被重新运回伊朗。",
@@ -1083,6 +1096,17 @@
           "time_info": "13时29分"
         },
         {
+          "title": "德国总理：美国正被伊朗“羞辱”",
+          "url": "https://wallstreetcn.com/livenews/3095076",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "国际油价短线走低，报道称伊朗向美国提出重新开放霍尔木兹海峡的新方案",
           "url": "https://wallstreetcn.com/livenews/3094609",
           "source": "华尔街见闻-快讯",
@@ -1092,6 +1116,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐表示，美国已提议与伊朗进行会谈，德黑兰目前正在考虑这一可能性。",
+          "url": "https://flash.jin10.com/detail/20260427220714296800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "据沙特媒体哈达斯（alhadath）：地区官员称，伊朗关于重开霍尔木兹海峡的最新提议可能会被美国拒绝，因为该提议排除了核问题的讨论。",
@@ -1119,8 +1154,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "美伊谈判僵局难解，美股开盘小幅下跌，高通涨7%，微软跌约1%，布油日内涨2%",
+          "url": "https://wallstreetcn.com/articles/3770961",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时02分]"
+        },
         {
           "title": "美股财报季进入关键周：“五巨头”将集中亮相 近1/3标普500成分股公布业绩",
           "url": "https://www.cls.cn/detail/2356401",
@@ -1146,6 +1192,18 @@
           "time_info": "[06时31分 ~ 07时32分]"
         },
         {
+          "title": "对冲基金两年来最快速度抛售科技股，美股内部已现裂痕",
+          "url": "https://wallstreetcn.com/articles/3770942",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时55分 ~ 23时02分]"
+        },
+        {
           "title": "美股三大股指期货周一小幅低开0.2%。",
           "url": "https://flash.jin10.com/detail/20260427060114579800",
           "source": "金十数据",
@@ -1158,15 +1216,15 @@
           "time_info": "[06时31分 ~ 07时32分]"
         },
         {
-          "title": "对冲基金两年来最快速度抛售科技股，美股内部已现裂痕",
-          "url": "https://wallstreetcn.com/articles/3770942",
-          "source": "华尔街见闻",
+          "title": "美股三大指数集体低开 高通涨逾6%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E9%AB%98%E9%80%9A%E6%B6%A8%E9%80%BE6%25",
+          "source": "百度热搜",
           "ranks": [
-            10
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时55分 ~ 20时18分]"
+          "time_info": "[23时01分 ~ 23时02分]"
         },
         {
           "title": "美伊冲突都没带崩美股？“巴菲特指标”冲破200%关键门槛，似有大跌之兆！",
@@ -1186,9 +1244,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF多数上涨，区域银行ETF、能源业ETF涨超1%，银行业ETF涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/3095065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "威瑞森第一季度调整后EBITDA 134亿美元，预估131.4亿美元。 第一季度营运收入344.4亿美元，预估348亿美元。 第一季度调整后每股收益1.28美元，预估1.21美元。 威瑞森仍然预测全年自由现金流至少215亿美元，市场预估214.3亿美元。 威瑞森预计全年调整后每股收益4.95美元至4.99美元，市场预估4.90美元，此前预估4.9美元-4.95美元。 威瑞森仍然预测全年资本支出160亿美元至165亿美元。 威瑞森仍然预测全年营业现金流375亿美元至380亿美元。 威瑞森美股盘前涨超3%。",
@@ -1197,16 +1266,39 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
+        },
+        {
+          "title": "美股盘初：三大股指小幅下跌，高通涨约7%，微软跌约1%",
+          "url": "https://wallstreetcn.com/livenews/3095061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         }
       ]
     },
     {
       "keyword_group": "半导体",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "韩国散户“扫货全球半导体”：中国PCB牛股进入TOP50龙虎榜",
+          "url": "https://www.cls.cn/detail/2356707",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时55分 ~ 23时02分]"
+        },
         {
           "title": "A股半导体芯片股早盘拉升，帝奥微、派瑞股份涨超10%，东芯股份、富瀚微、澜起科技、海光信息、江丰电子涨逾6%。",
           "url": "https://wallstreetcn.com/livenews/3094632",
@@ -1224,11 +1316,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时55分 ~ 20时18分]"
+          "appearance_count": 4,
+          "time_info": "[18时55分 ~ 23时02分]"
         },
         {
           "title": "【每日收评】科创50指数高开高走涨3.76%，半导体芯片链全线爆发，算力硬件股回暖",
@@ -1236,22 +1329,23 @@
           "source": "财联社热门",
           "ranks": [
             8,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时55分 ~ 23时02分]"
+        },
+        {
+          "title": "费城半导体指数挑战19连涨 OpenAI“自研手机”消息震动市场 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2357129",
+          "source": "财联社热门",
+          "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时55分 ~ 20时18分]"
-        },
-        {
-          "title": "韩国散户“扫货全球半导体”：中国PCB牛股进入TOP50龙虎榜",
-          "url": "https://www.cls.cn/detail/2356707",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时55分 ~ 20时18分]"
+          "time_info": "[23时01分 ~ 23时02分]"
         },
         {
           "title": "香港恒生指数开盘持平，报25976.97点；恒生科技指数涨0.56%。中芯国际涨超4%，百度涨超3%，华虹半导体涨超1%。",
@@ -1310,7 +1404,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
         }
@@ -1327,7 +1421,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
         },
@@ -1338,7 +1432,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
         }
