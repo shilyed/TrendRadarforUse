@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-05-02T15:22:08.261842+08:00",
-  "total_titles_processed": 1000,
+  "generated_at": "2026-05-02T16:59:05.271901+08:00",
+  "total_titles_processed": 1101,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 105,
+      "match_count": 108,
       "titles": [
+        {
+          "title": "伊朗转交新方案，“放宽谈判条件”，特朗普称“不满意”，但“倾向于不打击”",
+          "url": "https://wallstreetcn.com/articles/3771465",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时00分 ~ 16时59分]"
+        },
+        {
+          "title": "德副总理：不需要特朗普指点，他该先关注自己捅出的篓子",
+          "url": "https://news.ifeng.com/c/8smXkOIlSF7",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时00分 ~ 16时59分]"
+        },
         {
           "title": "根据53年前颁布的这项法案，今天以后特朗普还能继续打伊朗吗？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33084769",
@@ -29,11 +52,12 @@
             8,
             9,
             10,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时47分 ~ 10时01分]"
+          "appearance_count": 12,
+          "time_info": "[00时47分 ~ 16时59分]"
         },
         {
           "title": "屡遭暗杀还不考虑穿防弹衣？特朗普：穿着显胖",
@@ -60,28 +84,6 @@
           "time_info": "[00时47分 ~ 10时01分]"
         },
         {
-          "title": "伊朗转交新方案，“放宽谈判条件”，特朗普称“不满意”，但“倾向于不打击”",
-          "url": "https://wallstreetcn.com/articles/3771465",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时00分 ~ 15时22分]"
-        },
-        {
-          "title": "德副总理：不需要特朗普指点，他该先关注自己捅出的篓子",
-          "url": "https://news.ifeng.com/c/8smXkOIlSF7",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时00分 ~ 15时22分]"
-        },
-        {
           "title": "伊朗经调解方转交谈判新方案，特朗普称“不满意”、告知国会与伊敌对行动“结束”",
           "url": "https://wallstreetcn.com/articles/3771465",
           "source": "华尔街见闻",
@@ -92,6 +94,42 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时45分 ~ 07时44分]"
+        },
+        {
+          "title": "伊朗战争会再次影响访华行程吗？特朗普答凤凰记者问",
+          "url": "https://news.ifeng.com/c/8snAXIe1Bbr",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时00分 ~ 16时59分]"
+        },
+        {
+          "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
+          "url": "https://www.cls.cn/detail/2362026",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时00分 ~ 16时59分]"
+        },
+        {
+          "title": "美伊局势追踪：特朗普“不满”伊朗最新谈判方案 白宫称敌对行动已“结束”",
+          "url": "https://www.cls.cn/detail/2362040",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时13分 ~ 16时59分]"
         },
         {
           "title": "伊朗战争丨特朗普：说我们没赢，这是叛国",
@@ -151,17 +189,6 @@
           "time_info": "00时47分"
         },
         {
-          "title": "伊朗战争会再次影响访华行程吗？特朗普答凤凰记者问",
-          "url": "https://news.ifeng.com/c/8snAXIe1Bbr",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时00分 ~ 15时22分]"
-        },
-        {
           "title": "美国总统特朗普：（关于精神航空）我们给了他们一个最终提案。",
           "url": "https://flash.jin10.com/detail/20260502003039980800",
           "source": "金十数据",
@@ -206,17 +233,6 @@
           "time_info": "00时47分"
         },
         {
-          "title": "特朗普支持率低迷 共和党冲刺“重划选区”",
-          "url": "https://wallstreetcn.com/livenews/3098122",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
           "title": "美国总统特朗普正将大约5000名美军士兵撤出美国。（CBS）",
           "url": "https://wallstreetcn.com/livenews/3098071",
           "source": "华尔街见闻-快讯",
@@ -228,6 +244,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时45分 ~ 10时01分]"
+        },
+        {
+          "title": "顶住特朗普压力，美国两大能源巨头拒绝提高石油产量",
+          "url": "https://wallstreetcn.com/articles/3771461",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时13分 ~ 16时59分]"
         },
         {
           "title": "美国总统特朗普：（关于伊朗）我感到不满。",
@@ -252,16 +280,17 @@
           "time_info": "01时53分"
         },
         {
-          "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
-          "url": "https://www.cls.cn/detail/2362026",
-          "source": "财联社热门",
+          "title": "规避“60天期限”，特朗普致函国会称与伊朗敌对行动已“结束”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33091461",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
+            15,
+            13,
             11
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[10时00分 ~ 15时22分]"
+          "time_info": "[13时13分 ~ 16时59分]"
         },
         {
           "title": "郑丽文希望去美国见特朗普，黄国昌回应",
@@ -312,6 +341,18 @@
           "time_info": "[13时13分 ~ 15时22分]"
         },
         {
+          "title": "特朗普支持率低迷 共和党冲刺“重划选区”",
+          "url": "https://wallstreetcn.com/livenews/3098122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 16时59分]"
+        },
+        {
           "title": "特朗普暗示不会就持续对伊朗军事行动寻求国会批准",
           "url": "https://wallstreetcn.com/livenews/3097993",
           "source": "华尔街见闻-快讯",
@@ -333,29 +374,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时01分 ~ 05时45分]"
-        },
-        {
-          "title": "美伊局势追踪：特朗普“不满”伊朗最新谈判方案 白宫称敌对行动已“结束”",
-          "url": "https://www.cls.cn/detail/2362040",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时13分 ~ 15时22分]"
-        },
-        {
-          "title": "顶住特朗普压力，美国两大能源巨头拒绝提高石油产量",
-          "url": "https://wallstreetcn.com/articles/3771461",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时13分 ~ 15时22分]"
         },
         {
           "title": "特朗普称美国“几乎能立即接管”古巴",
@@ -408,18 +426,6 @@
           "time_info": "[03时01分 ~ 05时45分]"
         },
         {
-          "title": "规避“60天期限”，特朗普致函国会称与伊朗敌对行动已“结束”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33091461",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时13分 ~ 15时22分]"
-        },
-        {
           "title": "美国总统特朗普：将迎来一位出色的美联储主席。",
           "url": "https://wallstreetcn.com/livenews/3098059",
           "source": "华尔街见闻-快讯",
@@ -443,6 +449,17 @@
           "time_info": "[00时47分 ~ 01时53分]"
         },
         {
+          "title": "特朗普支持率低迷，共和党冲刺“重划选区”",
+          "url": "https://news.ifeng.com/c/8snecDmwXXq",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时58分 ~ 16时59分]"
+        },
+        {
           "title": "特朗普称访华行程将会非常精彩",
           "url": "https://www.douyin.com/hot/2486273",
           "source": "抖音",
@@ -464,6 +481,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时13分 ~ 15时22分]"
+        },
+        {
+          "title": "特朗普：将于下周对欧盟输美汽车和卡车加征25%关税",
+          "url": "https://wallstreetcn.com/articles/3771467",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时58分 ~ 16时59分]"
         },
         {
           "title": "谈判短期达成结果不现实！特朗普称“目标是迫使放弃发展核武器”，伊朗最高领袖“将核、导弹都视为国家资产”",
@@ -767,7 +795,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -811,7 +839,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -968,6 +996,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        },
+        {
+          "title": "特朗普支持率低迷 共和党冲刺“重划选区”",
+          "url": "https://flash.jin10.com/detail/20260502152451401800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         },
         {
           "title": "美国总统特朗普被问及可能对伊朗发动袭击时，声称：“我为什么要告诉你？” WTI原油5分钟内上涨0.61美元/桶，报102.53美元/桶。",
@@ -1424,11 +1463,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            16
+            16,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 15时22分]"
+          "appearance_count": 3,
+          "time_info": "[13时13分 ~ 16时59分]"
         },
         {
           "title": "民调：超六成美国人认为对伊朗动武是错误",
@@ -1696,22 +1736,24 @@
           "url": "https://flash.jin10.com/detail/20260502133555635800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 16时59分]"
         },
         {
           "title": "日本首相高市早苗在河内表示：将继续加强与越南在能源、关键矿产、AI、半导体以及航天领域的合作。 日本将协助为越南宜山炼油石化公司协调原油供应。",
           "url": "https://wallstreetcn.com/livenews/3098114",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 16时59分]"
         }
       ]
     },
