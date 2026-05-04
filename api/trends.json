@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-05T05:01:28.621376+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2026-05-05T06:06:20.192831+08:00",
+  "total_titles_processed": 519,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 06时06分]"
         },
         {
           "title": "事关霍尔木兹海峡，特朗普预告4日上午启动，伊朗发出警告",
@@ -26,19 +26,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 06时06分]"
         },
         {
-          "title": "美国总统特朗普：我已经在采取其他关税措施了。",
-          "url": "https://flash.jin10.com/detail/20260505042903484800",
-          "source": "金十数据",
+          "title": "伊朗战争丨特朗普：美国与伊朗处于“迷你战争”状态",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时01分"
+          "time_info": "06时06分"
         },
         {
           "title": "特朗普宣称：伊朗若攻击美国船只，将会被“炸飞”",
@@ -46,28 +46,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "美国总统特朗普：我讨厌不得不返还关税。",
-          "url": "https://flash.jin10.com/detail/20260505042844950800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "特朗普：若伊朗攻击美国军舰，将被“从地球上抹去”",
-          "url": "https://flash.jin10.com/detail/20260505005901420800",
-          "source": "金十数据",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -82,8 +60,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 06时06分]"
+        },
+        {
+          "title": "特朗普：若伊朗攻击美国军舰，将被“从地球上抹去”",
+          "url": "https://flash.jin10.com/detail/20260505005901420800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
         },
         {
           "title": "美财长保证特朗普访华不会再推迟",
@@ -93,8 +82,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 06时06分]"
         },
         {
           "title": "特朗普又有新绰号：NACHO",
@@ -104,8 +93,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 06时06分]"
         },
         {
           "title": "特朗普称将审查伊朗提出的结束冲突新方案",
@@ -116,8 +105,44 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 06时06分]"
+        },
+        {
+          "title": "美国总统特朗普：我已经在采取其他关税措施了。",
+          "url": "https://flash.jin10.com/detail/20260505042903484800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时06分]"
+        },
+        {
+          "title": "美国总统特朗普：我讨厌不得不返还关税。",
+          "url": "https://flash.jin10.com/detail/20260505042844950800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时06分]"
+        },
+        {
+          "title": "美国总统特朗普：数亿桶石油正从委内瑞拉流出。",
+          "url": "https://flash.jin10.com/detail/20260505042014116800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时06分]"
         },
         {
           "title": "美国总统特朗普：如果伊朗攻击美国船只，将被“从地球上抹去”。",
@@ -131,15 +156,26 @@
           "time_info": "01时24分"
         },
         {
-          "title": "美国总统特朗普：数亿桶石油正从委内瑞拉流出。",
-          "url": "https://flash.jin10.com/detail/20260505042014116800",
+          "title": "特朗普称美国与伊朗处于“迷你战争”状态",
+          "url": "https://flash.jin10.com/detail/20260505050012247800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时01分"
+          "time_info": "06时06分"
+        },
+        {
+          "title": "美国总统特朗普：我们的关税经过了更充分的检验，更加有力，也稍微复杂一些。它们让我们的国家变得非常富裕。",
+          "url": "https://flash.jin10.com/detail/20260505045117367800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
         },
         {
           "title": "美国总统特朗普：“太迟先生”（即美联储主席鲍威尔）对美国来说是一个灾难！利率太高！",
@@ -159,7 +195,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -170,7 +206,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -181,7 +217,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -203,7 +239,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -225,7 +261,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -255,63 +291,68 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 06时06分]"
         },
         {
           "title": "周一（5月4日），美股信息科技指数涨1.34%，报355.01点。 人工智能（AI）赢家指数涨1.15%，报367.81点。 AI软件先驱指数涨2.05%，报101.76点。",
           "url": "https://wallstreetcn.com/livenews/3098642",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时06分]"
         },
         {
           "title": "周一（5月4日），美股存储芯片与硬件供应链指数涨2.81%，报163.29点，继续创收盘历史新高。 成分股美光科技收涨6.31%，闪迪涨5.80%，西部数据涨2.51%，希捷科技涨1.60%，拉姆研究、应用材料至多涨0.72%，Rambus跌0.38%，泰瑞达TER跌2.31%。",
           "url": "https://wallstreetcn.com/livenews/3098641",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时06分]"
         },
         {
           "title": "美股七巨头收盘播报｜周一（5月4日），美国科技股七巨头（Magnificent 7）指数跌0.16%，报214.77点，整体呈现出三波V形走势，北京时间00:08刷新日低至213点。 “超大”市值科技股指数跌0.59%，报423.52点。",
           "url": "https://wallstreetcn.com/livenews/3098638",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时06分]"
         },
         {
           "title": "Pinterest Inc.一季度营收10.1亿美元，分析师预期9.657亿美元。 一季度月活用户数6.31亿，分析师预期6.3047亿。 预计二季度营收11.3亿-11.5亿美元，分析师预期11.2亿美元。 Pinterest美股盘后涨15%。",
           "url": "https://wallstreetcn.com/livenews/3098635",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时06分]"
         },
         {
           "title": "Palantir一季度营收16.3亿美元，分析师预期15.4亿美元。 一季度调整后每股收益（EPS）为0.33美元，分析师预期0.28美元。 一季度调整后EBITDA为9.903亿美元，分析师预期8.867亿美元。 预计全年营收76.5亿-76.6亿美元，公司原本预计71.8亿-72.0亿美元。 Palantir美股盘后涨2%。",
           "url": "https://wallstreetcn.com/livenews/3098634",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时06分]"
         },
         {
           "title": "金十图示：2026年05月04日（周一）美股热门股票行情一览（美股收盘）",
@@ -320,7 +361,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -331,7 +372,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -342,7 +383,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -372,19 +413,8 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
-        {
-          "title": "伊朗战争丨美军称两艘悬挂美国旗商船通过霍尔木兹，伊朗否认",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 05时01分]"
-        },
         {
           "title": "【早报】伊朗公布伊方最新谈判方案；商务部发布禁令阻断美国对5家中国企业实施涉伊朗石油制裁措施",
           "url": "https://www.cls.cn/detail/2362210",
@@ -393,8 +423,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 06时06分]"
         },
         {
           "title": "幕后外交密集进行，伊朗：已收到美国回应，正在审查",
@@ -402,6 +432,17 @@
           "source": "凤凰网",
           "ranks": [
             4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 06时06分]"
+        },
+        {
+          "title": "伊朗战争丨美军称两艘悬挂美国旗商船通过霍尔木兹，伊朗否认",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -419,6 +460,17 @@
           "time_info": "[01时24分 ~ 03时18分]"
         },
         {
+          "title": "伊朗：发射两枚导弹击中美国军舰",
+          "url": "https://www.toutiao.com/trending/7635981615012793894/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 06时06分]"
+        },
+        {
           "title": "美国纽约联储主席（在职时享有FOMC永久投票权，号称美联储三把手）威廉姆斯：在伊朗战争造成不确定性期间，利率政策准备就绪。 劳动力市场数据值得持续的密切关注。 剔除进口、能源的基础通胀迄今是稳定的。 基本假设是，2026年通胀大约为3%，2027年为2%；长期通胀预期被牢牢锚定。 预计2026年GDP将增长2%-2.25%，失业率为4.25%-4.50%。",
           "url": "https://wallstreetcn.com/livenews/3098565",
           "source": "华尔街见闻-快讯",
@@ -430,15 +482,15 @@
           "time_info": "01时24分"
         },
         {
-          "title": "伊朗：发射两枚导弹击中美国军舰",
-          "url": "https://www.toutiao.com/trending/7635981615012793894/",
-          "source": "今日头条",
+          "title": "伊朗外长：霍尔木兹海峡发生的一系列事件表明，政治危机无法通过武力行动来解决。 随着谈判在巴基斯坦的努力下取得进展，美国和阿联酋都应当“警惕别被别有用心之人拖回泥潭”。",
+          "url": "https://wallstreetcn.com/livenews/3098658",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            3
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 05时01分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
         },
         {
           "title": "据伊朗Mizan新闻社：伊朗一名高级安全消息人士表示，伊朗的信息很明确：如果美国人试图在霍尔木兹海峡推进，将成为打击目标。",
@@ -480,7 +532,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         }
@@ -502,6 +554,18 @@
           "time_info": "01时24分"
         },
         {
+          "title": "美元指数4日上涨",
+          "url": "https://flash.jin10.com/detail/20260505041640994800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时06分]"
+        },
+        {
           "title": "彭博美元指数涨0.3%，刷新日高。",
           "url": "https://wallstreetcn.com/livenews/3098558",
           "source": "华尔街见闻-快讯",
@@ -513,24 +577,13 @@
           "time_info": "01时24分"
         },
         {
-          "title": "美元指数4日上涨",
-          "url": "https://flash.jin10.com/detail/20260505041640994800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
           "title": "周一（5月4日）纽约尾盘，ICE美元指数涨0.25%，报98.401点，日内交投区间为97.970-98.536点。 彭博美元指数涨0.14%，报1195.00点，日内交投区间为1190.48-1196.80点。",
           "url": "https://wallstreetcn.com/livenews/3098611",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -541,7 +594,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         }
@@ -559,8 +612,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 06时06分]"
         },
         {
           "title": "2/10年期美债收益率涨约7个基点",
@@ -569,7 +622,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         }
@@ -588,8 +641,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 06时06分]"
         }
       ]
     },
@@ -602,11 +655,12 @@
           "url": "https://wallstreetcn.com/livenews/3098640",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时06分]"
         }
       ]
     },
@@ -623,8 +677,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 06时06分]"
         }
       ]
     }
