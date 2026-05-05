@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-05T19:14:26.420503+08:00",
-  "total_titles_processed": 1264,
+  "generated_at": "2026-05-05T21:32:24.779351+08:00",
+  "total_titles_processed": 1408,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
@@ -21,6 +21,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时24分 ~ 19时14分]"
+        },
+        {
+          "title": "美伊开火争夺霍尔木兹主导、特朗普威胁“炸飞”，停火以来阿联酋首次遭袭，伊称未计划袭阿",
+          "url": "https://wallstreetcn.com/articles/3771548",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时04分 ~ 21时32分]"
         },
         {
           "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
@@ -45,17 +59,17 @@
           "time_info": "[01时24分 ~ 07时45分]"
         },
         {
-          "title": "美伊开火争夺霍尔木兹主导、特朗普威胁“炸飞”，停火以来阿联酋首次遭袭，伊称未计划袭阿",
-          "url": "https://wallstreetcn.com/articles/3771548",
-          "source": "华尔街见闻",
+          "title": "特朗普要用卡塔尔送的豪华飞机当“空军一号”，国内舆论炸了",
+          "url": "https://news.ifeng.com/c/8ssQTax2qM1",
+          "source": "凤凰网",
           "ranks": [
-            4,
-            3,
-            2
+            6,
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时04分 ~ 19时14分]"
+          "appearance_count": 6,
+          "time_info": "[13时36分 ~ 21时32分]"
         },
         {
           "title": "伊朗战争丨特朗普：美国与伊朗处于“迷你战争”状态",
@@ -67,6 +81,34 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时06分 ~ 10时04分]"
+        },
+        {
+          "title": "“停火协议”完了？特朗普“刻意淡化”，阿联酋谴责，伊朗军方警告、外长抨击“自由计划”",
+          "url": "https://wallstreetcn.com/articles/3771561",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时36分 ~ 21时32分]"
+        },
+        {
+          "title": "美伊局势追踪：霍尔木兹博弈升级 特朗普警告将伊朗“从地球表面抹去”",
+          "url": "https://www.cls.cn/detail/2362745",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时36分 ~ 21时32分]"
         },
         {
           "title": "特朗普又有新绰号：NACHO",
@@ -84,34 +126,36 @@
           "url": "https://news.ifeng.com/c/8ssZ4l2GedD",
           "source": "凤凰网",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时57分 ~ 19时14分]"
-        },
-        {
-          "title": "特朗普要用卡塔尔送的豪华飞机当“空军一号”，国内舆论炸了",
-          "url": "https://news.ifeng.com/c/8ssQTax2qM1",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            5
+            3,
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时36分 ~ 19时14分]"
+          "time_info": "[17时57分 ~ 21时32分]"
         },
         {
           "title": "立场反转，特朗普政府考虑对AI模型进行安全审查",
           "url": "https://news.ifeng.com/c/8ssll5TyVCi",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时57分 ~ 19时14分]"
+          "appearance_count": 4,
+          "time_info": "[17时57分 ~ 21时32分]"
+        },
+        {
+          "title": "美媒：美伊冲突久拖不决，特朗普访华时的筹码将被削弱",
+          "url": "https://news.ifeng.com/c/8ssc3KTyNbr",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时57分 ~ 21时32分]"
         },
         {
           "title": "美财长保证特朗普访华不会再推迟",
@@ -134,19 +178,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
-        },
-        {
-          "title": "“停火协议”完了？特朗普“刻意淡化”，阿联酋谴责，伊朗军方警告、外长抨击“自由计划”",
-          "url": "https://wallstreetcn.com/articles/3771561",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时36分 ~ 19时14分]"
         },
         {
           "title": "美国总统特朗普：（谈伊朗问题）当我最初采取这一行动时，我曾以为市场可能会下跌20%或25%；对此我并不介意，因为我知道市场最终会反弹回来。我还曾以为油价可能会冲上200美元甚至250美元。然而事实是，目前的油价仅在100至102美元左右。",
@@ -206,19 +237,6 @@
           "time_info": "[05时01分 ~ 06时06分]"
         },
         {
-          "title": "美伊局势追踪：霍尔木兹博弈升级 特朗普警告将伊朗“从地球表面抹去”",
-          "url": "https://www.cls.cn/detail/2362745",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时36分 ~ 19时14分]"
-        },
-        {
           "title": "美国总统特朗普：我讨厌不得不返还关税。",
           "url": "https://flash.jin10.com/detail/20260505042844950800",
           "source": "金十数据",
@@ -243,15 +261,16 @@
           "time_info": "[10时04分 ~ 13时36分]"
         },
         {
-          "title": "美媒：美伊冲突久拖不决，特朗普访华时的筹码将被削弱",
-          "url": "https://news.ifeng.com/c/8ssc3KTyNbr",
-          "source": "凤凰网",
+          "title": "特朗普出席活动白宫附近突发枪击， 一名枪手被击毙，具体情况如何？",
+          "url": "https://www.zhihu.com/question/2034903072279721909",
+          "source": "知乎",
           "ranks": [
-            7
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时57分 ~ 19时14分]"
+          "appearance_count": 3,
+          "time_info": "[17时57分 ~ 21时32分]"
         },
         {
           "title": "伊朗外长：特朗普的霍尔木兹海峡“自由计划”是“僵局计划”",
@@ -325,6 +344,17 @@
           "time_info": "[07时45分 ~ 10时04分]"
         },
         {
+          "title": "特朗普准备“抛弃”台湾了吗",
+          "url": "https://www.toutiao.com/trending/7636182005881356307/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 21时32分]"
+        },
+        {
           "title": "美国总统特朗普：如果伊朗攻击美国船只，将被“从地球上抹去”。",
           "url": "https://flash.jin10.com/detail/20260505005445496800",
           "source": "金十数据",
@@ -386,7 +416,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -408,7 +438,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -419,7 +449,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -433,17 +463,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
-        },
-        {
-          "title": "特朗普出席活动白宫附近突发枪击， 一名枪手被击毙，具体情况如何？",
-          "url": "https://www.zhihu.com/question/2034903072279721909",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时57分"
         },
         {
           "title": "美国总统特朗普谈及伊朗问题，宣称：进展非常顺利。 一旦战争结束，燃油价格就会迅速下跌。",
@@ -529,7 +548,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -592,7 +611,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "回应特朗普“引导行动”！伊朗发射导弹击退美国军舰，油价应声大涨，美股期货跳水",
@@ -613,11 +632,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时04分 ~ 19时14分]"
+          "appearance_count": 7,
+          "time_info": "[10时04分 ~ 21时32分]"
         },
         {
           "title": "周一（5月4日），美股信息科技指数涨1.34%，报355.01点。 人工智能（AI）赢家指数涨1.15%，报367.81点。 AI软件先驱指数涨2.05%，报101.76点。",
@@ -669,6 +689,17 @@
           "time_info": "[05时01分 ~ 06时06分]"
         },
         {
+          "title": "伊朗导弹搅动国际油市 冲突重燃担忧致美股指数全线下跌| 今夜看点",
+          "url": "https://www.cls.cn/detail/2362589",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 21时32分]"
+        },
+        {
           "title": "Palantir一季度营收16.3亿美元，分析师预期15.4亿美元。 一季度调整后每股收益（EPS）为0.33美元，分析师预期0.28美元。 一季度调整后EBITDA为9.903亿美元，分析师预期8.867亿美元。 预计全年营收76.5亿-76.6亿美元，公司原本预计71.8亿-72.0亿美元。 Palantir美股盘后涨2%。",
           "url": "https://wallstreetcn.com/livenews/3098634",
           "source": "华尔街见闻-快讯",
@@ -691,6 +722,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时57分 ~ 19时14分]"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3098796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "金十图示：2026年05月04日（周一）美股热门股票行情一览（美股收盘）",
@@ -748,6 +790,17 @@
           "time_info": "07时45分"
         },
         {
+          "title": "Shopify第一季度GMV为1007.43亿美元。 第一季度收入为31.7亿美元。 第一季度自由现金流为4.76亿美元。 预计2026年第二季度自由现金流利润率将在“十几”百分点的中段水平。 Shopify美股盘前跌超10%。",
+          "url": "https://wallstreetcn.com/livenews/3098774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "金十图示：2026年05月04日（周一）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260505003052330800",
           "source": "金十数据",
@@ -762,7 +815,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "幕后外交密集进行，伊朗：已收到美国回应，正在审查",
@@ -889,6 +942,17 @@
           "time_info": "01时24分"
         },
         {
+          "title": "美国国防部长赫格塞思：“自由计划”与“史诗之怒”是分开的，并且是临时性的。 美国的目标是保护航运免受伊朗侵略。 伊朗并不控制霍尔木兹海峡。 美国在开启霍尔木兹海峡行动中，不需要进入伊朗领空或水域。 美国的封锁措施仍然完全有效。 中央司令部及合作国家正在与数百艘船只、航运公司和保险公司保持积极沟通。 如果伊朗攻击商业船只，将面临压倒性的火力打击。 美国期望国际社会在适当时机挺身而出，并将很快移交相关责任。",
+          "url": "https://wallstreetcn.com/livenews/3098783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "【伊朗军事官员：阿联酋石油设施起火是美国军事冒险所致】当地时间4日，一位知情的伊朗军事官员就阿联酋富查伊拉港石油设施发生大规模火灾的消息向媒体表示，伊朗事先并无预谋袭击富查伊拉港的石油设施，该地所发生的事件是因美国军方的冒险行为所致——美军试图开辟一条非法通道，让船只通过霍尔木兹海峡的禁行航道，美军必须对此负责。 这名伊朗军事官员称，美国政治家必须停止在外交中诉诸武力的恶劣行为，并停止在这一影响全球经济的敏感产油区进行军事冒险。（央视）",
           "url": "https://wallstreetcn.com/livenews/3098614",
           "source": "华尔街见闻-快讯",
@@ -900,6 +964,17 @@
           "time_info": "05时01分"
         },
         {
+          "title": "市场消息：伊朗外交部发言人巴加埃将伊朗针对海湾阿拉伯国家的袭击描述为“防御性行动”，并指出这些行动仅针对被用于攻击伊朗的美国资产及基地。他表示，“美国在该地区的军事存在是一种累赘，除了制造不安全感之外，别无他用。”",
+          "url": "https://flash.jin10.com/detail/20260505205630654800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "伊朗外长阿拉格齐：霍尔木兹的局势清楚地表明，政治危机无法通过军事手段解决。在巴基斯坦的积极努力下，谈判正取得进展，美国应警惕被别有用心者拖回泥潭，阿联酋方面也应如此。“自由计划”就是一个“僵局计划”。",
           "url": "https://flash.jin10.com/detail/20260505055458753800",
           "source": "金十数据",
@@ -909,6 +984,90 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "现货白银日内涨2%，现报74.18美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3098799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "现货白银日内涨幅扩大至1%，报73.41美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3098728",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时57分 ~ 17时57分]"
+        },
+        {
+          "title": "现货白银日内大涨1美元，现报73.72美元/盎司，涨幅1.38%。",
+          "url": "https://flash.jin10.com/detail/20260505153740938800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
+          "title": "现货白银日内涨超2.00%，现报74.18美元/盎司。现货黄金向上触及4580美元/盎司，日内涨1.26%。WTI原油日内跌3.00%，现报103.03美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260505210916279800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "现货白银日内涨幅达1.00%，现报73.44美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260505151853988800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少6.45吨，当前持仓量为15035.63吨。欢迎点击查看数据中心...",
+          "url": "https://flash.jin10.com/detail/20260505055329527800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
+          "title": "国投白银LOF：将于2026年5月6日开市起停牌，自2026年5月6日10:30起复牌，停牌期间本基金赎回业务照常办理。",
+          "url": "https://flash.jin10.com/detail/20260505170255166800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时57分"
         }
       ]
     },
@@ -975,68 +1134,6 @@
       ]
     },
     {
-      "keyword_group": "白银",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "现货白银日内涨幅扩大至1%，报73.41美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3098728",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时57分 ~ 17时57分]"
-        },
-        {
-          "title": "现货白银日内大涨1美元，现报73.72美元/盎司，涨幅1.38%。",
-          "url": "https://flash.jin10.com/detail/20260505153740938800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时57分"
-        },
-        {
-          "title": "现货白银日内涨幅达1.00%，现报73.44美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260505151853988800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时57分"
-        },
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少6.45吨，当前持仓量为15035.63吨。欢迎点击查看数据中心...",
-          "url": "https://flash.jin10.com/detail/20260505055329527800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时45分"
-        },
-        {
-          "title": "国投白银LOF：将于2026年5月6日开市起停牌，自2026年5月6日10:30起复牌，停牌期间本基金赎回业务照常办理。",
-          "url": "https://flash.jin10.com/detail/20260505170255166800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时57分"
-        }
-      ]
-    },
-    {
       "keyword_group": "半导体",
       "match_count": 4,
       "titles": [
@@ -1089,6 +1186,46 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "达里欧：未来两年“风险极高”，“AI、美债和地缘”合成风暴，投资者择时不会成功",
+          "url": "https://wallstreetcn.com/articles/3771530",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 10时04分]"
+        },
+        {
+          "title": "油价助推，30年美债收益率突破5%，美财政部上调季度发债预期，周三将迎“美债重磅”",
+          "url": "https://wallstreetcn.com/articles/3771562",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "2/10年期美债收益率涨约7个基点",
+          "url": "https://wallstreetcn.com/livenews/3098618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "存储芯片",
       "match_count": 3,
       "titles": [
@@ -1102,8 +1239,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时45分 ~ 19时14分]"
+          "appearance_count": 7,
+          "time_info": "[07时45分 ~ 21时32分]"
         },
         {
           "title": "中东局势再吃紧，标普纳指回落，存储芯片股逆市大涨，布油一度涨近6%",
@@ -1124,44 +1261,15 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         }
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "达里欧：未来两年“风险极高”，“AI、美债和地缘”合成风暴，投资者择时不会成功",
-          "url": "https://wallstreetcn.com/articles/3771530",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时24分 ~ 10时04分]"
-        },
-        {
-          "title": "2/10年期美债收益率涨约7个基点",
-          "url": "https://wallstreetcn.com/livenews/3098618",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "金价银价又大跌了",
@@ -1175,6 +1283,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时24分 ~ 07时45分]"
+        },
+        {
+          "title": "金价跳水是机会还是坑",
+          "url": "https://www.toutiao.com/trending/7636354274716290614/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 21时32分]"
         }
       ]
     },
