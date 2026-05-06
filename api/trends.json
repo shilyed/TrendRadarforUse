@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-06T20:28:47.682085+08:00",
-  "total_titles_processed": 1464,
+  "generated_at": "2026-05-06T23:25:39.434034+08:00",
+  "total_titles_processed": 1620,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 51,
       "titles": [
         {
           "title": "美媒：美伊冲突久拖不决，特朗普访华时的筹码将被削弱",
@@ -125,6 +125,18 @@
         },
         {
           "title": "中方再回应特朗普访华",
+          "url": "https://www.toutiao.com/trending/7636699708399865370/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时59分 ~ 23时25分]"
+        },
+        {
+          "title": "中方再回应特朗普访华",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%86%8D%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E",
           "source": "百度热搜",
           "ranks": [
@@ -144,18 +156,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时42分 ~ 10时03分]"
-        },
-        {
-          "title": "中方再回应特朗普访华",
-          "url": "https://www.toutiao.com/trending/7636699708399865370/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时59分 ~ 20时28分]"
         },
         {
           "title": "伊朗战争丨特朗普宣布“收手”，伊朗媒体：咱赢了",
@@ -197,7 +197,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时28分"
         },
@@ -208,7 +208,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时28分"
         },
@@ -222,6 +222,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "特朗普：伊朗战事“很有可能结束”，双方正接近达成协议",
+          "url": "https://wallstreetcn.com/livenews/3099464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "以媒：特朗普近日一度考虑恢复空袭伊朗",
@@ -246,6 +257,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时23分 ~ 03时24分]"
+        },
+        {
+          "title": "特朗普称暂停“自由计划”行动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33100608",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时11分 ~ 23时25分]"
         },
         {
           "title": "特朗普承认自己曾“不得不”常买中国货",
@@ -285,18 +309,6 @@
         },
         {
           "title": "特朗普称暂停“自由计划”行动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33100608",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时11分 ~ 20时28分]"
-        },
-        {
-          "title": "特朗普称暂停“自由计划”行动",
           "url": "https://wallstreetcn.com/livenews/3098974",
           "source": "华尔街见闻-快讯",
           "ranks": [
@@ -307,13 +319,46 @@
           "time_info": "07时42分"
         },
         {
+          "title": "为什么特朗普“不得不”常买中国货",
+          "url": "https://news.ifeng.com/c/8sugghRWW2t",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
+          "title": "美国总统特朗普：礼来(LLY.N)承诺在印第安纳州的生产基地追加投资45亿美元，并开设首个专门的基因药物生产设施。",
+          "url": "https://flash.jin10.com/detail/20260506231033096800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
+          "title": "美情报报告称：伊朗冲突可能刺激了特朗普晚宴枪击案的嫌疑人",
+          "url": "https://wallstreetcn.com/livenews/3099459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "特朗普称若伊朗同意协议将开放霍尔木兹海峡 否则将加大军事行动",
           "url": "https://wallstreetcn.com/livenews/3099377",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时28分"
         },
@@ -357,7 +402,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时28分"
         },
@@ -368,9 +413,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时28分"
+        },
+        {
+          "title": "特朗普：不太可能派遣威特科夫和库什纳参与谈判",
+          "url": "https://wallstreetcn.com/livenews/3099450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "据华尔街日报：特朗普施压美国食品药品监督管理局（FDA）局长批准调味电子烟，敦促监管机构为年轻“让美国再次伟大”选民的电子烟议程扫清障碍。",
@@ -395,13 +451,24 @@
           "time_info": "13时51分"
         },
         {
+          "title": "美国总统特朗普： 特德·特纳刚刚去世，他创办了CNN，后来将其出售，这笔交易让他感到非常痛心，因为新老板把CNN这个他的“宝贝”毁了。它变得政治正确，完全背离了他的理念。",
+          "url": "https://flash.jin10.com/detail/20260506225649095800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "特朗普：伊朗若履约“史诗之怒”行动将结束，否则将重启轰炸",
           "url": "https://flash.jin10.com/detail/20260506194852175800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时28分"
         },
@@ -415,6 +482,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "美国总统特朗普：（谈伊朗）如果达成协议，我们将放宽制裁。",
+          "url": "https://flash.jin10.com/detail/20260506225257259800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "美国总统特朗普：燃油价格上涨是（美国和以色列发动战争）需要付出的一点小小的代价。",
@@ -434,7 +512,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时28分"
         },
@@ -456,9 +534,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时28分"
+        },
+        {
+          "title": "美国总统特朗普：（谈伊朗）认为此事极有可能终结。如果不结束，我们将重新进行轰炸。",
+          "url": "https://flash.jin10.com/detail/20260506225141365800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "特朗普放话让伊朗二选一",
@@ -497,7 +586,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "美股收盘：美伊交火三大指数悉数收跌 存储四巨头逆势创新高",
@@ -574,6 +663,17 @@
           "time_info": "01时23分"
         },
         {
+          "title": "美伊前景未明，美股高开，半导体股走强，康宁大涨17%，油价跌幅收窄至6%",
+          "url": "https://wallstreetcn.com/articles/3771614",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "金十图示：2026年05月05日（周二）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260506011205693800",
           "source": "金十数据",
@@ -591,7 +691,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时28分"
         },
@@ -700,6 +800,17 @@
           "time_info": "[04时56分 ~ 05时56分]"
         },
         {
+          "title": "为什么美股在大涨特涨，巴菲特等金融专家却在持续减持？",
+          "url": "https://www.zhihu.com/question/2034453660378382744",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 23时25分]"
+        },
+        {
           "title": "迪士尼美股盘前涨近8%，公司第二季度营收251.68美元，同比增长7%",
           "url": "https://wallstreetcn.com/livenews/3099326",
           "source": "华尔街见闻-快讯",
@@ -722,15 +833,15 @@
           "time_info": "07时42分"
         },
         {
-          "title": "为什么美股在大涨特涨，巴菲特等金融专家却在持续减持？",
-          "url": "https://www.zhihu.com/question/2034453660378382744",
-          "source": "知乎",
+          "title": "美股中概股大涨 百度涨超7%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%AD%E6%A6%82%E8%82%A1%E5%A4%A7%E6%B6%A8+%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%857%25",
+          "source": "百度热搜",
           "ranks": [
             15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时59分"
+          "time_info": "23时25分"
         },
         {
           "title": "美股大类资产类ETF多数收涨，新兴市场ETF涨2%，布油基金跌超3.2%",
@@ -833,7 +944,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时28分"
         },
@@ -1018,7 +1129,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时28分"
         },
@@ -1092,7 +1203,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美伊局势暂趋缓和，标普、纳指新高，半导体指数大涨4%，原油下挫",
@@ -1163,6 +1274,17 @@
           "time_info": "10时03分"
         },
         {
+          "title": "美国三大股指至少涨超1%，道指涨579点、涨幅将近1.2%，纳指涨超1.2%。 生物科技指数涨1.5%，半导体指数涨1.6%，银行指数涨1.3%，罗素2000指数涨0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3099445",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "港股开盘，恒指开涨0.51%，科指开涨0.85%；华虹半导体(01347.HK)、宁德时代(03750.HK)、中芯国际(00981.HK)均涨近4%。",
           "url": "https://flash.jin10.com/detail/20260506092105475800",
           "source": "金十数据",
@@ -1211,8 +1333,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时59分 ~ 20时28分]"
+          "appearance_count": 3,
+          "time_info": "[18时59分 ~ 23时25分]"
         },
         {
           "title": "A股大涨，成交破3.2万亿！科创50飙涨超5%，存储芯片集体爆发，恒科指涨1%，华虹大涨12%",
@@ -1273,11 +1395,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            3
+            3,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时59分 ~ 20时28分]"
+          "appearance_count": 3,
+          "time_info": "[18时59分 ~ 23时25分]"
         },
         {
           "title": "现货铂金价格上涨近3%，至2011.80 美元/盎司。 现货钯金价格上涨3%，至1530.33 美元/盎司。",
