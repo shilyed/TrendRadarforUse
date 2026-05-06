@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T03:26:44.827162+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-05-07T05:07:12.783136+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "中方再回应特朗普访华",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 03时26分]"
+          "appearance_count": 5,
+          "time_info": "[01时25分 ~ 05时07分]"
         },
         {
           "title": "美国总统特朗普：我认为油价会涨到200到250美元。现在是100美元。即使涨到200美元，也值得。",
@@ -25,9 +25,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        },
+        {
+          "title": "为什么特朗普“不得不”常买中国货",
+          "url": "https://news.ifeng.com/c/8sugghRWW2t",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时25分 ~ 05时07分]"
         },
         {
           "title": "美国总统特朗普：伊朗拥有核武器将使世界面临被“挟持”的风险。",
@@ -36,7 +47,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
         },
@@ -47,7 +58,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
         },
@@ -74,17 +85,6 @@
           "time_info": "01时26分"
         },
         {
-          "title": "为什么特朗普“不得不”常买中国货",
-          "url": "https://news.ifeng.com/c/8sugghRWW2t",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 03时26分]"
-        },
-        {
           "title": "特朗普称暂停“自由计划”行动",
           "url": "https://m.thepaper.cn/newsDetail_forward_33100608",
           "source": "澎湃新闻",
@@ -93,8 +93,20 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时25分 ~ 05时07分]"
+        },
+        {
+          "title": "特朗普：如果伊朗同意美方条款，“史诗怒火”行动将宣告结束",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33102780",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时25分 ~ 03时26分]"
+          "time_info": "[03时26分 ~ 05时07分]"
         },
         {
           "title": "美国总统特朗普：对伊朗问题从不设最后期限，协议终将达成，但不会设定最后期限。",
@@ -103,7 +115,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
         },
@@ -125,7 +137,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
         },
@@ -136,7 +148,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
         },
@@ -147,7 +159,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
         },
@@ -158,7 +170,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
         },
@@ -180,7 +192,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
         },
@@ -191,7 +203,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
         },
@@ -202,7 +214,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
         },
@@ -235,18 +247,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时26分"
-        },
-        {
-          "title": "特朗普：如果伊朗同意美方条款，“史诗怒火”行动将宣告结束",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33102780",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
         },
@@ -290,7 +291,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
         },
@@ -312,7 +313,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
         },
@@ -323,9 +324,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        },
+        {
+          "title": "【巴基斯坦消息人士：美伊接近达成停战谅解备忘录】据美国方面消息，一名巴基斯坦消息人士6日表示，美国和伊朗正接近达成一份旨在结束战争的谅解备忘录。同一天，据披露，两名美国官员及另外两名知情人士透露，特朗普政府认为，与伊朗接近达成一份一页的谅解备忘录。该备忘录旨在结束战争，并为更详细的核问题谈判设定框架。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3099548",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时07分"
         },
         {
           "title": "美国总统特朗普：我们将攫取伊朗的浓缩铀。",
@@ -334,16 +346,38 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        },
+        {
+          "title": "特朗普再称对美伊达成协议表示乐观",
+          "url": "https://wallstreetcn.com/livenews/3099545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时07分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "在伊朗核谈判前景不明之际，美国外交官们被提醒警惕线上预测市场。",
+          "url": "https://flash.jin10.com/detail/20260507044241056800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时07分"
+        },
         {
           "title": "伊朗最高领袖军事顾问：美国必须赔偿伊朗损失",
           "url": "https://flash.jin10.com/detail/20260507011601378800",
@@ -469,29 +503,42 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 9,
       "titles": [
         {
           "title": "美伊前景未明，美股高开，半导体股走强，康宁大涨17%，油价跌幅收窄至6%",
           "url": "https://wallstreetcn.com/articles/3771614",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 03时26分]"
+          "appearance_count": 5,
+          "time_info": "[01时25分 ~ 05时07分]"
+        },
+        {
+          "title": "美股大类资产类ETF普遍收涨，新兴市场ETF涨3.2%，黄金ETF涨3%，布油基金跌约8%",
+          "url": "https://wallstreetcn.com/livenews/3099572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时07分"
         },
         {
           "title": "美伊停战预期升温 美股期指齐涨 原油大跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2364164",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 03时26分]"
+          "appearance_count": 5,
+          "time_info": "[01时25分 ~ 05时07分]"
         },
         {
           "title": "为什么美股在大涨特涨，巴菲特等金融专家却在持续减持？",
@@ -506,22 +553,77 @@
           "time_info": "[01时25分 ~ 03时26分]"
         },
         {
+          "title": "高意公司/相干公司（Coherent Corp.）第三财季营收18.06亿美元，IBES预期17.80亿美元。 第三财季整后营业收入3.66亿美元，IBES预期3.723亿美元。 第三财季调整后每股收益（EPS）为1.41美元，IBES预期1.40美元。 第三财季调整后净利润2.76亿美元，IBES预期2.722亿美元。 预计第四财季营收19.1亿-20.5亿美元，预计调整后EPS为1.52-1.72美元。 相干公司（COHR）美股盘后跌6.68%。",
+          "url": "https://wallstreetcn.com/livenews/3099562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时07分"
+        },
+        {
+          "title": "美股行业ETF多数收涨，半导体ETF涨约5.2%，能源业ETF跌超4.1%",
+          "url": "https://wallstreetcn.com/livenews/3099560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时07分"
+        },
+        {
+          "title": "金十图示：2026年05月06日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260507040528145800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时07分"
+        },
+        {
           "title": "康宁公司（GLW）维持超过14%的涨幅，持稳于185美元附近，美股盘初曾达到195.81美元——盘中涨幅超过20.79%。 英伟达拟向该公司投资高达32亿美元，签署大规模光纤协议并新建三座AI专用工厂。",
           "url": "https://wallstreetcn.com/livenews/3099520",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        },
+        {
+          "title": "金十图示：2026年05月06日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260507040519442800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时07分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "金价涨2.8%，逼近4700美元",
+          "url": "https://wallstreetcn.com/livenews/3099570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时07分"
+        },
         {
           "title": "如果有游戏将所有氪金价格变为十分之一，会不会迎来盈利大涨？「1 人充 100 元」和「100 人充 1 元」谁赢？",
           "url": "https://www.zhihu.com/question/2032416656081802662",
@@ -530,8 +632,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 03时26分]"
+          "appearance_count": 5,
+          "time_info": "[01时25分 ~ 05时07分]"
         }
       ]
     },
@@ -546,7 +648,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
         }
@@ -563,7 +665,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
         }
@@ -580,7 +682,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
         }
@@ -615,8 +717,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 03时26分]"
+          "appearance_count": 5,
+          "time_info": "[01时25分 ~ 05时07分]"
         }
       ]
     }
