@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T10:06:08.380988+08:00",
-  "total_titles_processed": 762,
+  "generated_at": "2026-05-07T13:54:49.601673+08:00",
+  "total_titles_processed": 956,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 41,
       "titles": [
         {
           "title": "中方再回应特朗普访华",
@@ -80,8 +80,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时43分 ~ 10时06分]"
+          "appearance_count": 5,
+          "time_info": "[07时43分 ~ 13时54分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普突然叫停“自由计划”内幕披露",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
         },
         {
           "title": "美国总统特朗普：我认为油价会涨到200到250美元。现在是100美元。即使涨到200美元，也值得。",
@@ -115,6 +126,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        },
+        {
+          "title": "为特朗普庆生，白宫将举办“自由250”格斗赛",
+          "url": "https://news.ifeng.com/c/8svZidpLu1e",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
         },
         {
           "title": "特朗普对美伊达成协议再表乐观 同时威胁轰炸",
@@ -228,6 +250,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        },
+        {
+          "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
+          "url": "https://wallstreetcn.com/articles/3771687",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
         },
         {
           "title": "美国总统特朗普：埃克森美孚和雪佛龙的董事会主席周二晚上在白宫出席了会议。",
@@ -417,6 +450,17 @@
           "time_info": "03时26分"
         },
         {
+          "title": "颜面之争难破局！特朗普拒给伊朗体面，或是停战最大拦路虎",
+          "url": "https://flash.jin10.com/detail/20260507125646930800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
           "title": "特朗普再称对美伊达成协议表示乐观",
           "url": "https://wallstreetcn.com/livenews/3099545",
           "source": "华尔街见闻-快讯",
@@ -431,7 +475,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "伊朗确认前往美国参加世界杯：将在开赛前14天抵美",
@@ -486,8 +530,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时43分 ~ 10时06分]"
+          "appearance_count": 5,
+          "time_info": "[07时43分 ~ 13时54分]"
         },
         {
           "title": "【伊朗提出可行方案：永久结束战争，解除海上封锁，恢复正常通行】伊朗常驻联合国代表团当地时间5月6日表示，霍尔木兹海峡问题的唯一切实可行解决方案就是永久结束战争，解除海上封锁，恢复正常通行。代表团还表示，美国以“航行自由”为借口，在联合国安理会推进一项不完整且带有政治动机的决议草案，目的是推进其政治议程并合法化其非法行为，而非解决危机。美国和以色列2月28日对伊朗发动军事打击后，伊朗封锁了霍尔木兹海峡。美国自4月13日起对往来伊朗港口的船只实施封锁。目前，美伊谈判目前陷入僵局，霍尔木兹海峡通航持续受阻。 (央视新闻)",
@@ -556,6 +600,17 @@
           "time_info": "01时26分"
         },
         {
+          "title": "伊朗媒体称有伊朗油轮突破美国封锁",
+          "url": "https://wallstreetcn.com/livenews/3099749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
           "title": "伊朗：尚未回应美国对伊方14点提议的看法",
           "url": "https://flash.jin10.com/detail/20260507005756762800",
           "source": "金十数据",
@@ -584,7 +639,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
@@ -613,8 +668,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时48分 ~ 10时06分]"
+          "appearance_count": 7,
+          "time_info": "[06时48分 ~ 13时54分]"
         },
         {
           "title": "美伊前景未明，美股高开，半导体股走强，康宁大涨17%，油价跌幅收窄至6%",
@@ -629,6 +684,19 @@
           "time_info": "[01时25分 ~ 05时07分]"
         },
         {
+          "title": "美股收盘：纳指、标普再创新高 AMD、康宁接力暴涨 中概股表现亮眼",
+          "url": "https://www.cls.cn/detail/2364348",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时43分 ~ 13时54分]"
+        },
+        {
           "title": "美伊停战预期升温 美股期指齐涨 原油大跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2364164",
           "source": "财联社热门",
@@ -640,18 +708,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时25分 ~ 10时06分]"
-        },
-        {
-          "title": "美股收盘：纳指、标普再创新高 AMD、康宁接力暴涨 中概股表现亮眼",
-          "url": "https://www.cls.cn/detail/2364348",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时43分 ~ 10时06分]"
         },
         {
           "title": "Snap收涨0.33%，美股盘后跌9.17%。",
@@ -743,6 +799,119 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "A股半导体板块午后持续走高，华虹公司涨超10%创新高，澜起科技、阿石创、诚邦股份、裕太微涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3099764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
+          "title": "产业趋势和自主可控共振，机构强力掘金半导体板块",
+          "url": "https://wallstreetcn.com/livenews/3099597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时49分 ~ 07时44分]"
+        },
+        {
+          "title": "上交所：景顺长城全球半导体芯片产业股票型证券投资基金（QDII-LOF）临时停牌",
+          "url": "https://wallstreetcn.com/livenews/3099753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
+          "title": "港股半导体芯片股午后直线冲高，壁仞科技(06082.HK)涨超17%，华虹半导体(01347.HK)涨近11%，澜起科技(06809.HK)涨超8%，天数智芯(09903.HK)涨超7%，中芯国际(00981.HK)、天域半导体(02658.HK)均涨超4%。",
+          "url": "https://flash.jin10.com/detail/20260507132121540800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
+          "title": "欧洲半导体概念股涨跌各异，阿斯麦控股收涨6.18%，ASM国际涨3.32%，英飞凌则收跌2.10%，德国爱思强跌2.80%，Soitec跌7%。",
+          "url": "https://wallstreetcn.com/livenews/3099489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时26分"
+        },
+        {
+          "title": "恒生科技指数日内涨幅扩大至3%，快手涨超7%，华虹半导体涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3099731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储芯片",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "A股大涨，成交破3.2万亿！科创50飙涨超5%，算力、存储芯片集体爆发，寒武纪、海光信息创新高",
+          "url": "https://wallstreetcn.com/articles/3771617",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时25分 ~ 13时54分]"
+        },
+        {
+          "title": "A股存储芯片板块午后再度拉升，科翔股份涨超13%，华虹公司、盛和晶微、飞凯材料等均涨超11%，迈为科技等跟涨",
+          "url": "https://flash.jin10.com/detail/20260507131932192800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
+          "title": "A股存储芯片板块直线拉升，朗科科技涨超13%，续创历史新高，怡亚通封板涨停，德明利涨超9%，江波龙、香农芯创、开普云、时空科技跟涨。",
+          "url": "https://flash.jin10.com/detail/20260507093828295800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         }
       ]
     },
@@ -842,7 +1011,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
@@ -856,64 +1025,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "产业趋势和自主可控共振，机构强力掘金半导体板块",
-          "url": "https://wallstreetcn.com/livenews/3099597",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时49分 ~ 07时44分]"
-        },
-        {
-          "title": "欧洲半导体概念股涨跌各异，阿斯麦控股收涨6.18%，ASM国际涨3.32%，英飞凌则收跌2.10%，德国爱思强跌2.80%，Soitec跌7%。",
-          "url": "https://wallstreetcn.com/livenews/3099489",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储芯片",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "A股大涨，成交破3.2万亿！科创50飙涨超5%，算力、存储芯片集体爆发，寒武纪、海光信息创新高",
-          "url": "https://wallstreetcn.com/articles/3771617",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时25分 ~ 10时06分]"
-        },
-        {
-          "title": "A股存储芯片板块直线拉升，朗科科技涨超13%，续创历史新高，怡亚通封板涨停，德明利涨超9%，江波龙、香农芯创、开普云、时空科技跟涨。",
-          "url": "https://flash.jin10.com/detail/20260507093828295800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时06分"
         }
       ]
     }
