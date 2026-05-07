@@ -1,11 +1,297 @@
 {
-  "generated_at": "2026-05-08T05:00:31.421125+08:00",
-  "total_titles_processed": 515,
+  "generated_at": "2026-05-08T06:01:39.552494+08:00",
+  "total_titles_processed": 576,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "伊朗",
+      "match_count": 25,
+      "titles": [
+        {
+          "title": "美国军方：美国中央司令部已消除来袭威胁，并瞄准了袭击美军的伊朗军事设施。",
+          "url": "https://flash.jin10.com/detail/20260508053624907800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
+          "title": "伊朗确认将在美加墨世界杯开幕前 14 天抵达美国，如何看待这一决定？伊朗队世界杯发挥可能如何？",
+          "url": "https://www.zhihu.com/question/2035679898308704139",
+          "source": "知乎",
+          "ranks": [
+            18,
+            16,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时54分 ~ 06时01分]"
+        },
+        {
+          "title": "【伊媒：美国违反停火协议，伊朗武装力量打击美军舰】据伊朗塔斯尼姆通讯社8日报道，伊朗武装部队哈塔姆安比亚中央总部发言人表示，由于美国违反停火协议，袭击伊朗油轮和另一艘进入霍尔木兹海峡的船只，伊朗武装力量打击了霍尔木兹海峡以东的美国军舰。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3100226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
+          "title": "美国军方：5月7日，当美国海军导弹驱逐舰穿越霍尔木兹海峡驶向阿曼湾时，美军拦截了伊朗的袭击，并进行了自卫反击。",
+          "url": "https://flash.jin10.com/detail/20260508053448834800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
+          "title": "四名知情人士表示，美国中央情报局（CIA）本周的一份机密分析认为，伊朗至少可以在美国海上封锁下维持三至四个月，之后才会面临更严重的经济困境。（华盛顿邮报）",
+          "url": "https://wallstreetcn.com/livenews/3100098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        },
+        {
+          "title": "预测平台Kalshi的交易员们认为：美国要到2027年才能与伊朗达成核协议的概率上升。",
+          "url": "https://wallstreetcn.com/livenews/3100138",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 03时29分]"
+        },
+        {
+          "title": "WTI原油期货转涨，布伦特原油期货重返100美元整数位心理关口上方。 据华尔街日报，伊朗拒绝美国关于霍尔木兹海峡的方案，认为其不切实际。",
+          "url": "https://wallstreetcn.com/livenews/3100128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 03时29分]"
+        },
+        {
+          "title": "据福克斯新闻记者：从一位美国高级官员处获悉，美军刚刚袭击了伊朗米纳布的卡尔甘港海军检查站。",
+          "url": "https://flash.jin10.com/detail/20260508052530857800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
+          "title": "美联储戴利：当前货币政策“略显紧缩”，若美国与伊朗的冲突得以解决，将对通胀形成下行压力。",
+          "url": "https://flash.jin10.com/detail/20260508012443286800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时54分"
+        },
+        {
+          "title": "美国能源部长：目前未与伊朗就能源问题进行直接对话",
+          "url": "https://wallstreetcn.com/livenews/3100096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        },
+        {
+          "title": "据伊朗Press TV：伊朗最高联合军事指挥部称，美国在一些地区国家的配合下，对平民地区进行了空袭。",
+          "url": "https://flash.jin10.com/detail/20260508051504904800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
+          "title": "据CNN报道，伊朗对霍尔木兹海峡通行实施新规。船只必须完成申请以确保安全通行。 另据华尔街日报，伊朗高级官员称，美国无法凭借“不切实际的计划”重开霍尔木兹海峡。",
+          "url": "https://wallstreetcn.com/livenews/3100092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        },
+        {
+          "title": "伊朗外交部发言人：伊朗尚未围绕提案达成共识，也还没有向美国给出反馈意见。",
+          "url": "https://wallstreetcn.com/livenews/3100091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        },
+        {
+          "title": "伊朗最高联合军事指挥部：美国袭击进入霍尔木兹海峡的伊朗油轮及另一艘船只，违反了停火协议。",
+          "url": "https://flash.jin10.com/detail/20260508050844212800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
+          "title": "伊朗最高联合军事指挥部表示，美国通过袭击一艘进入霍尔木兹海峡的伊朗油轮及另一艘船只违反了停火协议。 伊朗将对任何攻击作出强有力的回应，绝不会有丝毫犹豫。",
+          "url": "https://wallstreetcn.com/livenews/3100211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：对敌对美国驱逐舰的袭击是使用导弹和自杀式无人机实施的。",
+          "url": "https://flash.jin10.com/detail/20260508045826432800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
+          "title": "据华尔街日报：巴林和美国支持要求伊朗开放霍尔木兹海峡的新决议。",
+          "url": "https://flash.jin10.com/detail/20260508010527764800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时54分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗海军瞄准了霍尔木兹海峡附近的三艘美国驱逐舰。",
+          "url": "https://flash.jin10.com/detail/20260508045629089800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
+          "title": "报道：美国司法部正调查与伊朗战争相关的26亿美元石油交易",
+          "url": "https://wallstreetcn.com/livenews/3100081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        },
+        {
+          "title": "三艘位于霍尔木兹海峡附近的美国驱逐舰遭到伊朗海军攻击。（伊朗塔斯尼姆通讯社Tasnim）",
+          "url": "https://wallstreetcn.com/livenews/3100203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
+          "title": "伊朗国防部：美国需与以色列划清界限",
+          "url": "https://www.toutiao.com/trending/7636412979739181098/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时54分"
+        },
+        {
+          "title": "据福克斯新闻记者：美国高级官员表示与伊朗的停火并未结束。",
+          "url": "https://flash.jin10.com/detail/20260508044650093800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
+          "title": "美国能源部长Wright：看起来伊朗已经减少了40万桶/天的产量。",
+          "url": "https://wallstreetcn.com/livenews/3100074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        },
+        {
+          "title": "美国因支持伊朗制裁伊拉克石油副部长及民兵组织",
+          "url": "https://wallstreetcn.com/livenews/3100073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        },
+        {
+          "title": "据福克斯新闻记者：美军刚刚对伊朗的格什姆港和阿巴斯港发动了打击；一位美国高级官员透露，这并不意味着战争重燃。",
+          "url": "https://flash.jin10.com/detail/20260508044222582800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "伊朗战争丨特朗普与教皇争吵后，鲁比奥访问梵蒂冈",
@@ -15,8 +301,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 05时00分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 06时01分]"
         },
         {
           "title": "从狂热支持到强烈担忧，日本“铁粉”也要弃特朗普了？",
@@ -26,8 +312,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 05时00分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 06时01分]"
         },
         {
           "title": "特朗普访华前瞻——台湾怎么办？",
@@ -37,8 +323,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 05时00分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 06时01分]"
+        },
+        {
+          "title": "巴基斯坦消息人士称美伊接近达成停战谅解备忘录，特朗普：有可能下周达成协议",
+          "url": "https://wallstreetcn.com/articles/3771704",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 06时01分]"
         },
         {
           "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
@@ -53,18 +351,6 @@
           "time_info": "[00时02分 ~ 03时29分]"
         },
         {
-          "title": "巴基斯坦消息人士称美伊接近达成停战谅解备忘录，特朗普：有可能下周达成协议",
-          "url": "https://wallstreetcn.com/articles/3771704",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 05时00分]"
-        },
-        {
           "title": "美国总统特朗普：已同意给欧盟委员会主席冯德莱恩时间至美国建国250周年纪念日；否则，很遗憾，他们的关税将立即大幅上调。",
           "url": "https://flash.jin10.com/detail/20260508031004808800",
           "source": "金十数据",
@@ -74,17 +360,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时29分"
-        },
-        {
-          "title": "美国高级官员：特朗普与伊朗的停火还没有结束。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3100199",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时00分"
         },
         {
           "title": "市场消息：美国财长贝森特与美国商务部长卢特尼克与特朗普一同在白宫会见巴西总统卢拉。",
@@ -120,6 +395,18 @@
           "time_info": "03时29分"
         },
         {
+          "title": "美国高级官员：特朗普与伊朗的停火还没有结束。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3100199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时00分 ~ 06时01分]"
+        },
+        {
           "title": "美国总统特朗普：会见巴西总统卢拉的情况非常不错。",
           "url": "https://wallstreetcn.com/livenews/3100155",
           "source": "华尔街见闻-快讯",
@@ -142,6 +429,17 @@
           "time_info": "03时29分"
         },
         {
+          "title": "美法院裁定特朗普的10%全球关税不成立",
+          "url": "https://flash.jin10.com/detail/20260508050930126800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
           "title": "美情报称伊朗可在特朗普封锁下至少支撑三至四个月",
           "url": "https://flash.jin10.com/detail/20260507233601543800",
           "source": "金十数据",
@@ -153,13 +451,46 @@
           "time_info": "00时02分"
         },
         {
+          "title": "市场消息：美国贸易法院裁定特朗普提出的10%全球关税提案不成立。",
+          "url": "https://flash.jin10.com/detail/20260508045940660800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
+          "title": "巴西总统卢拉在与特朗普会晤后，预见美巴关系将迎来重启",
+          "url": "https://wallstreetcn.com/livenews/3100208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
+          "title": "美国贸易法庭裁定，特朗普10%全球关税败诉",
+          "url": "https://wallstreetcn.com/livenews/3100207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
           "title": "巴西总统卢拉：据翻译称，特朗普告诉我他并未考虑入侵古巴。",
           "url": "https://flash.jin10.com/detail/20260508035818698800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时00分"
         },
@@ -170,168 +501,15 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时00分"
         }
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "四名知情人士表示，美国中央情报局（CIA）本周的一份机密分析认为，伊朗至少可以在美国海上封锁下维持三至四个月，之后才会面临更严重的经济困境。（华盛顿邮报）",
-          "url": "https://wallstreetcn.com/livenews/3100098",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "伊朗确认将在美加墨世界杯开幕前 14 天抵达美国，如何看待这一决定？伊朗队世界杯发挥可能如何？",
-          "url": "https://www.zhihu.com/question/2035679898308704139",
-          "source": "知乎",
-          "ranks": [
-            18,
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时54分 ~ 05时00分]"
-        },
-        {
-          "title": "预测平台Kalshi的交易员们认为：美国要到2027年才能与伊朗达成核协议的概率上升。",
-          "url": "https://wallstreetcn.com/livenews/3100138",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 03时29分]"
-        },
-        {
-          "title": "WTI原油期货转涨，布伦特原油期货重返100美元整数位心理关口上方。 据华尔街日报，伊朗拒绝美国关于霍尔木兹海峡的方案，认为其不切实际。",
-          "url": "https://wallstreetcn.com/livenews/3100128",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 03时29分]"
-        },
-        {
-          "title": "美联储戴利：当前货币政策“略显紧缩”，若美国与伊朗的冲突得以解决，将对通胀形成下行压力。",
-          "url": "https://flash.jin10.com/detail/20260508012443286800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
-        },
-        {
-          "title": "美国能源部长：目前未与伊朗就能源问题进行直接对话",
-          "url": "https://wallstreetcn.com/livenews/3100096",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "据CNN报道，伊朗对霍尔木兹海峡通行实施新规。船只必须完成申请以确保安全通行。 另据华尔街日报，伊朗高级官员称，美国无法凭借“不切实际的计划”重开霍尔木兹海峡。",
-          "url": "https://wallstreetcn.com/livenews/3100092",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "伊朗外交部发言人：伊朗尚未围绕提案达成共识，也还没有向美国给出反馈意见。",
-          "url": "https://wallstreetcn.com/livenews/3100091",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "据华尔街日报：巴林和美国支持要求伊朗开放霍尔木兹海峡的新决议。",
-          "url": "https://flash.jin10.com/detail/20260508010527764800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
-        },
-        {
-          "title": "报道：美国司法部正调查与伊朗战争相关的26亿美元石油交易",
-          "url": "https://wallstreetcn.com/livenews/3100081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "伊朗国防部：美国需与以色列划清界限",
-          "url": "https://www.toutiao.com/trending/7636412979739181098/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
-        },
-        {
-          "title": "美国能源部长Wright：看起来伊朗已经减少了40万桶/天的产量。",
-          "url": "https://wallstreetcn.com/livenews/3100074",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "美国因支持伊朗制裁伊拉克石油副部长及民兵组织",
-          "url": "https://wallstreetcn.com/livenews/3100073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
@@ -341,8 +519,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 05时00分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 06时01分]"
         },
         {
           "title": "等待伊朗回应和平协议，美股小幅高开，苹果股价创新高，美油跌4%，白银大涨5%重回80美元",
@@ -352,8 +530,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 05时00分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 06时01分]"
         },
         {
           "title": "重温泡沫巅峰的感觉？当前的美股涨的比1999年还快！",
@@ -364,8 +542,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 05时00分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 06时01分]"
         },
         {
           "title": "美伊接近重启谈判 美股再冲新高 布油跌破97美元 | 今夜看点",
@@ -376,8 +554,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 05时00分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 06时01分]"
         },
         {
           "title": "美股大类资产类ETF普遍收跌，小盘股指ETF、新兴市场ETF至少跌超1.3%",
@@ -386,9 +564,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时00分"
+        },
+        {
+          "title": "周四（5月7日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.8078元，较周三纽约尾盘涨54点，日内整体交投于6.8135-6.7957元区间，亚太尾盘至美股早盘曾涨穿6.8元。",
+          "url": "https://wallstreetcn.com/livenews/3100216",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
         },
         {
           "title": "周四（5月7日），美股行业ETF普遍收跌，生物科技指数ETF跌2.17%，能源业ETF跌1.84%，半导体ETF跌1.76%，网络股指数ETF涨1.14%，全球航空业ETF涨1.28%。",
@@ -397,7 +586,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时00分"
         },
@@ -419,7 +608,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时00分"
         },
@@ -441,7 +630,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时00分"
         },
@@ -452,7 +641,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时00分"
         }
@@ -473,8 +662,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 05时00分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 06时01分]"
         },
         {
           "title": "欧洲半导体概念股涨跌各异，Suess MicroTec AG收涨8.66%，Soitec涨2.66%，阿斯麦控股则跌0.38%，ASM国际跌1.45%，德国爱思强跌1.94%。",
@@ -494,7 +683,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时00分"
         },
@@ -523,47 +712,42 @@
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美元指数7日上涨",
-          "url": "https://flash.jin10.com/detail/20260508041832166800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时00分"
-        },
-        {
-          "title": "周四（5月7日）纽约尾盘，ICE美元指数涨0.08%，报98.10点，日内交投区间为97.82-98.17点，北京时间22:30以来持续走高。",
-          "url": "https://wallstreetcn.com/livenews/3100168",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时00分"
-        }
-      ]
-    },
-    {
       "keyword_group": "白银",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "分析人士：美伊和平协议若落地 黄金白银“超级牛市”有望重启",
           "url": "https://www.cls.cn/detail/2365388",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时59分 ~ 05时00分]"
+          "appearance_count": 3,
+          "time_info": "[04时59分 ~ 06时01分]"
+        },
+        {
+          "title": "现货黄金在纽约尾盘转跌，现货白银涨幅收窄至1.5%，WTI原油涨1.6%。",
+          "url": "https://flash.jin10.com/detail/20260508045742354800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
+          "title": "纽约期金涨超0.3%，收复4700美元关口，现货白银一度涨穿82美元",
+          "url": "https://wallstreetcn.com/livenews/3100204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
         },
         {
           "title": "现货白银日内涨幅达6.0%，报82美元/盎司。",
@@ -575,6 +759,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数7日上涨",
+          "url": "https://flash.jin10.com/detail/20260508041832166800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时00分"
+        },
+        {
+          "title": "周四（5月7日）纽约尾盘，ICE美元指数涨0.08%，报98.10点，日内交投区间为97.82-98.17点，北京时间22:30以来持续走高。",
+          "url": "https://wallstreetcn.com/livenews/3100168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时00分"
         }
       ]
     },
@@ -606,7 +818,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时00分"
         }
