@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T13:54:49.601673+08:00",
-  "total_titles_processed": 956,
+  "generated_at": "2026-05-07T16:21:01.184765+08:00",
+  "total_titles_processed": 1113,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "中方再回应特朗普访华",
@@ -47,6 +47,18 @@
           "time_info": "[01时25分 ~ 10时06分]"
         },
         {
+          "title": "【早报】油价大幅跳水！特朗普：美伊“很有可能”达成协议；以军在停火期间突袭贝鲁特",
+          "url": "https://www.cls.cn/detail/2364367",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时43分 ~ 16时21分]"
+        },
+        {
           "title": "伊朗战争丨特朗普预估美伊“一周”达成协议",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -72,27 +84,37 @@
           "time_info": "[01时25分 ~ 07时44分]"
         },
         {
-          "title": "【早报】油价大幅跳水！特朗普：美伊“很有可能”达成协议；以军在停火期间突袭贝鲁特",
-          "url": "https://www.cls.cn/detail/2364367",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时43分 ~ 13时54分]"
-        },
-        {
           "title": "伊朗战争丨特朗普突然叫停“自由计划”内幕披露",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时54分 ~ 16时21分]"
+        },
+        {
+          "title": "为特朗普庆生，白宫将举办“自由250”格斗赛",
+          "url": "https://news.ifeng.com/c/8svZidpLu1e",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时54分 ~ 16时21分]"
+        },
+        {
+          "title": "美全力以赴，赶在7月4日前改好卡塔尔赠送的特朗普专机",
+          "url": "https://news.ifeng.com/c/8svoq7iNUv4",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 16时21分]"
         },
         {
           "title": "美国总统特朗普：我认为油价会涨到200到250美元。现在是100美元。即使涨到200美元，也值得。",
@@ -128,17 +150,6 @@
           "time_info": "03时26分"
         },
         {
-          "title": "为特朗普庆生，白宫将举办“自由250”格斗赛",
-          "url": "https://news.ifeng.com/c/8svZidpLu1e",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
           "title": "特朗普对美伊达成协议再表乐观 同时威胁轰炸",
           "url": "https://flash.jin10.com/detail/20260507011521961800",
           "source": "金十数据",
@@ -172,6 +183,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时48分 ~ 07时44分]"
+        },
+        {
+          "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
+          "url": "https://wallstreetcn.com/articles/3771687",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时54分 ~ 16时21分]"
+        },
+        {
+          "title": "为什么特朗普、孙宇晨、傅盛纷纷入局 AI 中转站卖 Token 了？",
+          "url": "https://www.zhihu.com/question/2035667399110653049",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 16时21分]"
         },
         {
           "title": "市场消息：据一位知情人士透露，特朗普政府正在研究利用美国军事基地及国防部其他场所地下的石油资源，以补充国家日益减少的应急储备。",
@@ -250,17 +284,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
-        },
-        {
-          "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
-          "url": "https://wallstreetcn.com/articles/3771687",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
         },
         {
           "title": "美国总统特朗普：埃克森美孚和雪佛龙的董事会主席周二晚上在白宫出席了会议。",
@@ -456,7 +479,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -487,6 +510,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时48分 ~ 07时44分]"
+        },
+        {
+          "title": "伊朗高层回击美媒：所谓的“和谈进展”只是美国的愿望清单，而非现实",
+          "url": "https://wallstreetcn.com/articles/3771674",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时43分 ~ 16时21分]"
         },
         {
           "title": "在伊朗核谈判前景不明之际，美国外交官们被提醒警惕线上预测市场。",
@@ -520,18 +556,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
-        },
-        {
-          "title": "伊朗高层回击美媒：所谓的“和谈进展”只是美国的愿望清单，而非现实",
-          "url": "https://wallstreetcn.com/articles/3771674",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时43分 ~ 13时54分]"
         },
         {
           "title": "【伊朗提出可行方案：永久结束战争，解除海上封锁，恢复正常通行】伊朗常驻联合国代表团当地时间5月6日表示，霍尔木兹海峡问题的唯一切实可行解决方案就是永久结束战争，解除海上封锁，恢复正常通行。代表团还表示，美国以“航行自由”为借口，在联合国安理会推进一项不完整且带有政治动机的决议草案，目的是推进其政治议程并合法化其非法行为，而非解决危机。美国和以色列2月28日对伊朗发动军事打击后，伊朗封锁了霍尔木兹海峡。美国自4月13日起对往来伊朗港口的船只实施封锁。目前，美伊谈判目前陷入僵局，霍尔木兹海峡通航持续受阻。 (央视新闻)",
@@ -606,7 +630,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -658,7 +682,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
@@ -668,8 +692,21 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时48分 ~ 16时21分]"
+        },
+        {
+          "title": "美股收盘：纳指、标普再创新高 AMD、康宁接力暴涨 中概股表现亮眼",
+          "url": "https://www.cls.cn/detail/2364348",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[06时48分 ~ 13时54分]"
+          "time_info": "[07时43分 ~ 16时21分]"
         },
         {
           "title": "美伊前景未明，美股高开，半导体股走强，康宁大涨17%，油价跌幅收窄至6%",
@@ -682,19 +719,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时25分 ~ 05时07分]"
-        },
-        {
-          "title": "美股收盘：纳指、标普再创新高 AMD、康宁接力暴涨 中概股表现亮眼",
-          "url": "https://www.cls.cn/detail/2364348",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时43分 ~ 13时54分]"
         },
         {
           "title": "美伊停战预期升温 美股期指齐涨 原油大跌 | 今夜看点",
@@ -744,6 +768,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时07分 ~ 06时49分]"
+        },
+        {
+          "title": "美股盘前，ARM跌超4%，公司Q4财季营收同比增长20.2%。",
+          "url": "https://wallstreetcn.com/livenews/3099863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "高意公司/相干公司（Coherent Corp.）第三财季营收18.06亿美元，IBES预期17.80亿美元。 第三财季整后营业收入3.66亿美元，IBES预期3.723亿美元。 第三财季调整后每股收益（EPS）为1.41美元，IBES预期1.40美元。 第三财季调整后净利润2.76亿美元，IBES预期2.722亿美元。 预计第四财季营收19.1亿-20.5亿美元，预计调整后EPS为1.52-1.72美元。 相干公司（COHR）美股盘后跌6.68%。",
@@ -799,12 +834,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
+        },
+        {
+          "title": "国际油价短线跳水，布伦特原油日内跌幅达3.0%，报98.1美元/桶。 美股股指期货快速拉升，纳指期货日内涨幅扩大至0.3%。 美元指数短线走低，日内跌0.16%。",
+          "url": "https://wallstreetcn.com/livenews/3099839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         }
       ]
     },
     {
       "keyword_group": "半导体",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "A股半导体板块午后持续走高，华虹公司涨超10%创新高，澜起科技、阿石创、诚邦股份、裕太微涨幅居前。",
@@ -813,9 +859,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
+        },
+        {
+          "title": "港股收盘：恒生指数收涨1.57%，恒生科技指数收涨3.06%。华虹半导体涨超8%，快手、周大福涨超7%。中国石油股份跌逾8%，中国海洋石油跌逾5%。",
+          "url": "https://wallstreetcn.com/livenews/3099865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "产业趋势和自主可控共振，机构强力掘金半导体板块",
@@ -836,7 +893,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -847,7 +904,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -869,9 +926,48 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "现货白银价格上涨近3%，达到79.64 美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3099853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
+          "title": "现货白银日内涨幅扩大至1.00%，现报78.12美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260507094428497800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 5月6日（周三）晚盘收盘上涨0.8%报1030.11元/克；<br/>上海黄金交易所白银T+D 5月6日（周三）晚盘收盘上涨2.51%报19137.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260507023104398800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时26分"
         }
       ]
     },
@@ -888,8 +984,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时25分 ~ 13时54分]"
+          "appearance_count": 14,
+          "time_info": "[01时25分 ~ 16时21分]"
         },
         {
           "title": "A股存储芯片板块午后再度拉升，科翔股份涨超13%，华虹公司、盛和晶微、飞凯材料等均涨超11%，迈为科技等跟涨",
@@ -898,7 +994,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -964,11 +1060,12 @@
           "url": "https://wallstreetcn.com/articles/3771684",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时05分 ~ 10时06分]"
+          "appearance_count": 4,
+          "time_info": "[10时05分 ~ 16时21分]"
         }
       ]
     },
@@ -997,34 +1094,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "现货白银日内涨幅扩大至1.00%，现报78.12美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260507094428497800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 5月6日（周三）晚盘收盘上涨0.8%报1030.11元/克；<br/>上海黄金交易所白银T+D 5月6日（周三）晚盘收盘上涨2.51%报19137.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260507023104398800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时26分"
         }
       ]
     }
