@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T17:09:33.391014+08:00",
-  "total_titles_processed": 1251,
+  "generated_at": "2026-05-08T19:05:29.599239+08:00",
+  "total_titles_processed": 1393,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "从狂热支持到强烈担忧，日本“铁粉”也要弃特朗普了？",
@@ -66,6 +66,17 @@
           "time_info": "[00时02分 ~ 07时03分]"
         },
         {
+          "title": "中方回应何时发布特朗普访华消息",
+          "url": "https://www.toutiao.com/trending/7637034985857810475/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时09分 ~ 19时05分]"
+        },
+        {
           "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
           "url": "https://wallstreetcn.com/articles/3771687",
           "source": "华尔街见闻",
@@ -98,17 +109,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
-        },
-        {
-          "title": "中方回应何时发布特朗普访华消息",
-          "url": "https://www.toutiao.com/trending/7637034985857810475/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时09分"
         },
         {
           "title": "美国总统特朗普：三艘驱逐舰没有受到损坏，但伊朗攻击者遭受了重大损失。",
@@ -174,8 +174,34 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时24分 ~ 17时09分]"
+          "appearance_count": 5,
+          "time_info": "[13时24分 ~ 19时05分]"
+        },
+        {
+          "title": "王毅会见美国国会参议员代表团，此访是特朗普总统就任以来首个访华的两党参议员代表团，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2035771230985380677",
+          "source": "知乎",
+          "ranks": [
+            7,
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时24分 ~ 19时05分]"
+        },
+        {
+          "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
+          "url": "https://www.cls.cn/detail/2366051",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时09分 ~ 19时05分]"
         },
         {
           "title": "美国高级官员：特朗普与伊朗的停火还没有结束。（福克斯新闻）",
@@ -196,19 +222,6 @@
           "ranks": [
             8,
             9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时24分 ~ 17时09分]"
-        },
-        {
-          "title": "王毅会见美国国会参议员代表团，此访是特朗普总统就任以来首个访华的两党参议员代表团，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2035771230985380677",
-          "source": "知乎",
-          "ranks": [
-            7,
-            9,
-            10
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -248,6 +261,18 @@
           "time_info": "[15时18分 ~ 15时19分]"
         },
         {
+          "title": "中美双方就特朗普访华保持沟通",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%8F%8C%E6%96%B9%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E4%BF%9D%E6%8C%81%E6%B2%9F%E9%80%9A",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时09分 ~ 19时05分]"
+        },
+        {
           "title": "英伟达CEO黄仁勋：若受邀，将随特朗普一同访问中国",
           "url": "https://m.thepaper.cn/newsDetail_forward_33120591",
           "source": "澎湃新闻",
@@ -257,17 +282,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时18分 ~ 15时19分]"
-        },
-        {
-          "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
-          "url": "https://www.cls.cn/detail/2366051",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时09分"
         },
         {
           "title": "特朗普回应打击伊朗：只是小惩罚，停火仍然有效",
@@ -424,17 +438,6 @@
           "time_info": "06时01分"
         },
         {
-          "title": "中美双方就特朗普访华保持沟通",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%8F%8C%E6%96%B9%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E4%BF%9D%E6%8C%81%E6%B2%9F%E9%80%9A",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时09分"
-        },
-        {
           "title": "美国贸易法庭的裁决并未全面阻止特朗普10%的关税，仅针对两家提起诉讼的公司。",
           "url": "https://flash.jin10.com/detail/20260508054706756800",
           "source": "金十数据",
@@ -490,13 +493,24 @@
           "time_info": "13时24分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-08）",
+          "url": "https://flash.jin10.com/detail/20260508181456677800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
           "title": "特朗普对欧设定红线：若不将关税降至零，就大幅加税！",
           "url": "https://flash.jin10.com/detail/20260508161738691800",
           "source": "金十数据",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         }
@@ -504,7 +518,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "伊朗战争丨伊朗发布打击美国军舰视频",
@@ -533,6 +547,32 @@
           "time_info": "[01时54分 ~ 10时13分]"
         },
         {
+          "title": "美国和伊朗又打起来了",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%92%8C%E4%BC%8A%E6%9C%97%E5%8F%88%E6%89%93%E8%B5%B7%E6%9D%A5%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            16,
+            25,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时13分 ~ 19时05分]"
+        },
+        {
+          "title": "美国 3 艘军舰穿越霍尔木兹海峡遭伊朗袭击，局势会升级吗？当前双方诉求是什么？",
+          "url": "https://www.zhihu.com/question/2036007359844020985",
+          "source": "知乎",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时24分 ~ 19时05分]"
+        },
+        {
           "title": "四名知情人士表示，美国中央情报局（CIA）本周的一份机密分析认为，伊朗至少可以在美国海上封锁下维持三至四个月，之后才会面临更严重的经济困境。（华盛顿邮报）",
           "url": "https://wallstreetcn.com/livenews/3100098",
           "source": "华尔街见闻-快讯",
@@ -542,19 +582,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
-        },
-        {
-          "title": "美国和伊朗又打起来了",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%92%8C%E4%BC%8A%E6%9C%97%E5%8F%88%E6%89%93%E8%B5%B7%E6%9D%A5%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时13分 ~ 17时09分]"
         },
         {
           "title": "美国军方：美国中央司令部已消除来袭威胁，并瞄准了袭击美军的伊朗军事设施。",
@@ -579,18 +606,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时01分 ~ 07时03分]"
-        },
-        {
-          "title": "美国 3 艘军舰穿越霍尔木兹海峡遭伊朗袭击，局势会升级吗？当前双方诉求是什么？",
-          "url": "https://www.zhihu.com/question/2036007359844020985",
-          "source": "知乎",
-          "ranks": [
-            13,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时24分 ~ 17时09分]"
         },
         {
           "title": "美国军方：5月7日，当美国海军导弹驱逐舰穿越霍尔木兹海峡驶向阿曼湾时，美军拦截了伊朗的袭击，并进行了自卫反击。",
@@ -639,6 +654,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时54分 ~ 03时29分]"
+        },
+        {
+          "title": "观察机构表示，美国和以色列的空袭使伊朗的核计划落后了最多两年。",
+          "url": "https://flash.jin10.com/detail/20260508184554438800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
         },
         {
           "title": "美联储戴利：当前货币政策“略显紧缩”，若美国与伊朗的冲突得以解决，将对通胀形成下行压力。",
@@ -853,7 +879,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
@@ -883,11 +909,12 @@
           "url": "https://wallstreetcn.com/articles/3771708",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时13分 ~ 17时09分]"
+          "appearance_count": 6,
+          "time_info": "[10时13分 ~ 19时05分]"
         },
         {
           "title": "美伊接近重启谈判 美股再冲新高 布油跌破97美元 | 今夜看点",
@@ -966,9 +993,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
+        },
+        {
+          "title": "如何看待美股金融板块背离",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%BE%8E%E8%82%A1%E9%87%91%E8%9E%8D%E6%9D%BF%E5%9D%97%E8%83%8C%E7%A6%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
         },
         {
           "title": "周四（5月7日），美股行业ETF普遍收跌，生物科技指数ETF跌2.17%，能源业ETF跌1.84%，半导体ETF跌1.76%，网络股指数ETF涨1.14%，全球航空业ETF涨1.28%。",
@@ -1002,6 +1040,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时00分"
+        },
+        {
+          "title": "美国银行策略师称 美股近年涨势之强为历史罕见",
+          "url": "https://wallstreetcn.com/livenews/3100625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
         },
         {
           "title": "金十图示：2026年05月07日（周四）热门中概股行情一览（美股盘中）",
@@ -1040,7 +1089,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "全球芯片巨头集体上涨，三星电子股价涨超 14%，SK 海力士股价涨近 11%，这次半导体景气周期能持续多久？",
@@ -1089,6 +1138,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
+        },
+        {
+          "title": "江苏展芯半导体技术股份有限公司IPO将于5月14日上会",
+          "url": "https://flash.jin10.com/detail/20260508183914858800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
         },
         {
           "title": "港股恒生指数、恒生科技指数盘初下挫，双双跌超1%，半导体及生物医药股领跌大市。",
@@ -1256,70 +1316,22 @@
       ]
     },
     {
-      "keyword_group": "美元",
+      "keyword_group": "金价",
       "match_count": 5,
       "titles": [
         {
-          "title": "美元指数7日上涨",
-          "url": "https://flash.jin10.com/detail/20260508041832166800",
-          "source": "金十数据",
+          "title": "全球最大黄金买家之一波兰央行：计划增持105吨黄金，金价短线拉升",
+          "url": "https://wallstreetcn.com/articles/3771769",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            7,
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时00分"
+          "appearance_count": 6,
+          "time_info": "[10时13分 ~ 19时05分]"
         },
-        {
-          "title": "美元指数DXY向下触及98，日内跌0.27%。",
-          "url": "https://flash.jin10.com/detail/20260508164000056800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时09分"
-        },
-        {
-          "title": "高盛：强力超配中国，且A股的投资价值显著优于H股。将沪深300指数的12个月目标位大幅上调至5300点，隐含约9%的价格涨幅及13%的美元总回报。",
-          "url": "https://wallstreetcn.com/livenews/3100390",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
-          "title": "美元指数向下触及98，日内跌0.27%。",
-          "url": "https://wallstreetcn.com/livenews/3100553",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时09分"
-        },
-        {
-          "title": "周四（5月7日）纽约尾盘，ICE美元指数涨0.08%，报98.10点，日内交投区间为97.82-98.17点，北京时间22:30以来持续走高。",
-          "url": "https://wallstreetcn.com/livenews/3100168",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时00分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
         {
           "title": "金十图示：2026年05月08日（周五）上海金午盘价为1036.11元/克，较国际金价(1033.24元/克)高2.87元/克",
           "url": "https://flash.jin10.com/detail/20260508150601013800",
@@ -1332,17 +1344,15 @@
           "time_info": "15时19分"
         },
         {
-          "title": "全球最大黄金买家之一波兰央行：计划增持105吨黄金，金价短线拉升",
-          "url": "https://wallstreetcn.com/articles/3771769",
-          "source": "华尔街见闻",
+          "title": "中国央行连续第18个月增持黄金，国际金价升破4700美元后贵不贵？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33109633",
+          "source": "澎湃新闻",
           "ranks": [
-            7,
-            9,
-            8
+            12
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时13分 ~ 17时09分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
         },
         {
           "title": "金价破4700追不追",
@@ -1369,8 +1379,69 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美元指数7日上涨",
+          "url": "https://flash.jin10.com/detail/20260508041832166800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时00分"
+        },
+        {
+          "title": "美元指数DXY向下触及98，日内跌0.27%。",
+          "url": "https://flash.jin10.com/detail/20260508164000056800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        },
+        {
+          "title": "高盛：强力超配中国，且A股的投资价值显著优于H股。将沪深300指数的12个月目标位大幅上调至5300点，隐含约9%的价格涨幅及13%的美元总回报。",
+          "url": "https://wallstreetcn.com/livenews/3100390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "美元指数向下触及98，日内跌0.27%。",
+          "url": "https://wallstreetcn.com/livenews/3100553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        },
+        {
+          "title": "周四（5月7日）纽约尾盘，ICE美元指数涨0.08%，报98.10点，日内交投区间为97.82-98.17点，北京时间22:30以来持续走高。",
+          "url": "https://wallstreetcn.com/livenews/3100168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时00分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美联储“三把手”：美债需求依然巨大，确保将通胀拉回2%",
@@ -1382,6 +1453,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
+        },
+        {
+          "title": "分析师：中东局势缓和预期打压美元与美债收益率",
+          "url": "https://flash.jin10.com/detail/20260508181748199800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
         },
         {
           "title": "周四（5月7日）纽约尾盘，美国10年期国债收益率涨4.1个基点，报4.393%，北京时间20:55前后刷新日低至4.316%，随后显著回升。 两年期美债收益率涨4.6个基点，报3.916%；30年期美债收益率涨2.9个基点，报4.972%。",
@@ -1407,7 +1489,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         }
