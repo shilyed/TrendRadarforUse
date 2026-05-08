@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T10:13:16.242489+08:00",
-  "total_titles_processed": 797,
+  "generated_at": "2026-05-08T13:24:58.755428+08:00",
+  "total_titles_processed": 974,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 36,
       "titles": [
         {
           "title": "从狂热支持到强烈担忧，日本“铁粉”也要弃特朗普了？",
@@ -38,8 +38,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 10时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 13时24分]"
         },
         {
           "title": "巴基斯坦消息人士称美伊接近达成停战谅解备忘录，特朗普：有可能下周达成协议",
@@ -52,6 +52,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时02分 ~ 07时03分]"
+        },
+        {
+          "title": "特朗普回应打击伊朗：只是轻微敲打",
+          "url": "https://news.ifeng.com/c/8swugAgjYdA",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 13时24分]"
         },
         {
           "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
@@ -143,17 +155,6 @@
           "time_info": "07时03分"
         },
         {
-          "title": "特朗普回应打击伊朗：只是轻微敲打",
-          "url": "https://news.ifeng.com/c/8swugAgjYdA",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
           "title": "美国高级官员：特朗普与伊朗的停火还没有结束。（福克斯新闻）",
           "url": "https://wallstreetcn.com/livenews/3100199",
           "source": "华尔街见闻-快讯",
@@ -199,13 +200,46 @@
           "time_info": "07时03分"
         },
         {
+          "title": "卢拉会晤特朗普，称巴西不在中美之间选边站",
+          "url": "https://news.ifeng.com/c/8sx7oAMkRMI",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "王毅会见美国国会参议员代表团，此访是特朗普总统就任以来首个访华的两党参议员代表团，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2035771230985380677",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "晚宴枪击事件后，特朗普再为白宫宴会厅项目辩护",
+          "url": "https://news.ifeng.com/c/8sxEzEFSGYq",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
           "title": "美国贸易法院裁定特朗普10%全球关税无效",
           "url": "https://wallstreetcn.com/articles/3771788",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -252,6 +286,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：若受邀，将随特朗普一同访问中国",
+          "url": "https://wallstreetcn.com/livenews/3100397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "特朗普会见巴西总统卢拉讨论关税等问题",
@@ -320,6 +365,17 @@
           "time_info": "07时03分"
         },
         {
+          "title": "伊朗又追着阿联酋打，特朗普却忙着催伊朗签协议",
+          "url": "https://flash.jin10.com/detail/20260508123631773800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
           "title": "巴西总统卢拉：据翻译称，特朗普告诉我他并未考虑入侵古巴。",
           "url": "https://flash.jin10.com/detail/20260508035818698800",
           "source": "金十数据",
@@ -340,12 +396,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时00分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：若受邀，将随特朗普一同访问中国",
+          "url": "https://flash.jin10.com/detail/20260508122632973800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "伊朗确认将在美加墨世界杯开幕前 14 天抵达美国，如何看待这一决定？伊朗队世界杯发挥可能如何？",
@@ -361,6 +428,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时54分 ~ 10时13分]"
+        },
+        {
+          "title": "伊朗战争丨伊朗发布打击美国军舰视频",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "四名知情人士表示，美国中央情报局（CIA）本周的一份机密分析认为，伊朗至少可以在美国海上封锁下维持三至四个月，之后才会面临更严重的经济困境。（华盛顿邮报）",
@@ -410,6 +488,17 @@
           "time_info": "[06时01分 ~ 07时03分]"
         },
         {
+          "title": "美国和伊朗又打起来了",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%92%8C%E4%BC%8A%E6%9C%97%E5%8F%88%E6%89%93%E8%B5%B7%E6%9D%A5%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 13时24分]"
+        },
+        {
           "title": "据福克斯新闻记者：从一位美国高级官员处获悉，美军刚刚袭击了伊朗米纳布的卡尔甘港海军检查站。",
           "url": "https://flash.jin10.com/detail/20260508052530857800",
           "source": "金十数据",
@@ -444,17 +533,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时54分 ~ 03时29分]"
-        },
-        {
-          "title": "美国和伊朗又打起来了",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%92%8C%E4%BC%8A%E6%9C%97%E5%8F%88%E6%89%93%E8%B5%B7%E6%9D%A5%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时13分"
         },
         {
           "title": "美联储戴利：当前货币政策“略显紧缩”，若美国与伊朗的冲突得以解决，将对通胀形成下行压力。",
@@ -521,6 +599,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
+        },
+        {
+          "title": "美国 3 艘军舰穿越霍尔木兹海峡遭伊朗袭击，局势会升级吗？当前双方诉求是什么？",
+          "url": "https://www.zhihu.com/question/2036007359844020985",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "伊朗最高联合军事指挥部表示，美国通过袭击一艘进入霍尔木兹海峡的伊朗油轮及另一艘船只违反了停火协议。 伊朗将对任何攻击作出强有力的回应，绝不会有丝毫犹豫。",
@@ -598,6 +687,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
+        },
+        {
+          "title": "伊朗：美国巴林提交的霍尔木兹海峡安理会决议草案存“严重缺陷”",
+          "url": "https://wallstreetcn.com/livenews/3100388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "伊朗国防部：美国需与以色列划清界限",
@@ -715,9 +815,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 13时24分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收跌 AI应用和软件板块逆势走强",
+          "url": "https://www.cls.cn/detail/2365503",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 13时24分]"
         },
         {
           "title": "美伊和谈疑云压制风险情绪，美股收跌，油价走V，黄金冲高转跌",
@@ -729,17 +840,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
-        },
-        {
-          "title": "美股收盘：三大指数集体收跌 AI应用和软件板块逆势走强",
-          "url": "https://www.cls.cn/detail/2365503",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时13分"
         },
         {
           "title": "周四（5月7日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.8078元，较周三纽约尾盘涨54点，日内整体交投于6.8135-6.7957元区间，亚太尾盘至美股早盘曾涨穿6.8元。",
@@ -834,7 +934,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "全球芯片巨头集体上涨，三星电子股价涨超 14%，SK 海力士股价涨近 11%，这次半导体景气周期能持续多久？",
@@ -852,13 +952,24 @@
           "time_info": "[00时02分 ~ 10时13分]"
         },
         {
+          "title": "A股半导体硅片概念局部异动，立昂微午后涨停，西安奕材涨超10%，上海合晶、沪硅产业、高测股份、民德电子等纷纷冲高。",
+          "url": "https://wallstreetcn.com/livenews/3100416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
           "title": "港股半导体芯片股盘初大幅回调，天数智芯(09903.HK)跌超7%，兆易创新(03986.HK)、ASMPT(00522.HK)、英诺赛科(02577.HK)均跌超6%，芯智控股(02166.HK)、华虹半导体(01347.HK)均跌超5%，中芯国际(00981.HK)、澜起科技(06809.HK)、壁仞科技(06082.HK)均跌超4%。",
           "url": "https://flash.jin10.com/detail/20260508094841091800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -869,7 +980,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -880,7 +991,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -891,7 +1002,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -943,7 +1054,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "现货黄金突破4720美元/盎司，日内涨0.67%。现货白银日内涨幅达2%，现报80.20美元/盎司。",
@@ -952,7 +1063,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -969,6 +1080,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时59分 ~ 10时13分]"
+        },
+        {
+          "title": "金十图示：2026年05月08日（周五）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260508131027004800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加21.11吨，当前持仓量为15079.26吨。欢迎点击查看数据中心...",
@@ -1025,11 +1147,12 @@
           "url": "https://wallstreetcn.com/articles/3771769",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 13时24分]"
         },
         {
           "title": "金价破4700追不追",
@@ -1056,36 +1179,8 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美联储“三把手”：美债需求依然巨大，确保将通胀拉回2%",
-          "url": "https://flash.jin10.com/detail/20260508093731503800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "周四（5月7日）纽约尾盘，美国10年期国债收益率涨4.1个基点，报4.393%，北京时间20:55前后刷新日低至4.316%，随后显著回升。 两年期美债收益率涨4.6个基点，报3.916%；30年期美债收益率涨2.9个基点，报4.972%。",
-          "url": "https://wallstreetcn.com/livenews/3100167",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时00分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美元指数7日上涨",
@@ -1099,11 +1194,50 @@
           "time_info": "05时00分"
         },
         {
+          "title": "高盛：强力超配中国，且A股的投资价值显著优于H股。将沪深300指数的12个月目标位大幅上调至5300点，隐含约9%的价格涨幅及13%的美元总回报。",
+          "url": "https://wallstreetcn.com/livenews/3100390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
           "title": "周四（5月7日）纽约尾盘，ICE美元指数涨0.08%，报98.10点，日内交投区间为97.82-98.17点，北京时间22:30以来持续走高。",
           "url": "https://wallstreetcn.com/livenews/3100168",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时00分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美联储“三把手”：美债需求依然巨大，确保将通胀拉回2%",
+          "url": "https://flash.jin10.com/detail/20260508093731503800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "周四（5月7日）纽约尾盘，美国10年期国债收益率涨4.1个基点，报4.393%，北京时间20:55前后刷新日低至4.316%，随后显著回升。 两年期美债收益率涨4.6个基点，报3.916%；30年期美债收益率涨2.9个基点，报4.972%。",
+          "url": "https://wallstreetcn.com/livenews/3100167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
