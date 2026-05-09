@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-09T10:07:06.415719+08:00",
-  "total_titles_processed": 701,
+  "generated_at": "2026-05-09T13:42:26.100035+08:00",
+  "total_titles_processed": 898,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普全球关税又受阻！122关税被指缺乏依据，后续也能退款？",
@@ -30,6 +30,20 @@
           "time_info": "[01时05分 ~ 07时49分]"
         },
         {
+          "title": "特朗普称中美元首会谈将按计划举行，外交部：目前无进一步信息提供",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33121956",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时05分 ~ 13时42分]"
+        },
+        {
           "title": "中方回应何时发布特朗普访华消息",
           "url": "https://www.toutiao.com/trending/7637034985857810475/",
           "source": "今日头条",
@@ -40,19 +54,6 @@
             16,
             24,
             23
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时05分 ~ 10时07分]"
-        },
-        {
-          "title": "特朗普称中美元首会谈将按计划举行，外交部：目前无进一步信息提供",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33121956",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            7
           ],
           "is_new": false,
           "appearance_count": 10,
@@ -94,6 +95,18 @@
           "time_info": "03时07分"
         },
         {
+          "title": "受够了！德国喊话多国组建对抗特朗普新联盟",
+          "url": "https://news.ifeng.com/c/8syALbeUOvl",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时06分 ~ 13时42分]"
+        },
+        {
           "title": "特朗普媒体科技集团一季度资产规模22亿美元。 一季度营收90万美元，净亏损4.059亿美元，调整后EBITDA亏损3.878亿美元。 一季度运营现金流0.179亿美元。",
           "url": "https://wallstreetcn.com/livenews/3100921",
           "source": "华尔街见闻-快讯",
@@ -129,17 +142,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时49分 ~ 10时07分]"
-        },
-        {
-          "title": "受够了！德国喊话多国组建对抗特朗普新联盟",
-          "url": "https://news.ifeng.com/c/8syALbeUOvl",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时06分 ~ 10时07分]"
         },
         {
           "title": "美国总统特朗普谈汉坦病毒，宣称：情况良好可控。",
@@ -184,7 +186,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
         },
@@ -228,7 +230,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
         },
@@ -277,6 +279,17 @@
           "time_info": "07时49分"
         },
         {
+          "title": "近60万买家斥资6000万美元预购特朗普手机，却没人知道发货时间",
+          "url": "https://news.ifeng.com/c/8sytAKXfO4y",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        },
+        {
           "title": "美国总统特朗普：与波兰关系非常好。",
           "url": "https://wallstreetcn.com/livenews/3100951",
           "source": "华尔街见闻-快讯",
@@ -316,7 +329,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
         },
@@ -330,6 +343,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "俄方同意特朗普提出的停火方案",
+          "url": "https://www.toutiao.com/trending/7637290812788162601/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
         },
         {
           "title": "美国总统特朗普打算罢免食品药品管理局（FDA）官员Makary。（华尔街日报）",
@@ -404,7 +428,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
         },
@@ -426,7 +450,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
         },
@@ -437,7 +461,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
         },
@@ -448,7 +472,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
         },
@@ -467,7 +491,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "美国务卿敦促“进入严肃谈判进程”，美军向伊朗“违反封锁”油轮开火，伊称海湾交火已停但恐重燃",
@@ -480,8 +504,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时07分 ~ 10时07分]"
+          "appearance_count": 9,
+          "time_info": "[03时07分 ~ 13时42分]"
         },
         {
           "title": "岚目镜观｜从三权分立到“民选皇帝”：伊朗战事如何刺穿美国宪政神话",
@@ -491,11 +515,23 @@
             17,
             18,
             16,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时05分 ~ 10时07分]"
+          "appearance_count": 11,
+          "time_info": "[01时05分 ~ 13时42分]"
+        },
+        {
+          "title": "伊朗驻华大使：美国没法施压中国，改变对伊朗关系",
+          "url": "https://news.ifeng.com/c/8syp7qZWoVz",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
         },
         {
           "title": "伊朗外长：美国破坏性做法正在削弱外交进程",
@@ -641,6 +677,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：一位军方消息人士透露，波斯湾地区的冲突目前虽已平息，但如果美国对伊朗船只制造麻烦，冲突仍有可能重燃。",
+          "url": "https://flash.jin10.com/detail/20260509114826104800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
         }
       ]
     },
@@ -668,8 +715,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时06分 ~ 10时07分]"
+          "appearance_count": 3,
+          "time_info": "[10时06分 ~ 13时42分]"
         },
         {
           "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
@@ -677,11 +724,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时49分 ~ 10时07分]"
+          "appearance_count": 4,
+          "time_info": "[07时49分 ~ 13时42分]"
         },
         {
           "title": "非农缓解“滞胀”担忧，芯片股力撑美股新高，英特尔暴涨14%，伊朗局势不明，油价承压横盘",
@@ -808,7 +856,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "非农缓解“滞胀”担忧，苹果、英伟达股价续刷新高，伊朗局势恶化，布油重返百元关口，现货白银涨3%",
@@ -847,13 +895,24 @@
           "time_info": "03时07分"
         },
         {
+          "title": "金十图示：2026年05月09日（周六）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260509124109245800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        },
+        {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少30.96吨，当前持仓量为15048.3吨。欢迎点击查看数据中心...",
           "url": "https://flash.jin10.com/detail/20260509082543847800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
         }
@@ -861,8 +920,19 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "创业板跌近1%，芯片半导体集体调整，机器人逆势爆发，恒指跌近1%，科网股多跌，快手涨超9%",
+          "url": "https://wallstreetcn.com/articles/3771807",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        },
         {
           "title": "欧洲半导体概念股普遍收涨，Soitec涨13.67%，英飞凌涨3.63%，ASM国际、BE半导体实业公司、Nordisk Semiconductor、德国爱思强至多涨2.72%，阿斯麦控股涨1.49%表现较差。",
           "url": "https://wallstreetcn.com/livenews/3100833",
@@ -873,6 +943,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
+        },
+        {
+          "title": "专访中芯国际创始人张汝京：利基市场成半导体行业核心突围切口 看好AI场景化应用 赛道“小巨人”是破局关键",
+          "url": "https://www.cls.cn/detail/2366780",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
         },
         {
           "title": "纳斯达克100指数指数涨幅扩大至2.1%，成分股英特尔一度涨18.8%，MNST涨14.6%，美光科技涨13.3%，闪迪涨12.2%，高通涨9.5%，AMD、应用材料、科磊至少涨约6%，思科涨5.2%，阿斯麦ADR涨4.2%，特斯拉涨3.6%，铿腾电子涨1.9%，英伟达涨1.9%，吉利德科学、Workday跌超2.5%，微芯科技跌3.1%，AppLovin跌6.2%，Axon跌7.6%，南美电商MercadoLibre跌12.8%。 半导体指数涨5.2%。标普500指数涨0.8%。",
