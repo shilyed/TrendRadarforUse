@@ -1,8 +1,117 @@
 {
-  "generated_at": "2026-05-10T01:43:30.978972+08:00",
-  "total_titles_processed": 365,
+  "generated_at": "2026-05-10T02:48:11.503159+08:00",
+  "total_titles_processed": 401,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "特朗普",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
+          "url": "https://wallstreetcn.com/articles/3771883",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 02时48分]"
+        },
+        {
+          "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
+          "url": "https://wallstreetcn.com/articles/3771870",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 02时48分]"
+        },
+        {
+          "title": "俄方同意特朗普提出的停火方案",
+          "url": "https://www.toutiao.com/trending/7637290812788162601/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            26,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 02时48分]"
+        },
+        {
+          "title": "美国总统特朗普接受法国LCJ频道采访时表示：伊朗确实希望达成协议。",
+          "url": "https://flash.jin10.com/detail/20260510011547572800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 02时48分]"
+        },
+        {
+          "title": "俄罗斯总统普京：我们当即同意了特朗普关于延长停火并交换囚犯的提议。",
+          "url": "https://flash.jin10.com/detail/20260510021659577800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时48分"
+        },
+        {
+          "title": "意媒：特朗普“仍在考虑”调整驻意美军",
+          "url": "https://flash.jin10.com/detail/20260510020811536800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时48分"
+        },
+        {
+          "title": "据以色列第13频道援引一名以色列官员的话报道称，美国总统特朗普向内塔尼亚胡承诺不会放弃浓缩铀问题。",
+          "url": "https://flash.jin10.com/detail/20260510015900096800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时48分"
+        },
+        {
+          "title": "特朗普：预计“很快”收到伊朗对美方最新和平方案的回应",
+          "url": "https://flash.jin10.com/detail/20260510013801926800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时48分"
+        },
+        {
+          "title": "据美国哥伦比亚广播公司（CBS）：美国总统特朗普告诉一名法国记者，他预计“很快”会收到伊朗方面的消息。",
+          "url": "https://flash.jin10.com/detail/20260510012408954800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时48分"
+        }
+      ]
+    },
     {
       "keyword_group": "伊朗",
       "match_count": 6,
@@ -15,8 +124,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 01时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 02时48分]"
         },
         {
           "title": "美国务卿敦促“进入严肃谈判进程”，美军向伊朗“违反封锁”油轮开火，伊称海湾交火已停但恐重燃",
@@ -37,8 +146,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 01时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 02时48分]"
         },
         {
           "title": "伊朗官员否认“美国袭击伊朗民用船致多人失踪”消息",
@@ -48,8 +157,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时48分]"
         },
         {
           "title": "据伊朗媒体Press TV：伊朗副总统表示，美国-以色列削弱伊朗核心产业的战略已经失败。",
@@ -58,7 +167,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
         },
@@ -69,61 +178,9 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美国总统特朗普接受法国LCJ频道采访时表示：伊朗确实希望达成协议。",
-          "url": "https://flash.jin10.com/detail/20260510011547572800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时43分"
-        },
-        {
-          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
-          "url": "https://wallstreetcn.com/articles/3771883",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 01时43分]"
-        },
-        {
-          "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
-          "url": "https://wallstreetcn.com/articles/3771870",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 01时43分]"
-        },
-        {
-          "title": "俄方同意特朗普提出的停火方案",
-          "url": "https://www.toutiao.com/trending/7637290812788162601/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 01时43分]"
         }
       ]
     },
@@ -139,8 +196,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 01时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 02时48分]"
         },
         {
           "title": "非农缓解“滞胀”担忧，美股新高，英特尔和存储芯片股暴涨，Rocket Lab绩后涨34%",
@@ -151,8 +208,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 01时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 02时48分]"
         }
       ]
     },
@@ -169,8 +226,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 01时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 02时48分]"
         },
         {
           "title": "中瓷电子：静电卡盘产品已通过国内头部半导体设备公司上机验证",
