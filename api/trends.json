@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T22:21:41.585735+08:00",
-  "total_titles_processed": 1272,
+  "generated_at": "2026-05-10T23:44:53.177255+08:00",
+  "total_titles_processed": 1350,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 29,
       "titles": [
         {
           "title": "怕中俄再否决涉伊朗决议，美国删了",
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时00分 ~ 22时21分]"
+          "appearance_count": 4,
+          "time_info": "[21时00分 ~ 23时44分]"
         },
         {
           "title": "伊朗官员：提防美国“海盗式行动”",
@@ -83,6 +83,17 @@
           "time_info": "[00时43分 ~ 00时44分]"
         },
         {
+          "title": "美国能源部长Wright：美国能源部将参与处理伊朗的核材料。",
+          "url": "https://wallstreetcn.com/livenews/3101146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 23时44分]"
+        },
+        {
           "title": "俄罗斯总统普京：俄罗斯愿意再次尝试储存伊朗浓缩铀，最初各方都同意这一安排，但后来美国立场转趋强硬。",
           "url": "https://flash.jin10.com/detail/20260510025043675800",
           "source": "金十数据",
@@ -97,6 +108,18 @@
           "time_info": "[03时53分 ~ 07时39分]"
         },
         {
+          "title": "伊朗已回应美国提出的结束战争方案",
+          "url": "https://wallstreetcn.com/livenews/3101140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时01分 ~ 23时44分]"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：伊朗军方发言人表示，遵循美国对伊朗制裁的国家将“在穿越霍尔木兹海峡时面临困难”。",
           "url": "https://flash.jin10.com/detail/20260510134323649800",
           "source": "金十数据",
@@ -108,15 +131,15 @@
           "time_info": "13时57分"
         },
         {
-          "title": "美国能源部长Wright：美国能源部将参与处理伊朗的核材料。",
-          "url": "https://wallstreetcn.com/livenews/3101146",
-          "source": "华尔街见闻-快讯",
+          "title": "巴基斯坦总理在发言中表示，该国陆军司令已告知他，已收到伊朗对美国提议的回复。",
+          "url": "https://flash.jin10.com/detail/20260510233055519800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时21分"
+          "time_info": "23时44分"
         },
         {
           "title": "巴基斯坦外交消息人士：在收到伊朗的回应后不久已将其传达给美国方面。",
@@ -125,9 +148,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
+        },
+        {
+          "title": "美国能源部长对美国哥伦比亚广播公司（CBS）表示，目前对伊朗的经济压力正在急剧加大。",
+          "url": "https://flash.jin10.com/detail/20260510232859495800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "据AXIOS网站：美国国务卿鲁比奥和美国特使威特科夫周六在迈阿密会见了卡塔尔首相，旨在推动达成结束伊朗战争的协议。",
@@ -154,18 +188,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时37分 ~ 07时39分]"
-        },
-        {
-          "title": "伊朗已回应美国提出的结束战争方案",
-          "url": "https://wallstreetcn.com/livenews/3101140",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 22时21分]"
         },
         {
           "title": "伊朗对美国提案的回应已通过巴基斯坦转交",
@@ -195,11 +217,35 @@
           "url": "https://www.toutiao.com/trending/7638239152550448650/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 23时44分]"
+        },
+        {
+          "title": "伊朗已回应美国提出的结束战争方案",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%B7%B2%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E6%8F%90%E5%87%BA%E7%9A%84%E7%BB%93%E6%9D%9F%E6%88%98%E4%BA%89%E6%96%B9%E6%A1%88%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 23时44分]"
+        },
+        {
+          "title": "伊朗已回应美国提出的结束战争方案",
+          "url": "https://www.cls.cn/detail/2367306",
+          "source": "财联社热门",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时21分"
+          "time_info": "23时44分"
         },
         {
           "title": "据伊朗媒体报道，伊朗对美国提案的回应聚焦于结束战争以及确保海湾地区和霍尔木兹海峡的海上安全。",
@@ -208,9 +254,42 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡对美国哥伦比亚广播公司（CBS）表示，尽管我们已经削弱了伊朗的许多能力，但仍有许多工作要做，因为伊朗依旧具备一定的实力。",
+          "url": "https://flash.jin10.com/detail/20260510232003350800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
+          "title": "伊朗对美国方案的回应聚焦“结束战争与海上安全”",
+          "url": "https://flash.jin10.com/detail/20260510230901128800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
+          "title": "伊朗副外长：法国和英国军舰若出现在霍尔木兹海峡，可能伴随美国非法且违反国际法的行动，伊朗将立即予以果断回应。",
+          "url": "https://flash.jin10.com/detail/20260510230605171800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "据伊朗媒体Press TV：伊朗副总统表示，美国-以色列削弱伊朗核心产业的战略已经失败。",
@@ -235,6 +314,17 @@
           "time_info": "01时43分"
         },
         {
+          "title": "分析师：若美国坚持要求伊朗将高浓铀外运或长期停止浓缩，美伊达成协议无望",
+          "url": "https://flash.jin10.com/detail/20260510224941248800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
           "title": "伊朗特使：若美国理性行事，达成协议是有可能的",
           "url": "https://flash.jin10.com/detail/20260510120113980800",
           "source": "金十数据",
@@ -246,21 +336,21 @@
           "time_info": "13时57分"
         },
         {
-          "title": "伊朗已回应美国提出的结束战争方案",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%B7%B2%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E6%8F%90%E5%87%BA%E7%9A%84%E7%BB%93%E6%9D%9F%E6%88%98%E4%BA%89%E6%96%B9%E6%A1%88%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
+          "title": "据伊朗国家媒体：伊朗对美国提案的回应文本聚焦于结束所有战线的战争，尤其是黎巴嫩。",
+          "url": "https://flash.jin10.com/detail/20260510220728392800",
+          "source": "金十数据",
           "ranks": [
-            29
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时21分"
+          "time_info": "23时44分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
@@ -437,9 +527,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
+        },
+        {
+          "title": "美国总统特朗普：委内瑞拉现在是一个非常幸福的国家。他们曾经痛苦，现在却很快乐。现在的石油产量巨大。",
+          "url": "https://flash.jin10.com/detail/20260510231829313800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "媒体：特朗普还有一场“硬仗”",
@@ -462,6 +563,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
+        },
+        {
+          "title": "特朗普：美方一直在监控伊朗埋在废墟下的浓缩铀",
+          "url": "https://flash.jin10.com/detail/20260510222748266800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
+          "title": "美国总统特朗普：我并没有说针对伊朗的敌对行动已经结束，但我说过他们被击败了。",
+          "url": "https://flash.jin10.com/detail/20260510221423480800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
+          "title": "美国总统特朗普：如果有人靠近伊朗掩埋在废墟下的浓缩铀，我们会知道，并且会将其炸毁。",
+          "url": "https://flash.jin10.com/detail/20260510221333169800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
+          "title": "美国总统特朗普：我们正在监测伊朗掩埋在废墟下的浓缩铀，美国太空部队将接管相关任务。",
+          "url": "https://flash.jin10.com/detail/20260510221311512800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         }
       ]
     },
@@ -482,18 +627,6 @@
           "time_info": "[00时43分 ~ 06时36分]"
         },
         {
-          "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
-          "url": "https://www.cls.cn/detail/2366633",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 05时36分]"
-        },
-        {
           "title": "远超预期！刚刚过去的财报季，美股“强得惊人”",
           "url": "https://wallstreetcn.com/articles/3771916",
           "source": "华尔街见闻",
@@ -504,8 +637,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时57分 ~ 22时21分]"
+          "appearance_count": 10,
+          "time_info": "[13时57分 ~ 23时44分]"
+        },
+        {
+          "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
+          "url": "https://www.cls.cn/detail/2366633",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 05时36分]"
         },
         {
           "title": "沙特阿美股价在早盘交易中上涨1.1%。",
