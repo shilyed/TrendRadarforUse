@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T18:07:06.522183+08:00",
-  "total_titles_processed": 1019,
+  "generated_at": "2026-05-10T19:44:18.690162+08:00",
+  "total_titles_processed": 1109,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
@@ -62,8 +62,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时39分 ~ 18时07分]"
+          "appearance_count": 8,
+          "time_info": "[07时39分 ~ 19时44分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-10）",
+          "url": "https://flash.jin10.com/detail/20260510184554353800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         },
         {
           "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
@@ -150,6 +161,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时48分 ~ 03时53分]"
+        },
+        {
+          "title": "俄罗斯总统助理乌沙科夫：美国总统特使威特科夫和特朗普女婿库什纳将“很快”抵达莫斯科，俄罗斯将继续与他们对话。",
+          "url": "https://flash.jin10.com/detail/20260510182305585800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         },
         {
           "title": "媒体：特朗普还有一场“硬仗”",
@@ -375,11 +397,12 @@
           "ranks": [
             10,
             5,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时57分 ~ 18时07分]"
+          "appearance_count": 6,
+          "time_info": "[13时57分 ~ 19时44分]"
         },
         {
           "title": "沙特阿美股价在早盘交易中上涨1.1%。",
@@ -419,8 +442,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时43分 ~ 18时07分]"
+          "appearance_count": 18,
+          "time_info": "[00时43分 ~ 19时44分]"
         },
         {
           "title": "中瓷电子：静电卡盘产品已通过国内头部半导体设备公司上机验证",
@@ -444,11 +467,12 @@
           "url": "https://flash.jin10.com/detail/20260510170427705800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时07分 ~ 19时44分]"
         }
       ]
     }
