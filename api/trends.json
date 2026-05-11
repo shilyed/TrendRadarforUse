@@ -1,12 +1,80 @@
 {
-  "generated_at": "2026-05-11T10:26:54.405822+08:00",
-  "total_titles_processed": 770,
+  "generated_at": "2026-05-11T14:32:26.840651+08:00",
+  "total_titles_processed": 972,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 44,
       "titles": [
+        {
+          "title": "外交部官宣特朗普访华日期",
+          "url": "https://www.toutiao.com/trending/7638433306853281331/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时26分 ~ 14时32分]"
+        },
+        {
+          "title": "特朗普5月13日至15日访华",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE5%E6%9C%8813%E6%97%A5%E8%87%B315%E6%97%A5%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时26分 ~ 14时32分]"
+        },
+        {
+          "title": "特朗普5月13日至15日访华",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE5%E6%9C%8813%E6%97%A5%E8%87%B315%E6%97%A5%E8%AE%BF%E5%8D%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时26分 ~ 14时32分]"
+        },
+        {
+          "title": "特朗普5月13日至15日访华",
+          "url": "https://www.douyin.com/hot/2494766",
+          "source": "抖音",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时26分 ~ 14时32分]"
+        },
+        {
+          "title": "美国总统特朗普将于 5 月 13 日至 15 日访华，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2037095315845664890",
+          "source": "知乎",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时26分 ~ 14时32分]"
+        },
+        {
+          "title": "伊朗知情人士：特朗普不满意反而更好",
+          "url": "https://news.ifeng.com/c/8t246befcan",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时26分 ~ 14时32分]"
+        },
         {
           "title": "美元走高，特朗普声称“不喜欢伊朗”对和平方案的回复",
           "url": "https://wallstreetcn.com/livenews/3101174",
@@ -20,61 +88,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时40分 ~ 07时43分]"
-        },
-        {
-          "title": "外交部官宣特朗普访华日期",
-          "url": "https://www.toutiao.com/trending/7638433306853281331/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "特朗普5月13日至15日访华",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE5%E6%9C%8813%E6%97%A5%E8%87%B315%E6%97%A5%E8%AE%BF%E5%8D%8E",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "特朗普5月13日至15日访华",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE5%E6%9C%8813%E6%97%A5%E8%87%B315%E6%97%A5%E8%AE%BF%E5%8D%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "中方宣布特朗普访华日期",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%AE%A3%E5%B8%83%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%97%A5%E6%9C%9F%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "特朗普5月13日至15日访华",
-          "url": "https://www.douyin.com/hot/2494766",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时26分"
         },
         {
           "title": "美国总统特朗普宣称：伊朗一直在与美国和全世界“耍花招”。 伊朗将再也笑不出来。",
@@ -92,26 +105,15 @@
           "time_info": "[02时50分 ~ 06时39分]"
         },
         {
-          "title": "伊朗知情人士：特朗普不满意反而更好",
-          "url": "https://news.ifeng.com/c/8t246befcan",
-          "source": "凤凰网",
+          "title": "中方官宣特朗普访华日期",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354165&amp;topic_name=%E4%B8%AD%E6%96%B9%E5%AE%98%E5%AE%A3%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%97%A5%E6%9C%9F",
+          "source": "贴吧",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "美国总统特朗普将于 5 月 13 日至 15 日访华，有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2037095315845664890",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时26分"
+          "time_info": "14时32分"
         },
         {
           "title": "特朗普拒绝伊朗和平方案：完全不可接受！",
@@ -123,6 +125,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
+        },
+        {
+          "title": "【特朗普：期待访华之旅 一定会非常精彩】中国外交部5月11日宣布，美国总统特朗普将于5月13日至15日对中国进行国事访问。5月10日播出的采访中，特朗普表示很期待访问中国，相信此次访华之旅将会很精彩。 (澎湃新闻)",
+          "url": "https://wallstreetcn.com/livenews/3101400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
         },
         {
           "title": "特朗普不喜欢伊朗的回应，称：“完全不可接受”",
@@ -206,6 +219,18 @@
           "time_info": "[04时40分 ~ 06时39分]"
         },
         {
+          "title": "中方宣布特朗普访华日期",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%AE%A3%E5%B8%83%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%97%A5%E6%9C%9F%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时26分 ~ 14时32分]"
+        },
+        {
           "title": "特朗普：联邦机构必须优先采购美国货",
           "url": "https://wallstreetcn.com/livenews/3101161",
           "source": "华尔街见闻-快讯",
@@ -217,6 +242,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时41分 ~ 07时43分]"
+        },
+        {
+          "title": "美国总统特朗普将对中国进行国事访问",
+          "url": "https://wallstreetcn.com/articles/3771944",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时26分 ~ 14时32分]"
+        },
+        {
+          "title": "美国总统特朗普将对中国进行国事访问",
+          "url": "https://www.cls.cn/detail/2367458",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时26分 ~ 14时32分]"
         },
         {
           "title": "据以色列第i24频道：以色列总理内塔尼亚胡离开在死海举行的德鲁兹派与切尔克斯派地方领导人会议，他向与会者表示，必须赶回耶路撒冷接听美国总统特朗普的紧急来电。",
@@ -281,6 +330,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时44分 ~ 02时50分]"
+        },
+        {
+          "title": "伊朗回应“提议30天内撤销石油制裁”，特朗普称“完全不可接受”，内塔尼亚胡“美以对伊朗的军事行动尚未结束”",
+          "url": "https://wallstreetcn.com/articles/3771940",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时26分 ~ 14时32分]"
         },
         {
           "title": "特朗普斥伊朗“玩弄美国47年” 称不再容忍",
@@ -367,6 +428,18 @@
           "time_info": "[05时41分 ~ 06时39分]"
         },
         {
+          "title": "美国总统特朗普将于5月13日至15日访华",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33154395",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时26分 ~ 14时32分]"
+        },
+        {
           "title": "特朗普下令所有联邦机构必须“买美国货”：毫无例外！",
           "url": "https://flash.jin10.com/detail/20260511024738690800",
           "source": "金十数据",
@@ -379,48 +452,15 @@
           "time_info": "[03时54分 ~ 04时40分]"
         },
         {
-          "title": "美国总统特朗普将对中国进行国事访问",
-          "url": "https://wallstreetcn.com/articles/3771944",
-          "source": "华尔街见闻",
+          "title": "嘴仗还没完！“是的，我特朗普，比教皇更懂圣经”",
+          "url": "https://news.ifeng.com/c/8t25hVF16bh",
+          "source": "凤凰网",
           "ranks": [
-            8
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "伊朗回应“提议30天内撤销石油制裁”，特朗普称“完全不可接受”，内塔尼亚胡“美以对伊朗的军事行动尚未结束”",
-          "url": "https://wallstreetcn.com/articles/3771940",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "美国总统特朗普将于5月13日至15日访华",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33154395",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "美国总统特朗普将对中国进行国事访问",
-          "url": "https://www.cls.cn/detail/2367458",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时26分"
+          "time_info": "14时32分"
         },
         {
           "title": "美国总统特朗普在社交媒体上发帖批评最高法院大法官关税裁决让美国损失了1590亿美元、出生公民权裁决危害国家安全。",
@@ -451,7 +491,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         },
@@ -467,13 +507,24 @@
           "time_info": "07时43分"
         },
         {
+          "title": "特朗普：期待访华之旅，一定会非常精彩",
+          "url": "https://flash.jin10.com/detail/20260511141752848800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
           "title": "美国总统特朗普将对中国进行国事访问",
           "url": "https://wallstreetcn.com/livenews/3101245",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         },
@@ -505,8 +556,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 10时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时44分 ~ 14时32分]"
         },
         {
           "title": "伊朗战争丨美国商船遭伊朗无人机袭击",
@@ -569,9 +620,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
+        },
+        {
+          "title": "【早报】伊朗回应美国所提结束战争方案，美称“完全不可接受”；全球芯片LOF、中韩半导体ETF华泰柏瑞停牌1小时",
+          "url": "https://www.cls.cn/detail/2367370",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时43分 ~ 14时32分]"
         },
         {
           "title": "伊朗媒体Tasnim：据知情人士透露，华尔街日报有关德黑兰向美国做出回应的报道“大部分失实”。 此前，华尔街日报报道称，伊朗在回应美国关于结束这场为期10周战争的最新提议时，表示愿意将其储备的部分高浓缩铀转移至第三国，但拒绝了拆除其核设施的提议。",
@@ -656,18 +719,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时54分 ~ 07时43分]"
-        },
-        {
-          "title": "【早报】伊朗回应美国所提结束战争方案，美称“完全不可接受”；全球芯片LOF、中韩半导体ETF华泰柏瑞停牌1小时",
-          "url": "https://www.cls.cn/detail/2367370",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时43分 ~ 10时26分]"
         },
         {
           "title": "据以色列i24新闻台：伊朗已提交长达数页的回应，但未满足美国关于核计划及浓缩铀库存承诺要求。",
@@ -856,7 +907,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         },
@@ -878,7 +929,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         },
@@ -911,7 +962,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         },
@@ -936,6 +987,80 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "中韩半导体ETF华泰柏瑞、全球芯片LOF明日停牌一小时",
+          "url": "https://www.cls.cn/detail/2367295",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时43分 ~ 14时32分]"
+        },
+        {
+          "title": "海力士的奖金，半导体的周期",
+          "url": "https://wallstreetcn.com/articles/3771949",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
+          "title": "台湾一季度GDP增13.69%，岛内企业家：半导体独强",
+          "url": "https://news.ifeng.com/c/8t2C2FzVufk",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
+          "title": "恒指低开0.31%，报26310.87点；恒生科技指数跌0.48%。芯片股逆市走高，华虹半导体涨5.5%，中芯国际涨3.1%。百度跌3.8%，腾讯音乐、网易跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3101251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "港股光通信股多数上涨，华虹半导体(01347.HK)涨超5%，剑桥科技(06166.HK)涨超3%，长飞光纤光缆(06869.HK)涨近3%。",
+          "url": "https://flash.jin10.com/detail/20260511095728923800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "上交所：景顺长城全球半导体芯片产业股票型证券投资基金（QDII-LOF）临时停牌。",
+          "url": "https://wallstreetcn.com/livenews/3101361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
         }
       ]
     },
@@ -985,7 +1110,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         }
@@ -1002,7 +1127,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         },
@@ -1013,7 +1138,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         },
@@ -1024,7 +1149,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         },
@@ -1035,47 +1160,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "中韩半导体ETF华泰柏瑞、全球芯片LOF明日停牌一小时",
-          "url": "https://www.cls.cn/detail/2367295",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时43分 ~ 10时26分]"
-        },
-        {
-          "title": "恒指低开0.31%，报26310.87点；恒生科技指数跌0.48%。芯片股逆市走高，华虹半导体涨5.5%，中芯国际涨3.1%。百度跌3.8%，腾讯音乐、网易跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3101251",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "港股光通信股多数上涨，华虹半导体(01347.HK)涨超5%，剑桥科技(06166.HK)涨超3%，长飞光纤光缆(06869.HK)涨近3%。",
-          "url": "https://flash.jin10.com/detail/20260511095728923800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "10时26分"
         }
@@ -1112,6 +1197,23 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "市场分析：美伊冲突陷入僵局 金价区间波动格局获或将持续",
+          "url": "https://flash.jin10.com/detail/20260511142149163800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 1,
       "titles": [
@@ -1143,7 +1245,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         }
