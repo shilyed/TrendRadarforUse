@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T10:27:14.290047+08:00",
-  "total_titles_processed": 829,
+  "generated_at": "2026-05-13T14:29:15.319516+08:00",
+  "total_titles_processed": 1023,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 59,
       "titles": [
         {
           "title": "特朗普访华",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 10时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 14时29分]"
         },
         {
           "title": "马斯克库克随特朗普访华",
@@ -59,6 +59,18 @@
           "time_info": "[00时23分 ~ 07时54分]"
         },
         {
+          "title": "【早报】马斯克、库克等将随特朗普访华；国内航线燃油附加费将上调",
+          "url": "https://www.cls.cn/detail/2369623",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时53分 ~ 14时29分]"
+        },
+        {
           "title": "特朗普访华有哪些重要议题",
           "url": "https://www.toutiao.com/trending/7638916562564792363/",
           "source": "今日头条",
@@ -70,16 +82,15 @@
           "time_info": "[00时23分 ~ 06时07分]"
         },
         {
-          "title": "【早报】马斯克、库克等将随特朗普访华；国内航线燃油附加费将上调",
-          "url": "https://www.cls.cn/detail/2369623",
-          "source": "财联社热门",
+          "title": "特朗普启程访华",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%AF%E7%A8%8B%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
           "ranks": [
-            4,
             1
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[07时53分 ~ 10时27分]"
+          "time_info": "[10时26分 ~ 14时29分]"
         },
         {
           "title": "美国总统特朗普：非常期待中国之行",
@@ -104,15 +115,15 @@
           "time_info": "[00时23分 ~ 07时54分]"
         },
         {
-          "title": "特朗普启程访华",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%AF%E7%A8%8B%E8%AE%BF%E5%8D%8E",
-          "source": "百度热搜",
+          "title": "特朗普启程访华，如何理解时隔近十年中美又一次元首会晤的特殊性？",
+          "url": "https://www.zhihu.com/question/2037099280243102645",
+          "source": "知乎",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时26分 ~ 10时27分]"
+          "time_info": "[14时28分 ~ 14时29分]"
         },
         {
           "title": "特朗普访华期间是否会讨论台湾和香港有关问题？外交部回应",
@@ -137,6 +148,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时26分 ~ 10时27分]"
+        },
+        {
+          "title": "特朗普期待与中方会晤",
+          "url": "https://www.toutiao.com/trending/7638420198126829594/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 14时29分]"
         },
         {
           "title": "特朗普启程访华",
@@ -195,6 +217,19 @@
           "time_info": "[10时26分 ~ 10时27分]"
         },
         {
+          "title": "外交部介绍特朗普访华具体安排",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BB%8B%E7%BB%8D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%85%B7%E4%BD%93%E5%AE%89%E6%8E%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            27,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时53分 ~ 14时29分]"
+        },
+        {
           "title": "克里姆林宫发言人佩斯科夫：特朗普访问俄罗斯一事目前不在议程之中。",
           "url": "https://flash.jin10.com/detail/20260513051805781800",
           "source": "金十数据",
@@ -230,16 +265,16 @@
           "time_info": "[04时54分 ~ 06时07分]"
         },
         {
-          "title": "外交部介绍特朗普访华具体安排",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BB%8B%E7%BB%8D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%85%B7%E4%BD%93%E5%AE%89%E6%8E%92",
-          "source": "bilibili 热搜",
+          "title": "16位美国商界领袖随特朗普访华",
+          "url": "https://www.baidu.com/s?wd=16%E4%BD%8D%E7%BE%8E%E5%9B%BD%E5%95%86%E7%95%8C%E9%A2%86%E8%A2%96%E9%9A%8F%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
           "ranks": [
-            24,
-            27
+            11,
+            28
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[07时53分 ~ 10时27分]"
+          "time_info": "[10时26分 ~ 14时29分]"
         },
         {
           "title": "白宫经济顾问哈塞特：（在美国CPI通胀报告发布当天宣称）这是一场暂时性的能源冲击。 美国总统特朗普相信，很快就能开放霍尔木兹海峡。 我们正尽可能迅速地释放战略石油储备（SPR）。 特朗普认为，我们应该推进汽油税的现代化。（福克斯商业新闻）",
@@ -265,6 +300,17 @@
           "time_info": "[00时23分 ~ 03时06分]"
         },
         {
+          "title": "美国海军将建造史上最贵军舰：核动力“特朗普”级战列舰",
+          "url": "https://news.ifeng.com/c/8t5mv472h4W",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 14时29分]"
+        },
+        {
           "title": "库克、马斯克等人进入陪同特朗普访华名单，黄仁勋未在列，如何看待这份名单？",
           "url": "https://www.zhihu.com/question/2037484197183321093",
           "source": "知乎",
@@ -276,15 +322,59 @@
           "time_info": "[10时26分 ~ 10时27分]"
         },
         {
-          "title": "16位美国商界领袖随特朗普访华",
-          "url": "https://www.baidu.com/s?wd=16%E4%BD%8D%E7%BE%8E%E5%9B%BD%E5%95%86%E7%95%8C%E9%A2%86%E8%A2%96%E9%9A%8F%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E",
+          "title": "特朗普多次表达再次访华意愿",
+          "url": "https://www.toutiao.com/trending/7638097037573148166/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 14时29分]"
+        },
+        {
+          "title": "特朗普来了 中美关系能否一锤定音",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%9D%A5%E4%BA%86+%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E8%83%BD%E5%90%A6%E4%B8%80%E9%94%A4%E5%AE%9A%E9%9F%B3",
           "source": "百度热搜",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时26分 ~ 10时27分]"
+          "time_info": "[14时28分 ~ 14时29分]"
+        },
+        {
+          "title": "特朗普访华随行人员名单",
+          "url": "https://www.douyin.com/hot/2496992",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 14时29分]"
+        },
+        {
+          "title": "黄仁勋最后一刻登上特朗普访华专机",
+          "url": "https://www.toutiao.com/trending/7639232661902446106/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 14时29分]"
+        },
+        {
+          "title": "外媒：黄仁勋陪同特朗普访华",
+          "url": "https://www.douyin.com/hot/2497188",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 14时29分]"
         },
         {
           "title": "特朗普启程",
@@ -307,6 +397,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
+        },
+        {
+          "title": "最后一刻，黄仁勋背着包，“在空军一号于阿拉斯加经停加油期间登机”，随特朗普访华！知情人：特朗普在看到报道其缺席代表团后，致电邀请",
+          "url": "https://wallstreetcn.com/livenews/3102766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         },
         {
           "title": "美国总统特朗普：与伊朗谈判时，我并不考虑美国民众的财务状况，我不考虑任何人。",
@@ -414,7 +515,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -529,6 +630,17 @@
           "time_info": "03时06分"
         },
         {
+          "title": "特朗普空中发文：能够与众多的杰出人士一同前往伟大的中国 是我的荣幸",
+          "url": "https://wallstreetcn.com/livenews/3102741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
           "title": "美国总统特朗普：北约令我失望，我们不需要它的帮助。",
           "url": "https://flash.jin10.com/detail/20260513020427789800",
           "source": "金十数据",
@@ -549,13 +661,48 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        },
+        {
+          "title": "特朗普空中发文：能够与众多的杰出人士一同前往伟大的中国，是我的荣幸；黄仁勋未受邀是“假新闻”，此刻他与我同乘“空军一号”",
+          "url": "https://flash.jin10.com/detail/20260513134830887800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "美国通胀升温、美伊僵局持续，美股承压，芯片股拖累纳指，美油盘中涨近5%",
+          "url": "https://wallstreetcn.com/articles/3772040",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时53分 ~ 14时29分]"
+        },
+        {
+          "title": "美股收盘： 通胀升温及伊朗局势施压市场 芯片股普遍回调 三大股指涨跌不一",
+          "url": "https://www.cls.cn/detail/2369590",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时53分 ~ 14时29分]"
+        },
         {
           "title": "美伊局势僵持，美股原油齐涨，标普纳指再新高，光通信股集体大涨，白银暴涨7%",
           "url": "https://wallstreetcn.com/articles/3771942",
@@ -567,18 +714,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时23分 ~ 06时07分]"
-        },
-        {
-          "title": "美国通胀升温、美伊僵局持续，美股承压，芯片股拖累纳指，美油盘中涨近5%",
-          "url": "https://wallstreetcn.com/articles/3772040",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时53分 ~ 10时27分]"
         },
         {
           "title": "美国通胀超预期，美股低开，科技股普跌，英伟达股价续创新高，美伊僵局致布油涨3%",
@@ -593,18 +728,6 @@
           "time_info": "[00时23分 ~ 04时54分]"
         },
         {
-          "title": "美股收盘： 通胀升温及伊朗局势施压市场 芯片股普遍回调 三大股指涨跌不一",
-          "url": "https://www.cls.cn/detail/2369590",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时53分 ~ 10时27分]"
-        },
-        {
           "title": "美股半导体指数跌超4%，高通重挫12%，英特尔大跌9.1%",
           "url": "https://wallstreetcn.com/articles/3772105",
           "source": "华尔街见闻",
@@ -613,8 +736,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时53分 ~ 10时27分]"
+          "appearance_count": 6,
+          "time_info": "[07时53分 ~ 14时29分]"
         },
         {
           "title": "“大空头”：美股或将崩盘，科技股飙升重现2000年泡沫",
@@ -651,6 +774,29 @@
           "time_info": "[04时54分 ~ 06时07分]"
         },
         {
+          "title": "5月13日投资避雷针：美股光通信、芯片板块回调 英特尔、闪迪跌超6%",
+          "url": "https://www.cls.cn/detail/2369664",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时26分 ~ 14时29分]"
+        },
+        {
+          "title": "投资者在担心什么？美股芯片板块集体回调 市场静待英伟达财报定方向",
+          "url": "https://www.cls.cn/detail/2369669",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 14时29分]"
+        },
+        {
           "title": "周二（5月12日），美股行业ETF涨跌各异，半导体ETF收跌2.61%，全球科技股指数ETF跌2.17%，科技行业ETF跌1.51%，能源业ETF涨0.70%，医疗业ETF涨1.96%。",
           "url": "https://wallstreetcn.com/livenews/3102498",
           "source": "华尔街见闻-快讯",
@@ -661,17 +807,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时54分 ~ 06时07分]"
-        },
-        {
-          "title": "5月13日投资避雷针：美股光通信、芯片板块回调 英特尔、闪迪跌超6%",
-          "url": "https://www.cls.cn/detail/2369664",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时26分 ~ 10时27分]"
         },
         {
           "title": "美股",
@@ -724,7 +859,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -808,6 +943,91 @@
       ]
     },
     {
+      "keyword_group": "半导体",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "【焦点复盘】沪指缩量调整跌0.25%，全市场超4000股飘绿，半导体设备股强者恒强",
+          "url": "https://www.cls.cn/detail/2369163",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 07时54分]"
+        },
+        {
+          "title": "功率半导体密集涨价！AI数据中心成最大推手 业内预计供需紧张短期难解",
+          "url": "https://www.cls.cn/detail/2369925",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 14时29分]"
+        },
+        {
+          "title": "恒生科技指数日内跌1%，华虹半导体跌超6%，中芯国际跌近5%。",
+          "url": "https://wallstreetcn.com/livenews/3102642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "创业板指跌超1%，科创50跌超2.5%，沪指跌0.26%，深成指跌0.55%，半导体、保险、券商、房地产等板块跌幅居前，沪深京三市下跌个股近3000只。",
+          "url": "https://wallstreetcn.com/livenews/3102641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "标普500指数初步收跌0.1%，科技板块跌1%，可选消费板块跌0.9%，能源板块涨0.9%，日用品板块涨1.6%，保健板块涨2%。 纳斯达克100指数初步收跌0.9%，成分股中，高通初步收跌11.3%，英特尔跌6.8%，Strategy、闪迪、西部数据、恩智浦至少跌超4%，路透跌2.5%，ISRG涨2.6%，AppLovin涨2.8%，德康医疗涨3.1%，Insmed涨12.1%。 联合健康初步收涨3.1%，沃尔玛涨2.3%，安进涨2%，领跑道指成分股，微软、亚马逊、卡特彼勒、IBM则跌超1%，Salesforce跌3.6%。 费城半导体指数跌3%，纳斯达克生物科技指数涨1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3102490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "港股芯片股震荡走低，上海复旦(01385.HK)、华虹半导体(01347.HK)跌超5%，中芯国际(00981.HK)、长光辰芯(03277.HK)跌超4%，兆易创新(03986.HK)跌超3%。",
+          "url": "https://flash.jin10.com/detail/20260513095817590800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "恒指高开0.08%，报26369.99点；恒生科技指数跌0.3%。京东集团、京东健康涨超3%，此前京东发布财报。中芯国际跌近3%，华虹半导体跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3102601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
       "match_count": 6,
       "titles": [
@@ -881,82 +1101,8 @@
       ]
     },
     {
-      "keyword_group": "半导体",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "【焦点复盘】沪指缩量调整跌0.25%，全市场超4000股飘绿，半导体设备股强者恒强",
-          "url": "https://www.cls.cn/detail/2369163",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 07时54分]"
-        },
-        {
-          "title": "恒生科技指数日内跌1%，华虹半导体跌超6%，中芯国际跌近5%。",
-          "url": "https://wallstreetcn.com/livenews/3102642",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "创业板指跌超1%，科创50跌超2.5%，沪指跌0.26%，深成指跌0.55%，半导体、保险、券商、房地产等板块跌幅居前，沪深京三市下跌个股近3000只。",
-          "url": "https://wallstreetcn.com/livenews/3102641",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "标普500指数初步收跌0.1%，科技板块跌1%，可选消费板块跌0.9%，能源板块涨0.9%，日用品板块涨1.6%，保健板块涨2%。 纳斯达克100指数初步收跌0.9%，成分股中，高通初步收跌11.3%，英特尔跌6.8%，Strategy、闪迪、西部数据、恩智浦至少跌超4%，路透跌2.5%，ISRG涨2.6%，AppLovin涨2.8%，德康医疗涨3.1%，Insmed涨12.1%。 联合健康初步收涨3.1%，沃尔玛涨2.3%，安进涨2%，领跑道指成分股，微软、亚马逊、卡特彼勒、IBM则跌超1%，Salesforce跌3.6%。 费城半导体指数跌3%，纳斯达克生物科技指数涨1.1%。",
-          "url": "https://wallstreetcn.com/livenews/3102490",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时54分"
-        },
-        {
-          "title": "港股芯片股震荡走低，上海复旦(01385.HK)、华虹半导体(01347.HK)跌超5%，中芯国际(00981.HK)、长光辰芯(03277.HK)跌超4%，兆易创新(03986.HK)跌超3%。",
-          "url": "https://flash.jin10.com/detail/20260513095817590800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "恒指高开0.08%，报26369.99点；恒生科技指数跌0.3%。京东集团、京东健康涨超3%，此前京东发布财报。中芯国际跌近3%，华虹半导体跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3102601",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        }
-      ]
-    },
-    {
       "keyword_group": "白银",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "上海黄金交易所黄金T+D 5月12日（周二）晚盘收盘下跌0.73%报1025.9元/克；<br/>上海黄金交易所白银T+D 5月12日（周二）晚盘收盘下跌0.28%报20912.0元/千克。",
@@ -974,11 +1120,12 @@
           "url": "https://www.cls.cn/detail/2369615",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时26分 ~ 10时27分]"
+          "appearance_count": 4,
+          "time_info": "[10时26分 ~ 14时29分]"
         },
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加33.78吨，当前持仓量为15118.67吨。欢迎点击查看数据中心",
@@ -1012,6 +1159,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
+        },
+        {
+          "title": "现货白银日内跌幅扩大至1%，报85.64美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3102731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         }
       ]
     },
@@ -1094,25 +1252,8 @@
       ]
     },
     {
-      "keyword_group": "有色",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "A股有色板块震荡走强，华达新材、罗平锌电双双涨停，北方铜业涨超6%，翔鹭钨业、盛屯矿业、金钼股份跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3102630",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        }
-      ]
-    },
-    {
       "keyword_group": "存储芯片",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "存储芯片股重挫",
@@ -1124,6 +1265,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时53分 ~ 07时54分]"
+        },
+        {
+          "title": "A股存储芯片午后持续走强，大族激光、德明利、博敏电子、雅克科技、圣泉集团、万润科技、三孚股份涨停，晶盛机电涨超10%，晶升股份、胜科纳米、永安行、恒坤新材、壹石通跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3102739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "有色",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股有色板块震荡走强，华达新材、罗平锌电双双涨停，北方铜业涨超6%，翔鹭钨业、盛屯矿业、金钼股份跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3102630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
         }
       ]
     }
