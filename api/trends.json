@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-16T21:03:19.291247+08:00",
-  "total_titles_processed": 1322,
+  "generated_at": "2026-05-16T22:49:19.033405+08:00",
+  "total_titles_processed": 1420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 73,
       "titles": [
         {
           "title": "习近平同美国总统特朗普在中南海小范围会晤",
@@ -201,11 +201,12 @@
             11,
             14,
             13,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时26分 ~ 21时03分]"
+          "appearance_count": 17,
+          "time_info": "[01时26分 ~ 22时49分]"
         },
         {
           "title": "特朗普在空军一号受访，释放大量信号",
@@ -232,6 +233,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时26分 ~ 07时48分]"
+        },
+        {
+          "title": "听到特朗普这句话，台湾当局该醒了",
+          "url": "https://news.ifeng.com/c/8tB1vsSsITh",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时56分 ~ 22时49分]"
         },
         {
           "title": "特朗普结束访华 登空军一号挥手告别",
@@ -270,18 +283,6 @@
           "time_info": "[01时26分 ~ 04时54分]"
         },
         {
-          "title": "听到特朗普这句话，台湾当局该醒了",
-          "url": "https://news.ifeng.com/c/8tB1vsSsITh",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时56分 ~ 21时03分]"
-        },
-        {
           "title": "为什么特朗普访华晚宴上有字节梁汝波，但没有腾讯阿里高管？",
           "url": "https://www.zhihu.com/question/2038603109828486376",
           "source": "知乎",
@@ -318,6 +319,21 @@
           "time_info": "[01时26分 ~ 07时48分]"
         },
         {
+          "title": "特朗普抵达美国现场画面",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E7%BE%8E%E5%9B%BD%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            14,
+            13,
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时47分 ~ 22时49分]"
+        },
+        {
           "title": "特朗普与高市早苗通电话，讨论访华细节",
           "url": "https://news.ifeng.com/c/8tALgMrD7Pg",
           "source": "凤凰网",
@@ -343,18 +359,17 @@
           "time_info": "[10时09分 ~ 21时03分]"
         },
         {
-          "title": "特朗普抵达美国现场画面",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E7%BE%8E%E5%9B%BD%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
+          "title": "特朗普谈中国行：巨大成功 非常精彩",
+          "url": "https://www.toutiao.com/trending/7639309598792663066/",
+          "source": "今日头条",
           "ranks": [
-            11,
-            14,
+            12,
             13,
             15
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[13时47分 ~ 21时03分]"
+          "time_info": "[15时52分 ~ 22时49分]"
         },
         {
           "title": "特朗普结束访华 乘专机离开北京",
@@ -374,21 +389,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
         },
         {
-          "title": "特朗普谈中国行：巨大成功 非常精彩",
-          "url": "https://www.toutiao.com/trending/7639309598792663066/",
-          "source": "今日头条",
+          "title": "特朗普：不希望看到台湾有人闹“独立”",
+          "url": "https://news.ifeng.com/c/8tBHQ0gcJR0",
+          "source": "凤凰网",
           "ranks": [
-            12,
-            13
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时52分 ~ 21时03分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "特朗普松口：可接受伊朗暂停核计划20年",
@@ -414,6 +428,17 @@
           "time_info": "10时09分"
         },
         {
+          "title": "“不考虑美国人经济状况”，特朗普：完美的表态，我可以再说一遍",
+          "url": "https://news.ifeng.com/c/8tAvchdzOd1",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时56分 ~ 22时49分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗惧怕（与美方）达成一份协议。 伊朗不知道该如何达成一份协议。 伊朗战争很快就会结束。",
           "url": "https://wallstreetcn.com/livenews/3104664",
           "source": "华尔街见闻-快讯",
@@ -426,15 +451,17 @@
           "time_info": "[06时46分 ~ 07时48分]"
         },
         {
-          "title": "“不考虑美国人经济状况”，特朗普：完美的表态，我可以再说一遍",
-          "url": "https://news.ifeng.com/c/8tAvchdzOd1",
-          "source": "凤凰网",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-16）",
+          "url": "https://flash.jin10.com/detail/20260516185024363800",
+          "source": "金十数据",
           "ranks": [
-            8
+            4,
+            11,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时56分 ~ 21时03分]"
+          "appearance_count": 3,
+          "time_info": "[19时45分 ~ 22时49分]"
         },
         {
           "title": "美国总统特朗普称赞股市。",
@@ -449,18 +476,6 @@
           "time_info": "[06时46分 ~ 07时48分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-16）",
-          "url": "https://flash.jin10.com/detail/20260516185024363800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时45分 ~ 21时03分]"
-        },
-        {
           "title": "美国总统特朗普：汽油价格（上涨）将是短期性的阵痛。",
           "url": "https://wallstreetcn.com/livenews/3104661",
           "source": "华尔街见闻-快讯",
@@ -471,6 +486,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时46分 ~ 07时48分]"
+        },
+        {
+          "title": "特朗普回国后谈中国行",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%9B%BD%E5%90%8E%E8%B0%88%E4%B8%AD%E5%9B%BD%E8%A1%8C%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时52分 ~ 22时49分]"
         },
         {
           "title": "伊朗战争致全球供应受阻 特朗普借机加速阿拉斯加产能",
@@ -534,18 +562,6 @@
           "time_info": "[13时47分 ~ 17时24分]"
         },
         {
-          "title": "特朗普回国后谈中国行",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%9B%BD%E5%90%8E%E8%B0%88%E4%B8%AD%E5%9B%BD%E8%A1%8C%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时52分 ~ 21时03分]"
-        },
-        {
           "title": "美国总统特朗普：伊朗没有底牌。",
           "url": "https://wallstreetcn.com/livenews/3104657",
           "source": "华尔街见闻-快讯",
@@ -582,6 +598,18 @@
           "time_info": "[06时46分 ~ 07时48分]"
         },
         {
+          "title": "特朗普在「空军一号」接受采访，释放大量关于贸易、台湾、伊朗等议题信号，哪些内容值得关注？",
+          "url": "https://www.zhihu.com/question/2039019083463488463",
+          "source": "知乎",
+          "ranks": [
+            16,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 22时49分]"
+        },
+        {
           "title": "美国总统特朗普：预计到我任期结束时，美国将拥有（全球）芯片业务的40%-50%。",
           "url": "https://wallstreetcn.com/livenews/3104653",
           "source": "华尔街见闻-快讯",
@@ -604,6 +632,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时09分 ~ 13时47分]"
+        },
+        {
+          "title": "特朗普警告台湾不要试图走向“独立”",
+          "url": "https://www.toutiao.com/trending/7640462139869630015/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 22时49分]"
         },
         {
           "title": "美国总统特朗普与日本首相高市早苗就同盟关系进行通话",
@@ -653,6 +692,28 @@
           "time_info": "03时20分"
         },
         {
+          "title": "美国总统特朗普：马里兰州刚刚曝光了50万张假邮寄选票。作为一个国家，我们不能再容忍下去了！选民身份验证和公民身份证明现在必须得到批准，不正当的邮寄投票必须被制止！",
+          "url": "https://flash.jin10.com/detail/20260516214439239800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "美国总统特朗普：《拯救美国法案》现在就必须通过，要利用住房法案和《外国情报监控法》来推动它。",
+          "url": "https://flash.jin10.com/detail/20260516214353885800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "【以军：以色列正在为重启对伊朗军事行动做准备】当地时间15日晚，总台记者获悉，一位以色列高级官员称，以色列正在为即将重启针对伊朗的军事行动做准备，军事行动可能将“持续数天甚至数周”。这位官员表示：“美国人明白与伊朗的谈判毫无进展”。他补充道：“我们正在为持续数天甚至数周的战斗做准备，并等待特朗普总统的最终决定。未来24小时内我们将了解更多情况”。（央视）",
           "url": "https://wallstreetcn.com/livenews/3104587",
           "source": "华尔街见闻-快讯",
@@ -664,15 +725,15 @@
           "time_info": "03时20分"
         },
         {
-          "title": "特朗普警告台湾不要试图走向“独立”",
-          "url": "https://www.toutiao.com/trending/7640462139869630015/",
-          "source": "今日头条",
+          "title": "特朗普警告台独",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E5%8F%B0%E7%8B%AC%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
           "ranks": [
-            12
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时03分"
+          "time_info": "22时49分"
         },
         {
           "title": "默茨与特朗普通电话，似有意修补德美关系",
@@ -728,17 +789,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
-        },
-        {
-          "title": "特朗普在「空军一号」接受采访，释放大量关于贸易、台湾、伊朗等议题信号，哪些内容值得关注？",
-          "url": "https://www.zhihu.com/question/2039019083463488463",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时03分"
         },
         {
           "title": "墨西哥总统：我与特朗普总统进行了一次亲切且极好的交谈，我们重申了在安全领域以及贸易对话方面正在开展的工作。我们商定再次通话，并继续与他的几位即将于近期访问我国的合作者进行对话。",
@@ -839,11 +889,12 @@
           "url": "https://wallstreetcn.com/articles/3772341",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时47分 ~ 21时03分]"
+          "appearance_count": 11,
+          "time_info": "[07时47分 ~ 22时49分]"
         },
         {
           "title": "全球长债收益率飙升，美股走低，纳指跌2%，英伟达跌4%，白银大跌9%，黄金跌3%",
@@ -1065,7 +1116,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "标普纳指又新高，思科飙涨13%创新高，英国政局致英镑暴跌，白银重挫",
@@ -1077,6 +1128,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时26分 ~ 06时46分]"
+        },
+        {
+          "title": "印度外贸总局：修改白银进口政策，将白银条的进口政策修改为“限制”类。",
+          "url": "https://wallstreetcn.com/livenews/3104808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "13F报告显示：Citadel Advisors LLC.一季度建仓阿斯利康、iShares白银信托等，增持美光、Meta、华纳兄弟探索等。 清仓以色列Teva等，减持亚马逊、Visa、英伟达等。 重仓英伟达、亚马逊、美光。",
@@ -1161,7 +1223,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美国已拒绝伊朗就结束战争提出的书面方案",
@@ -1185,8 +1247,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时56分 ~ 21时03分]"
+          "appearance_count": 5,
+          "time_info": "[18时56分 ~ 22时49分]"
         },
         {
           "title": "美国已拒绝伊朗就结束战争提出的书面方案",
@@ -1218,11 +1280,23 @@
           "ranks": [
             1,
             11,
-            12
+            12,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时57分 ~ 21时03分]"
+          "appearance_count": 4,
+          "time_info": "[18时57分 ~ 22时49分]"
+        },
+        {
+          "title": "美国中央司令部：在执行对伊朗海上封锁行动期间，美国陆军一架直升机飞越霍尔木兹海峡附近区域水域，对商船进行观察。",
+          "url": "https://flash.jin10.com/detail/20260516215320888800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "巴基斯坦外长：20名被美国军方扣押的伊朗人已被送回国。",
@@ -1263,8 +1337,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时47分 ~ 21时03分]"
+          "appearance_count": 11,
+          "time_info": "[07时47分 ~ 22时49分]"
         },
         {
           "title": "黑色星期五！全球股债双杀：韩股暴跌6%，美债收益率飙升，这次市场在怕什么？",
@@ -1388,6 +1462,19 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
+          "url": "https://www.cls.cn/detail/2373131",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时47分 ~ 22时49分]"
+        },
+        {
           "title": "【焦点复盘】沪指日线2连阴失守10日均线，光通信概念遭深幅调整，半导体设备股逆势活跃",
           "url": "https://www.cls.cn/detail/2372575",
           "source": "财联社热门",
@@ -1400,19 +1487,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时26分 ~ 10时09分]"
-        },
-        {
-          "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
-          "url": "https://www.cls.cn/detail/2373131",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时47分 ~ 21时03分]"
         },
         {
           "title": "本周，标普累涨约0.3%，道指持平，纳指累涨约0.1%，半导体指数跌1%，科技股七巨头指数累涨1.2%，存储芯片指数累跌3%，AI赢家指数跌0.4%、软件先驱指数跌0.4%。 周五当天，标普500指数初步收跌1.2%，原材料板块跌2.7%，公用事业板块跌2.3%，可选消费板块跌1.9%，科技板块跌1.5%，能源板块涨2.1%。 纳斯达克100指数初步收跌1.5%，成分股中，Arm控股初步收跌7.8%，美光跌6.6%，英特尔跌6.2%，AMD跌5.6%，阿斯麦ADR跌5%，Strategy跌4.8%，特斯拉跌4.7%，Adobe则涨4.4%，汤森路透涨4.8%，Zscaler涨5%，Workday涨5.3%，德康医疗涨6.5%。 英伟达初步收跌超4.4%，波音跌3.8%，卡特彼勒跌3.5%，领跌道指成分股，雪佛龙、思科、微软、Salesforce至少涨超2%。 半导体指数跌4%，生物科技指数跌2.7%，银行指数跌0.7%。",
