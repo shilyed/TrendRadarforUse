@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-05-18T06:46:08.532519+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2026-05-18T07:52:16.916267+08:00",
+  "total_titles_processed": 585,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "岛内称特朗普警告“台独”重击赖当局",
+          "url": "https://www.toutiao.com/trending/7640276210946179115/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时48分 ~ 07时52分]"
+        },
         {
           "title": "特朗普刚结束访华，普京便宣布访华，为什么选在这个时间？背后可能有哪些深意？",
           "url": "https://www.zhihu.com/question/2039007666429583394",
@@ -16,19 +29,6 @@
             18,
             17,
             12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时48分 ~ 06时46分]"
-        },
-        {
-          "title": "岛内称特朗普警告“台独”重击赖当局",
-          "url": "https://www.toutiao.com/trending/7640276210946179115/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            15,
-            13
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -48,6 +48,31 @@
           "time_info": "[00时48分 ~ 05时46分]"
         },
         {
+          "title": "特朗普此次访华，会对资本市场产生哪些影响？哪些产业受影响更为显著？",
+          "url": "https://www.zhihu.com/question/2038636185115779503",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时57分 ~ 07时52分]"
+        },
+        {
+          "title": "美国总统特朗普在社媒上分享了一张人工智能生成的与外星人的合照。",
+          "url": "https://flash.jin10.com/detail/20260518074442462800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        },
+        {
           "title": "据AXIOS：两名美国官员透露，美国总统特朗普预计将于周二在战情室与他的高级国家安全团队举行会议，讨论（伊朗）军事行动的选项。",
           "url": "https://flash.jin10.com/detail/20260518011814397800",
           "source": "金十数据",
@@ -57,30 +82,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
-        },
-        {
-          "title": "特朗普称仍相信伊朗有意达成协议",
-          "url": "https://wallstreetcn.com/livenews/3104917",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "特朗普此次访华，会对资本市场产生哪些影响？哪些产业受影响更为显著？",
-          "url": "https://www.zhihu.com/question/2038636185115779503",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时57分 ~ 06时46分]"
         },
         {
           "title": "特朗普的格陵兰岛特使抵达当地首府努克",
@@ -94,6 +95,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时58分 ~ 05时46分]"
+        },
+        {
+          "title": "特朗普称：如果伊朗不迅速行动，“将一无所有”",
+          "url": "https://wallstreetcn.com/livenews/3104904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时46分 ~ 07时52分]"
         },
         {
           "title": "美国参议员格雷厄姆敦促特朗普恢复对伊朗的打击",
@@ -120,16 +134,29 @@
           "time_info": "[05时46分 ~ 06时46分]"
         },
         {
-          "title": "特朗普称：如果伊朗不迅速行动，“将一无所有”",
-          "url": "https://wallstreetcn.com/livenews/3104904",
+          "title": "特朗普称仍相信伊朗有意达成协议",
+          "url": "https://wallstreetcn.com/livenews/3104917",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            10
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时46分 ~ 06时46分]"
+          "time_info": "[06时46分 ~ 07时52分]"
+        },
+        {
+          "title": "以媒：内塔尼亚胡与特朗普通话，讨论重启对伊战事可能性",
+          "url": "https://wallstreetcn.com/livenews/3104905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时46分 ~ 07时52分]"
         },
         {
           "title": "据AXIOS网站：美国总统特朗普表示，他仍然认为伊朗希望达成协议，并表示他正在等待伊朗提出更新的方案，希望新方案能比几天前提出的方案更好。他拒绝给出与伊朗谈判的具体期限。",
@@ -142,18 +169,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时58分 ~ 04时03分]"
-        },
-        {
-          "title": "以媒：内塔尼亚胡与特朗普通话，讨论重启对伊战事可能性",
-          "url": "https://wallstreetcn.com/livenews/3104905",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时46分 ~ 06时46分]"
         },
         {
           "title": "美国总统特朗普的格陵兰岛特使兰德里抵达努克。",
@@ -197,7 +212,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
         },
@@ -233,6 +248,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
+        },
+        {
+          "title": "特朗普与内塔尼亚胡通话：讨论重启对伊朗军事打击！美以联合空袭风险骤增",
+          "url": "https://flash.jin10.com/detail/20260518064310354800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
         },
         {
           "title": "以媒：内塔尼亚胡与特朗普通话 讨论重启对伊战事可能性",
@@ -357,6 +383,122 @@
       ]
     },
     {
+      "keyword_group": "白银",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "白银价格“过山车”：强势七连涨后大跳水，何时重回巅峰？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33186880",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时48分 ~ 07时52分]"
+        },
+        {
+          "title": "现货黄金开跌0.2%，现货白银开盘快速跌1%。",
+          "url": "https://flash.jin10.com/detail/20260518060131657800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 07时52分]"
+        },
+        {
+          "title": "白银价格“过山车” 何时重回巅峰",
+          "url": "https://www.toutiao.com/trending/7640785693907619371/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 02时58分]"
+        },
+        {
+          "title": "金十图示：2026年05月18日（周一）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260518064413806800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        },
+        {
+          "title": "现货白银日内涨幅达1.00%，现报76.67美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260518063201642800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
+          "url": "https://www.cls.cn/detail/2373249",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时48分 ~ 07时52分]"
+        },
+        {
+          "title": "美股和金银开盘大跌，但美国 4 月工业数据超预期，纽约联储制造业指数创近 4 年新高，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2038737314017432936",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时45分 ~ 07时52分]"
+        },
+        {
+          "title": "美股股指期货周一小幅低开，其中道指期货跌0.3%。",
+          "url": "https://flash.jin10.com/detail/20260518060027813800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时46分"
+        },
+        {
+          "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
+          "url": "https://www.cls.cn/detail/2373172",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        }
+      ]
+    },
+    {
       "keyword_group": "半导体",
       "match_count": 4,
       "titles": [
@@ -369,19 +511,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时48分 ~ 06时46分]"
+          "appearance_count": 10,
+          "time_info": "[00时48分 ~ 07时52分]"
         },
         {
           "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
           "url": "https://www.cls.cn/detail/2373131",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时48分 ~ 06时46分]"
+          "appearance_count": 10,
+          "time_info": "[00时48分 ~ 07时52分]"
         },
         {
           "title": "中韩半导体ETF华泰柏瑞二级市场出现较大幅度溢价，将于2026年5月18日开市起至当日10:30停牌。",
@@ -409,86 +552,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
-          "url": "https://www.cls.cn/detail/2373249",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时48分 ~ 06时46分]"
-        },
-        {
-          "title": "美股和金银开盘大跌，但美国 4 月工业数据超预期，纽约联储制造业指数创近 4 年新高，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2038737314017432936",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时45分 ~ 06时46分]"
-        },
-        {
-          "title": "美股股指期货周一小幅低开，其中道指期货跌0.3%。",
-          "url": "https://flash.jin10.com/detail/20260518060027813800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "白银价格“过山车”：强势七连涨后大跳水，何时重回巅峰？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33186880",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时48分 ~ 06时46分]"
-        },
-        {
-          "title": "现货黄金开跌0.2%，现货白银开盘快速跌1%。",
-          "url": "https://flash.jin10.com/detail/20260518060131657800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "白银价格“过山车” 何时重回巅峰",
-          "url": "https://www.toutiao.com/trending/7640785693907619371/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 02时58分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -500,8 +563,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时48分 ~ 06时46分]"
+          "appearance_count": 10,
+          "time_info": "[00时48分 ~ 07时52分]"
         },
         {
           "title": "抛美债、买日债--华尔街准备应对“日资回流”",
@@ -511,8 +574,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时45分 ~ 06时46分]"
+          "appearance_count": 3,
+          "time_info": "[06时45分 ~ 07时52分]"
         }
       ]
     }
