@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-18T10:35:12.242280+08:00",
-  "total_titles_processed": 753,
+  "generated_at": "2026-05-18T14:49:08.348417+08:00",
+  "total_titles_processed": 949,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "岛内称特朗普警告“台独”重击赖当局",
@@ -22,6 +22,17 @@
           "time_info": "[00时48分 ~ 10时35分]"
         },
         {
+          "title": "特朗普威胁伊朗，又开始倒计时了",
+          "url": "https://news.ifeng.com/c/8tDfE3dOA2C",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时34分 ~ 14时49分]"
+        },
+        {
           "title": "特朗普刚结束访华，普京便宣布访华，为什么选在这个时间？背后可能有哪些深意？",
           "url": "https://www.zhihu.com/question/2039007666429583394",
           "source": "知乎",
@@ -36,15 +47,28 @@
           "time_info": "[00时48分 ~ 06时46分]"
         },
         {
-          "title": "特朗普威胁伊朗，又开始倒计时了",
-          "url": "https://news.ifeng.com/c/8tDfE3dOA2C",
+          "title": "伊朗还剩多少导弹？特朗普称仅18%，伊方称有120%",
+          "url": "https://news.ifeng.com/c/8tCj0YcwzIz",
           "source": "凤凰网",
           "ranks": [
-            1
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时34分 ~ 10时35分]"
+          "appearance_count": 4,
+          "time_info": "[10时34分 ~ 14时49分]"
+        },
+        {
+          "title": "特朗普涉台“四不”示警“台独”",
+          "url": "https://www.toutiao.com/trending/7641033902121058340/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时34分 ~ 14时49分]"
         },
         {
           "title": "特朗普访华后续观察",
@@ -60,26 +84,15 @@
           "time_info": "[00时48分 ~ 05时46分]"
         },
         {
-          "title": "伊朗还剩多少导弹？特朗普称仅18%，伊方称有120%",
-          "url": "https://news.ifeng.com/c/8tCj0YcwzIz",
+          "title": "如何看待特朗普访华和战争威胁？伊朗民众回应",
+          "url": "https://news.ifeng.com/c/8tDhN597aTX",
           "source": "凤凰网",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时34分 ~ 10时35分]"
-        },
-        {
-          "title": "特朗普涉台“四不”示警“台独”",
-          "url": "https://www.toutiao.com/trending/7641033902121058340/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时34分 ~ 10时35分]"
+          "time_info": "[14时48分 ~ 14时49分]"
         },
         {
           "title": "特朗普此次访华，会对资本市场产生哪些影响？哪些产业受影响更为显著？",
@@ -113,7 +126,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -226,6 +239,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时58分 ~ 04时03分]"
+        },
+        {
+          "title": "特朗普涉台“四不”示警“台独”",
+          "url": "https://news.ifeng.com/c/8tDfE3dO9u7",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时48分 ~ 14时49分]"
         },
         {
           "title": "特朗普访华后，日本慌了？日媒急了！",
@@ -345,7 +369,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -495,7 +519,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -540,7 +564,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         }
@@ -611,6 +635,57 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "30年美债没守住5%“生死线”！美银Hartnett：“地狱之门”已打开，6月初是“卖出窗口”",
+          "url": "https://wallstreetcn.com/articles/3772363",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时48分 ~ 07时52分]"
+        },
+        {
+          "title": "抛美债、买日债--华尔街准备应对“日资回流”",
+          "url": "https://wallstreetcn.com/articles/3772455",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时45分 ~ 14时49分]"
+        },
+        {
+          "title": "美股不祥信号浮现？美债收益率狂飙 一文解析背后三大推手",
+          "url": "https://www.cls.cn/detail/2373864",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时48分 ~ 14时49分]"
+        },
+        {
+          "title": "高盛：伊朗冲突持续与供应冲击，削弱美债分散风险能力",
+          "url": "https://flash.jin10.com/detail/20260518140732556800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时49分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 4,
       "titles": [
@@ -665,31 +740,30 @@
       ]
     },
     {
-      "keyword_group": "美债",
+      "keyword_group": "金价",
       "match_count": 2,
       "titles": [
         {
-          "title": "30年美债没守住5%“生死线”！美银Hartnett：“地狱之门”已打开，6月初是“卖出窗口”",
-          "url": "https://wallstreetcn.com/articles/3772363",
+          "title": "印度限金令催生恐慌性抢购潮，高盛：年底金价仍看至5400美元",
+          "url": "https://wallstreetcn.com/articles/3772448",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时48分 ~ 07时52分]"
+          "appearance_count": 2,
+          "time_info": "[14时48分 ~ 14时49分]"
         },
         {
-          "title": "抛美债、买日债--华尔街准备应对“日资回流”",
-          "url": "https://wallstreetcn.com/articles/3772455",
-          "source": "华尔街见闻",
+          "title": "金价银价大跌原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
           "ranks": [
-            10,
-            6
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时45分 ~ 10时35分]"
+          "appearance_count": 2,
+          "time_info": "[14时48分 ~ 14时49分]"
         }
       ]
     },
@@ -704,7 +778,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         }
