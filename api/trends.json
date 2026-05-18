@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-18T19:02:11.174799+08:00",
-  "total_titles_processed": 1153,
+  "generated_at": "2026-05-18T22:32:37.524425+08:00",
+  "total_titles_processed": 1328,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 46,
       "titles": [
         {
           "title": "特朗普威胁伊朗，又开始倒计时了",
@@ -81,30 +81,43 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时02分]"
+          "appearance_count": 3,
+          "time_info": "[19时01分 ~ 22时32分]"
         },
         {
           "title": "外交部回应特朗普涉台表态",
           "url": "https://news.ifeng.com/c/8tEEErjEHHh",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时02分]"
+          "appearance_count": 3,
+          "time_info": "[19时01分 ~ 22时32分]"
         },
         {
           "title": "特朗普连发15张图分享中国记忆",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%9E%E5%8F%9115%E5%BC%A0%E5%9B%BE%E5%88%86%E4%BA%AB%E4%B8%AD%E5%9B%BD%E8%AE%B0%E5%BF%86%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时02分]"
+          "appearance_count": 3,
+          "time_info": "[19时01分 ~ 22时32分]"
+        },
+        {
+          "title": "伊朗回应特朗普威胁：我们知道如何应对",
+          "url": "https://news.ifeng.com/c/8tEGnREugMl",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时01分 ~ 22时32分]"
         },
         {
           "title": "特朗普访华后续观察",
@@ -129,17 +142,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时48分 ~ 14时49分]"
-        },
-        {
-          "title": "伊朗回应特朗普威胁：我们知道如何应对",
-          "url": "https://news.ifeng.com/c/8tEGnREugMl",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时02分]"
         },
         {
           "title": "特朗普涉台“四不”示警“台独”",
@@ -287,6 +289,18 @@
           "time_info": "[05时46分 ~ 07时52分]"
         },
         {
+          "title": "特朗普警告伊朗：“时钟正滴答作响”",
+          "url": "https://www.cls.cn/detail/2373911",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时01分 ~ 22时32分]"
+        },
+        {
           "title": "据AXIOS网站：美国总统特朗普表示，他仍然认为伊朗希望达成协议，并表示他正在等待伊朗提出更新的方案，希望新方案能比几天前提出的方案更好。他拒绝给出与伊朗谈判的具体期限。",
           "url": "https://flash.jin10.com/detail/20260518021439286800",
           "source": "金十数据",
@@ -311,15 +325,16 @@
           "time_info": "[02时58分 ~ 04时03分]"
         },
         {
-          "title": "特朗普警告伊朗：“时钟正滴答作响”",
-          "url": "https://www.cls.cn/detail/2373911",
-          "source": "财联社热门",
+          "title": "内塔尼亚胡与特朗普通话“讨论重启对伊战事可能性”，阿联酋关键核电站遭袭",
+          "url": "https://wallstreetcn.com/articles/3772466",
+          "source": "华尔街见闻",
           "ranks": [
+            9,
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时02分]"
+          "time_info": "[19时02分 ~ 22时32分]"
         },
         {
           "title": "特朗普访华后，日本慌了？日媒急了！",
@@ -389,6 +404,17 @@
           "time_info": "01时52分"
         },
         {
+          "title": "评论员：中俄关系不受特朗普炒G2影响",
+          "url": "https://www.toutiao.com/trending/7641079190293430308/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
           "title": "特朗普称仍相信伊朗有意达成协议",
           "url": "https://flash.jin10.com/detail/20260518055636442800",
           "source": "金十数据",
@@ -400,17 +426,6 @@
           "time_info": "06时46分"
         },
         {
-          "title": "内塔尼亚胡与特朗普通话“讨论重启对伊战事可能性”，阿联酋关键核电站遭袭",
-          "url": "https://wallstreetcn.com/articles/3772466",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
           "title": "特朗普威胁伊朗：时间在流逝 赶快行动",
           "url": "https://flash.jin10.com/detail/20260518005103401800",
           "source": "金十数据",
@@ -420,6 +435,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
+        },
+        {
+          "title": "美国消息人士：伊朗仅剩数日窗口 特朗普耐心正在耗尽",
+          "url": "https://flash.jin10.com/detail/20260518220028346800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "据AXIOS：以色列官员透露，特朗普已与以色列总理内塔尼亚胡通电话，并讨论了伊朗问题。",
@@ -483,7 +509,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -497,6 +523,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "外交部回应特朗普涉台表态",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E5%8F%B0%E8%A1%A8%E6%80%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "特朗普向伊朗发出武力威胁 下周二讨论军事行动选项",
@@ -513,8 +550,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "据伊朗塔斯尼姆通讯社：接近谈判团队的消息人士称，伊朗表示，尽管草案有所修改，但美国的要求仍然过于苛刻。",
+          "url": "https://flash.jin10.com/detail/20260518221412457800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
         {
           "title": "【伊朗主要原油出口枢纽哈尔克岛油轮积压 创美军实施封锁以来的峰值】据报道，大约23艘油轮目前聚集在伊朗主要原油出口枢纽附近，这是自一个月前美国海军开始封锁伊朗港口、拦截并扣押船只以来，哈尔克岛周边出现的最大规模油轮集结。5月16日卫星图像显示，这些运输船停泊在哈尔克岛附近锚地，或靠泊于液化石油气装载码头。相关情况也得到专注于伊朗问题的美国非营利政策咨询机构United Against Nuclear Iran (简称UANI)的分析确认。相比之下，4月13日，也就是美国军舰开始在阿曼湾集结、对船只进行检查和拦截之前，当地仅有4艘油轮。“越来越多船只聚集在该岛周边锚地，显示伊朗原油和石油出口体系中的延误与瓶颈正在加剧，”UANI顾问Charlie Brown表示。",
           "url": "https://wallstreetcn.com/livenews/3105359",
@@ -522,7 +570,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -586,6 +634,17 @@
           "time_info": "01时52分"
         },
         {
+          "title": "伊朗媒体说又一艘伊朗船只突破美国封锁",
+          "url": "https://wallstreetcn.com/livenews/3105459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
           "title": "据伊朗Press TV：伊朗总统佩泽希齐扬表示，美国和以色列政权正企图推行分裂性计划并制造不信任，以挑拨穆斯林国家相互对抗。",
           "url": "https://flash.jin10.com/detail/20260517235350901800",
           "source": "金十数据",
@@ -597,6 +656,17 @@
           "time_info": "00时48分"
         },
         {
+          "title": "报道：伊朗船只突破美国封锁 已停靠在伊朗哈尔克岛",
+          "url": "https://flash.jin10.com/detail/20260518215650183800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
           "title": "伊朗媒体称，美国在最新的和平提议中“没有做出任何让步”",
           "url": "https://flash.jin10.com/detail/20260518003743507800",
           "source": "金十数据",
@@ -606,6 +676,148 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
+        },
+        {
+          "title": "伊朗消息人士：美国在伊朗维持有限核活动问题上表现出灵活性",
+          "url": "https://flash.jin10.com/detail/20260518215615050800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "伊朗与沙特外交部长讨论美国当前的外交举措。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3105444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "现货黄金震荡上行，向上触及4580美元/盎司，日内涨0.92%。消息面上，伊朗称伊方船只已突破美国封锁。",
+          "url": "https://flash.jin10.com/detail/20260518215305790800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
+          "url": "https://www.cls.cn/detail/2373249",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时48分 ~ 07时52分]"
+        },
+        {
+          "title": "美伊局势缓和，美股高开，半导体股普涨，油价回落，黄金小幅上涨",
+          "url": "https://wallstreetcn.com/articles/3772473",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "警报拉响！美股无视“通胀猛虎”，华尔街警告随时面临坠落风险",
+          "url": "https://flash.jin10.com/detail/20260518220842499800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "美股和金银开盘大跌，但美国 4 月工业数据超预期，纽约联储制造业指数创近 4 年新高，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2038737314017432936",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时45分 ~ 10时35分]"
+        },
+        {
+          "title": "美股股指期货周一小幅低开，其中道指期货跌0.3%。",
+          "url": "https://flash.jin10.com/detail/20260518060027813800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时46分"
+        },
+        {
+          "title": "美股迎来史上最大电力并购案 SpaceX概念股盘前走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2374572",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
+          "url": "https://www.cls.cn/detail/2373172",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF涨1.45%，全球科技股指数ETF涨1%，能源业ETF跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3105454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "美股盘初：纳指涨0.2%，费城半导体指数涨1.7%，百度涨约3%",
+          "url": "https://wallstreetcn.com/livenews/3105451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         }
       ]
     },
@@ -700,7 +912,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         }
@@ -708,7 +920,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "30年美债没守住5%“生死线”！美银Hartnett：“地狱之门”已打开，6月初是“卖出窗口”",
@@ -739,11 +951,12 @@
           "url": "https://www.cls.cn/detail/2374021",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时02分]"
+          "appearance_count": 3,
+          "time_info": "[19时01分 ~ 22时32分]"
         },
         {
           "title": "美股不祥信号浮现？美债收益率狂飙 一文解析背后三大推手",
@@ -755,6 +968,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时48分 ~ 19时02分]"
+        },
+        {
+          "title": "美债收益率破5%有何影响",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%80%BA%E6%94%B6%E7%9B%8A%E7%8E%87%E7%A0%B45%25%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "高盛：伊朗冲突持续与供应冲击，削弱美债分散风险能力",
@@ -771,7 +995,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "白银价格“过山车”：强势七连涨后大跳水，何时重回巅峰？",
@@ -830,60 +1054,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
-          "url": "https://www.cls.cn/detail/2373249",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时48分 ~ 07时52分]"
         },
         {
-          "title": "美股和金银开盘大跌，但美国 4 月工业数据超预期，纽约联储制造业指数创近 4 年新高，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2038737314017432936",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时45分 ~ 10时35分]"
-        },
-        {
-          "title": "美股股指期货周一小幅低开，其中道指期货跌0.3%。",
-          "url": "https://flash.jin10.com/detail/20260518060027813800",
+          "title": "现货白银突破78美元/盎司，日内涨2.77%。",
+          "url": "https://flash.jin10.com/detail/20260518215035164800",
           "source": "金十数据",
           "ranks": [
-            6
+            29
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
-          "url": "https://www.cls.cn/detail/2373172",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时52分"
+          "time_info": "22时32分"
         }
       ]
     },
@@ -925,11 +1106,12 @@
           "url": "https://www.cls.cn/detail/2374260",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时02分]"
+          "appearance_count": 3,
+          "time_info": "[19时01分 ~ 22时32分]"
         },
         {
           "title": "A股存储芯片板块震荡拉升，深科技涨停，同有科技、佰维存储涨超10%，大普微、华海诚科、朗科科技、商络电子涨超7%。",
