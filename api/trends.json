@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T03:27:40.969124+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2026-05-19T05:04:19.038258+08:00",
+  "total_titles_processed": 461,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
         {
           "title": "外交部回应特朗普涉台表态",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 03时27分]"
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 05时04分]"
         },
         {
           "title": "特朗普连发15张图分享中国记忆",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 03时27分]"
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 05时04分]"
         },
         {
           "title": "伊朗回应特朗普威胁：我们知道如何应对",
@@ -37,8 +37,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 03时27分]"
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 05时04分]"
+        },
+        {
+          "title": "特朗普敲打“台独” 日本被美撤梯子",
+          "url": "https://www.toutiao.com/trending/7640786941127196678/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 05时04分]"
         },
         {
           "title": "美、布两油短线大幅跳水，现货金银快速拉升。特朗普称，应中东国家请求暂缓原定于明天进行的对伊朗的攻击。",
@@ -47,7 +60,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
         },
@@ -58,7 +71,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
         },
@@ -69,7 +82,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
         },
@@ -80,7 +93,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
         },
@@ -91,21 +104,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
         },
         {
-          "title": "特朗普敲打“台独” 日本被美撤梯子",
-          "url": "https://www.toutiao.com/trending/7640786941127196678/",
-          "source": "今日头条",
+          "title": "特朗普高调主持沃什在白宫的宣誓就职仪式 重现格林斯潘时刻",
+          "url": "https://flash.jin10.com/detail/20260519042820893800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            2
+            4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 03时27分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
         },
         {
           "title": "特朗普访华整晚都在谈台湾问题",
@@ -113,11 +125,12 @@
           "source": "微博",
           "ranks": [
             10,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 03时27分]"
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 05时04分]"
         },
         {
           "title": "美国总统特朗普：伊朗知道“很快会发生什么”。 不会对伊朗做出让步。 （关于伊朗铀浓缩问题）我现在对啥（选项）也不持开放态度。 伊朗比以往任何时候都更希望达成协议。 “不久”就会达成伊朗协议。（纽约邮报）",
@@ -137,11 +150,12 @@
           "source": "今日头条",
           "ranks": [
             18,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 03时27分]"
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 05时04分]"
         },
         {
           "title": "评论员：中俄关系不受特朗普炒G2影响",
@@ -149,22 +163,24 @@
           "source": "今日头条",
           "ranks": [
             20,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 03时27分]"
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 05时04分]"
         },
         {
           "title": "特朗普谈入股英特尔：后悔当初只拿10%股份，“应该多要一点”",
           "url": "https://www.cls.cn/detail/2374617",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 03时27分]"
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 05时04分]"
         },
         {
           "title": "报道：特朗普将于周五主持沃什宣誓就职的仪式",
@@ -195,7 +211,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
         },
@@ -211,6 +227,17 @@
           "time_info": "01时27分"
         },
         {
+          "title": "美国白宫发言人凯莉：（就伊朗问题）特朗普随时可以选择所有选项。",
+          "url": "https://flash.jin10.com/detail/20260519035307747800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
           "title": "据纽约邮报：美国总统特朗普表示，伊朗知道即将要发生什么。",
           "url": "https://flash.jin10.com/detail/20260519010157219800",
           "source": "金十数据",
@@ -220,6 +247,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "白宫发言人Anna Kelly：Truth Social贴文凸显出美国总统特朗普的严肃态度。 伊朗不可以拥有浓缩铀。 特朗普一直都拥有所有的选项。",
+          "url": "https://wallstreetcn.com/livenews/3105582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
         },
         {
           "title": "沃什周五将宣誓就任美联储主席 宣誓仪式由特朗普主持",
@@ -277,21 +315,149 @@
           "time_info": "01时27分"
         },
         {
+          "title": "特朗普：将推迟攻击伊朗",
+          "url": "https://wallstreetcn.com/livenews/3105571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
           "title": "白宫官员：沃什周五将宣誓就任美联储主席，仪式由特朗普主持",
           "url": "https://wallstreetcn.com/livenews/3105534",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
         }
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "美伊局势缓和，美股高开，半导体股普涨，油价回落，黄金小幅上涨",
+          "url": "https://wallstreetcn.com/articles/3772473",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 05时04分]"
+        },
+        {
+          "title": "周一（5月18日），美股存储芯片与硬件供应链指数跌5.25%，报172.53点。 成分股全线溃败，希捷科技跌6.87%，美光科技跌5.95%，Sandisk跌5.30%，应用材料跌5.28%，泰瑞达跌4.98%，西部数据跌4.84%，Rambus跌2.59%，拉姆研究跌2.37%。",
+          "url": "https://wallstreetcn.com/livenews/3105599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周一（5月18日），美国科技股七巨头（Magnificent 7）指数跌0.57%，报225.86点。 “超大”市值科技股指数跌0.54%，报447.23点。",
+          "url": "https://wallstreetcn.com/livenews/3105598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "美股迎来史上最大电力并购案 SpaceX概念股盘前走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2374572",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 05时04分]"
+        },
+        {
+          "title": "大豆基金收涨1.9%，与农产品基金领跑美股大类资产类ETF，小盘股指ETF跌约0.6%",
+          "url": "https://wallstreetcn.com/livenews/3105595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "美股行业ETF涨跌各异，能源业ETF涨约1.9%，半导体ETF跌超1.8%",
+          "url": "https://wallstreetcn.com/livenews/3105594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "金十图示：2026年05月18日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260519040525263800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "金十图示：2026年05月18日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260519040523142800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "中东局势降温预期提振市场，拉美股汇两市双双走高",
+          "url": "https://wallstreetcn.com/livenews/3105592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 理想汽车跌近10%",
+          "url": "https://flash.jin10.com/detail/20260519040054557800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美国中央司令部：继续严格执行对伊朗港口的封锁。美国军队现已令85艘商业船只更改航向，以确保完全遵守封锁。",
@@ -303,6 +469,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "伊朗官员：美国自设打击的最后期限又自行取消",
+          "url": "https://flash.jin10.com/detail/20260519040226244800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
         },
         {
           "title": "CNBC记者：美国官员表示，伊朗国家媒体关于美国同意在谈判期间解除石油制裁的报道是虚假的。",
@@ -322,43 +499,15 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
         }
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美伊局势缓和，美股高开，半导体股普涨，油价回落，黄金小幅上涨",
-          "url": "https://wallstreetcn.com/articles/3772473",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 03时27分]"
-        },
-        {
-          "title": "美股迎来史上最大电力并购案 SpaceX概念股盘前走高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2374572",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 03时27分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "半导体",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "何立峰会见美国超威半导体CEO苏姿丰",
@@ -373,6 +522,17 @@
           "time_info": "[01时27分 ~ 03时27分]"
         },
         {
+          "title": "纳斯达克金龙中国指数收跌0.72%，报6790.67点。 热门中概股里，理想初步收跌9.8%，日月光半导体跌6.6%，蔚来、小鹏跌超3%，阿里巴巴涨0.5%，小米涨1.4%，百度涨1.8%。 ETF中，中概互联网指数ETF（KWEB）收跌0.39%，中国科技指数ETF（CQQQ）收涨0.54%。 德银嘉实沪深300指数ETF（ASHR）收跌0.45%，MSCI新兴市场ex中国ETF（EMXC）收跌0.05%，XtrackersHarvest中证50（ASHS）收涨0.06%。",
+          "url": "https://wallstreetcn.com/livenews/3105589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
           "title": "纳斯达克100指数跌1.28%，希捷科技跌8.8%，Strategy跌8.3%，闪迪跌7.7%，西部数据跌7.5%，美光科技跌5.9%，特斯拉跌3.1%，阿斯麦ADR跌2.9%。 半导体指数跌3.5%。 标普500指数跌幅扩大至0.6%，纳斯达克综合指数（纳指）跌1.2%。",
           "url": "https://wallstreetcn.com/livenews/3105527",
           "source": "华尔街见闻-快讯",
@@ -382,6 +542,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "Gradiant宣布完成E轮融资，公司估值达20亿美元，助力加快AI、半导体以及工业水务基建领域布局。 随着Gradiant依托AI基建和先进制造业务实现业绩大幅增长，新资金将用于支持战略性并购、新一代技术研发以及上市筹备工作。",
+          "url": "https://wallstreetcn.com/livenews/3105584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美债收益率破5%有何影响",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%80%BA%E6%94%B6%E7%9B%8A%E7%8E%87%E7%A0%B45%25%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 05时04分]"
+        },
+        {
+          "title": "英国在3月增持美债 中国和日本减持",
+          "url": "https://flash.jin10.com/detail/20260519040958364800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "周一（5月18日）纽约尾盘，美国10年期国债收益率涨1.40个基点，报4.6073%。 两年期美债收益率涨0.46个基点，报4.0734%；30年期美债收益率涨2.50个基点，报5.1407%。 2/10年期美债收益率利差涨1.469个基点，报+53.296个基点。 10年期通胀保值国债（TIPS）收益率涨3.90个基点，至2.1085%；两年期TIPS收益率涨2.48个基点，至1.1751%；30年期TIPS收益率涨2.77个基点，至2.83%。",
+          "url": "https://wallstreetcn.com/livenews/3105577",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
         }
       ]
     },
@@ -394,11 +604,12 @@
           "url": "https://www.cls.cn/detail/2374260",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 03时27分]"
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 05时04分]"
         },
         {
           "title": "戴尔科技CEO Dell：存储芯片存在供应受抑问题。 存储芯片制造商们正在投资。 存储芯片和先进制程芯片仍然存在（供应）短缺。",
@@ -407,26 +618,26 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
         }
       ]
     },
     {
-      "keyword_group": "美债",
+      "keyword_group": "美元",
       "match_count": 1,
       "titles": [
         {
-          "title": "美债收益率破5%有何影响",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%80%BA%E6%94%B6%E7%9B%8A%E7%8E%87%E7%A0%B45%25%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
-          "source": "bilibili 热搜",
+          "title": "美元指数重新跌超0.3%",
+          "url": "https://wallstreetcn.com/livenews/3105573",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            27
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 03时27分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
         }
       ]
     },
@@ -441,7 +652,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
         }
