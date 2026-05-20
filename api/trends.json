@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-21T05:45:28.055140+08:00",
-  "total_titles_processed": 480,
+  "generated_at": "2026-05-21T07:07:19.885908+08:00",
+  "total_titles_processed": 551,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 05时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 07时07分]"
         },
         {
           "title": "特朗普现身白宫宴会厅施工现场，称这是献给国家的礼物",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 05时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 07时07分]"
         },
         {
           "title": "郑丽文：特朗普叫台湾不要再讲“台独”，民进党还装听不懂",
@@ -37,8 +37,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 05时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 07时07分]"
         },
         {
           "title": "特朗普继续口头威胁伊朗",
@@ -333,7 +333,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
         },
@@ -352,29 +352,18 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
-          "title": "周三（5月20日），美股AI软件先驱指数涨0.69%，报108.06点，成分股C3.ai涨5.10%领跑。",
-          "url": "https://wallstreetcn.com/livenews/3106952",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：三大指数均涨超1% 光通信、CPU概念表现强势",
+          "url": "https://www.cls.cn/detail/2377305",
+          "source": "财联社热门",
           "ranks": [
-            1
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时45分"
-        },
-        {
-          "title": "周三（5月20日），美股人工智能（AI）赢家指数涨2.95%，报386.53点。 成分股Astera Labs收涨17.69%，Arm控股涨15.05%，核电股Oklo涨11.99%表现第三、CEG涨7.90%，闪迪涨0.67%表现第九，谷歌A涨0.32%涨幅最小，Lumentum跌2.47%Nebius集团跌2.99%。",
-          "url": "https://wallstreetcn.com/livenews/3106951",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时45分"
+          "time_info": "07时07分"
         },
         {
           "title": "金十图示：2026年05月20日（周三）美股热门股票行情一览（美股盘中）",
@@ -386,17 +375,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
-        },
-        {
-          "title": "周三（5月20日），美股信息科技指数涨2.97%，报384.54点。 成分股Astera Labs收涨17.69%，IREN涨10.41%，超微电脑涨9.49%，IonQ涨8.32%，Credo科技集团涨8.28%，AMD涨8.10%表现第六，英特尔涨7.36%，Workday则收跌2.11%跌幅第五大，Lumentum跌2.47%，Nebius集团跌2.99%，ADI跌3.92%，财捷INTU跌3.95%。",
-          "url": "https://wallstreetcn.com/livenews/3106949",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时45分"
         },
         {
           "title": "都盯着英伟达财报！美股高开，半导体股普涨，全球长债收益率高企，油价跌超2%",
@@ -412,6 +390,42 @@
           "time_info": "[00时57分 ~ 05时45分]"
         },
         {
+          "title": "周三（5月20日），美股AI软件先驱指数涨0.69%，报108.06点，成分股C3.ai涨5.10%领跑。",
+          "url": "https://wallstreetcn.com/livenews/3106952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 07时07分]"
+        },
+        {
+          "title": "周三（5月20日），美股人工智能（AI）赢家指数涨2.95%，报386.53点。 成分股Astera Labs收涨17.69%，Arm控股涨15.05%，核电股Oklo涨11.99%表现第三、CEG涨7.90%，闪迪涨0.67%表现第九，谷歌A涨0.32%涨幅最小，Lumentum跌2.47%Nebius集团跌2.99%。",
+          "url": "https://wallstreetcn.com/livenews/3106951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 07时07分]"
+        },
+        {
+          "title": "周三（5月20日），美股信息科技指数涨2.97%，报384.54点。 成分股Astera Labs收涨17.69%，IREN涨10.41%，超微电脑涨9.49%，IonQ涨8.32%，Credo科技集团涨8.28%，AMD涨8.10%表现第六，英特尔涨7.36%，Workday则收跌2.11%跌幅第五大，Lumentum跌2.47%，Nebius集团跌2.99%，ADI跌3.92%，财捷INTU跌3.95%。",
+          "url": "https://wallstreetcn.com/livenews/3106949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 07时07分]"
+        },
+        {
           "title": "段永平最新美股持仓曝光！豪掷12亿美元重仓特斯拉，大举加仓英伟达、拼多多",
           "url": "https://wallstreetcn.com/articles/3772698",
           "source": "华尔街见闻",
@@ -420,8 +434,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 05时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 07时07分]"
         },
         {
           "title": "美股芯片股已严重超买！美银警告：历史7次类似信号后平均暴跌44%",
@@ -440,11 +454,24 @@
           "url": "https://wallstreetcn.com/livenews/3106946",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 07时07分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周三（5月20日），美国科技股七巨头（Magnificent 7）指数涨1.17%，报225.84点。 “超大”市值科技股指数涨涨2.27%，报450.52点。",
+          "url": "https://wallstreetcn.com/livenews/3106945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 07时07分]"
         },
         {
           "title": "金十图示：2026年05月20日（周三）热门中概股行情一览（美股盘中）",
@@ -458,15 +485,15 @@
           "time_info": "00时57分"
         },
         {
-          "title": "美股七巨头收盘播报｜周三（5月20日），美国科技股七巨头（Magnificent 7）指数涨1.17%，报225.84点。 “超大”市值科技股指数涨涨2.27%，报450.52点。",
-          "url": "https://wallstreetcn.com/livenews/3106945",
+          "title": "纳指期货跌幅在亚太盘初扩大至0.9%，科技股AMD美股盘后跌2.6%，高通跌2%，美光跌1.6%，英特尔跌1.5%，英伟达跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3106963",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时45分"
+          "time_info": "07时07分"
         },
         {
           "title": "英伟达美股盘后跌1.8%。",
@@ -475,9 +502,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
+        },
+        {
+          "title": "亚太盘初，纳指期货跌超0.4%，标普股指期货跌0.3%。 当前（美股盘后），AMD跌1.2%，英伟达跌1.2%，高通跌0.8%，英特尔跌0.7%，C3.ai跌0.7%，美光跌0.5%，闪迪涨0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3106958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "美银：对冲基金上周抛售美股规模创纪录",
+          "url": "https://wallstreetcn.com/livenews/3106953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
         },
         {
           "title": "Applied Digital Corp.（APLD）美股盘后涨5%，该公司达成一份关于超大规模云服务商（Hyperscaler）的租赁协议。",
@@ -486,7 +535,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
         }
@@ -514,9 +563,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 07时07分]"
         },
         {
           "title": "伊朗外长前往美国参加联合国会议的筹备工作仍然在推进职中。（伊朗电视台）",
@@ -566,7 +615,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美债上演“投降式大抛售”，高利率阴霾笼罩股市",
@@ -577,8 +626,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 05时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 07时07分]"
+        },
+        {
+          "title": "美伊冲突降温，WIT原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
+          "url": "https://wallstreetcn.com/articles/3772708",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
         },
         {
           "title": "高盛：至少在眼下，美债收益率恐“很难”掉头下行",
@@ -613,11 +673,12 @@
           "url": "https://www.cls.cn/detail/2376768",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 05时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 07时07分]"
         },
         {
           "title": "欧洲半导体概念股普遍收涨，Soitec涨10.37%，阿斯麦控股涨6.73%，意法半导体米兰股价涨6%，BE半导体实业公司涨3.96%，ASM国际涨3.93%。",
@@ -643,7 +704,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
         }
