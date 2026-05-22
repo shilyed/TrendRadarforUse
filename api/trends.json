@@ -1,12 +1,37 @@
 {
-  "generated_at": "2026-05-22T07:55:14.134747+08:00",
-  "total_titles_processed": 637,
+  "generated_at": "2026-05-22T10:36:32.379011+08:00",
+  "total_titles_processed": 827,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 37,
       "titles": [
+        {
+          "title": "特朗普称将与赖清德谈对台军售，外交部：敦促美方兑现所作承诺和表态",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33205095",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 10时36分]"
+        },
+        {
+          "title": "特朗普政府推动量子战略升级：20亿美元扶持9家企业 政府将直接持股",
+          "url": "https://www.cls.cn/detail/2378228",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 10时36分]"
+        },
         {
           "title": "中方回应特朗普称将与赖清德对话",
           "url": "https://news.ifeng.com/c/8tJCrQkCYgq",
@@ -19,33 +44,10 @@
           "time_info": "[00时37分 ~ 07时55分]"
         },
         {
-          "title": "特朗普称将与赖清德谈对台军售，外交部：敦促美方兑现所作承诺和表态",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33205095",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 07时55分]"
-        },
-        {
           "title": "美副防长能否访华与特朗普如何处理对台军售挂钩？外交部回应",
           "url": "https://news.ifeng.com/c/8tJDfVFuwhB",
           "source": "凤凰网",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 07时55分]"
-        },
-        {
-          "title": "特朗普政府推动量子战略升级：20亿美元扶持9家企业 政府将直接持股",
-          "url": "https://www.cls.cn/detail/2378228",
-          "source": "财联社热门",
-          "ranks": [
-            3,
             2
           ],
           "is_new": false,
@@ -71,11 +73,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 07时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 10时36分]"
         },
         {
           "title": "美国总统特朗普：我们希望古巴开放。",
@@ -133,6 +136,17 @@
           "time_info": "00时37分"
         },
         {
+          "title": "美国驻丹麦大使：特朗普已排除对格陵兰岛使用武力",
+          "url": "https://news.ifeng.com/c/8tHcLpLqPgM",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
           "title": "美国总统特朗普：宴会厅项目按计划推进，且预算控制在范围内，无需（额外）现金。",
           "url": "https://flash.jin10.com/detail/20260522000646100800",
           "source": "金十数据",
@@ -142,6 +156,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "特朗普若购格陵兰岛，将面临什么国内障碍？",
+          "url": "https://news.ifeng.com/c/8tKJKXPcRAX",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
         },
         {
           "title": "美国总统特朗普：不知道我是否会失去对参议院的控制。",
@@ -180,6 +205,18 @@
           "time_info": "[04时47分 ~ 07时55分]"
         },
         {
+          "title": "特朗普再威胁伊朗交出浓缩铀 欧盟被爆考虑重启与俄正式沟通 | 环球市场",
+          "url": "https://www.cls.cn/detail/2378520",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时54分 ~ 10时36分]"
+        },
+        {
           "title": "美伊表态愿意谈判，报道称5月底举行，特朗普与内塔尼亚胡“激烈通话”",
           "url": "https://wallstreetcn.com/articles/3772759",
           "source": "华尔街见闻",
@@ -215,17 +252,6 @@
           "time_info": "[06时14分 ~ 07时55分]"
         },
         {
-          "title": "特朗普再威胁伊朗交出浓缩铀 欧盟被爆考虑重启与俄正式沟通 | 环球市场",
-          "url": "https://www.cls.cn/detail/2378520",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时54分 ~ 07时55分]"
-        },
-        {
           "title": "特朗普一句话击穿油市！布油盘中跌超7%，美国库存创纪录暴跌也挡不住",
           "url": "https://wallstreetcn.com/articles/3772754",
           "source": "华尔街见闻",
@@ -235,6 +261,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "美国欲在古巴重演“委内瑞拉剧本”？专家：特朗普另有图谋",
+          "url": "https://news.ifeng.com/c/8tJqOjVcrpo",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
         },
         {
           "title": "IBM(IBM.N)涨超11%，公司获得特朗普政府的资金支持。",
@@ -270,6 +307,28 @@
           "time_info": "02时55分"
         },
         {
+          "title": "特朗普的“宫殿梦”还能撑多久",
+          "url": "https://www.toutiao.com/trending/7642363020433165830/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "特朗普儿媳再忆中国行直呼震撼",
+          "url": "https://www.toutiao.com/trending/7641561881347309611/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
           "title": "据美国政治新闻网Politico：特朗普政府暂停发往刚果（金）的遣返航班，因当地埃博拉疫情肆虐。",
           "url": "https://flash.jin10.com/detail/20260522050949939800",
           "source": "金十数据",
@@ -287,7 +346,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -298,7 +357,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -320,7 +379,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -356,6 +415,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "特朗普宣布向波兰增兵5000人",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E5%90%91%E6%B3%A2%E5%85%B0%E5%A2%9E%E5%85%B55000%E4%BA%BA%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
         }
       ]
     },
@@ -369,11 +439,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时14分 ~ 07时55分]"
+          "appearance_count": 4,
+          "time_info": "[06时14分 ~ 10时36分]"
         },
         {
           "title": "巴克莱可转债ETF收涨约2.2%，领跑美股大类资产类ETF",
@@ -492,11 +563,12 @@
           "url": "https://wallstreetcn.com/articles/3772777",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时54分 ~ 07时55分]"
+          "appearance_count": 3,
+          "time_info": "[07时54分 ~ 10时36分]"
         },
         {
           "title": "两年期美债收益率涨2.8个基点",
@@ -574,6 +646,58 @@
       ]
     },
     {
+      "keyword_group": "白银",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "油价暴跌 黄金白银上涨",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%B9%E4%BB%B7%E6%9A%B4%E8%B7%8C+%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%B8%8A%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            25,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 07时55分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 5月21日（周四）晚盘收盘上涨0.2%报996.87元/克；<br/>上海黄金交易所白银T+D 5月21日（周四）晚盘收盘上涨1.83%报18822.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260522023129049800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时55分"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少9.85吨，当前持仓量为15179.19吨。欢迎点击查看数据中心……",
+          "url": "https://flash.jin10.com/detail/20260522054812942800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时14分"
+        },
+        {
+          "title": "金银短期陷入“紧缩预期”模式，油价下跌将成白银新催化剂",
+          "url": "https://flash.jin10.com/detail/20260522101506807800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -613,49 +737,8 @@
       ]
     },
     {
-      "keyword_group": "白银",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "油价暴跌 黄金白银上涨",
-          "url": "https://www.baidu.com/s?wd=%E6%B2%B9%E4%BB%B7%E6%9A%B4%E8%B7%8C+%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%B8%8A%E6%B6%A8",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            25,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 07时55分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 5月21日（周四）晚盘收盘上涨0.2%报996.87元/克；<br/>上海黄金交易所白银T+D 5月21日（周四）晚盘收盘上涨1.83%报18822.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260522023129049800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时55分"
-        },
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少9.85吨，当前持仓量为15179.19吨。欢迎点击查看数据中心……",
-          "url": "https://flash.jin10.com/detail/20260522054812942800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时14分"
-        }
-      ]
-    },
-    {
       "keyword_group": "半导体",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "【每日收评】沪指放量跌超2%失守4100点，AI硬件与半导体等热门赛道大幅回调",
@@ -667,23 +750,63 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时37分 ~ 06时14分]"
+        },
+        {
+          "title": "恒指高开1.01%，报25641.80点；恒生科技指数涨1.57%。联想集团涨4.9%，华虹半导体、舜宇光学科技、中芯国际涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3107692",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
         }
       ]
     },
     {
       "keyword_group": "存储芯片",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "【早报】美政府出手，量子计算产业大消息；存储芯片牛股大普微今日复牌",
           "url": "https://www.cls.cn/detail/2378514",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时54分 ~ 07时55分]"
+          "appearance_count": 3,
+          "time_info": "[07时54分 ~ 10时36分]"
+        },
+        {
+          "title": "存储芯片概念牛股停牌核查结束 明日复牌|盘后公告集锦",
+          "url": "https://www.cls.cn/detail/2378246",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时36分"
         }
       ]
     }
