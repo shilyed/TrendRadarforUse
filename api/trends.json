@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-24T07:51:56.602386+08:00",
-  "total_titles_processed": 520,
+  "generated_at": "2026-05-24T10:31:59.961607+08:00",
+  "total_titles_processed": 642,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 56,
       "titles": [
         {
           "title": "特朗普变卦前，接到电话警告“会输给中国”",
@@ -15,20 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 07时51分]"
-        },
-        {
-          "title": "美联储新主席宣誓！特朗普呼吁“要遏制通胀，不要遏制伟大”，沃什表态要做格林斯潘",
-          "url": "https://wallstreetcn.com/articles/3772951",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 07时51分]"
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 10时31分]"
         },
         {
           "title": "美伊冲突升温！特朗普不参加儿子婚礼“坐镇白宫”，伊朗警告若再遭袭将开启战斗3.0，计划“以火力”封锁曼德海峡",
@@ -37,6 +25,18 @@
           "ranks": [
             2,
             1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 10时31分]"
+        },
+        {
+          "title": "美联储新主席宣誓！特朗普呼吁“要遏制通胀，不要遏制伟大”，沃什表态要做格林斯潘",
+          "url": "https://wallstreetcn.com/articles/3772951",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -55,19 +55,6 @@
           "time_info": "[00时56分 ~ 07时51分]"
         },
         {
-          "title": "一名外交官表示：美国总统特朗普与中东领袖们的对话“是积极的”。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3108426",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时40分 ~ 07时51分]"
-        },
-        {
           "title": "“回家找妈妈吧！”演讲时遭打断，特朗普嘲讽抗议者",
           "url": "https://v.ifeng.com/c/8tMPX6NaRot",
           "source": "凤凰网",
@@ -75,8 +62,22 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 07时51分]"
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 10时31分]"
+        },
+        {
+          "title": "一名外交官表示：美国总统特朗普与中东领袖们的对话“是积极的”。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3108426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            4,
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时40分 ~ 10时31分]"
         },
         {
           "title": "伊朗媒体驳斥特朗普关于霍尔木兹海峡“恢复正常”说法",
@@ -84,34 +85,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            4
+            4,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时46分 ~ 07时51分]"
-        },
-        {
-          "title": "据伊朗法尔斯通讯社：尽管美国总统特朗普声称霍尔木兹海峡将恢复原状，但该海峡仍将处于伊朗控制之下。",
-          "url": "https://flash.jin10.com/detail/20260524052423890800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时46分 ~ 07时51分]"
-        },
-        {
-          "title": "特朗普：美伊协议基本谈成，内容包括开放霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/livenews/3108428",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时44分 ~ 07时51分]"
+          "appearance_count": 4,
+          "time_info": "[05时46分 ~ 10时31分]"
         },
         {
           "title": "特朗普称可能于24日决定是否恢复对伊军事行动",
@@ -121,11 +100,39 @@
             1,
             7,
             10,
-            11
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时02分 ~ 10时31分]"
+        },
+        {
+          "title": "据伊朗法尔斯通讯社：尽管美国总统特朗普声称霍尔木兹海峡将恢复原状，但该海峡仍将处于伊朗控制之下。",
+          "url": "https://flash.jin10.com/detail/20260524052423890800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时46分 ~ 10时31分]"
+        },
+        {
+          "title": "特朗普称美伊达成协议还是重启战事仍是“对半开”，又说美伊“越来越接近”达成协议",
+          "url": "https://wallstreetcn.com/livenews/3108417",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            8,
+            9,
+            18
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[03时02分 ~ 07时51分]"
+          "time_info": "[04时40分 ~ 10时31分]"
         },
         {
           "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡",
@@ -144,11 +151,23 @@
           "source": "金十数据",
           "ranks": [
             3,
-            6
+            6,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时46分 ~ 07时51分]"
+          "appearance_count": 4,
+          "time_info": "[05时46分 ~ 10时31分]"
+        },
+        {
+          "title": "据News Nation白宫记者：周六晚上9:30（北京时间早上9:30），特朗普总统仍在椭圆形办公室办公。",
+          "url": "https://flash.jin10.com/detail/20260524093809982800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         },
         {
           "title": "据CNN报道，以色列消息人士称，内塔尼亚胡在周六晚上与美国官员进行了沟通，并预计将很快与特朗普通话。",
@@ -158,19 +177,6 @@
             2,
             17,
             20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时40分 ~ 07时51分]"
-        },
-        {
-          "title": "特朗普称美伊达成协议还是重启战事仍是“对半开”，又说美伊“越来越接近”达成协议",
-          "url": "https://wallstreetcn.com/livenews/3108417",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            8,
-            9
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -188,6 +194,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时40分 ~ 07时51分]"
+        },
+        {
+          "title": "特朗普：美伊协议基本谈成，内容包括开放霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3108428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时44分 ~ 10时31分]"
         },
         {
           "title": "美国总统特朗普对以色列第12频道表示，如果协议对以色列不利，我将不会签署。",
@@ -229,6 +247,19 @@
           "time_info": "[03时02分 ~ 05时46分]"
         },
         {
+          "title": "特朗普称美伊协议基本谈成",
+          "url": "https://flash.jin10.com/detail/20260524043922991800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时46分 ~ 10时31分]"
+        },
+        {
           "title": "据Axios报道，美国总统特朗普形容内塔尼亚胡“内心矛盾”。",
           "url": "https://flash.jin10.com/detail/20260524012501820800",
           "source": "金十数据",
@@ -239,6 +270,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时57分 ~ 03时02分]"
+        },
+        {
+          "title": "特朗普：已与多国领导人通话 美伊协议基本达成",
+          "url": "https://flash.jin10.com/detail/20260524043813601800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时46分 ~ 10时31分]"
         },
         {
           "title": "据Axios报道，美国总统特朗普承认“有些人更希望达成协议，而另一些人则宁愿重启战事”，但他否认了内塔尼亚胡“担心”自己可能达成不利协议的说法。",
@@ -266,6 +310,19 @@
           "time_info": "[04时40分 ~ 07时51分]"
         },
         {
+          "title": "美国总统特朗普：与多个穆斯林国家领导人就伊朗进行了交谈。",
+          "url": "https://flash.jin10.com/detail/20260524043506321800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时46分 ~ 10时31分]"
+        },
+        {
           "title": "据福克斯新闻援引消息人士：美国总统特朗普与阿拉伯国家领导人的通话“非常积极”。",
           "url": "https://flash.jin10.com/detail/20260524030926094800",
           "source": "金十数据",
@@ -277,42 +334,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时40分 ~ 07时51分]"
-        },
-        {
-          "title": "特朗普称美伊协议基本谈成",
-          "url": "https://flash.jin10.com/detail/20260524043922991800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时46分 ~ 07时51分]"
-        },
-        {
-          "title": "特朗普：已与多国领导人通话 美伊协议基本达成",
-          "url": "https://flash.jin10.com/detail/20260524043813601800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时46分 ~ 07时51分]"
-        },
-        {
-          "title": "美国总统特朗普：与多个穆斯林国家领导人就伊朗进行了交谈。",
-          "url": "https://flash.jin10.com/detail/20260524043506321800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时46分 ~ 07时51分]"
         },
         {
           "title": "美国总统特朗普：除了协议的许多其他要素外，霍尔木兹海峡将会开放。",
@@ -435,6 +456,17 @@
           "time_info": "[01时57分 ~ 03时02分]"
         },
         {
+          "title": "美国官员：在特朗普所称协议中，伊朗同意放弃高浓缩铀",
+          "url": "https://flash.jin10.com/detail/20260524091450206800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
           "title": "特朗普：告诉沃什放手去做，预计他是位伟大的美联储主席，希望他完全独立",
           "url": "https://wallstreetcn.com/articles/3772950",
           "source": "华尔街见闻",
@@ -446,6 +478,28 @@
           "time_info": "00时56分"
         },
         {
+          "title": "枪击发生时特朗普正在白宫",
+          "url": "https://wallstreetcn.com/livenews/3108435",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
+          "url": "https://wallstreetcn.com/articles/3772980",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
           "title": "据美国哥伦比亚广播公司（CBS）：美国总统特朗普称，我只会签署一个能让我们从伊朗获得所有想要的东西的协议。",
           "url": "https://flash.jin10.com/detail/20260524000405982800",
           "source": "金十数据",
@@ -455,6 +509,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "美国众议院议长约翰逊：感谢英勇的特勤人员迅速果断采取行动保护特朗普总统，我们为此次无端枪击事件的伤者祈福，祝愿其早日康复。",
+          "url": "https://flash.jin10.com/detail/20260524084741066800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         },
         {
           "title": "据美国哥伦比亚广播公司（CBS）：美国总统特朗普称，协议将实现对伊朗浓缩铀的“令人满意的处理”。",
@@ -510,6 +575,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        },
+        {
+          "title": "枪击发生时特朗普正在白宫",
+          "url": "https://flash.jin10.com/detail/20260524081154978800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         },
         {
           "title": "据Axios记者报道，美国总统特朗普告诉我，他认为以色列总理内塔尼亚胡并不担心美伊之间可能达成的协议。",
@@ -576,6 +652,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "枪击发生时特朗普正在白宫",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9E%AA%E5%87%BB%E5%8F%91%E7%94%9F%E6%97%B6%E7%89%B9%E6%9C%97%E6%99%AE%E6%AD%A3%E5%9C%A8%E7%99%BD%E5%AE%AB%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "谁在为特朗普的“正义”买单",
+          "url": "https://www.toutiao.com/trending/7642160904738062362/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         }
       ]
     },
@@ -593,17 +691,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时56分 ~ 07时51分]"
-        },
-        {
-          "title": "据黎巴嫩电视台Al-Mayadeen：伊朗与美国的谅解备忘录内容包括，停火、霍尔木兹海峡重新开放、美军舰队撤回、结束海上封锁，以及释放60亿美元被冻结的伊朗资金。",
-          "url": "https://flash.jin10.com/detail/20260524054545746800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时44分 ~ 07时51分]"
         },
         {
           "title": "巴基斯坦陆军声明：元帅/陆军参谋长赛义德·阿西姆·穆尼尔圆满结束访伊行程。 参谋长对伊朗的访问“成果丰硕”。 会谈对调解进程做出了实质性贡献。 （美国与伊朗）朝着达成最终谅解取得了令人鼓舞的进展。 访问期间，穆尼尔元帅与伊朗领导层进行了多场高规格的密集会晤。他先后拜会了伊朗总统、伊朗议会议长、伊朗外交部长以及伊朗内政部长。 双方的会谈核心始终聚焦于如何加速推进目前正在进行的协商进程，以全力支持和维护中东及周边地区的和平与稳定。 声明特别指出，过去24小时内的密集谈判已经取得了令人鼓舞的突破性进展，双方正加速朝着达成最终谅解备忘录的方向迈进。",
@@ -656,11 +743,24 @@
           "source": "金十数据",
           "ranks": [
             5,
-            8
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时46分 ~ 10时31分]"
+        },
+        {
+          "title": "据黎巴嫩电视台Al-Mayadeen：伊朗与美国的谅解备忘录内容包括，停火、霍尔木兹海峡重新开放、美军舰队撤回、结束海上封锁，以及释放60亿美元被冻结的伊朗资金。",
+          "url": "https://flash.jin10.com/detail/20260524054545746800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            20
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[05时46分 ~ 07时51分]"
+          "time_info": "[06时44分 ~ 10时31分]"
         },
         {
           "title": "两名了解谈判情况的巴基斯坦消息人士称，伊朗和巴基斯坦已向美国提交了修订后的提议，内容包括结束战争、开放霍尔木兹海峡。",
@@ -769,11 +869,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 07时51分]"
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 10时31分]"
         },
         {
           "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
@@ -781,11 +882,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 07时51分]"
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 10时31分]"
         },
         {
           "title": "下周一港股、美股休市",
@@ -813,6 +915,35 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "科技股力撑美股走强，道指新高，标普连涨八周，沃勒鹰派措辞打压美债，原油宽幅震荡",
+          "url": "https://wallstreetcn.com/articles/3772907",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 06时44分]"
+        },
+        {
+          "title": "美股和美债的“矛盾走势”，接下来谁会赢？",
+          "url": "https://wallstreetcn.com/articles/3772970",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -831,24 +962,6 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "科技股力撑美股走强，道指新高，标普连涨八周，沃勒鹰派措辞打压美债，原油宽幅震荡",
-          "url": "https://wallstreetcn.com/articles/3772907",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 06时44分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "半导体",
       "match_count": 1,
       "titles": [
@@ -863,8 +976,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时57分 ~ 07时51分]"
+          "appearance_count": 8,
+          "time_info": "[01时57分 ~ 10时31分]"
         }
       ]
     }
