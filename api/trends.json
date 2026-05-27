@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T14:57:42.401596+08:00",
-  "total_titles_processed": 920,
+  "generated_at": "2026-05-27T18:53:46.274310+08:00",
+  "total_titles_processed": 1118,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "释新闻｜美伊谈判冲刺阶段，特朗普为何突然提起《亚伯拉罕协议》？",
@@ -16,11 +16,12 @@
             17,
             16,
             11,
-            8
+            8,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时52分 ~ 14时57分]"
+          "appearance_count": 10,
+          "time_info": "[01时52分 ~ 18时53分]"
         },
         {
           "title": "特朗普提了一个非分要求",
@@ -30,8 +31,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时39分 ~ 14时57分]"
+          "appearance_count": 4,
+          "time_info": "[10时39分 ~ 18时53分]"
         },
         {
           "title": "特朗普体检后称“结果非常完美”，下个月将迎来80岁生日",
@@ -40,9 +41,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时57分 ~ 18时53分]"
         },
         {
           "title": "美伊谈判关键之际 特朗普与内塔尼亚胡通话",
@@ -156,6 +157,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-27）",
+          "url": "https://flash.jin10.com/detail/20260527181651222800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
         },
         {
           "title": "据AXIOS网站记者：消息人士透露，美国总统特朗普正在与以色列总理内塔尼亚胡通电话。",
@@ -293,7 +305,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "美伊谈判前景提振市场 美股三大期指集体上涨 美光盘前大涨超8% | 今夜看点",
@@ -329,6 +341,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时03分 ~ 14时57分]"
+        },
+        {
+          "title": "拼多多美股盘前跌近4%，公司第一季度营收和调整后每ADS收益均不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3110038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        },
+        {
+          "title": "美股盘前美光继续大涨，日韩股市再创新高，SK海力士市值破万亿美元",
+          "url": "https://wallstreetcn.com/articles/3773196",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
         },
         {
           "title": "金十图示：2026年05月26日（周二）美股热门股票行情一览（美股盘中）",
@@ -389,7 +423,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "停火协议形同废纸！伊朗开火，回击美国空袭，小哈梅内伊：中东地区国家将不再庇护美军",
@@ -413,6 +447,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时52分 ~ 07时03分]"
+        },
+        {
+          "title": "伊朗说尚未就霍尔木兹海峡问题与美国达成一致",
+          "url": "https://flash.jin10.com/detail/20260527182321444800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
         },
         {
           "title": "美国对伊朗实施打击，打击目标包括导弹发射阵地以及正试图布设水雷的伊朗船只，美国为何在停火期发动打击？",
@@ -472,6 +517,17 @@
           "time_info": "07时03分"
         },
         {
+          "title": "伊朗说尚未就霍尔木兹海峡问题与美国达成一致",
+          "url": "https://wallstreetcn.com/livenews/3110025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        },
+        {
           "title": "美国政府被马斯克掐咽喉：五角大楼与SpaceX就伊朗战争期间“星链”涨价问题爆发激烈争执",
           "url": "https://wallstreetcn.com/livenews/3109568",
           "source": "华尔街见闻-快讯",
@@ -486,7 +542,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "半导体博士解读华为韬定律",
@@ -497,11 +553,12 @@
             14,
             18,
             19,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时52分 ~ 14时57分]"
+          "appearance_count": 10,
+          "time_info": "[01时52分 ~ 18时53分]"
         },
         {
           "title": "和平预期与AI热潮双轮驱动，标普、纳指创新高，半导体指数五连涨，美光飙涨20%",
@@ -509,11 +566,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时03分 ~ 14时57分]"
+          "appearance_count": 5,
+          "time_info": "[07时03分 ~ 18时53分]"
         },
         {
           "title": "半导体产业链震荡拉升，华天科技3连板，华微电子、太极实业、苏州固锝涨停，扬杰科技、北京君正、国科微、恒烁股份、天岳先进均涨超10%。",
@@ -555,9 +613,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时57分"
+        },
+        {
+          "title": "沃格光电：公司在泛半导体领域的业务尚处于早期阶段",
+          "url": "https://wallstreetcn.com/livenews/3110004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
         }
       ]
     },
@@ -583,7 +652,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时57分"
         },
@@ -605,7 +674,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时57分"
         }
