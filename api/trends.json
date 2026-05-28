@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-28T10:26:23.355772+08:00",
-  "total_titles_processed": 718,
+  "generated_at": "2026-05-28T14:46:05.119935+08:00",
+  "total_titles_processed": 912,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 51,
       "titles": [
         {
           "title": "特朗普要求多国签《亚伯拉罕协议》，专家：警惕“美式陷阱”",
@@ -27,8 +27,31 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时56分 ~ 14时46分]"
+        },
+        {
+          "title": "中东波澜又起！白宫斥协议草案“纯属捏造” 特朗普称对谈判进程“不满意”",
+          "url": "https://www.cls.cn/detail/2383563",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时26分 ~ 14时46分]"
+        },
+        {
+          "title": "伊朗将浓缩铀运往中俄？特朗普回应",
+          "url": "https://news.ifeng.com/c/8tUdFRDVef2",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时56分 ~ 10时26分]"
+          "time_info": "[14时45分 ~ 14时46分]"
         },
         {
           "title": "美军对伊朗军事基地发动新打击！特朗普放话：不在乎中期选举，不会为了选票对伊让步",
@@ -53,15 +76,27 @@
           "time_info": "01时54分"
         },
         {
-          "title": "中东波澜又起！白宫斥协议草案“纯属捏造” 特朗普称对谈判进程“不满意”",
-          "url": "https://www.cls.cn/detail/2383563",
-          "source": "财联社热门",
+          "title": "特朗普对华尔街日报再次提起索赔100亿美元的诉讼",
+          "url": "https://wallstreetcn.com/livenews/3110519",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时26分"
+          "time_info": "14时46分"
+        },
+        {
+          "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
+          "url": "https://wallstreetcn.com/articles/3773275",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时26分 ~ 14时46分]"
         },
         {
           "title": "金十提示：美国总统特朗普结束白宫内阁会议讲话。",
@@ -164,17 +199,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
-        },
-        {
-          "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
-          "url": "https://wallstreetcn.com/articles/3773275",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时26分"
         },
         {
           "title": "美国总统特朗普：若《亚伯拉罕协议》无法落实，我不确定是否还要与伊朗达成协议。如果海湾国家不签署《亚伯拉罕协议》，我认为我们就不该和伊朗达成协议。",
@@ -513,7 +537,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         },
@@ -553,6 +577,160 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "伊朗官员称美国将在所有战线停火60天",
+          "url": "https://news.ifeng.com/c/8tTBSVzined",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时53分 ~ 06时27分]"
+        },
+        {
+          "title": "伊美“停火框架”草案披露：美国解除“海上封锁”并部分撤军，伊朗于一个月内逐步通航",
+          "url": "https://wallstreetcn.com/articles/3773253",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时53分 ~ 14时46分]"
+        },
+        {
+          "title": "一份协议如何让双方“宣布胜利”？美国提出新要求，伊朗有两个目标",
+          "url": "https://wallstreetcn.com/articles/3773194",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时53分 ~ 07时56分]"
+        },
+        {
+          "title": "美国财长贝森特：美国财政部继续对伊朗施加最大压力。",
+          "url": "https://wallstreetcn.com/livenews/3110377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "报道：美国对伊朗军事目标发动新一轮攻击",
+          "url": "https://wallstreetcn.com/livenews/3110303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时56分"
+        },
+        {
+          "title": "美国政府当地时间27日将伊朗新设立的“波斯湾海峡管理局”列入制裁名单。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3110374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "美国伊朗开始爆发直接冲突",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BC%8A%E6%9C%97%E5%BC%80%E5%A7%8B%E7%88%86%E5%8F%91%E7%9B%B4%E6%8E%A5%E5%86%B2%E7%AA%81%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时56分 ~ 10时26分]"
+        },
+        {
+          "title": "伊朗对美国空军基地实施打击",
+          "url": "https://www.toutiao.com/trending/7644776648142753286/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时45分 ~ 14时46分]"
+        },
+        {
+          "title": "伊朗对美国空军基地实施打击",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AF%B9%E7%BE%8E%E5%9B%BD%E7%A9%BA%E5%86%9B%E5%9F%BA%E5%9C%B0%E5%AE%9E%E6%96%BD%E6%89%93%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时45分 ~ 14时46分]"
+        },
+        {
+          "title": "美国10年期国债期货下跌4个基点，30年期国债期货下跌6个基点，此前美军称再次袭击伊朗军事设施。",
+          "url": "https://flash.jin10.com/detail/20260528073233232800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时56分"
+        },
+        {
+          "title": "伊朗：美国必须给所有被冻结的伊朗资产解冻。",
+          "url": "https://wallstreetcn.com/livenews/3110500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
+        {
+          "title": "伊朗媒体称一艘试图穿越霍尔木兹海峡的美国油轮被迫折返",
+          "url": "https://wallstreetcn.com/livenews/3110339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "美国财长贝森特：美国财政部将继续对伊朗施加最大压力。",
+          "url": "https://flash.jin10.com/detail/20260528095848586800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 12,
       "titles": [
@@ -568,18 +746,6 @@
           "time_info": "[01时53分 ~ 06时27分]"
         },
         {
-          "title": "美股期指集体走高 美光盘前再度大涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2383334",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时53分 ~ 10时26分]"
-        },
-        {
           "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
           "url": "https://wallstreetcn.com/articles/3773196",
           "source": "华尔街见闻",
@@ -587,8 +753,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时56分 ~ 10时26分]"
+          "appearance_count": 4,
+          "time_info": "[07时56分 ~ 14时46分]"
         },
         {
           "title": "美股收盘：三大股指勉强收涨 美光市值压过伯克希尔",
@@ -599,8 +765,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时56分 ~ 10时26分]"
+          "appearance_count": 4,
+          "time_info": "[07时56分 ~ 14时46分]"
+        },
+        {
+          "title": "美股期指集体走高 美光盘前再度大涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2383334",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时53分 ~ 10时26分]"
         },
         {
           "title": "Nebius Group NV美股盘后涨14%，Situational Awareness报告称对该公司持股。",
@@ -695,126 +873,6 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "伊朗官员称美国将在所有战线停火60天",
-          "url": "https://news.ifeng.com/c/8tTBSVzined",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时53分 ~ 06时27分]"
-        },
-        {
-          "title": "伊美“停火框架”草案披露：美国解除“海上封锁”并部分撤军，伊朗于一个月内逐步通航",
-          "url": "https://wallstreetcn.com/articles/3773253",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时53分 ~ 10时26分]"
-        },
-        {
-          "title": "一份协议如何让双方“宣布胜利”？美国提出新要求，伊朗有两个目标",
-          "url": "https://wallstreetcn.com/articles/3773194",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时53分 ~ 07时56分]"
-        },
-        {
-          "title": "美国财长贝森特：美国财政部继续对伊朗施加最大压力。",
-          "url": "https://wallstreetcn.com/livenews/3110377",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "报道：美国对伊朗军事目标发动新一轮攻击",
-          "url": "https://wallstreetcn.com/livenews/3110303",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时56分"
-        },
-        {
-          "title": "美国政府当地时间27日将伊朗新设立的“波斯湾海峡管理局”列入制裁名单。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3110374",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "美国伊朗开始爆发直接冲突",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BC%8A%E6%9C%97%E5%BC%80%E5%A7%8B%E7%88%86%E5%8F%91%E7%9B%B4%E6%8E%A5%E5%86%B2%E7%AA%81%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时56分 ~ 10时26分]"
-        },
-        {
-          "title": "美国10年期国债期货下跌4个基点，30年期国债期货下跌6个基点，此前美军称再次袭击伊朗军事设施。",
-          "url": "https://flash.jin10.com/detail/20260528073233232800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时56分"
-        },
-        {
-          "title": "伊朗媒体称一艘试图穿越霍尔木兹海峡的美国油轮被迫折返",
-          "url": "https://wallstreetcn.com/livenews/3110339",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "美国财长贝森特：美国财政部将继续对伊朗施加最大压力。",
-          "url": "https://flash.jin10.com/detail/20260528095848586800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        }
-      ]
-    },
-    {
       "keyword_group": "半导体",
       "match_count": 8,
       "titles": [
@@ -825,9 +883,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时26分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时26分 ~ 14时46分]"
         },
         {
           "title": "和平预期与AI热潮双轮驱动，标普、纳指创新高，半导体指数五连涨，美光飙涨20%",
@@ -847,18 +905,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "创业板指跌超1%，沪指跌0.25%，深成指跌0.85%，贵金属、半导体、白酒、光伏设备等方向跌幅居前，沪深京三市下跌个股超2200只。",
-          "url": "https://wallstreetcn.com/livenews/3110365",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         },
@@ -867,9 +914,21 @@
           "url": "https://www.cls.cn/detail/2383476",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时26分 ~ 14时46分]"
+        },
+        {
+          "title": "创业板指跌超1%，沪指跌0.25%，深成指跌0.85%，贵金属、半导体、白酒、光伏设备等方向跌幅居前，沪深京三市下跌个股超2200只。",
+          "url": "https://wallstreetcn.com/livenews/3110365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         },
@@ -880,7 +939,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         },
@@ -891,7 +950,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         },
@@ -902,9 +961,59 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "现货白银向下触及73美元/盎司，日内跌2.20%。",
+          "url": "https://flash.jin10.com/detail/20260528100453689800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "金十图示：2026年05月28日（周四）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260528070540902800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时56分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 5月27日（周三）晚盘收盘下跌1.05%报973.82元/克；<br/>上海黄金交易所白银T+D 5月27日（周三）晚盘收盘下跌2.12%报18105.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260528023136625800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时08分"
+        },
+        {
+          "title": "白银惨遭“围剿”：三家投行集体唱空！",
+          "url": "https://flash.jin10.com/detail/20260528134953236800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
         }
       ]
     },
@@ -929,11 +1038,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时56分 ~ 10时26分]"
+          "appearance_count": 4,
+          "time_info": "[07时56分 ~ 14时46分]"
         },
         {
           "title": "高盛称伊朗战争期间美元走强拖累外国官方美债需求",
@@ -988,41 +1098,19 @@
       ]
     },
     {
-      "keyword_group": "白银",
-      "match_count": 3,
+      "keyword_group": "金价",
+      "match_count": 1,
       "titles": [
         {
-          "title": "现货白银向下触及73美元/盎司，日内跌2.20%。",
-          "url": "https://flash.jin10.com/detail/20260528100453689800",
+          "title": "PCE前金价加速下跌，市场在提前交易最坏情景？",
+          "url": "https://flash.jin10.com/detail/20260528141552137800",
           "source": "金十数据",
           "ranks": [
-            13
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "金十图示：2026年05月28日（周四）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260528070540902800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时56分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 5月27日（周三）晚盘收盘下跌1.05%报973.82元/克；<br/>上海黄金交易所白银T+D 5月27日（周三）晚盘收盘下跌2.12%报18105.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260528023136625800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时08分"
+          "time_info": "14时46分"
         }
       ]
     },
@@ -1037,7 +1125,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         }
