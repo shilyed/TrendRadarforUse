@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-29T17:39:04.312668+08:00",
-  "total_titles_processed": 1018,
+  "generated_at": "2026-05-29T20:43:14.384133+08:00",
+  "total_titles_processed": 1192,
   "failed_sources": [],
   "trends": [
     {
@@ -196,11 +196,12 @@
           "url": "https://wallstreetcn.com/articles/3773313",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时06分 ~ 17时39分]"
+          "appearance_count": 6,
+          "time_info": "[08时06分 ~ 20时43分]"
         },
         {
           "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
@@ -354,8 +355,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时58分 ~ 17时39分]"
+          "appearance_count": 10,
+          "time_info": "[01时58分 ~ 20时43分]"
         },
         {
           "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
@@ -399,8 +400,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时38分 ~ 17时39分]"
+          "appearance_count": 4,
+          "time_info": "[17时38分 ~ 20时43分]"
         },
         {
           "title": "黄仁勋披露随特朗普访华细节：他让我在华盛顿登机，可我在西海岸",
@@ -486,7 +487,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
         }
@@ -543,6 +544,56 @@
       ]
     },
     {
+      "keyword_group": "半导体",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "【焦点复盘】科创50指数放量跌超5%，半导体产业链遭深幅回调，地产产业链逆势大涨",
+          "url": "https://www.cls.cn/detail/2385496",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时42分 ~ 20时43分]"
+        },
+        {
+          "title": "打破传统盛衰周期！全球半导体设备龙头：行业迎来史上最好时代",
+          "url": "https://www.cls.cn/detail/2385006",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时38分 ~ 17时39分]"
+        },
+        {
+          "title": "创业板跌超2%，科创50重挫逾5%，电力、消费拉升，芯片半导体集体下挫，恒指涨近1%，联想集团再涨超20%",
+          "url": "https://wallstreetcn.com/articles/3773412",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时38分 ~ 17时39分]"
+        },
+        {
+          "title": "四大股指齐跌 半导体产业链深度回调",
+          "url": "https://www.toutiao.com/trending/7644246196043694116/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时38分 ~ 17时39分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -578,45 +629,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "打破传统盛衰周期！全球半导体设备龙头：行业迎来史上最好时代",
-          "url": "https://www.cls.cn/detail/2385006",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时38分 ~ 17时39分]"
-        },
-        {
-          "title": "创业板跌超2%，科创50重挫逾5%，电力、消费拉升，芯片半导体集体下挫，恒指涨近1%，联想集团再涨超20%",
-          "url": "https://wallstreetcn.com/articles/3773412",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时38分 ~ 17时39分]"
-        },
-        {
-          "title": "四大股指齐跌 半导体产业链深度回调",
-          "url": "https://www.toutiao.com/trending/7644246196043694116/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时38分 ~ 17时39分]"
         }
       ]
     },
