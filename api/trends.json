@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T06:51:54.994661+08:00",
-  "total_titles_processed": 480,
+  "generated_at": "2026-05-31T07:55:35.975783+08:00",
+  "total_titles_processed": 515,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 06时51分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 07时55分]"
         },
         {
           "title": "美国法官裁定将特朗普名字从肯尼迪中心移除",
@@ -39,8 +39,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 06时51分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 07时55分]"
         },
         {
           "title": "一图看懂｜“不听话就炸掉”，特朗普威胁/攻击过哪些国家？",
@@ -52,8 +52,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 06时51分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 07时55分]"
         },
         {
           "title": "特朗普就结束伊朗战事提出条件，伊朗必须同意永远不拥有核武器，霍尔木兹海峡必须立即开放，伊方会接受吗？",
@@ -63,11 +63,12 @@
             6,
             12,
             14,
-            20
+            20,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 06时51分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 07时55分]"
         },
         {
           "title": "白宫公布特朗普年度体检报告：增重超6公斤，腿部肿胀已经减轻",
@@ -141,11 +142,12 @@
             14,
             13,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 06时51分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 07时55分]"
         },
         {
           "title": "美国：无论是否支付费用，美国个人和实体均不得接受伊朗政府提供的服务",
@@ -158,8 +160,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 06时51分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 07时55分]"
         },
         {
           "title": "据伊朗国家电视台：伊朗已获得与美国的谅解备忘录非正式文本。文本显示，伊朗将有权决定霍尔木兹海峡船只的性质，并将决定霍尔木兹海峡的航线和费用。",
@@ -172,8 +174,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时14分 ~ 06时51分]"
+          "appearance_count": 5,
+          "time_info": "[03时14分 ~ 07时55分]"
         },
         {
           "title": "美国汽车协会：数据显示，美国全国汽油30日当天平均零售价为每加仑4.35美元，较前一日下降4美分，较一周前下降17美分，仍较伊朗战事前水平高出46%。",
@@ -199,11 +201,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 06时51分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 07时55分]"
         },
         {
           "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
@@ -214,8 +217,25 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 06时51分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 07时55分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "“没有零件就造不出设备”！韩国半导体检测设备业面临“史上最严重”零部件紧张",
+          "url": "https://wallstreetcn.com/articles/3773493",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
         }
       ]
     }
