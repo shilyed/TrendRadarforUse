@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-31T07:55:35.975783+08:00",
-  "total_titles_processed": 515,
+  "generated_at": "2026-05-31T10:41:24.209691+08:00",
+  "total_titles_processed": 679,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "美伊局势迷雾重重：特朗普被曝推迟作“最终决定” 双方仍各说各话",
+          "url": "https://www.cls.cn/detail/2385988",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时07分 ~ 10时41分]"
+        },
         {
           "title": "特朗普称将作伊朗战事最终决定、霍尔木兹和伊核以外问题已达成一致，伊媒称其言论“真假参半”",
           "url": "https://wallstreetcn.com/articles/3773469",
@@ -18,17 +30,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时07分 ~ 01时59分]"
-        },
-        {
-          "title": "美伊局势迷雾重重：特朗普被曝推迟作“最终决定” 双方仍各说各话",
-          "url": "https://www.cls.cn/detail/2385988",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时07分 ~ 07时55分]"
         },
         {
           "title": "美国法官裁定将特朗普名字从肯尼迪中心移除",
@@ -71,6 +72,17 @@
           "time_info": "[00时07分 ~ 07时55分]"
         },
         {
+          "title": "美官员透露：特朗普提出更强硬条款 试图施压伊朗加快谈判进程",
+          "url": "https://wallstreetcn.com/livenews/3111866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
           "title": "白宫公布特朗普年度体检报告：增重超6公斤，腿部肿胀已经减轻",
           "url": "https://wallstreetcn.com/livenews/3111814",
           "source": "华尔街见闻-快讯",
@@ -106,6 +118,17 @@
           "time_info": "[01时59分 ~ 03时14分]"
         },
         {
+          "title": "伊朗最高领袖顾问批特朗普背弃外交原则",
+          "url": "https://news.ifeng.com/c/8tYiCwmfwnC",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
           "title": "美媒：特朗普推迟就伊朗相关协议作最终决定",
           "url": "https://wallstreetcn.com/articles/3773478",
           "source": "华尔街见闻",
@@ -126,6 +149,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
+        },
+        {
+          "title": "美媒：特朗普对美伊协议的修改建议涉及核材料获取与霍尔木兹海峡",
+          "url": "https://flash.jin10.com/detail/20260531092405852800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "据福克斯新闻：特朗普表示，正以缓慢而稳定的方式从德黑兰获得想要的，如果这无法实现，将以完全不同的方式结束冲突。",
+          "url": "https://flash.jin10.com/detail/20260531091429020800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "据福克斯新闻：特朗普表示，伊朗人是非常有经验的谈判者，这需要时间，但他并不着急。",
+          "url": "https://flash.jin10.com/detail/20260531091413075800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
         }
       ]
     },
@@ -143,11 +199,12 @@
             13,
             5,
             4,
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时07分 ~ 07时55分]"
+          "appearance_count": 9,
+          "time_info": "[00时07分 ~ 10时41分]"
         },
         {
           "title": "美国：无论是否支付费用，美国个人和实体均不得接受伊朗政府提供的服务",
@@ -157,11 +214,12 @@
             3,
             5,
             18,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 07时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 10时41分]"
         },
         {
           "title": "据伊朗国家电视台：伊朗已获得与美国的谅解备忘录非正式文本。文本显示，伊朗将有权决定霍尔木兹海峡船只的性质，并将决定霍尔木兹海峡的航线和费用。",
@@ -202,11 +260,12 @@
           "ranks": [
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时07分 ~ 07时55分]"
+          "appearance_count": 9,
+          "time_info": "[00时07分 ~ 10时41分]"
         },
         {
           "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
@@ -214,11 +273,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时07分 ~ 07时55分]"
+          "appearance_count": 9,
+          "time_info": "[00时07分 ~ 10时41分]"
         }
       ]
     },
@@ -231,11 +291,12 @@
           "url": "https://wallstreetcn.com/articles/3773493",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时55分 ~ 10时41分]"
         }
       ]
     }
