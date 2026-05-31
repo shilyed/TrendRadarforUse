@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-01T05:53:01.628059+08:00",
-  "total_titles_processed": 426,
+  "generated_at": "2026-06-01T06:53:32.932982+08:00",
+  "total_titles_processed": 473,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 05时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 06时53分]"
         },
         {
           "title": "特朗普将伊拉克纳入特使汤姆·巴拉克治叙职能范围",
           "url": "https://wallstreetcn.com/livenews/3111962",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 05时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 06时53分]"
         },
         {
           "title": "多名艺人辞演后特朗普决定自己上台",
@@ -40,8 +41,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 05时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 06时53分]"
         },
         {
           "title": "特朗普肖像上250美元钞票有哪些难题",
@@ -50,11 +51,12 @@
           "ranks": [
             18,
             21,
-            20
+            20,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 05时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 06时53分]"
         },
         {
           "title": "叙利亚总统沙拉与特朗普通电话，沙拉告诉特朗普解除对叙利亚剩余的制裁措施是重振叙利亚经济的重要一步。",
@@ -85,11 +87,12 @@
           "url": "https://flash.jin10.com/detail/20260601044554841800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时53分]"
         },
         {
           "title": "美媒称特朗普政府损失大量法律人才 特朗普：是件好事",
@@ -98,7 +101,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
         },
@@ -124,11 +127,12 @@
           "url": "https://wallstreetcn.com/livenews/3111960",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 05时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 06时53分]"
         },
         {
           "title": "伊朗外交部长：与美国的会谈和信息交流仍在进行。",
@@ -229,6 +233,34 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股三大股指期货周一基本平开。",
+          "url": "https://flash.jin10.com/detail/20260601060027642800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
+        },
+        {
+          "title": "美股的“午夜钟声”或将敲响",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%9A%84%E2%80%9C%E5%8D%88%E5%A4%9C%E9%92%9F%E5%A3%B0%E2%80%9D%E6%88%96%E5%B0%86%E6%95%B2%E5%93%8D",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "半导体",
       "match_count": 2,
       "titles": [
@@ -242,36 +274,37 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 05时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 06时53分]"
         },
         {
           "title": "MCU巨头意法半导体年内二次涨价",
           "url": "https://wallstreetcn.com/livenews/3111963",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 05时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 06时53分]"
         }
       ]
     },
     {
-      "keyword_group": "美股",
+      "keyword_group": "白银",
       "match_count": 1,
       "titles": [
         {
-          "title": "美股的“午夜钟声”或将敲响",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%9A%84%E2%80%9C%E5%8D%88%E5%A4%9C%E9%92%9F%E5%A3%B0%E2%80%9D%E6%88%96%E5%B0%86%E6%95%B2%E5%93%8D",
-          "source": "百度热搜",
+          "title": "现货白银回落至74美元/盎司下方，日内跌2.08%。",
+          "url": "https://flash.jin10.com/detail/20260601060106646800",
+          "source": "金十数据",
           "ranks": [
-            29
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时59分"
+          "time_info": "06时53分"
         }
       ]
     }
