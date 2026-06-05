@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T18:52:10.428060+08:00",
-  "total_titles_processed": 1176,
+  "generated_at": "2026-06-05T21:50:30.241523+08:00",
+  "total_titles_processed": 1342,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 48,
       "titles": [
         {
           "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
@@ -243,6 +243,17 @@
           "time_info": "05时26分"
         },
         {
+          "title": "特朗普称若达成协议，不排除与伊朗最高领袖会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33313125",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
           "title": "美国财长贝森特：美国价格短期偏高，将会下降。 在总统特朗普的第二任期内，实际薪资除了4月份、每个月都在增长。",
           "url": "https://wallstreetcn.com/livenews/3114537",
           "source": "华尔街见闻-快讯",
@@ -271,7 +282,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         },
@@ -293,7 +304,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         },
@@ -436,7 +447,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         },
@@ -461,6 +472,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "机构分析师评美国非农：市场现在认为，美联储在10月28日的会议上加息的可能性接近70%。试想一下，如果沃什在中期选举前宣布加息，特朗普会作何反应。",
+          "url": "https://flash.jin10.com/detail/20260605212409211800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
         },
         {
           "title": "美国财长贝森特：在特朗普2.0政策下，除了四月外，每个月的实际工资均有所增长。",
@@ -521,7 +543,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 13,
       "titles": [
         {
           "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
@@ -572,6 +594,28 @@
           "time_info": "[00时47分 ~ 10时38分]"
         },
         {
+          "title": "美股盘初，房利美股价上涨10%，房地美上涨9.7%。此前美国总统特朗普表示，两房的价值可能有1万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3115177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
+          "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
+          "url": "https://wallstreetcn.com/articles/3773949",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
           "title": "李大霄谈美股风险释放",
           "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E7%BE%8E%E8%82%A1%E9%A3%8E%E9%99%A9%E9%87%8A%E6%94%BE",
           "source": "bilibili 热搜",
@@ -595,6 +639,17 @@
           "time_info": "[15时01分 ~ 15时02分]"
         },
         {
+          "title": "房利美股价上涨10%，房地美上涨9.7%。",
+          "url": "https://flash.jin10.com/detail/20260605213437051800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
           "title": "地产ETF、道指ETF、小盘股指ETF至少收涨1.5%，领跑美股大类资产类ETF",
           "url": "https://wallstreetcn.com/livenews/3114625",
           "source": "华尔街见闻-快讯",
@@ -606,6 +661,17 @@
           "time_info": "05时26分"
         },
         {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3115164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
           "title": "银行ETF、医疗业ETF收涨超3%，领跑美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3114624",
           "source": "华尔街见闻-快讯",
@@ -615,12 +681,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "非农大超预期 美股开盘纳指跌超1%",
+          "url": "https://flash.jin10.com/detail/20260605213036341800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
         }
       ]
     },
     {
       "keyword_group": "半导体",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "创业板指跌超3%，沪指跌0.66%，深成指跌2.11%，电力、培育钻石、半导体、贵金属等板块跌幅居前，沪深京三市下跌个股近2300只，创业板权重股中际旭创、新易盛、天孚通信、胜宏科技、阳光电源等大幅走低。",
@@ -680,6 +757,28 @@
           "time_info": "[15时01分 ~ 15时02分]"
         },
         {
+          "title": "基本半导体向港交所提交上市申请",
+          "url": "https://wallstreetcn.com/livenews/3115173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
+          "title": "费城半导体指数下跌4.6%。",
+          "url": "https://flash.jin10.com/detail/20260605213209387800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
           "title": "深成指、创业板指均跌超1%，科创50指数跌逾3%，半导体芯片、算力硬件等方向跌幅居前，沪深京三市下跌个股近2400只。",
           "url": "https://wallstreetcn.com/livenews/3114729",
           "source": "华尔街见闻-快讯",
@@ -708,9 +807,71 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "纽约金日内跌幅达2.0%，报4414.4美元/盎司。 纽约银日内跌幅达4.5%，报70.58美元/盎司；现货白银日内跌幅达4.5%，报70.52美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3115178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
+          "title": "现货黄金涨0.9%，白银涨1.6%",
+          "url": "https://wallstreetcn.com/livenews/3114638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 07时03分]"
+        },
+        {
+          "title": "现货白银失守72美元/盎司，日内跌超2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3114847",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 6月4日（周四）晚盘收盘上涨0.22%报976.65元/克；<br/>上海黄金交易所白银T+D 6月4日（周四）晚盘收盘上涨1.08%报17933.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260605023208957800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "非农前黄金空退多进，白银加仓动作已趋谨慎",
+          "url": "https://flash.jin10.com/detail/20260605143542846800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         }
       ]
     },
@@ -766,57 +927,6 @@
       ]
     },
     {
-      "keyword_group": "白银",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "现货黄金涨0.9%，白银涨1.6%",
-          "url": "https://wallstreetcn.com/livenews/3114638",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时26分 ~ 07时03分]"
-        },
-        {
-          "title": "现货白银失守72美元/盎司，日内跌超2.5%。",
-          "url": "https://wallstreetcn.com/livenews/3114847",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时02分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 6月4日（周四）晚盘收盘上涨0.22%报976.65元/克；<br/>上海黄金交易所白银T+D 6月4日（周四）晚盘收盘上涨1.08%报17933.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260605023208957800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "非农前黄金空退多进，白银加仓动作已趋谨慎",
-          "url": "https://flash.jin10.com/detail/20260605143542846800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "存储芯片",
       "match_count": 4,
       "titles": [
@@ -867,6 +977,62 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "非农大超预期，美债收益率短线拉升，AI降温纳指期货跌超1.2%，WTI原油跌1%，现货白银跌超2.5%",
+          "url": "https://wallstreetcn.com/articles/3773946",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
+          "title": "美国如何一次性解决 36 万亿美债问题？",
+          "url": "https://www.zhihu.com/question/6607165102",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数4日下跌",
+          "url": "https://flash.jin10.com/detail/20260605060453998800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "现货黄金短线跳水，跌破4420美元/盎司，报4419.84美元/盎司，日内跌超1.3%。 美元指数持续走高，创4月8日以来新高，日内涨0.12%。 美国2年期国债收益率单日上行10个基点，创2026年以来新高。",
+          "url": "https://wallstreetcn.com/livenews/3115155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -880,23 +1046,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数4日下跌",
-          "url": "https://flash.jin10.com/detail/20260605060453998800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时03分"
         }
       ]
     }
