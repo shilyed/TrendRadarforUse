@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-08T18:20:51.988927+08:00",
-  "total_titles_processed": 1120,
+  "generated_at": "2026-06-08T22:43:36.699814+08:00",
+  "total_titles_processed": 1327,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "特朗普：我说了算，以色列总理别无选择",
@@ -24,11 +24,12 @@
           "url": "https://wallstreetcn.com/articles/3774049",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 18时20分]"
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 22时43分]"
         },
         {
           "title": "据半岛电视台：特朗普和内塔尼亚胡正在进行电话交谈。",
@@ -75,6 +76,31 @@
           "time_info": "05时03分"
         },
         {
+          "title": "伊朗“警告性”打击以色列，以色列称“将强力回应”，特朗普警告内塔尼亚胡“不要反击，美伊协议近在咫尺”",
+          "url": "https://wallstreetcn.com/articles/3774055",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 22时43分]"
+        },
+        {
+          "title": "主持人插不进话，特朗普受访暴怒失控：当场“摔麦”走人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33331551",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 22时43分]"
+        },
+        {
           "title": "特朗普称解冻伊朗资产或解除制裁不是协议先决条件",
           "url": "https://wallstreetcn.com/livenews/3115567",
           "source": "华尔街见闻-快讯",
@@ -88,16 +114,15 @@
           "time_info": "[00时09分 ~ 03时24分]"
         },
         {
-          "title": "伊朗“警告性”打击以色列，以色列称“将强力回应”，特朗普警告内塔尼亚胡“不要反击，美伊协议近在咫尺”",
-          "url": "https://wallstreetcn.com/articles/3774055",
-          "source": "华尔街见闻",
+          "title": "特朗普：伊朗最高领袖伤得很重",
+          "url": "https://news.ifeng.com/c/8tn0EMcDuKL",
+          "source": "凤凰网",
           "ranks": [
-            7,
-            8
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时24分 ~ 18时20分]"
+          "time_info": "[18时20分 ~ 22时43分]"
         },
         {
           "title": "以色列广播公司：特朗普政府的一个法律代表团抵达以色列，将与内塔尼亚胡、国防部长卡茨和外长萨阿尔会面。",
@@ -112,6 +137,18 @@
           "time_info": "[02时01分 ~ 03时24分]"
         },
         {
+          "title": "美议员焦虑：“特朗普”级战舰，抗不过中国导弹",
+          "url": "https://news.ifeng.com/c/8tmrYIXSZDx",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 22时43分]"
+        },
+        {
           "title": "据英国每日电讯报：美国总统特朗普考虑收购Chagos Islands。 美国官员们已经制定方案，并附加诸多选项。 美国正与英国讨论迪戈加西亚岛（Diego Garcia）的未来。",
           "url": "https://wallstreetcn.com/livenews/3115592",
           "source": "华尔街见闻-快讯",
@@ -124,18 +161,6 @@
           "time_info": "[02时01分 ~ 03时24分]"
         },
         {
-          "title": "主持人插不进话，特朗普受访暴怒失控：当场“摔麦”走人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33331551",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 18时20分]"
-        },
-        {
           "title": "学者：特朗普外交抑制了两极化阵营化",
           "url": "https://www.toutiao.com/trending/7647971110792757299/",
           "source": "今日头条",
@@ -145,17 +170,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时59分 ~ 02时01分]"
-        },
-        {
-          "title": "特朗普：伊朗最高领袖伤得很重",
-          "url": "https://news.ifeng.com/c/8tn0EMcDuKL",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时20分"
         },
         {
           "title": "据Axios援引美国官员及两名知情人士：以色列在对贝鲁特南郊发动空袭前已通报特朗普政府。",
@@ -213,15 +227,15 @@
           "time_info": "06时57分"
         },
         {
-          "title": "美议员焦虑：“特朗普”级战舰，抗不过中国导弹",
-          "url": "https://news.ifeng.com/c/8tmrYIXSZDx",
-          "source": "凤凰网",
+          "title": "以伊军事冲突升级，特朗普：双方“正寻求”立即停火",
+          "url": "https://wallstreetcn.com/articles/3774115",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时20分"
+          "time_info": "22时43分"
         },
         {
           "title": "中东冲突愈演愈烈！不顾特朗普反对 以色列攻击伊朗境内目标",
@@ -230,7 +244,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -406,7 +420,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -535,7 +549,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 22,
       "titles": [
         {
           "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
@@ -607,15 +621,37 @@
           "time_info": "[00时08分 ~ 13时24分]"
         },
         {
+          "title": "以伊战事缓和，美股高开，科技股反弹，英特尔大涨11%，美油跌破91美元",
+          "url": "https://wallstreetcn.com/articles/3774056",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
           "title": "霍尼韦尔预计全年调整后每股收益为10.35至10.65美元。 霍尼韦尔仍预计全年有机销售额增长3%至6%，市场预期增长4.6%。 霍尼韦尔仍预计全年销售额为388亿至398亿美元，市场预期393.9亿美元。 霍尼韦尔美股盘前跌近1%。",
           "url": "https://wallstreetcn.com/livenews/3116081",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
+        },
+        {
+          "title": "诺和诺德ADR跌幅迅速扩大至3.8%，刷新日低；该公司哥本哈根股价跌超4.7%，刷新日低至270.15（丹麦克朗）。 Zealand Pharma哥本哈根股价维持超过23%的跌幅，目前交投于251（丹麦克朗）附近，北京时间16:01曾跌至237.50。 近日披露减肥药临床试验数据的礼来目前（美股早盘）则涨3.7%。",
+          "url": "https://wallstreetcn.com/livenews/3116236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "美股盘前科技股多数反弹，韩股收跌超8%，油价飙升5%、黄金跌破4300",
@@ -624,9 +660,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
+        },
+        {
+          "title": "非农夜大跌只是小插曲？华尔街研判美股牛市未改",
+          "url": "https://flash.jin10.com/detail/20260608221401837800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "美股IPO后续怎么看",
@@ -651,6 +698,17 @@
           "time_info": "[05时02分 ~ 05时03分]"
         },
         {
+          "title": "美股上市的秘鲁企业股价下跌，秘鲁保守派候选人在激烈的总统选举中领先。Buenaventura跌2.4%, Intercorp Financial跌2.6%，Credicorp跌5.1%。",
+          "url": "https://flash.jin10.com/detail/20260608221021255800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
           "title": "现货黄金、美股股指期货小幅拉升，WTI原油小幅下挫。",
           "url": "https://flash.jin10.com/detail/20260608061554196800",
           "source": "金十数据",
@@ -662,6 +720,17 @@
           "time_info": "06时57分"
         },
         {
+          "title": "中东炮火暂歇 美股期指回血 苹果WWDC接棒登场 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2393996",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
           "title": "国际油价亚市盘初上涨3%，此前伊朗对以色列发动打击。 美股期货走低，标普500指数期货、道指期货跌0.4%，纳斯达克100指数期货跌0.3%。 美元指数上涨0.6%。",
           "url": "https://wallstreetcn.com/livenews/3115648",
           "source": "华尔街见闻-快讯",
@@ -671,6 +740,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时57分"
+        },
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "美国10年期国债收益率转涨，重新逼近4.54%，亚太尾盘刷新日高至4.5801%之后持续走低，美股盘初曾刷新日低至4.5145%。",
+          "url": "https://wallstreetcn.com/livenews/3116223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "国泰海通：美股或迎来至少一两个月的波动期",
@@ -693,12 +784,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时57分"
+        },
+        {
+          "title": "金十图示：2026年06月08日（周一）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260608214939969800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "美股三大股指集体高开，英特尔大涨超11%",
+          "url": "https://wallstreetcn.com/livenews/3116209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "伊朗要求解冻240亿美元资产后，美国拟将伊朗资产用于海湾国家重建",
@@ -796,6 +909,17 @@
           "time_info": "05时03分"
         },
         {
+          "title": "专家：伊朗正进入“不战不和”状态 美国推动协议意愿强于伊朗",
+          "url": "https://flash.jin10.com/detail/20260608220334203800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
           "title": "一名美国官员告诉Axios：我不认为以色列（对伊朗）的袭击有任何迫在眉睫的迹象。",
           "url": "https://wallstreetcn.com/livenews/3115673",
           "source": "华尔街见闻-快讯",
@@ -824,7 +948,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -843,29 +967,42 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "6 月 8 日韩国股市开盘跌超 8% 后熔断，日经 225 盘中跌幅近 5%，A 股低开震荡，半导体泡沫会破吗？",
           "url": "https://www.zhihu.com/question/2047250872799908693",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 22时43分]"
         },
         {
           "title": "创业板重挫超3%，芯片半导体集体下跌，机器人逆势拉升，恒科指跌超2%，沪银狂泻10%",
           "url": "https://wallstreetcn.com/articles/3774065",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 22时43分]"
+        },
+        {
+          "title": "【焦点复盘】科创50指数重挫4.3%，半导体产业链持续退潮，煤炭、银行等红利股获逆势抱团",
+          "url": "https://www.cls.cn/detail/2393675",
+          "source": "财联社热门",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时20分"
+          "time_info": "22时43分"
         },
         {
           "title": "中韩半导体ETF盘中跌超5%。",
@@ -885,7 +1022,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -907,7 +1044,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         }
@@ -915,8 +1052,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "金价下跌后郑州金店被挤爆",
+          "url": "https://www.toutiao.com/trending/7648415475306889252/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
         {
           "title": "金价跌回2025年，有金店每克跌近400元",
           "url": "https://m.thepaper.cn/newsDetail_forward_33329823",
