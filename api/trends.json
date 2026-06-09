@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-10T00:27:49.748379+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-06-10T03:09:36.827654+08:00",
+  "total_titles_processed": 408,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "芯片股力撑美股反弹，半导体指数涨超5%，英特尔大涨11%，中东局势缓和，原油冲高回落",
+          "url": "https://wallstreetcn.com/articles/3774056",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 03时09分]"
+        },
         {
           "title": "美股指跳水，纳指跌超1%，科技股回落，迈威尔科技跌超8%，金银油齐跌",
           "url": "https://wallstreetcn.com/articles/3774176",
@@ -17,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "美股跳水，纳指跌超3%，科技股回落，迈威尔科技大跌13%，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3774176",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时09分"
         },
         {
           "title": "美股跌幅扩大，纳指跌超3%，标普500指数跌1.7%，道指跌0.7%。",
@@ -41,26 +63,16 @@
           "time_info": "00时27分"
         },
         {
-          "title": "芯片股力撑美股反弹，半导体指数涨超5%，英特尔大涨11%，中东局势缓和，原油冲高回落",
-          "url": "https://wallstreetcn.com/articles/3774056",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
           "title": "美股",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 03时09分]"
         },
         {
           "title": "熊市信号触发70%！美银建议获利了结，现在美股正如“2000年泡沫破灭前1个月”",
@@ -70,19 +82,31 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 03时09分]"
         },
         {
           "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
           "url": "https://wallstreetcn.com/articles/3774156",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 03时09分]"
+        },
+        {
+          "title": "美股三大股指盘中回升，道指率先转涨，标普500指数跌幅收窄至0.5%，纳指跌幅收窄至1.2%。",
+          "url": "https://flash.jin10.com/detail/20260610023402581800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时27分"
+          "time_info": "03时09分"
         },
         {
           "title": "美股高开高走 存储芯片又大涨",
@@ -105,6 +129,140 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "机构：美股70%熊市信号被触发",
+          "url": "https://www.toutiao.com/trending/7649392765633056299/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "据伊朗半官方媒体Mehr援引伊朗议员称，针对特朗普的威胁，伊朗军队处于全面戒备状态。",
+          "url": "https://flash.jin10.com/detail/20260610025206405800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        },
+        {
+          "title": "伊朗议员：军方对美国总统特朗普的威胁保持全面警惕。（MEHR）",
+          "url": "https://wallstreetcn.com/livenews/3116991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        },
+        {
+          "title": "特朗普警告：若美伊和谈破裂 霍尔木兹海峡或数月无法恢复通航",
+          "url": "https://www.cls.cn/detail/2395258",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 03时09分]"
+        },
+        {
+          "title": "特朗普：美伊谈判进入“最后关头”",
+          "url": "https://news.ifeng.com/c/8tooQUA09O3",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 03时09分]"
+        },
+        {
+          "title": "伊朗外长疑似回应特朗普 警告外国军事力量远离伊朗",
+          "url": "https://flash.jin10.com/detail/20260610021903833800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美国能源信息署（EIA）：现在假设霍尔木兹海峡的石油运输将在2026年第三季度恢复。预计霍尔木兹海峡的交通在2027年初之前不会恢复到伊朗战争前的水平。",
+          "url": "https://flash.jin10.com/detail/20260610001334649800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        },
+        {
+          "title": "据纽约时报，美国与伊朗在磋商中聚焦于四个核问题。 美国认为，伊朗同意暂停铀浓缩活动15年。 标普500指数跌幅收窄至1.2%，道指跌幅不足0.5%，纳指跌2.1%，半导体指数跌幅也收窄至4.8%。",
+          "url": "https://wallstreetcn.com/livenews/3116971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        },
+        {
+          "title": "据纽约时报：美国认为伊朗将同意暂停铀浓缩活动15年。",
+          "url": "https://flash.jin10.com/detail/20260610012552407800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        },
+        {
+          "title": "据Axios报道，伊朗无人机击中美国直升机，并导致后者坠落。 美方的调查尚未确定该事件是否是（伊朗）故意的。 标普跌幅收窄至不足1.5%，纳指跌超2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3116968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        },
+        {
+          "title": "据纽约时报：美国与伊朗在谈判中聚焦四个核问题。",
+          "url": "https://flash.jin10.com/detail/20260610012447600800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时09分"
         }
       ]
     },
@@ -159,30 +317,30 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
+      "keyword_group": "白银",
       "match_count": 2,
       "titles": [
         {
-          "title": "特朗普：美伊谈判进入“最后关头”",
-          "url": "https://news.ifeng.com/c/8tooQUA09O3",
-          "source": "凤凰网",
+          "title": "现货白银跌破65美元/盎司，日内跌4.63%。纽约期银日内大跌5%，现报65.16美元/盎司。现货黄金现报4255.35美元/盎司，日内下跌1.7%。",
+          "url": "https://flash.jin10.com/detail/20260610002042392800",
+          "source": "金十数据",
           "ranks": [
-            8
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
         },
         {
-          "title": "特朗普警告：若美伊和谈破裂 霍尔木兹海峡或数月无法恢复通航",
-          "url": "https://www.cls.cn/detail/2395258",
-          "source": "财联社热门",
+          "title": "上海黄金交易所黄金T+D 6月9日（周二）晚盘收盘下跌1.54%报932.0元/克；<br/>上海黄金交易所白银T+D 6月9日（周二）晚盘收盘下跌3.64%报15750.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260610023030248800",
+          "source": "金十数据",
           "ranks": [
-            9
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时27分"
+          "time_info": "03时09分"
         }
       ]
     },
@@ -196,40 +354,6 @@
           "source": "今日头条",
           "ranks": [
             28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国能源信息署（EIA）：现在假设霍尔木兹海峡的石油运输将在2026年第三季度恢复。预计霍尔木兹海峡的交通在2027年初之前不会恢复到伊朗战争前的水平。",
-          "url": "https://flash.jin10.com/detail/20260610001334649800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "现货白银跌破65美元/盎司，日内跌4.63%。纽约期银日内大跌5%，现报65.16美元/盎司。现货黄金现报4255.35美元/盎司，日内下跌1.7%。",
-          "url": "https://flash.jin10.com/detail/20260610002042392800",
-          "source": "金十数据",
-          "ranks": [
-            6
           ],
           "is_new": false,
           "appearance_count": 1,
