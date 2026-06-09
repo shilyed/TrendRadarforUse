@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-10T05:43:38.820735+08:00",
-  "total_titles_processed": 480,
+  "generated_at": "2026-06-10T07:14:25.656403+08:00",
+  "total_titles_processed": 555,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "芯片股力撑美股反弹，半导体指数涨超5%，英特尔大涨11%，中东局势缓和，原油冲高回落",
@@ -15,8 +15,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 05时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 07时14分]"
+        },
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 07时14分]"
         },
         {
           "title": "美股指跳水，纳指跌超1%，科技股回落，迈威尔科技跌超8%，金银油齐跌",
@@ -47,7 +59,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         },
@@ -86,16 +98,15 @@
           "time_info": "[00时27分 ~ 05时43分]"
         },
         {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=5&Refer=top",
-          "source": "微博",
+          "title": "美股收盘：芯片板块“惊魂一跳”后持续修复 纳指收盘跌约1%",
+          "url": "https://www.cls.cn/detail/2395384",
+          "source": "财联社热门",
           "ranks": [
-            5,
-            6
+            4
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 05时43分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
         },
         {
           "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
@@ -104,11 +115,12 @@
           "ranks": [
             8,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 05时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 07时14分]"
         },
         {
           "title": "超微电脑计划通过股权和股权相关方式融资70亿美元。 最近数周，该公司围绕AI服务器的融资获得390亿美元认购。 超微电脑美股盘后跌10%。",
@@ -117,7 +129,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         },
@@ -133,6 +145,17 @@
           "time_info": "03时09分"
         },
         {
+          "title": "WTI原油抹去盘初1%的涨幅，现货黄金和美股股指期货目前小幅下跌约0.1%。",
+          "url": "https://flash.jin10.com/detail/20260610062436419800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
           "title": "美股高开高走 存储芯片又大涨",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%AB%98%E5%BC%80%E9%AB%98%E8%B5%B0+%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%8F%88%E5%A4%A7%E6%B6%A8",
           "source": "百度热搜",
@@ -144,13 +167,24 @@
           "time_info": "00时27分"
         },
         {
+          "title": "WTI原油在亚太盘初一度涨1.8%，目前涨1.5%，暂报89.57美元/桶。 美国股指期货（标普、纳指、道指、罗素2000）至多跌0.3%，比特币跌超0.7%。 美军在美股收盘之后称发动打击报复。此前，特朗普在纽约中午称必须回应伊朗击落美直升机。",
+          "url": "https://wallstreetcn.com/livenews/3117050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
           "title": "美股大类资产类ETF多数收涨，房地产ETF涨2.3%，黄金ETF跌超1.6%",
           "url": "https://wallstreetcn.com/livenews/3117015",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         },
@@ -164,6 +198,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "美股三大股指期货开盘小幅下跌，其中纳指期货跌0.2%。",
+          "url": "https://flash.jin10.com/detail/20260610060116201800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
         },
         {
           "title": "机构：美股70%熊市信号被触发",
@@ -183,7 +228,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         }
@@ -191,7 +236,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 15,
       "titles": [
         {
           "title": "美国于美东时间17:00开始对伊朗实施“自卫性”袭击。 比特币短线从62100美元上方跳水至接近61850美元的水平，“盘初”整体跌0.4%。",
@@ -200,9 +245,53 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        },
+        {
+          "title": "伊朗：已向地区内美国目标发射导弹和无人机",
+          "url": "https://flash.jin10.com/detail/20260610064449762800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "据纽约时报，美国袭击伊朗军南部五个地方，袭击目标位军事基地和海军基地。 道指期货、标普股指期货跌0.3%，罗素2000股指期货跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3117063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "伊朗外交部长：我们强大的武装部队绝不会让任何袭击或主权威胁免遭报复（定将对等血战到底）。 尽管美国在战场上屡遭惨败，但它依然愚蠢地选择来测试我们的钢铁意志。 如果你们（美军）想要保全自身性命，就立刻滚出我们的地区！",
+          "url": "https://wallstreetcn.com/livenews/3117062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：尽管美国在战场上屡遭挫败，但仍选择试探我们的决心。",
+          "url": "https://flash.jin10.com/detail/20260610063154364800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
         },
         {
           "title": "美国能源信息署（EIA）：现在假设霍尔木兹海峡的石油运输将在2026年第三季度恢复。预计霍尔木兹海峡的交通在2027年初之前不会恢复到伊朗战争前的水平。",
@@ -214,6 +303,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "美国对于伊朗南部的袭击已经减弱。（伊朗国家电视台）",
+          "url": "https://wallstreetcn.com/livenews/3117053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "据伊朗国家媒体：在美国对伊朗南部地区发动袭击后，目前局势已恢复平静。",
+          "url": "https://flash.jin10.com/detail/20260610061434000800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "美国官员：美军打击了霍尔木兹海峡周边伊朗防空和雷达系统",
+          "url": "https://flash.jin10.com/detail/20260610060319000800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
         },
         {
           "title": "据纽约时报，美国与伊朗在磋商中聚焦于四个核问题。 美国认为，伊朗同意暂停铀浓缩活动15年。 标普500指数跌幅收窄至1.2%，道指跌幅不足0.5%，纳指跌2.1%，半导体指数跌幅也收窄至4.8%。",
@@ -255,7 +377,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         },
@@ -269,13 +391,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "据Axios：美国官员称美军袭击了霍尔木兹海峡周边的数个伊朗防空系统和雷达系统。",
+          "url": "https://flash.jin10.com/detail/20260610055413211800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "特朗普证实美军打击伊朗",
+          "url": "https://news.ifeng.com/c/8tpnEaZn5yq",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
         {
           "title": "据伊朗半官方媒体Mehr援引伊朗议员称，针对特朗普的威胁，伊朗军队处于全面戒备状态。",
           "url": "https://flash.jin10.com/detail/20260610025206405800",
@@ -307,8 +451,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 05时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 07时14分]"
         },
         {
           "title": "特朗普：美伊谈判进入“最后关头”",
@@ -318,8 +462,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 05时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 07时14分]"
         },
         {
           "title": "37次“即将达成”！特朗普不断预告伊朗协议，却一次次落空",
@@ -328,9 +472,20 @@
           "ranks": [
             9
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时14分]"
+        },
+        {
+          "title": "据福克斯新闻：美国众议院议长约翰逊表示，他在白宫战情室与特朗普及高层官员进行了会面，随后美国军队发起了被描述为自卫的打击伊朗行动。 约翰逊也称此次行动“比例适当且有限”，目标是雷达、导弹和指挥控制设施。",
+          "url": "https://flash.jin10.com/detail/20260610062852689800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时43分"
+          "time_info": "07时14分"
         },
         {
           "title": "伊朗外长疑似回应特朗普 警告外国军事力量远离伊朗",
@@ -342,6 +497,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "报道：美军报复性打击后，特朗普仍认为美伊接近达成和平协议",
+          "url": "https://wallstreetcn.com/livenews/3117052",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "特朗普称对伊朗进行打击“非常重要”",
+          "url": "https://wallstreetcn.com/livenews/3117049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "美国法官Richard Eaton要求总统特朗普的政府加速退还关税。",
+          "url": "https://wallstreetcn.com/livenews/3117047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "特朗普称对伊朗进行打击“非常重要”",
+          "url": "https://flash.jin10.com/detail/20260610055938102800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "据华尔街日报：特朗普政府要求人工智能测试机构停止发布公开报告，反映白宫正加强对人工智能模型的管控。",
+          "url": "https://flash.jin10.com/detail/20260610055143921800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
         }
       ]
     },
@@ -400,7 +610,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         },
@@ -411,7 +621,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         }
@@ -419,8 +629,19 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少26.73吨，当前持仓量为15034.75吨。欢迎点击查看数据中心…",
+          "url": "https://flash.jin10.com/detail/20260610063825570800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
         {
           "title": "现货白银跌破65美元/盎司，日内跌4.63%。纽约期银日内大跌5%，现报65.16美元/盎司。现货黄金现报4255.35美元/盎司，日内下跌1.7%。",
           "url": "https://flash.jin10.com/detail/20260610002042392800",
@@ -450,7 +671,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         }
@@ -458,8 +679,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "金价调整导致相关ETF规模缩水，业内人士：黄金结构性支撑力量仍存",
+          "url": "https://wallstreetcn.com/livenews/3117058",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
         {
           "title": "金价到“底”了吗",
           "url": "https://www.toutiao.com/trending/7649334259634671140/",
@@ -470,6 +702,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "西班牙毕尔巴鄂比斯开银行（BBVA）驻美国纽约策略师Alejandro Cuadrado在研究报告中写道：地缘政治的大背景依然充满了极高的不确定性。 目前全球宏观资金的核心焦点依然停留在全球风险资产溢价、美债收益率曲线上，尤其是本周三即将炸响的美国CPI核心通胀数据。",
+          "url": "https://wallstreetcn.com/livenews/3117037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
         }
       ]
     }
