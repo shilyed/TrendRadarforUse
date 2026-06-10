@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-11T04:15:32.832810+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-06-11T06:49:24.748024+08:00",
+  "total_titles_processed": 480,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "美贸易法院：特朗普，快退钱！",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 04时15分]"
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 06时49分]"
         },
         {
           "title": "美国总统特朗普：美方控制霍尔木兹海峡。",
@@ -36,7 +36,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
         },
@@ -49,8 +49,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 04时15分]"
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 06时49分]"
         },
         {
           "title": "美伊协议曙光风险并存：白宫放风核谈判取得积极成果，特朗普称必须回应伊朗击落美直升机，美军称发动打击报复",
@@ -61,8 +61,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 04时15分]"
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 06时49分]"
         },
         {
           "title": "特朗普称对伊朗作出强硬回应，伊方说将坚决回击",
@@ -70,11 +70,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 04时15分]"
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 06时49分]"
         },
         {
           "title": "美国参议院少数党领袖舒默：特朗普居然真的说出了“我爱通胀”，而且是在镜头前，让全美国都听到了。他对你们的轻蔑没有底线。",
@@ -105,7 +106,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
         },
@@ -138,7 +139,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
         },
@@ -160,7 +161,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
         },
@@ -176,13 +177,35 @@
           "time_info": "01时54分"
         },
         {
+          "title": "据Politico：特朗普将不会出席美国“世界杯”揭幕赛。",
+          "url": "https://flash.jin10.com/detail/20260611054524776800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
+        },
+        {
+          "title": "【伊朗：武力无法达成可持续协议，特朗普应停止威胁】伊朗常驻联合国代表10日就美国总统特朗普威胁打击伊朗回应称，威胁、恐吓或诉诸武力无法达成可持续协议，特朗普应停止威胁伊朗。 据伊朗伊斯兰共和国通讯社报道，伊朗常驻联合国代表伊拉瓦尼于当地时间10日在联合国安理会会议上说，特朗普应停止对伊朗反复威胁，包括他当天再次发出诉诸武力的威胁。 特朗普当天早些时候称，美国将对伊朗再次发起打击，而且会“非常猛烈”。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3117718",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
+        },
+        {
           "title": "美国总统特朗普的司法部询问大型银行是否不当地关闭了客户的银行账户。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3117656",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
         },
@@ -215,7 +238,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
         },
@@ -229,12 +252,172 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "特朗普说伊朗谈判太长必须付出代价",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%BC%8A%E6%9C%97%E8%B0%88%E5%88%A4%E5%A4%AA%E9%95%BF%E5%BF%85%E9%A1%BB%E4%BB%98%E5%87%BA%E4%BB%A3%E4%BB%B7%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "据半岛电视台：消息人士称，伊朗部队与美国军队在波斯湾和阿曼湾水域的冲突仍在持续。",
+          "url": "https://flash.jin10.com/detail/20260611061427041800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
+        },
+        {
+          "title": "伊朗媒体：伊朗对霍尔木兹海峡附近美国船只发起打击",
+          "url": "https://wallstreetcn.com/livenews/3117739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
+        },
+        {
+          "title": "据伊朗媒体：霍尔木兹海峡附近的美国船只已成为伊朗武装部队导弹和无人机袭击的目标。",
+          "url": "https://flash.jin10.com/detail/20260611060731719800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
+        },
+        {
+          "title": "美国财长贝森特宣称：美国正在破坏支持伊朗的采购网络。 绝不容忍任何对伊朗军方的支持。",
+          "url": "https://wallstreetcn.com/livenews/3117641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时54分"
+        },
+        {
+          "title": "伊朗驻联合国大使：美国无法通过威胁、恐吓或使用武力的方式使伊朗达成可持续的协议。伊朗从未在威胁下进行谈判，永远不会屈服于压力或胁迫。",
+          "url": "https://flash.jin10.com/detail/20260611040124071800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
+          "title": "报道：美国打击伊朗南部防空系统和雷达",
+          "url": "https://wallstreetcn.com/livenews/3117729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗与美国军队在海上发生冲突。",
+          "url": "https://flash.jin10.com/detail/20260611055843418800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
+        },
+        {
+          "title": "伊朗和美国官员在多哈与卡塔尔调停人开会。 伊朗拒绝举行与美国、卡塔尔的三方会谈。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3117665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
+          "title": "据AXIOS：一位美国官员表示，所有被袭击的目标都在伊朗南部，包括防空系统、雷达以及无人机指挥控制单元。",
+          "url": "https://flash.jin10.com/detail/20260611055354056800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
+        },
+        {
+          "title": "美军中央司令部（CENTCOM）：美国开始发动更多的自卫性袭击。 对伊朗的最新打击是为了回应持续的挑衅。",
+          "url": "https://wallstreetcn.com/livenews/3117723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
+        },
+        {
+          "title": "美国已经开始袭击伊朗。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3117722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
+        },
+        {
+          "title": "美国财长贝森特：美国正在破坏支持伊朗的采购网络。",
+          "url": "https://flash.jin10.com/detail/20260611010436694800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时54分"
+        },
+        {
+          "title": "伊朗外交部：美国袭击了重要的民用水利基础设施。",
+          "url": "https://wallstreetcn.com/livenews/3117657",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时15分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "甲骨文(ORCL.N)美股盘后跌超5%。",
@@ -243,9 +426,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
+        },
+        {
+          "title": "美股收盘：避险情绪升温芯片板块再现抛售潮 道指纳指跌近2%",
+          "url": "https://www.cls.cn/detail/2396570",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
         },
         {
           "title": "美国通胀创三年新高，美股低开，科技股普跌，光通信股反弹，油价攀升",
@@ -266,7 +460,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
         },
@@ -277,7 +471,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
         },
@@ -288,7 +482,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
         },
@@ -313,67 +507,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美国财长贝森特宣称：美国正在破坏支持伊朗的采购网络。 绝不容忍任何对伊朗军方的支持。",
-          "url": "https://wallstreetcn.com/livenews/3117641",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
         },
         {
-          "title": "伊朗驻联合国大使：美国无法通过威胁、恐吓或使用武力的方式使伊朗达成可持续的协议。伊朗从未在威胁下进行谈判，永远不会屈服于压力或胁迫。",
-          "url": "https://flash.jin10.com/detail/20260611040124071800",
-          "source": "金十数据",
+          "title": "美股泡沫为何逐渐得到认同",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E6%B3%A1%E6%B2%AB%E4%B8%BA%E4%BD%95%E9%80%90%E6%B8%90%E5%BE%97%E5%88%B0%E8%AE%A4%E5%90%8C",
+          "source": "bilibili 热搜",
           "ranks": [
-            15
+            27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "伊朗和美国官员在多哈与卡塔尔调停人开会。 伊朗拒绝举行与美国、卡塔尔的三方会谈。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3117665",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "美国财长贝森特：美国正在破坏支持伊朗的采购网络。",
-          "url": "https://flash.jin10.com/detail/20260611010436694800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
-        },
-        {
-          "title": "伊朗外交部：美国袭击了重要的民用水利基础设施。",
-          "url": "https://wallstreetcn.com/livenews/3117657",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时15分"
+          "time_info": "06时49分"
         }
       ]
     },
@@ -388,7 +532,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
         },
@@ -399,7 +543,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
         },
@@ -411,26 +555,66 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 04时15分]"
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 06时49分]"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "花旗继续唱空金价",
+          "url": "https://www.douyin.com/hot/2529361",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
+        },
         {
           "title": "花旗：金价可能跌到3500美元",
           "url": "https://www.toutiao.com/trending/7649366995154944043/",
           "source": "今日头条",
           "ranks": [
             23,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 04时15分]"
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 06时49分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少7.04吨，当前持仓量为15027.71吨。欢迎点击查看数据中心…",
+          "url": "https://flash.jin10.com/detail/20260611061514379800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
+        },
+        {
+          "title": "现货白银盘初下跌1.00%，现报62.74美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260611061016162800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
         }
       ]
     },
@@ -445,7 +629,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
         }
@@ -464,8 +648,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 04时15分]"
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 06时49分]"
         }
       ]
     }
