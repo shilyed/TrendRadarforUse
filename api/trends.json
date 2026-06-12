@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-12T15:16:09.945525+08:00",
-  "total_titles_processed": 946,
+  "generated_at": "2026-06-12T19:38:12.471929+08:00",
+  "total_titles_processed": 1164,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 49,
       "titles": [
         {
           "title": "国际油价飙升！特朗普：今晚将重创伊朗，“在不久的将来”将占领哈尔克岛",
@@ -16,8 +16,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时08分 ~ 15时16分]"
+          "appearance_count": 9,
+          "time_info": "[02时08分 ~ 19时38分]"
+        },
+        {
+          "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
+          "url": "https://wallstreetcn.com/articles/3774457",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时45分 ~ 19时38分]"
         },
         {
           "title": "【早报】特朗普取消打击伊朗；黄金、白银大涨；世界杯开幕，墨西哥2比0战胜南非",
@@ -35,18 +47,6 @@
           "url": "https://news.ifeng.com/c/8tt5oJT4pDG",
           "source": "凤凰网",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时45分 ~ 15时16分]"
-        },
-        {
-          "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
-          "url": "https://wallstreetcn.com/articles/3774457",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
             2
           ],
           "is_new": false,
@@ -201,6 +201,28 @@
           "time_info": "[05时14分 ~ 07时16分]"
         },
         {
+          "title": "特朗普涉伊朗表态“大转弯”，以总理“猝不及防”",
+          "url": "https://news.ifeng.com/c/8ttnDWEmW7E",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时37分 ~ 19时38分]"
+        },
+        {
+          "title": "内塔尼亚胡：特朗普没提前告诉我",
+          "url": "https://news.ifeng.com/c/8ttf3o3HpAs",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时37分 ~ 19时38分]"
+        },
+        {
           "title": "特朗普称取消原定对伊朗的打击行动",
           "url": "https://www.cls.cn/detail/2397723",
           "source": "财联社热门",
@@ -210,6 +232,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时15分 ~ 15时16分]"
+        },
+        {
+          "title": "特朗普说了30多次“即将达成协议”，市场却一直相信他",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33365641",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时37分 ~ 19时38分]"
         },
         {
           "title": "特朗普：取消今晚对伊朗打击 将于近期公布协议签署时间和地点",
@@ -471,7 +504,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
@@ -523,7 +556,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "日本政府正准备挑选船舶部署到霍尔木兹海峡，以响应美国和伊朗达成停火协议。 日本政府正在权衡多种方案，包括参与多边行动和提供扫雷作业设备。 部署的前提是该区域的安全得到全面保障。（路透）",
@@ -601,6 +634,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：根据与美国的谅解备忘录，伊朗对霍尔木兹海峡管理权的转让没有作出任何承诺。",
+          "url": "https://flash.jin10.com/detail/20260612183516547800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
         },
         {
           "title": "美国官员表示，美国军方击落了两架伊朗单向攻击无人机。",
@@ -686,6 +730,17 @@
       "match_count": 12,
       "titles": [
         {
+          "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
+          "url": "https://wallstreetcn.com/articles/3774389",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时45分 ~ 19时38分]"
+        },
+        {
           "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
           "url": "https://wallstreetcn.com/articles/3774300",
           "source": "华尔街见闻",
@@ -708,17 +763,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时16分 ~ 15时16分]"
-        },
-        {
-          "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
-          "url": "https://wallstreetcn.com/articles/3774389",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时45分 ~ 15时16分]"
         },
         {
           "title": "特朗普威胁发动新袭击，美股高开，甲骨文跌12%，英特尔涨10%，油价走低，黄金重回4080美元",
@@ -825,8 +869,19 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "【焦点复盘】创业板指高开低走涨0.5%，个股炸板率超四成，半导体材料股遭深幅回调",
+          "url": "https://www.cls.cn/detail/2398416",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时37分 ~ 19时38分]"
+        },
         {
           "title": "A股半导体材料板块短线走低，凯华材料跌超7%，欧莱新材、沪硅产业、凯德石英、有研硅等跟跌。",
           "url": "https://flash.jin10.com/detail/20260612102032346800",
@@ -856,7 +911,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
@@ -936,6 +991,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金价回落女子一口气买入90克金手镯",
+          "url": "https://www.toutiao.com/trending/7649567619948822578/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时15分 ~ 15时16分]"
+        },
+        {
+          "title": "瑞银：仍对未来12个月金价持看涨观点，理由是未来降息预期、美元走弱以及各国央行持续购金。",
+          "url": "https://flash.jin10.com/detail/20260612185837613800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
+        },
+        {
+          "title": "瑞银：在收益率上升和美元走强的压力下，近期金价可能跌至3850至4000美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260612185814413800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
         }
       ]
     },
@@ -1057,19 +1151,30 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 1,
+      "keyword_group": "有色",
+      "match_count": 2,
       "titles": [
         {
-          "title": "金价回落女子一口气买入90克金手镯",
-          "url": "https://www.toutiao.com/trending/7649567619948822578/",
-          "source": "今日头条",
+          "title": "【每日收评】沪指涨超1%重返4000点，有色、大金融板块双双走强，两市成交额放量超6600亿",
+          "url": "https://www.cls.cn/detail/2398359",
+          "source": "财联社热门",
           "ranks": [
-            10
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时15分 ~ 15时16分]"
+          "time_info": "[19时37分 ~ 19时38分]"
+        },
+        {
+          "title": "A股有色金属爆发",
+          "url": "https://www.toutiao.com/trending/7650312372327120902/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时37分 ~ 19时38分]"
         }
       ]
     },
