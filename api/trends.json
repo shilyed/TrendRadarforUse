@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13T03:57:22.360458+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2026-06-13T05:26:54.058697+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "美国政府高级官员：伊朗承诺永不发展核武器。",
@@ -41,17 +41,6 @@
           "time_info": "01时33分"
         },
         {
-          "title": "美国内政部长伯格姆谈伊朗谈判：市场反应积极并不意外。",
-          "url": "https://wallstreetcn.com/livenews/3119059",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
           "title": "美国政府高级官员：我们有一份伊朗和美国都满意的文本。",
           "url": "https://flash.jin10.com/detail/20260613012606092800",
           "source": "金十数据",
@@ -80,7 +69,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时57分"
         },
@@ -102,7 +91,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时57分"
         },
@@ -113,9 +102,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时57分"
+        },
+        {
+          "title": "美国内政部长伯格姆谈伊朗谈判：市场反应积极并不意外。",
+          "url": "https://wallstreetcn.com/livenews/3119059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时57分 ~ 05时26分]"
         },
         {
           "title": "美国政府高级官员：一些伊朗强硬派希望破坏协议。",
@@ -135,7 +136,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时57分"
         },
@@ -146,7 +147,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时57分"
         },
@@ -179,7 +180,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时57分"
         },
@@ -190,7 +191,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时57分"
         },
@@ -234,7 +235,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时57分"
         },
@@ -259,12 +260,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时33分"
+        },
+        {
+          "title": "伊朗外长：美国在谅解备忘录中承诺不发动战争，霍尔木兹海峡相关服务将收费",
+          "url": "https://wallstreetcn.com/livenews/3119056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "伊朗外长：美国在谅解备忘录中承诺不发动战争",
+          "url": "https://flash.jin10.com/detail/20260613033606513800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
@@ -274,19 +297,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时33分 ~ 03时57分]"
+          "appearance_count": 3,
+          "time_info": "[01时33分 ~ 05时26分]"
         },
         {
           "title": "SpaceX开盘狂飙29%，美股指转跌，太空概念股跳水，布油跌幅收窄",
           "url": "https://wallstreetcn.com/articles/3774481",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时33分 ~ 03时57分]"
+          "appearance_count": 3,
+          "time_info": "[01时33分 ~ 05时26分]"
         },
         {
           "title": "据《华尔街日报》援引消息人士报道称，为向SpaceX致敬，纽约时代广场的水晶球将在美股收盘时升起。",
@@ -295,9 +319,42 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时57分"
+        },
+        {
+          "title": "周五（6月12日），美股存储芯片与硬件供应链指数涨3.91%，报233.15点，美股早盘显著上涨，北京时间22:00以来持续交投于2340点附近、高位窄幅震荡，本周累计上涨17.34%。 成分股普遍走高，希捷科技涨7.25%，西部数据涨6.35%，泰瑞达、闪迪至少涨5.24%，应用材料、Rambus、拉姆研究至少涨1.18%，美光科技则收跌1.43%。",
+          "url": "https://wallstreetcn.com/livenews/3119078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周五（6月12日），美国科技股七巨头（Magnificent 7）指数跌0.23%，报210.45点，本周累跌2.86%，6月8-11日持续走低，期内主要持稳于210点附近。 “超大”市值科技股指数涨0.60%，报433.85点，本周累跌1.50%。",
+          "url": "https://wallstreetcn.com/livenews/3119077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "金十图示：2026年06月12日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260613040515542800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
         },
         {
           "title": "数字货币市场最近七天至少涨超2%，比特币在周五美股开盘后一度突破6340美元",
@@ -309,12 +366,78 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时33分"
+        },
+        {
+          "title": "周五（6月12日），彭博电动汽车价格回报指数涨3.59%，报3785.58点，北京时间08:00高开高走，12:00之前开始持稳于3760点附近，美股开盘后略微扩大涨幅。 本周累计上涨0.07%，整体呈现出W形走势。 成分股中，淡水河谷印尼公司收涨10.30%，ITM能源涨8.98%，“特斯拉劲敌”Rivian涨7.85%，理想汽车H股涨7.24%，美国雅宝涨7.14%表现第五，在下跌的六只成分股中，普拉格动力跌2.47%，MobilEye跌2.51%。",
+          "url": "https://wallstreetcn.com/livenews/3119076",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "金十图示：2026年06月12日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260613040511043800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "华纳兄弟探索公司（WBD）美股盘后增长2%，据Politico报道，美国总统特朗普的司法部批准派拉蒙天舞（Paramount SkyDance）收购该公司的交易。",
+          "url": "https://wallstreetcn.com/livenews/3119074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "美股大类资产类ETF涨跌各异，可转债ETF涨约1.2%，布油基金跌约2.7%",
+          "url": "https://wallstreetcn.com/livenews/3119073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "周五（6月12日），美股行业ETF多数收涨，全球航空业ETF涨1.93%，半导体ETF、区域银行ETF、银行业ETF、金融业ETF、公用事业ETF至多涨1.72%，科技行业ETF、能源业ETF、全球科技股指数ETF至多涨0.87%，网络股指数ETF跌0.26%。",
+          "url": "https://wallstreetcn.com/livenews/3119072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "美股收盘，SpaceX上市首日收涨19%",
+          "url": "https://flash.jin10.com/detail/20260613040143470800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
@@ -335,8 +458,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时33分 ~ 03时57分]"
+          "appearance_count": 3,
+          "time_info": "[01时33分 ~ 05时26分]"
         },
         {
           "title": "特朗普说了30多次“即将达成协议”，市场却一直相信他",
@@ -347,8 +470,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时33分 ~ 03时57分]"
+          "appearance_count": 3,
+          "time_info": "[01时33分 ~ 05时26分]"
         },
         {
           "title": "美国总统特朗普称伊朗外长阿拉格齐在X上发的帖子“非常积极”。 特朗普称他已要求伊朗澄清有关美伊协议的报道。 可能会在周末、或下周一签署协议。（Axios）",
@@ -356,6 +479,85 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
+          "title": "美国内政部长道格·伯格姆：（谈及伊朗谈判）特朗普已经让该地区各方与其保持一致立场。",
+          "url": "https://flash.jin10.com/detail/20260613033812680800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "【焦点复盘】创业板指高开低走涨0.5%，个股炸板率超四成，半导体材料股遭深幅回调",
+          "url": "https://www.cls.cn/detail/2398416",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时33分 ~ 05时26分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨0.48%，报6326.73点，本周累计下跌0.56%，整体呈现出W形走势。 热门中概股里，晶科能源初步收涨6.5%，阿特斯太阳能涨5.8%，日月光半导体涨4%，理想涨3.9%，新东方涨3.5%，美团跌超1%。 ETF中，德银嘉实沪深300指数ETF（ASHR）收涨0.83%，本周反弹1.23%； XtrackersHarvest中证50（ASHS）收涨0.68%，本周反弹0.34%； 中国科技指数ETF（CQQQ）收跌1.27%，本周反弹0.37%； 中概互联网指数ETF（KWEB）收跌0.30%，本周反弹0.42%； MSCI新兴市场ex中国ETF（EMXC）收涨0.05%，本周反弹6.23%。",
+          "url": "https://wallstreetcn.com/livenews/3119067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "标普500指数收涨37.16点，涨幅0.50%，报7431.46点。 道琼斯工业平均指数收涨353.51点，涨幅0.70%，报51202.26点。 纳斯达克综合指数（纳指）收涨79.184点，涨幅0.31%，报25888.844点。 纳斯达克100指数收涨189.772点，涨幅0.64%，报29635.948点。 纳斯达克科技市值加权指数收涨0.64%，报2883.0029点。 费城半导体指数收涨1.52%，报13371.47点。 费城证交所KBW银行指数收涨1.73%，报179.80点，继续创收盘历史新高。 道琼斯KBW地区银行指数收涨1.55%，报141.66点。 罗素2000指数收涨0.79%，报2943.992点。 纳斯达克生物科技指数收涨0.25%，报5938.51点。 标普中盘股400指数收涨0.71%，报3796.32点，继续创收盘历史新高。 纳斯达克美国中等市值指数涨0.72%，报3769.4355点，突破6月4日所创收盘历史最高位3764.3550点。 恐慌指数VIX收跌9%，报17.69。",
+          "url": "https://wallstreetcn.com/livenews/3119064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数本周跌超0.3%",
+          "url": "https://wallstreetcn.com/livenews/3119062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "SpaceX美国IPO首日盘初涨幅扩大至25%，报168.75美元，盘中市值2.206575万亿美元；马斯克成为全球第一位万亿美元级别的富豪。 特斯拉跌幅扩大至2.2%，标普500指数涨幅收窄至0.36%，纳指涨0.11%，半导体指数涨1.77%。",
+          "url": "https://wallstreetcn.com/livenews/3118990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -373,28 +575,12 @@
           "source": "今日头条",
           "ranks": [
             7,
-            29
+            29,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时33分 ~ 03时57分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "SpaceX美国IPO首日盘初涨幅扩大至25%，报168.75美元，盘中市值2.206575万亿美元；马斯克成为全球第一位万亿美元级别的富豪。 特斯拉跌幅扩大至2.2%，标普500指数涨幅收窄至0.36%，纳指涨0.11%，半导体指数涨1.77%。",
-          "url": "https://wallstreetcn.com/livenews/3118990",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时33分"
+          "appearance_count": 3,
+          "time_info": "[01时33分 ~ 05时26分]"
         }
       ]
     },
@@ -407,29 +593,12 @@
           "url": "https://wallstreetcn.com/livenews/3119058",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【焦点复盘】创业板指高开低走涨0.5%，个股炸板率超四成，半导体材料股遭深幅回调",
-          "url": "https://www.cls.cn/detail/2398416",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
+            3,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时33分 ~ 03时57分]"
+          "time_info": "[03时57分 ~ 05时26分]"
         }
       ]
     }
