@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-12T10:45:32.981336+08:00",
-  "total_titles_processed": 729,
+  "generated_at": "2026-06-12T15:16:09.945525+08:00",
+  "total_titles_processed": 946,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 46,
       "titles": [
         {
           "title": "国际油价飙升！特朗普：今晚将重创伊朗，“在不久的将来”将占领哈尔克岛",
@@ -16,8 +16,54 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时08分 ~ 10时45分]"
+          "appearance_count": 7,
+          "time_info": "[02时08分 ~ 15时16分]"
+        },
+        {
+          "title": "【早报】特朗普取消打击伊朗；黄金、白银大涨；世界杯开幕，墨西哥2比0战胜南非",
+          "url": "https://www.cls.cn/detail/2397775",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时45分 ~ 15时16分]"
+        },
+        {
+          "title": "特朗普再次180度大转弯，全世界都目瞪口呆",
+          "url": "https://news.ifeng.com/c/8tt5oJT4pDG",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时45分 ~ 15时16分]"
+        },
+        {
+          "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
+          "url": "https://wallstreetcn.com/articles/3774457",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时45分 ~ 15时16分]"
+        },
+        {
+          "title": "特朗普为何在夺取伊朗岛屿问题上反复横跳？",
+          "url": "https://news.ifeng.com/c/8ttDG767op3",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时45分 ~ 15时16分]"
         },
         {
           "title": "特朗普称美伊协议进入最后定稿阶段，有望本周末签署",
@@ -29,17 +75,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时16分 ~ 10时45分]"
-        },
-        {
-          "title": "【早报】特朗普取消打击伊朗；黄金、白银大涨；世界杯开幕，墨西哥2比0战胜南非",
-          "url": "https://www.cls.cn/detail/2397775",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时45分"
         },
         {
           "title": "据华尔街日报：特朗普与盟友正制定计划以“抹除”弹劾记录。",
@@ -64,17 +99,6 @@
           "time_info": "07时16分"
         },
         {
-          "title": "特朗普再次180度大转弯，全世界都目瞪口呆",
-          "url": "https://news.ifeng.com/c/8tt5oJT4pDG",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时45分"
-        },
-        {
           "title": "据以色列第12频道记者报道，伊朗否认存在任何协议。以色列方面表示，并不存在这样的协议。 另据以色列i24News报道，两名以色列官员称，对特朗普的声明感到意外，需要等待伊朗方面公布相关内容，才能判断这一说法是否准确。",
           "url": "https://wallstreetcn.com/livenews/3118352",
           "source": "华尔街见闻-快讯",
@@ -84,28 +108,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时09分"
-        },
-        {
-          "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
-          "url": "https://wallstreetcn.com/articles/3774457",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时45分"
-        },
-        {
-          "title": "特朗普为何在夺取伊朗岛屿问题上反复横跳？",
-          "url": "https://news.ifeng.com/c/8ttDG767op3",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时45分"
         },
         {
           "title": "美国总统特朗普：伊朗协议“已经基本敲定”。（纽约邮报）",
@@ -128,6 +130,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "美伊局势再陷“迷雾”：特朗普称有望周末签署协议，伊朗“光速否认”！",
+          "url": "https://www.cls.cn/detail/2397803",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时45分 ~ 15时16分]"
         },
         {
           "title": "特朗普称自己“被当成傻瓜戏耍”，到底发生了什么？",
@@ -153,6 +167,29 @@
           "time_info": "[02时08分 ~ 07时16分]"
         },
         {
+          "title": "特朗普称有望周末签署美伊协议 伊朗称尚未达成最终结论 | 环球市场",
+          "url": "https://www.cls.cn/detail/2397778",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时45分 ~ 15时16分]"
+        },
+        {
+          "title": "林肯纪念堂倒影池翻新：成本飙升，承包给特朗普的熟人",
+          "url": "https://news.ifeng.com/c/8ttODxEJJNz",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时15分 ~ 15时16分]"
+        },
+        {
           "title": "特朗普称取消打击伊朗行动",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%96%E6%B6%88%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -162,6 +199,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时14分 ~ 07时16分]"
+        },
+        {
+          "title": "特朗普称取消原定对伊朗的打击行动",
+          "url": "https://www.cls.cn/detail/2397723",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时15分 ~ 15时16分]"
         },
         {
           "title": "特朗普：取消今晚对伊朗打击 将于近期公布协议签署时间和地点",
@@ -184,17 +232,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
-        },
-        {
-          "title": "美伊局势再陷“迷雾”：特朗普称有望周末签署协议，伊朗“光速否认”！",
-          "url": "https://www.cls.cn/detail/2397803",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时45分"
         },
         {
           "title": "金十提示：美国总统特朗普将此前取消打击伊朗的帖子置顶。",
@@ -239,17 +276,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时09分"
-        },
-        {
-          "title": "特朗普称有望周末签署美伊协议 伊朗称尚未达成最终结论 | 环球市场",
-          "url": "https://www.cls.cn/detail/2397778",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时45分"
         },
         {
           "title": "美国总统特朗普：协议签署的时间和地点将很快公布。",
@@ -368,7 +394,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
         },
@@ -439,6 +465,17 @@
           "time_info": "05时14分"
         },
         {
+          "title": "外媒：就美国法官裁定将特朗普名字从肯尼迪中心移除，美政府提出上诉",
+          "url": "https://wallstreetcn.com/livenews/3118629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
+        },
+        {
           "title": "特朗普暗示协议即将达成，新兴市场货币与股票ETF集体大涨",
           "url": "https://wallstreetcn.com/livenews/3118418",
           "source": "华尔街见闻-快讯",
@@ -478,7 +515,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
         }
@@ -495,7 +532,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
         },
@@ -561,7 +598,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
         },
@@ -572,7 +609,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
         },
@@ -660,6 +697,30 @@
           "time_info": "[02时08分 ~ 07时16分]"
         },
         {
+          "title": "美股收盘：美伊局势反转纳指升超2.5% 芯片股强反弹费城指数涨8%",
+          "url": "https://www.cls.cn/detail/2397755",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时16分 ~ 15时16分]"
+        },
+        {
+          "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
+          "url": "https://wallstreetcn.com/articles/3774389",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时45分 ~ 15时16分]"
+        },
+        {
           "title": "特朗普威胁发动新袭击，美股高开，甲骨文跌12%，英特尔涨10%，油价走低，黄金重回4080美元",
           "url": "https://wallstreetcn.com/articles/3774389",
           "source": "华尔街见闻",
@@ -670,29 +731,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时08分 ~ 05时14分]"
-        },
-        {
-          "title": "美股收盘：美伊局势反转纳指升超2.5% 芯片股强反弹费城指数涨8%",
-          "url": "https://www.cls.cn/detail/2397755",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时16分 ~ 10时45分]"
-        },
-        {
-          "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
-          "url": "https://wallstreetcn.com/articles/3774389",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时45分"
         },
         {
           "title": "特朗普再次“TACO”，原油暴跌，美股债大反弹，半导体指数大涨8%，黄金收复4200关口",
@@ -787,7 +825,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "A股半导体材料板块短线走低，凯华材料跌超7%，欧莱新材、沪硅产业、凯德石英、有研硅等跟跌。",
@@ -796,7 +834,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
         },
@@ -812,13 +850,24 @@
           "time_info": "02时09分"
         },
         {
+          "title": "华尔街“拔网线”：韩国半导体狂欢遭遇杠杆急刹车！",
+          "url": "https://flash.jin10.com/detail/20260612150017992800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
+        },
+        {
           "title": "A股四大股指高开 半导体板块活跃",
           "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%9B%9B%E5%A4%A7%E8%82%A1%E6%8C%87%E9%AB%98%E5%BC%80+%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%BF%E5%9D%97%E6%B4%BB%E8%B7%83",
           "source": "百度热搜",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
         },
@@ -829,7 +878,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
         },
@@ -840,7 +889,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
         },
@@ -862,7 +911,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
         },
@@ -884,7 +933,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
         }
@@ -1004,6 +1053,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价回落女子一口气买入90克金手镯",
+          "url": "https://www.toutiao.com/trending/7649567619948822578/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时15分 ~ 15时16分]"
         }
       ]
     },
