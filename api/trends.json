@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-14T21:43:24.963522+08:00",
-  "total_titles_processed": 1099,
+  "generated_at": "2026-06-14T23:45:00.028201+08:00",
+  "total_titles_processed": 1225,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 33,
       "titles": [
         {
           "title": "特朗普：美伊协议计划于周日签署 霍尔木兹海峡随后立即开放",
@@ -15,11 +15,25 @@
             11,
             3,
             4,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时01分 ~ 21时43分]"
+          "appearance_count": 7,
+          "time_info": "[08时01分 ~ 23时44分]"
+        },
+        {
+          "title": "美伊协议何时签署？特朗普说14日，伊朗否认，“霍尔木兹海峡是否“免费”重开”也各执一词",
+          "url": "https://wallstreetcn.com/articles/3774599",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时25分 ~ 23时44分]"
         },
         {
           "title": "特朗普姓名被从肯尼迪中心外墙移除",
@@ -44,18 +58,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时14分 ~ 16时39分]"
-        },
-        {
-          "title": "美伊协议何时签署？特朗普说14日，伊朗否认，“霍尔木兹海峡是否“免费”重开”也各执一词",
-          "url": "https://wallstreetcn.com/articles/3774599",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时25分 ~ 21时43分]"
         },
         {
           "title": "国际原子能机构前总干事批评特朗普：试图让美伊新协议显得优于伊核协议",
@@ -118,6 +120,31 @@
           "time_info": "[03时11分 ~ 08时02分]"
         },
         {
+          "title": "特朗普批评以色列“干扰”美伊签署协议：“非常接近”达成美伊协议，将给黎巴嫩带来和平",
+          "url": "https://wallstreetcn.com/livenews/3119258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
+          "title": "自说自话？美媒细数特朗普曾39次说与伊朗“谈好了”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33375825",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时25分 ~ 23时44分]"
+        },
+        {
           "title": "亚马逊CEO向美官员汇报后 特朗普政府收紧Anthropic模型使用限制",
           "url": "https://flash.jin10.com/detail/20260614010232105800",
           "source": "金十数据",
@@ -154,17 +181,15 @@
           "time_info": "[01时14分 ~ 03时11分]"
         },
         {
-          "title": "自说自话？美媒细数特朗普曾39次说与伊朗“谈好了”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33375825",
-          "source": "澎湃新闻",
+          "title": "白宫上演特技摩托车秀，庆祝特朗普80大寿",
+          "url": "https://v.ifeng.com/c/8twfTkgsM7l",
+          "source": "凤凰网",
           "ranks": [
-            12,
-            11,
-            8
+            11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时25分 ~ 21时43分]"
+          "time_info": "[16时39分 ~ 23时44分]"
         },
         {
           "title": "美伊协议何时签署 特朗普说14日 伊朗否认",
@@ -178,17 +203,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时25分 ~ 19时25分]"
-        },
-        {
-          "title": "白宫上演特技摩托车秀，庆祝特朗普80大寿",
-          "url": "https://v.ifeng.com/c/8twfTkgsM7l",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时39分 ~ 21时43分]"
         },
         {
           "title": "特朗普社交媒体发文：明天将签署协议，霍尔木兹海峡即刻开放",
@@ -263,6 +277,18 @@
           "time_info": "[01时14分 ~ 03时11分]"
         },
         {
+          "title": "特朗普称美伊协议计划14日签署",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33376146",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时43分 ~ 23时44分]"
+        },
+        {
           "title": "据路透社/益普索民调：美国总统特朗普在美国乡村地区选民中的支持率降至50%，为其总统任内最低水平，较2025年2月的60%有所下降。",
           "url": "https://flash.jin10.com/detail/20260614180317033800",
           "source": "金十数据",
@@ -307,15 +333,15 @@
           "time_info": "19时25分"
         },
         {
-          "title": "特朗普称美伊协议计划14日签署",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33376146",
-          "source": "澎湃新闻",
+          "title": "伊媒：伊朗不会在特朗普宣布的时间签署任何协议",
+          "url": "https://flash.jin10.com/detail/20260614230702538800",
+          "source": "金十数据",
           "ranks": [
-            20
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时43分"
+          "time_info": "23时44分"
         },
         {
           "title": "美军被曝曾制订抢夺伊朗浓缩铀计划 特朗普未批准",
@@ -338,12 +364,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "市场消息：乌克兰总统泽连斯基与美国总统特朗普进行了交谈。",
+          "url": "https://flash.jin10.com/detail/20260614225718900800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
+          "title": "过完生日后特朗普将赴法参加G7峰会",
+          "url": "https://www.toutiao.com/trending/7651222304948731914/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
+          "title": "特朗普：“非常接近”达成美伊协议 将给黎巴嫩带来和平",
+          "url": "https://flash.jin10.com/detail/20260614225441637800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "多名伊朗国足代表团成员签证被拒，美国回应",
@@ -394,6 +453,17 @@
           "time_info": "[05时05分 ~ 08时02分]"
         },
         {
+          "title": "美国战争部长赫格塞斯：美方处于“周日签署伊朗协议”的正轨之上。 伊朗核材料将被销毁。 “文件”显示，伊朗永远都不会拥有、寻求、购买核武器。 “自由计划”（project Freedom）从未停止。 可能会在30天内清除霍尔木兹海峡的水雷。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3119255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
           "title": "据伊朗媒体Fars News：消息人士称，德黑兰方面就与美国达成的框架协议的最终决定仍在审议中。",
           "url": "https://flash.jin10.com/detail/20260614154026354800",
           "source": "金十数据",
@@ -403,6 +473,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
+        },
+        {
+          "title": "伊朗方面称，与美国的协议尚未最终敲定。 伊朗通过卡塔尔团队向美国传达其希望达成的条款。（法尔斯通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3119251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "据以色列《今日报》：以色列无需与伊朗签署任何协议，并保留“自卫”权利，但任何军事行动都需与美国协调。",
@@ -436,6 +517,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
+        },
+        {
+          "title": "美国驻联合国大使Waltz声称：“有信心”在周日达成伊朗协议。（ABC）",
+          "url": "https://wallstreetcn.com/livenews/3119245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         }
       ]
     },
