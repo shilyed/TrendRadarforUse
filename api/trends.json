@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-16T06:59:12.494947+08:00",
-  "total_titles_processed": 503,
+  "generated_at": "2026-06-16T09:42:12.068594+08:00",
+  "total_titles_processed": 695,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
+        {
+          "title": "打脸马克龙？特朗普就数字服务税发难",
+          "url": "https://news.ifeng.com/c/8tytt5KRDcq",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时00分 ~ 09时42分]"
+        },
         {
           "title": "美伊协议“达成”！特朗普称“霍尔木兹海峡周五免费开放”，抨击内塔尼亚胡“失去理智”，伊朗称“所获成果远大于承诺”",
           "url": "https://wallstreetcn.com/articles/3774634",
@@ -32,17 +44,6 @@
           "time_info": "[02时00分 ~ 06时59分]"
         },
         {
-          "title": "打脸马克龙？特朗普就数字服务税发难",
-          "url": "https://news.ifeng.com/c/8tytt5KRDcq",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时00分 ~ 06时59分]"
-        },
-        {
           "title": "特朗普批评内塔尼亚胡干扰美伊谈判进程，外交部回应",
           "url": "https://www.cls.cn/detail/2400017",
           "source": "财联社热门",
@@ -63,6 +64,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
+        },
+        {
+          "title": "美国副总统万斯：特朗普可能会在周五之前决定公布伊朗协议。",
+          "url": "https://flash.jin10.com/detail/20260616091018602800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
         },
         {
           "title": "美加州州长称特朗普指示司法部对其展开调查",
@@ -99,6 +111,28 @@
           "time_info": "[02时00分 ~ 02时01分]"
         },
         {
+          "title": "美伊局势追踪：已签“电子协议”，特朗普称19日后公布具体内容！",
+          "url": "https://www.cls.cn/detail/2400664",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时41分 ~ 09时42分]"
+        },
+        {
+          "title": "澎湃思想周报丨世界杯沦为特朗普的马戏；当马丁·斯科塞斯拥抱AI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33377908",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时41分 ~ 09时42分]"
+        },
+        {
           "title": "美国石油储备创最近43年新低，恰逢特朗普试图遏制汽油价格",
           "url": "https://wallstreetcn.com/livenews/3119821",
           "source": "华尔街见闻-快讯",
@@ -116,7 +150,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
         },
@@ -127,7 +161,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
         },
@@ -141,6 +175,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "特朗普的信任是沃什的“政治资本”，他要拿来改利率、改通胀指标、改美联储架构",
+          "url": "https://flash.jin10.com/detail/20260616090112646800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
         },
         {
           "title": "特朗普：美伊协议内容将在19日签署后公布",
@@ -251,12 +296,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "特朗普推文或弄混3亿和3000亿美元",
+          "url": "https://wallstreetcn.com/livenews/3119916",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "据伊朗电视台报道称，美国已开始解除对伊朗的海上封锁。",
@@ -276,7 +332,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
         },
@@ -309,7 +365,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
         },
@@ -331,7 +387,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
         },
@@ -349,15 +405,37 @@
           "time_info": "[02时00分 ~ 06时59分]"
         },
         {
+          "title": "美国副总统万斯：伊朗永远也别想从美国纳税人那里得到一分钱。如果伊朗遵守规定，会邀请其他国家投资伊朗。",
+          "url": "https://flash.jin10.com/detail/20260616090853175800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
           "title": "据AXIOS网站：消息人士称，美国中央情报局局长对伊朗协议持怀疑态度，认为伊朗并不愿意在最终协议中做出美国所要求的核妥协。",
           "url": "https://flash.jin10.com/detail/20260616062552119800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
+        },
+        {
+          "title": "美国副总统万斯：伊朗永远也别想从美国纳税人那里得到一分钱。 如果伊朗遵守规定，会邀请其他国家投资伊朗。 免收霍尔木兹海峡通行费已明确写入协议中。",
+          "url": "https://wallstreetcn.com/livenews/3119943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
         },
         {
           "title": "美国官员：我们将以开放的心态与伊朗展开谈判，并认识到谈判的复杂性。",
@@ -399,7 +477,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
         },
@@ -432,7 +510,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
         },
@@ -476,7 +554,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
         },
@@ -487,7 +565,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
         }
@@ -495,8 +573,31 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "美伊达成协议，半导体股领涨美股，道指新高，油价重挫5%，黄金三连涨",
+          "url": "https://wallstreetcn.com/articles/3774633",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时58分 ~ 09时42分]"
+        },
+        {
+          "title": "美股收盘：纳指暴涨近800点 马斯克日赚巴菲特全部身家",
+          "url": "https://www.cls.cn/detail/2400615",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时58分 ~ 09时42分]"
+        },
         {
           "title": "美伊达成协议，美股高开，半导体股普涨，石油股普跌，油价重挫5%",
           "url": "https://wallstreetcn.com/articles/3774633",
@@ -509,26 +610,15 @@
           "time_info": "[02时00分 ~ 04时48分]"
         },
         {
-          "title": "美伊达成协议，半导体股领涨美股，道指新高，油价重挫5%，黄金三连涨",
-          "url": "https://wallstreetcn.com/articles/3774633",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时58分 ~ 06时59分]"
-        },
-        {
-          "title": "美股收盘：纳指暴涨近800点 马斯克日赚巴菲特全部身家",
-          "url": "https://www.cls.cn/detail/2400615",
+          "title": "【早报】纳指暴涨3%，美股芯片股狂飙；黄金、白银大涨；西班牙爆冷，0比0战平佛得角",
+          "url": "https://www.cls.cn/detail/2400629",
           "source": "财联社热门",
           "ranks": [
-            4
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时58分 ~ 06时59分]"
+          "time_info": "[09时41分 ~ 09时42分]"
         },
         {
           "title": "美伊达成停战协议 美股期指集体上涨 SpaceX续涨逾6% | 今夜看点",
@@ -539,8 +629,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时00分 ~ 06时59分]"
+          "appearance_count": 7,
+          "time_info": "[02时00分 ~ 09时42分]"
         },
         {
           "title": "周一（6月15日），美股降息赢家指数涨0.34%，报95.17点，跳空高开之后，美股盘初刷新日高至97.88点，随后持续回吐涨幅。",
@@ -656,13 +746,24 @@
           "time_info": "04时48分"
         },
         {
+          "title": "SpaceX(SPCX.O)美股夜盘涨10%，若维持此涨幅至美股周二开盘，其市值将超越亚马逊(AMZN.O)。",
+          "url": "https://flash.jin10.com/detail/20260616085053074800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
           "title": "美伊协议落地，拉美股汇走势分化",
           "url": "https://wallstreetcn.com/livenews/3119879",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
         },
@@ -692,7 +793,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加11.25吨，当前持仓量为14972.85吨。欢迎点击查看数据中心…",
@@ -701,9 +802,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 6月16日（周二）早盘盘初上涨0.85%报939.34元/克；<br/>上海黄金交易所白银T+D 6月16日（周二）早盘盘初上涨0.04%报16743.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260616090044850800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
         },
         {
           "title": "现货白银跌破70美元/盎司关口，报69.98美元/盎司。",
@@ -739,11 +851,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时00分 ~ 06时59分]"
+          "appearance_count": 7,
+          "time_info": "[02时00分 ~ 09时42分]"
         },
         {
           "title": "标普500指数的11个板块多数收涨，信息技术/科技板块涨3.39%，电信板块涨2.42%，可选消费、工业板块至少涨1.36%，房地产板块则收跌0.9%，能源板块跌3.58%。 在所有成分股中，西部数据、Doordash、美光科技、希捷科技、安森美半导体、泰瑞达、高意公司Coherent领跑，Apa、因赛特公司、“大空头”Burry建仓的Fiserv、福克斯、福克斯A领跌。",
@@ -762,6 +875,34 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "市场太乐观了？华尔街老将警告：油价、美债和通胀的滞后冲击才刚开始",
+          "url": "https://wallstreetcn.com/articles/3774702",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时41分 ~ 09时42分]"
+        },
+        {
+          "title": "两年期美债收益率跌幅收窄至2.5个基点",
+          "url": "https://wallstreetcn.com/livenews/3119855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -798,19 +939,19 @@
       ]
     },
     {
-      "keyword_group": "美债",
+      "keyword_group": "金价",
       "match_count": 1,
       "titles": [
         {
-          "title": "两年期美债收益率跌幅收窄至2.5个基点",
-          "url": "https://wallstreetcn.com/livenews/3119855",
-          "source": "华尔街见闻-快讯",
+          "title": "金价大涨女子后悔880元没上车",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%A4%A7%E6%B6%A8%E5%A5%B3%E5%AD%90%E5%90%8E%E6%82%94880%E5%85%83%E6%B2%A1%E4%B8%8A%E8%BD%A6%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
           "ranks": [
-            18
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时48分"
+          "appearance_count": 2,
+          "time_info": "[09时41分 ~ 09时42分]"
         }
       ]
     },
