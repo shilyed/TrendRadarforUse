@@ -1,12 +1,388 @@
 {
-  "generated_at": "2026-06-17T14:03:58.059858+08:00",
-  "total_titles_processed": 862,
+  "generated_at": "2026-06-17T19:31:57.425631+08:00",
+  "total_titles_processed": 1095,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "特朗普",
+      "match_count": 32,
+      "titles": [
+        {
+          "title": "特朗普：感谢中俄帮忙",
+          "url": "https://news.ifeng.com/c/8tzsMW2n662",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时56分 ~ 06时50分]"
+        },
+        {
+          "title": "特朗普：关我们啥事？就是卖卖武器",
+          "url": "https://news.ifeng.com/c/8u1SdELcNgi",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时03分 ~ 19时31分]"
+        },
+        {
+          "title": "特朗普大发雷霆后，内塔尼亚胡回应：以军不撤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33388365",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 08时11分]"
+        },
+        {
+          "title": "“马克龙想借中国，来跟特朗普讨价还价”",
+          "url": "https://news.ifeng.com/c/8u1zHWun1pQ",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时30分 ~ 19时31分]"
+        },
+        {
+          "title": "特朗普和马克龙为何为一瓶红酒较劲",
+          "url": "https://www.toutiao.com/trending/7651982793936735807/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时56分 ~ 06时50分]"
+        },
+        {
+          "title": "特朗普：若不满意美伊备忘录，将恢复轰炸行动",
+          "url": "https://flash.jin10.com/detail/20260617190523807800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
+          "title": "泽连斯基向特朗普提议：这样普京更难拒绝",
+          "url": "https://news.ifeng.com/c/8tzn14Ioj6Y",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 08时11分]"
+        },
+        {
+          "title": "特朗普称美伊协议已签署",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E4%BC%8A%E5%8D%8F%E8%AE%AE%E5%B7%B2%E7%AD%BE%E7%BD%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时56分 ~ 06时50分]"
+        },
+        {
+          "title": "德国总理默茨：在七国集团峰会上与特朗普的对话富有建设性。",
+          "url": "https://wallstreetcn.com/livenews/3120969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
+          "title": "特朗普称霍尔木兹海峡周五全面重开、或近期恢复俄油制裁，伊朗称协议要求以从黎撤军",
+          "url": "https://wallstreetcn.com/articles/3774815",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时03分 ~ 19时31分]"
+        },
+        {
+          "title": "特朗普罕见批评以色列：不能每次为找一个人，炸掉整栋楼",
+          "url": "https://news.ifeng.com/c/8u1h2zVfjEK",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时30分 ~ 19时31分]"
+        },
+        {
+          "title": "特朗普又炮轰内塔尼亚胡：没我，就没以色列",
+          "url": "https://news.ifeng.com/c/8u1wV2q6hDQ",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时30分 ~ 19时31分]"
+        },
+        {
+          "title": "“特朗普，你要打击报复就找我，别动我老婆、家人”",
+          "url": "https://news.ifeng.com/c/8u0lx8RZe1y",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时11分 ~ 14时03分]"
+        },
+        {
+          "title": "现场：马克龙夫人险摔倒，不抓身旁老公，反而抓住特朗普",
+          "url": "https://v.ifeng.com/c/8u1lYy22fhi",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时30分 ~ 19时31分]"
+        },
+        {
+          "title": "特朗普：有关设立3000亿美元伊朗重建基金的报道不实。 美国没有基金投资伊朗。 美国不会在伊朗投资“10美分”（即一分钱也不投）。 油价保持低位是因为我们正在将船只运出（海峡）。 伊朗谅解备忘录尚未最终定稿。 如果我对看到的不满意，我们会再次袭击。",
+          "url": "https://wallstreetcn.com/livenews/3120964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
+          "title": "特朗普赞扬马克龙，称法国做得非常出色。",
+          "url": "https://wallstreetcn.com/livenews/3120963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
+          "title": "特朗普称赞股市上涨、油价下跌，称油价下跌将对购买力产生积极影响，油价可能会降至伊朗冲突前水平以下。",
+          "url": "https://wallstreetcn.com/livenews/3120960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
+          "title": "特朗普：昨晚在七国集团晚宴上很开心。 七国集团之行非常成功。 市场对伊朗协议非常满意。 将在今天的新闻发布会上讨论伊朗协议的细节。 油价正在下跌。 霍尔木兹海峡将在未来一两天内开放。 海峡已部分开放，将全面开放。 没有什么比市场更聪明。",
+          "url": "https://wallstreetcn.com/livenews/3120957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
+          "title": "特朗普称赞与埃及的关系。",
+          "url": "https://wallstreetcn.com/livenews/3120956",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
+          "title": "美国加州州长Newsom：（对于总统特朗普挑起的司法调查）我们（夫妻俩）没啥好隐藏的。",
+          "url": "https://wallstreetcn.com/livenews/3120438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "特朗普政府再次推动转移教育部职能",
+          "url": "https://wallstreetcn.com/livenews/3120550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时11分"
+        },
+        {
+          "title": "特朗普称没有美国以色列早不存在了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%B2%A1%E6%9C%89%E7%BE%8E%E5%9B%BD%E4%BB%A5%E8%89%B2%E5%88%97%E6%97%A9%E4%B8%8D%E5%AD%98%E5%9C%A8%E4%BA%86%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时50分"
+        },
+        {
+          "title": "据The Information：OpenAI表示，已向特朗普政府表明，外国人才对美国人工智能发展至关重要。",
+          "url": "https://flash.jin10.com/detail/20260617051721170800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时50分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗人嘲笑奥巴马，称他是\"愚蠢的混蛋\" 。",
+          "url": "https://flash.jin10.com/detail/20260617185958382800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
+          "title": "特朗普：美方或恢复对俄石油制裁",
+          "url": "https://www.toutiao.com/trending/7652117439001477139/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时11分"
+        },
+        {
+          "title": "美国总统特朗普：谅解备忘录不包含立即解除制裁的内容，但日后会讨论这一问题。",
+          "url": "https://flash.jin10.com/detail/20260617185902692800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
+          "title": "特朗普政府再次推动转移教育部职能",
+          "url": "https://flash.jin10.com/detail/20260617072322613800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时11分"
+        },
+        {
+          "title": "美国总统特朗普：已与叙利亚领导人讨论如何打击黎巴嫩真主党。",
+          "url": "https://flash.jin10.com/detail/20260617185748219800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
+          "title": "德国总理默茨告诉美国总统特朗普：德国准备对“霍尔木兹海峡任务”做出贡献。 相信美国与伊朗的协议能够持续下去。",
+          "url": "https://wallstreetcn.com/livenews/3120427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "共和党警告特朗普政府或面临“停摆”，因民主党反对五角大楼大幅增支",
+          "url": "https://wallstreetcn.com/livenews/3120506",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时50分"
+        },
+        {
+          "title": "【特朗普：美方可能近期恢复对俄罗斯石油制裁】美国总统特朗普16日称，美国可能很快重新实施对俄罗斯石油的制裁。特朗普当天在法国埃维昂莱班出席七国集团峰会期间对媒体称：“（恢复制裁）很快就能落实，因为目前石油已在正常流通……我们此前之所以暂缓制裁，显然是不希望影响石油供应。目前条件已经具备，可以尽快采取行动。”（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3120426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "以媒：应特朗普要求，以色列在“最后一刻”取消8日大规模空袭伊朗的计划",
+          "url": "https://wallstreetcn.com/livenews/3120422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 18,
       "titles": [
+        {
+          "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
+          "url": "https://wallstreetcn.com/articles/3774774",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时50分 ~ 19时31分]"
+        },
         {
           "title": "美伊达成协议，半导体股领涨美股，道指新高，油价重挫5%，黄金三连涨",
           "url": "https://wallstreetcn.com/articles/3774633",
@@ -17,18 +393,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时56分 ~ 06时50分]"
-        },
-        {
-          "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
-          "url": "https://wallstreetcn.com/articles/3774774",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时50分 ~ 14时03分]"
         },
         {
           "title": "美股指涨跌互现，SpaceX大涨17%，总市值逼近3万亿美元，存储概念股走高",
@@ -214,218 +578,23 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 18,
+      "keyword_group": "伊朗",
+      "match_count": 12,
       "titles": [
         {
-          "title": "特朗普：感谢中俄帮忙",
-          "url": "https://news.ifeng.com/c/8tzsMW2n662",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 06时50分]"
-        },
-        {
-          "title": "特朗普大发雷霆后，内塔尼亚胡回应：以军不撤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33388365",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时56分 ~ 08时11分]"
-        },
-        {
-          "title": "特朗普和马克龙为何为一瓶红酒较劲",
-          "url": "https://www.toutiao.com/trending/7651982793936735807/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 06时50分]"
-        },
-        {
-          "title": "特朗普：关我们啥事？就是卖卖武器",
-          "url": "https://news.ifeng.com/c/8u1SdELcNgi",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时03分"
-        },
-        {
-          "title": "泽连斯基向特朗普提议：这样普京更难拒绝",
-          "url": "https://news.ifeng.com/c/8tzn14Ioj6Y",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时56分 ~ 08时11分]"
-        },
-        {
-          "title": "特朗普称美伊协议已签署",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E4%BC%8A%E5%8D%8F%E8%AE%AE%E5%B7%B2%E7%AD%BE%E7%BD%B2",
-          "source": "bilibili 热搜",
+          "title": "翻脸不认球,美国驱赶伊朗队",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355210&amp;topic_name=%E7%BF%BB%E8%84%B8%E4%B8%8D%E8%AE%A4%E7%90%83%2C%E7%BE%8E%E5%9B%BD%E9%A9%B1%E8%B5%B6%E4%BC%8A%E6%9C%97%E9%98%9F",
+          "source": "贴吧",
           "ranks": [
             3,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时56分 ~ 06时50分]"
-        },
-        {
-          "title": "“特朗普，你要打击报复就找我，别动我老婆、家人”",
-          "url": "https://news.ifeng.com/c/8u0lx8RZe1y",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时11分 ~ 14时03分]"
-        },
-        {
-          "title": "特朗普称霍尔木兹海峡周五全面重开、或近期恢复俄油制裁，伊朗称协议要求以从黎撤军",
-          "url": "https://wallstreetcn.com/articles/3774815",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时03分"
-        },
-        {
-          "title": "美国加州州长Newsom：（对于总统特朗普挑起的司法调查）我们（夫妻俩）没啥好隐藏的。",
-          "url": "https://wallstreetcn.com/livenews/3120438",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        },
-        {
-          "title": "特朗普政府再次推动转移教育部职能",
-          "url": "https://wallstreetcn.com/livenews/3120550",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时11分"
-        },
-        {
-          "title": "特朗普称没有美国以色列早不存在了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%B2%A1%E6%9C%89%E7%BE%8E%E5%9B%BD%E4%BB%A5%E8%89%B2%E5%88%97%E6%97%A9%E4%B8%8D%E5%AD%98%E5%9C%A8%E4%BA%86%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时50分"
-        },
-        {
-          "title": "据The Information：OpenAI表示，已向特朗普政府表明，外国人才对美国人工智能发展至关重要。",
-          "url": "https://flash.jin10.com/detail/20260617051721170800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时50分"
-        },
-        {
-          "title": "特朗普：美方或恢复对俄石油制裁",
-          "url": "https://www.toutiao.com/trending/7652117439001477139/",
-          "source": "今日头条",
-          "ranks": [
+            4,
+            10,
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时11分"
+          "appearance_count": 8,
+          "time_info": "[01时56分 ~ 19时31分]"
         },
-        {
-          "title": "特朗普政府再次推动转移教育部职能",
-          "url": "https://flash.jin10.com/detail/20260617072322613800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时11分"
-        },
-        {
-          "title": "德国总理默茨告诉美国总统特朗普：德国准备对“霍尔木兹海峡任务”做出贡献。 相信美国与伊朗的协议能够持续下去。",
-          "url": "https://wallstreetcn.com/livenews/3120427",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        },
-        {
-          "title": "共和党警告特朗普政府或面临“停摆”，因民主党反对五角大楼大幅增支",
-          "url": "https://wallstreetcn.com/livenews/3120506",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时50分"
-        },
-        {
-          "title": "【特朗普：美方可能近期恢复对俄罗斯石油制裁】美国总统特朗普16日称，美国可能很快重新实施对俄罗斯石油的制裁。特朗普当天在法国埃维昂莱班出席七国集团峰会期间对媒体称：“（恢复制裁）很快就能落实，因为目前石油已在正常流通……我们此前之所以暂缓制裁，显然是不希望影响石油供应。目前条件已经具备，可以尽快采取行动。”（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3120426",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        },
-        {
-          "title": "以媒：应特朗普要求，以色列在“最后一刻”取消8日大规模空袭伊朗的计划",
-          "url": "https://wallstreetcn.com/livenews/3120422",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 11,
-      "titles": [
         {
           "title": "美国勒令伊朗队立刻离境，为何此时突然变脸？",
           "url": "https://v.ifeng.com/c/8tyNCvcMxI6",
@@ -438,17 +607,18 @@
           "time_info": "[01时56分 ~ 08时11分]"
         },
         {
-          "title": "翻脸不认球,美国驱赶伊朗队",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355210&amp;topic_name=%E7%BF%BB%E8%84%B8%E4%B8%8D%E8%AE%A4%E7%90%83%2C%E7%BE%8E%E5%9B%BD%E9%A9%B1%E8%B5%B6%E4%BC%8A%E6%9C%97%E9%98%9F",
+          "title": "美国或赔偿伊朗3千亿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355216&amp;topic_name=%E7%BE%8E%E5%9B%BD%E6%88%96%E8%B5%94%E5%81%BF%E4%BC%8A%E6%9C%973%E5%8D%83%E4%BA%BF",
           "source": "贴吧",
           "ranks": [
-            3,
-            4,
-            10
+            5,
+            6,
+            7,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时56分 ~ 14时03分]"
+          "appearance_count": 8,
+          "time_info": "[01时56分 ~ 19时31分]"
         },
         {
           "title": "伊朗队赛前获准在美国过夜，赛后却被勒令立即离开，如何看待此事？风波背后折射出美伊关系怎样的冰与火？",
@@ -463,19 +633,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时56分 ~ 08时11分]"
-        },
-        {
-          "title": "美国或赔偿伊朗3千亿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355216&amp;topic_name=%E7%BE%8E%E5%9B%BD%E6%88%96%E8%B5%94%E5%81%BF%E4%BC%8A%E6%9C%973%E5%8D%83%E4%BA%BF",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时56分 ~ 14时03分]"
         },
         {
           "title": "伊朗队主帅：球队突然被勒令立即离开美国，此前获准在美过夜",
@@ -498,7 +655,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
         },
@@ -562,12 +719,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        },
+        {
+          "title": "第三艘伊朗关联原油油轮突破美国封锁驶向亚洲",
+          "url": "https://wallstreetcn.com/livenews/3120933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         }
       ]
     },
     {
       "keyword_group": "半导体",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "科创50指数涨幅扩大至4%，半导体板块持续拉升，盛美上海20cm涨停，此前赛腾股份、盛剑科技涨停，拓荆科技涨超10%，华峰测控、华海清科、精智达、长川科技、中微公司等涨超6%。",
@@ -576,9 +744,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
+        },
+        {
+          "title": "美迪凯：目前，公司向客户供应的半导体用玻璃基板为未打孔基板，但2025年相关产品销售收入占公司总营收比重约为2.00%，占比较低，未对公司整体业绩构成重大影响。技术储备方面，公司开发了玻璃通孔、孔内金属化、CMP及RDL布线等TGV工艺，但前述相关工艺产品尚未形成量产收入。",
+          "url": "https://wallstreetcn.com/livenews/3120975",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌2.4%。 热门中概股里，日月光半导体跌4.5%，小马智行、小鹏跌超4%，腾讯、美团、蔚来、百度、网易跌超3%。 ETF中，KWEB跌2.8%，CQQQ跌1.6%，EMXC跌1.5%。",
@@ -605,6 +784,17 @@
           "time_info": "[01时56分 ~ 08时11分]"
         },
         {
+          "title": "【每日收评】科创50低开高走涨超4.5%，AI硬件反复活跃，半导体产业链再迎爆发",
+          "url": "https://www.cls.cn/detail/2402436",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时30分 ~ 19时31分]"
+        },
+        {
           "title": "SpaceX初步收涨4.9%。 标普500指数初步收跌0.5%，科技板块跌2.1%，能源板块跌0.4%，金融板块涨1.4%。 纳斯达克100指数初步收跌1.8%，成分股中，Lumentum初步收跌8.4%，MPWR跌8.2%，迈威尔科技跌8.1%，英特尔跌7.8%，科磊跌超7%，Strategy跌6.1%，闪迪跌5.8%，美光科技跌5.4%，核电股CEG涨2.1%，西部数据涨5.2%，游戏公司Take-Two Interactive Software Inc.涨6%。 道指初步收涨大约380点，成分股摩根大通涨3.6%，Visa、3MN、家得宝、美国运通、卡特彼勒、高盛至少涨1.4%，微软、Salesforce、英伟达则至多跌1.9%表现最差。 半导体指数跌5.3%。",
           "url": "https://wallstreetcn.com/livenews/3120483",
           "source": "华尔街见闻-快讯",
@@ -614,6 +804,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
+        },
+        {
+          "title": "中韩半导体ETF华泰柏瑞：本基金将于2026年6月18日开市起至当日10:30停牌。",
+          "url": "https://flash.jin10.com/detail/20260617190235216800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         },
         {
           "title": "标普500指数跌超0.5%，纳指跌1%，纳斯达克100指数跌超1.7%，半导体指数跌4.8%，道指目前涨345点、涨幅0.6%。",
@@ -718,6 +919,45 @@
       ]
     },
     {
+      "keyword_group": "存储芯片",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "诚邦股份：拟定增募资不超过1亿元，用于嵌入式存储芯片扩产项目、补充流动资金。",
+          "url": "https://wallstreetcn.com/livenews/3120967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
+          "title": "A股存储芯片板块震荡拉升，香农芯创涨超15%，协创数据涨超10%，通富微电、东芯股份、中微公司跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3120755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        },
+        {
+          "title": "A股存储芯片板块午后持续活跃，香农芯创涨超15%，盛美上海、普冉股份、澜起科技、德明利、紫光国微、兆易创新等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260617130732246800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "白银",
       "match_count": 2,
       "titles": [
@@ -742,34 +982,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储芯片",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "A股存储芯片板块震荡拉升，香农芯创涨超15%，协创数据涨超10%，通富微电、东芯股份、中微公司跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3120755",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时03分"
-        },
-        {
-          "title": "A股存储芯片板块午后持续活跃，香农芯创涨超15%，盛美上海、普冉股份、澜起科技、德明利、紫光国微、兆易创新等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260617130732246800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时03分"
         }
       ]
     }
