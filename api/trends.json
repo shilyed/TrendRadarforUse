@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-17T08:11:45.679974+08:00",
-  "total_titles_processed": 624,
+  "generated_at": "2026-06-17T14:03:58.059858+08:00",
+  "total_titles_processed": 862,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,18 @@
           "time_info": "[01时56分 ~ 06时50分]"
         },
         {
+          "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
+          "url": "https://wallstreetcn.com/articles/3774774",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时50分 ~ 14时03分]"
+        },
+        {
           "title": "美股指涨跌互现，SpaceX大涨17%，总市值逼近3万亿美元，存储概念股走高",
           "url": "https://wallstreetcn.com/articles/3774774",
           "source": "华尔街见闻",
@@ -30,16 +42,28 @@
           "time_info": "[01时56分 ~ 04时42分]"
         },
         {
-          "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
-          "url": "https://wallstreetcn.com/articles/3774774",
-          "source": "华尔街见闻",
+          "title": "【早报】油价大跌；美股芯片股集体下挫，道指创新高；法国队取得开门红",
+          "url": "https://www.cls.cn/detail/2401752",
+          "source": "财联社热门",
           "ranks": [
-            4,
+            2,
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时50分 ~ 08时11分]"
+          "time_info": "[08时11分 ~ 14时03分]"
+        },
+        {
+          "title": "美股收盘：资金轮动道指创新高 芯片股回调、工业板块走强",
+          "url": "https://www.cls.cn/detail/2401731",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时11分 ~ 14时03分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，农产品基金收涨超1%，布油基金跌约4.7%",
@@ -53,17 +77,6 @@
           "time_info": "04时42分"
         },
         {
-          "title": "【早报】油价大跌；美股芯片股集体下挫，道指创新高；法国队取得开门红",
-          "url": "https://www.cls.cn/detail/2401752",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时11分"
-        },
-        {
           "title": "半导体ETF收跌4.8%，领跌美股行业ETF，标普金融板块收涨将近1.5%",
           "url": "https://wallstreetcn.com/livenews/3120489",
           "source": "华尔街见闻-快讯",
@@ -73,17 +86,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
-        },
-        {
-          "title": "美股收盘：资金轮动道指创新高 芯片股回调、工业板块走强",
-          "url": "https://www.cls.cn/detail/2401731",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时11分"
         },
         {
           "title": "美股期指横盘整理 SpaceX盘前再度大涨 市值逼近亚马逊 | 今夜看点",
@@ -150,7 +152,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时11分"
         },
@@ -161,7 +163,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时11分"
         },
@@ -213,7 +215,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普：感谢中俄帮忙",
@@ -253,6 +255,17 @@
           "time_info": "[01时56分 ~ 06时50分]"
         },
         {
+          "title": "特朗普：关我们啥事？就是卖卖武器",
+          "url": "https://news.ifeng.com/c/8u1SdELcNgi",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        },
+        {
           "title": "泽连斯基向特朗普提议：这样普京更难拒绝",
           "url": "https://news.ifeng.com/c/8tzn14Ioj6Y",
           "source": "凤凰网",
@@ -282,9 +295,20 @@
           "ranks": [
             9
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时11分 ~ 14时03分]"
+        },
+        {
+          "title": "特朗普称霍尔木兹海峡周五全面重开、或近期恢复俄油制裁，伊朗称协议要求以从黎撤军",
+          "url": "https://wallstreetcn.com/articles/3774815",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时11分"
+          "time_info": "14时03分"
         },
         {
           "title": "美国加州州长Newsom：（对于总统特朗普挑起的司法调查）我们（夫妻俩）没啥好隐藏的。",
@@ -304,7 +328,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时11分"
         },
@@ -337,7 +361,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时11分"
         },
@@ -348,7 +372,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时11分"
         },
@@ -400,20 +424,8 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
-        {
-          "title": "翻脸不认球,美国驱赶伊朗队",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355210&amp;topic_name=%E7%BF%BB%E8%84%B8%E4%B8%8D%E8%AE%A4%E7%90%83%2C%E7%BE%8E%E5%9B%BD%E9%A9%B1%E8%B5%B6%E4%BC%8A%E6%9C%97%E9%98%9F",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时56分 ~ 08时11分]"
-        },
         {
           "title": "美国勒令伊朗队立刻离境，为何此时突然变脸？",
           "url": "https://v.ifeng.com/c/8tyNCvcMxI6",
@@ -424,6 +436,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时56分 ~ 08时11分]"
+        },
+        {
+          "title": "翻脸不认球,美国驱赶伊朗队",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355210&amp;topic_name=%E7%BF%BB%E8%84%B8%E4%B8%8D%E8%AE%A4%E7%90%83%2C%E7%BE%8E%E5%9B%BD%E9%A9%B1%E8%B5%B6%E4%BC%8A%E6%9C%97%E9%98%9F",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 14时03分]"
         },
         {
           "title": "伊朗队赛前获准在美国过夜，赛后却被勒令立即离开，如何看待此事？风波背后折射出美伊关系怎样的冰与火？",
@@ -445,11 +470,37 @@
           "source": "贴吧",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时56分 ~ 08时11分]"
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 14时03分]"
+        },
+        {
+          "title": "伊朗队主帅：球队突然被勒令立即离开美国，此前获准在美过夜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33389618",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 14时03分]"
+        },
+        {
+          "title": "“伊朗永远不会得到美国纳税人的一分钱”",
+          "url": "https://news.ifeng.com/c/8u1ZY3ZubFf",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
         },
         {
           "title": "伊朗在与美国的协议中寻求关于获取资金的“全面保证”。",
@@ -477,30 +528,18 @@
           "time_info": "[01时56分 ~ 08时11分]"
         },
         {
-          "title": "伊朗队主帅：球队突然被勒令立即离开美国，此前获准在美过夜",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33389618",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时56分 ~ 08时11分]"
-        },
-        {
           "title": "刚完赛就被勒令离开美国！伊朗队主帅抱怨球队在世界杯受压迫",
           "url": "https://m.thepaper.cn/newsDetail_forward_33389989",
           "source": "澎湃新闻",
           "ranks": [
             20,
             18,
-            15
+            15,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时42分 ~ 08时11分]"
+          "appearance_count": 4,
+          "time_info": "[04时42分 ~ 14时03分]"
         },
         {
           "title": "伊朗队被勒令离开美国",
@@ -528,8 +567,19 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "科创50指数涨幅扩大至4%，半导体板块持续拉升，盛美上海20cm涨停，此前赛腾股份、盛剑科技涨停，拓荆科技涨超10%，华峰测控、华海清科、精智达、长川科技、中微公司等涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3120765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        },
         {
           "title": "纳斯达克金龙中国指数初步收跌2.4%。 热门中概股里，日月光半导体跌4.5%，小马智行、小鹏跌超4%，腾讯、美团、蔚来、百度、网易跌超3%。 ETF中，KWEB跌2.8%，CQQQ跌1.6%，EMXC跌1.5%。",
           "url": "https://wallstreetcn.com/livenews/3120485",
@@ -692,6 +742,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储芯片",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "A股存储芯片板块震荡拉升，香农芯创涨超15%，协创数据涨超10%，通富微电、东芯股份、中微公司跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3120755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        },
+        {
+          "title": "A股存储芯片板块午后持续活跃，香农芯创涨超15%，盛美上海、普冉股份、澜起科技、德明利、紫光国微、兆易创新等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260617130732246800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
         }
       ]
     }
