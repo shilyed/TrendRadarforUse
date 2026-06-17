@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-18T01:47:28.981255+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-06-18T04:03:09.786085+08:00",
+  "total_titles_processed": 428,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普：我喜欢“伊朗协议不奏效就怪罪万斯”这个想法",
@@ -30,17 +30,6 @@
           "time_info": "01时47分"
         },
         {
-          "title": "特朗普称霍尔木兹海峡周五全面重开、或近期恢复俄油制裁，伊朗称协议要求以从黎撤军",
-          "url": "https://wallstreetcn.com/articles/3774815",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
           "title": "“马克龙想借中国，来跟特朗普讨价还价”",
           "url": "https://news.ifeng.com/c/8u1zHWun1pQ",
           "source": "凤凰网",
@@ -48,8 +37,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
+          "appearance_count": 3,
+          "time_info": "[01时47分 ~ 04时03分]"
         },
         {
           "title": "特朗普罕见批评以色列：不能每次为找一个人，炸掉整栋楼",
@@ -59,8 +48,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
+          "appearance_count": 3,
+          "time_info": "[01时47分 ~ 04时03分]"
         },
         {
           "title": "特朗普又炮轰内塔尼亚胡：没我，就没以色列",
@@ -70,8 +59,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
+          "appearance_count": 3,
+          "time_info": "[01时47分 ~ 04时03分]"
         },
         {
           "title": "“特朗普这么干，又给中国打广告”",
@@ -79,6 +68,53 @@
           "source": "凤凰网",
           "ranks": [
             10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时47分 ~ 04时03分]"
+        },
+        {
+          "title": "特朗普：谅解备忘录不是最终协议 若不满意会重新开火",
+          "url": "https://www.cls.cn/detail/2402714",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时47分 ~ 04时03分]"
+        },
+        {
+          "title": "特朗普：如果我不满意，将恢复向伊朗投掷炸弹",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33400508",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时47分 ~ 04时03分]"
+        },
+        {
+          "title": "阿联酋总统太小声？特朗普当面调侃：像他那么有钱，确实不用大声",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33397131",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时47分 ~ 04时03分]"
+        },
+        {
+          "title": "特朗普称霍尔木兹海峡周五全面重开、或近期恢复俄油制裁，伊朗称协议要求以从黎撤军",
+          "url": "https://wallstreetcn.com/articles/3774815",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -107,37 +143,15 @@
           "time_info": "01时47分"
         },
         {
-          "title": "特朗普：谅解备忘录不是最终协议 若不满意会重新开火",
-          "url": "https://www.cls.cn/detail/2402714",
-          "source": "财联社热门",
+          "title": "美国总统特朗普：我在想，我们或许无法围绕美国墨西哥加拿大贸易协议（USMCA）达成共识。",
+          "url": "https://wallstreetcn.com/livenews/3121230",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "特朗普：如果我不满意，将恢复向伊朗投掷炸弹",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33400508",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "阿联酋总统太小声？特朗普当面调侃：像他那么有钱，确实不用大声",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33397131",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
+          "time_info": "04时03分"
         },
         {
           "title": "特朗普：如果不将资金退还给伊朗，那将对美元不利",
@@ -171,6 +185,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
+        },
+        {
+          "title": "沃什未透露是否与特朗普进行过沟通",
+          "url": "https://flash.jin10.com/detail/20260618032756315800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时03分"
         },
         {
           "title": "美国总统特朗普：围绕经济、AI举行了一些不错的会议。",
@@ -215,6 +240,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
+        },
+        {
+          "title": "特朗普：美联储按兵不动也是OK的，可能会加息",
+          "url": "https://wallstreetcn.com/livenews/3121222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时03分"
         },
         {
           "title": "美国总统特朗普：试图让哈马斯解除武装。",
@@ -308,7 +344,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "美国官员：本周末在瑞士举行的会议对于观察与伊朗谈判的进展将是至关重要的。",
@@ -320,6 +356,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
+        },
+        {
+          "title": "美国或赔偿伊朗3千亿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355216&amp;topic_name=%E7%BE%8E%E5%9B%BD%E6%88%96%E8%B5%94%E5%81%BF%E4%BC%8A%E6%9C%973%E5%8D%83%E4%BA%BF",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时47分 ~ 04时03分]"
+        },
+        {
+          "title": "翻脸不认球,美国驱赶伊朗队",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355210&amp;topic_name=%E7%BF%BB%E8%84%B8%E4%B8%8D%E8%AE%A4%E7%90%83%2C%E7%BE%8E%E5%9B%BD%E9%A9%B1%E8%B5%B6%E4%BC%8A%E6%9C%97%E9%98%9F",
+          "source": "贴吧",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时47分 ~ 04时03分]"
         },
         {
           "title": "美国官员：商定步骤的先后顺序将是即将与伊朗举行会谈的重要议题。",
@@ -377,6 +437,17 @@
           "time_info": "01时47分"
         },
         {
+          "title": "据伊朗伊斯兰共和国通讯社：美国承诺在谅解备忘录实施过程中向伊朗提供其被冻结资金的使用权。双方将在谈判期间商定资产解冻机制。",
+          "url": "https://flash.jin10.com/detail/20260618032848433800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时03分"
+        },
+        {
           "title": "据伊朗国家媒体：伊朗外交部发言人表示，协议可能由美国和伊朗两国总统签署，该提议仍在审议中。",
           "url": "https://flash.jin10.com/detail/20260618011534723800",
           "source": "金十数据",
@@ -388,26 +459,15 @@
           "time_info": "01时47分"
         },
         {
-          "title": "美国或赔偿伊朗3千亿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355216&amp;topic_name=%E7%BE%8E%E5%9B%BD%E6%88%96%E8%B5%94%E5%81%BF%E4%BC%8A%E6%9C%973%E5%8D%83%E4%BA%BF",
-          "source": "贴吧",
+          "title": "据伊朗伊斯兰共和国通讯社：备忘录签署后至制裁解除前，美国承诺发放伊朗石油、石化产品及衍生物出口以及所有相关服务的豁免许可。",
+          "url": "https://flash.jin10.com/detail/20260618032733439800",
+          "source": "金十数据",
           "ranks": [
-            19
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "翻脸不认球,美国驱赶伊朗队",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355210&amp;topic_name=%E7%BF%BB%E8%84%B8%E4%B8%8D%E8%AE%A4%E7%90%83%2C%E7%BE%8E%E5%9B%BD%E9%A9%B1%E8%B5%B6%E4%BC%8A%E6%9C%97%E9%98%9F",
-          "source": "贴吧",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
+          "time_info": "04时03分"
         },
         {
           "title": "美国官员：美国将与国际原子能机构密切合作，进行对伊朗的检查。",
@@ -419,6 +479,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社：美国承诺与地区伙伴合作，制定一项双方同意的伊朗经济重建计划，并提供至少3000亿美元资金。",
+          "url": "https://flash.jin10.com/detail/20260618032355540800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时03分"
         },
         {
           "title": "美国官员：美国将根据计划终止所有对伊朗的制裁。",
@@ -435,7 +506,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
@@ -445,37 +516,61 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
+          "appearance_count": 3,
+          "time_info": "[01时47分 ~ 04时03分]"
         },
         {
           "title": "市场静待沃什首秀，美股指走高，半导体股多数上涨，SpaceX跌幅扩大至4%，油价涨1%",
           "url": "https://wallstreetcn.com/articles/3774887",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
+          "appearance_count": 3,
+          "time_info": "[01时47分 ~ 04时03分]"
         },
         {
           "title": "悬在市场上空的“三大利空”：沃什“鹰鸽不明”，AI“武器化监管”，美股史上最大股票发行潮",
           "url": "https://wallstreetcn.com/articles/3774852",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时47分 ~ 04时03分]"
+        },
+        {
+          "title": "美股费城银行指数转跌，此前一度涨1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3121232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时47分"
+          "time_info": "04时03分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "美元指数日内涨幅达1.0%，报100.5602。",
+          "url": "https://wallstreetcn.com/livenews/3121239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时03分"
+        },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.35%，暂报2413.24点，北京时间10:29刷新期内高位至2458.69点，随后持续下挫，20:30刷新日低至2350.11点。 MarketVectorTM数字资产100中盘指数涨1.65%，报2781.37点，00:29曾达到2809.63点。 MarketVector数字资产100指数涨0.16%，报13086.58点。 目前，Solana跌0.17%，狗狗币跌0.37%，XRP跌0.72%。 比特币涨0.35%，暂报65824.80美元；以太坊跌1.42%，暂报1769.49美元。",
           "url": "https://wallstreetcn.com/livenews/3121162",
@@ -486,6 +581,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
+        },
+        {
+          "title": "彭博美元指数创3月13日以来最大盘中涨幅",
+          "url": "https://wallstreetcn.com/livenews/3121231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "欧元兑美元跌超1%，刷新日低至1.1483。 澳元兑美元跌1%，刷新日低至0.6995。 现货白银日内跌幅达4.5%，报66.83美元/盎司；纽约银日内跌幅达4.5%，报67.36美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3121237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时03分"
+        },
+        {
+          "title": "现货白银跌破67美元/盎司，日内跌4.32%。",
+          "url": "https://flash.jin10.com/detail/20260618033904783800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时03分"
+        },
+        {
+          "title": "现货黄金日内跌幅达2.0%，报4242.32美元/盎司。 纽约金日内跌幅达2.0%，报4264.1美元/盎司。 现货白银日内跌幅达2.5%，报68.25美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3121228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时03分"
         }
       ]
     },
@@ -498,11 +643,12 @@
           "url": "https://www.cls.cn/detail/2402436",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
+          "appearance_count": 3,
+          "time_info": "[01时47分 ~ 04时03分]"
         }
       ]
     }
