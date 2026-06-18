@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-18T18:08:33.366986+08:00",
-  "total_titles_processed": 1064,
+  "generated_at": "2026-06-18T21:59:15.652058+08:00",
+  "total_titles_processed": 1244,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 63,
       "titles": [
         {
           "title": "特朗普：如果我不满意，将恢复向伊朗投掷炸弹",
@@ -21,6 +21,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时47分 ~ 18时08分]"
+        },
+        {
+          "title": "特朗普：美联储按兵不动也还行，加息难以置信但可能发生，相信沃什",
+          "url": "https://wallstreetcn.com/articles/3774946",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 21时59分]"
         },
         {
           "title": "美国官员：上周日美国副总统万斯和伊朗议会议长卡利巴夫签署了美伊电子谅解备忘录，并由美国总统特朗普见证。",
@@ -73,7 +85,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         },
@@ -192,16 +204,41 @@
           "time_info": "[13时31分 ~ 18时08分]"
         },
         {
-          "title": "特朗普：美联储按兵不动也还行，加息难以置信但可能发生，相信沃什",
-          "url": "https://wallstreetcn.com/articles/3774946",
+          "title": "美官员称特朗普亲自签署美伊谅解备忘录",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33404444",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 21时59分]"
+        },
+        {
+          "title": "为美伊协议辩护，特朗普称“不想看到经济灾难”，不想做“导致1929年崩盘的胡佛”",
+          "url": "https://wallstreetcn.com/articles/3774952",
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 18时08分]"
+          "appearance_count": 3,
+          "time_info": "[18时08分 ~ 21时59分]"
+        },
+        {
+          "title": "美学者：特朗普凡尔赛签约离谱至极",
+          "url": "https://news.ifeng.com/c/8u3ct1grAdS",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时08分 ~ 21时59分]"
         },
         {
           "title": "特朗普：谅解备忘录不是最终协议 若不满意会重新开火",
@@ -216,6 +253,18 @@
           "time_info": "[01时47分 ~ 04时03分]"
         },
         {
+          "title": "特朗普：高市早苗是我的头号粉丝，不信你问她",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33405392",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时08分 ~ 21时59分]"
+        },
+        {
           "title": "特朗普G7峰会迟到，还宣布“我是老大”",
           "url": "https://news.ifeng.com/c/8u3Bdreuuj0",
           "source": "凤凰网",
@@ -228,16 +277,37 @@
           "time_info": "[13时31分 ~ 18时08分]"
         },
         {
-          "title": "美官员称特朗普亲自签署美伊谅解备忘录",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33404444",
-          "source": "澎湃新闻",
+          "title": "特朗普：4周耗尽石油储备！美国最大商业原油储存枢纽库存跌至警戒线",
+          "url": "https://wallstreetcn.com/articles/3774931",
+          "source": "华尔街见闻",
           "ranks": [
-            15,
-            14
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时31分 ~ 18时08分]"
+          "time_info": "[21时58分 ~ 21时59分]"
+        },
+        {
+          "title": "美以历史上十分罕见！“特朗普可能意识到自己被骗了”",
+          "url": "https://news.ifeng.com/c/8u33RqAGLKg",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时58分 ~ 21时59分]"
+        },
+        {
+          "title": "特朗普爆料：苹果将与英特尔合作 在美国设计和制造芯片",
+          "url": "https://www.cls.cn/detail/2403606",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时58分 ~ 21时59分]"
         },
         {
           "title": "特朗普G7峰会迟到后宣告我是老大",
@@ -250,17 +320,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时47分 ~ 06时41分]"
-        },
-        {
-          "title": "为美伊协议辩护，特朗普称“不想看到经济灾难”，不想做“导致1929年崩盘的胡佛”",
-          "url": "https://wallstreetcn.com/articles/3774952",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时08分"
         },
         {
           "title": "特朗普称霍尔木兹海峡周五全面重开、或近期恢复俄油制裁，伊朗称协议要求以从黎撤军",
@@ -280,7 +339,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         },
@@ -294,17 +353,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
-        },
-        {
-          "title": "美学者：特朗普凡尔赛签约离谱至极",
-          "url": "https://news.ifeng.com/c/8u3ct1grAdS",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时08分"
         },
         {
           "title": "美官员称特朗普亲自提前签署美伊谅解备忘录",
@@ -357,7 +405,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         },
@@ -379,7 +427,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         },
@@ -503,17 +551,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
-        },
-        {
-          "title": "特朗普：高市早苗是我的头号粉丝，不信你问她",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33405392",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时08分"
         },
         {
           "title": "美国总统特朗普：上周日与俄罗斯总统普京通话。",
@@ -683,8 +720,249 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 21,
+      "titles": [
+        {
+          "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
+          "url": "https://wallstreetcn.com/articles/3774887",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时41分 ~ 21时59分]"
+        },
+        {
+          "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
+          "url": "https://wallstreetcn.com/articles/3774774",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时47分 ~ 06时41分]"
+        },
+        {
+          "title": "悬在市场上空的“三大利空”：沃什“鹰鸽不明”，AI“武器化监管”，美股史上最大股票发行潮",
+          "url": "https://wallstreetcn.com/articles/3774852",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时47分 ~ 08时09分]"
+        },
+        {
+          "title": "市场静待沃什首秀，美股指走高，半导体股多数上涨，SpaceX跌幅扩大至4%，油价涨1%",
+          "url": "https://wallstreetcn.com/articles/3774887",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时47分 ~ 04时03分]"
+        },
+        {
+          "title": "【早报】美联储转鹰；美股三大指数集体收跌；黄金、白银下跌；葡萄牙队爆冷战平",
+          "url": "https://www.cls.cn/detail/2403010",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时09分 ~ 13时31分]"
+        },
+        {
+          "title": "美股收盘：沃什首秀吓坏市场！三大指数尾盘跳水",
+          "url": "https://www.cls.cn/detail/2403003",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时09分 ~ 13时31分]"
+        },
+        {
+          "title": "风险偏好重燃，美股高开，半导体股普涨，英特尔涨9%，SpaceX跌6%，油价跌超2%",
+          "url": "https://wallstreetcn.com/articles/3774963",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时58分 ~ 21时59分]"
+        },
+        {
+          "title": "市场消化美联储鹰派信号 美股期指反弹 英特尔盘前大涨近9% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2403938",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时58分 ~ 21时59分]"
+        },
+        {
+          "title": "美股三大指数尾盘跳水",
+          "url": "https://www.toutiao.com/trending/7652506164214631979/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时09分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF多数上涨，半导体ETF涨超4%，全球科技股指数ETF、全球航空业ETF涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3121739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "美股股指期货小幅上涨，纳指期货涨近0.5%，此前美伊签署电子备忘录。",
+          "url": "https://flash.jin10.com/detail/20260618060137337800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
+          "title": "美股费城银行指数转跌，此前一度涨1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3121232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时03分"
+        },
+        {
+          "title": "美股盘初：纳指涨1.6%，费城半导体指数涨4.6%，英特尔涨约9%，QuantumScape涨约15%",
+          "url": "https://wallstreetcn.com/livenews/3121732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "金十图示：2026年06月18日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260618214232940800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "在美股时段交易的费城金银指数收跌2.63%，报355.89点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌1.82%，报2450.24点。 在美股时段交易的原材料指数收跌1%，报251.98点，彭博数据显示，北京时间21:51曾瞬间跳水至零、又瞬间恢复至之前的水平。 在美股时段交易的金属与矿业指数收跌1.63%，报295.95点。",
+          "url": "https://wallstreetcn.com/livenews/3121260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
+          "title": "QuantumScape美股盘前涨超22%，公司宣布，与本田汽车旗下子公司本田技术研究所签署联合研发协议。双方将整合各自技术优势，共同推进 QS 固态电池技术平台落地，合作项目为多年期规划，聚焦固态电池研发及配套量产工艺开发。",
+          "url": "https://wallstreetcn.com/livenews/3121727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "周三（6月17日），美股存储芯片与硬件供应链指数涨1.78%，报250.51点，过半交易时间持稳于256点附近，北京时间02:00美联储披露经济预期概要（SEP）之后显著回吐涨幅，美联储主席沃什新闻发布会开始后一度冲高至260点上方刷新日高。 成分股西部数据涨超4.5%，应用材料涨超4.3%，希捷科技、美光科技、拉姆研究至少涨超1%，闪迪、Rambus则跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3121255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周三（6月17日），美国科技股七巨头（Magnificent 7）指数跌2.38%，报210.21点，跳空低开之后持续下挫，北京时间02:00美联储宣布按兵不动、披露经济预期概要（SEP）后显著地加速下跌，美联储主席凯文·沃什新闻发布会开始后再度加速下跌。 “超大”市值科技股指数跌1.56%，报432.59点，美联储决议声明发布后显著下挫，沃什新闻发布会开始之后冲高回落。",
+          "url": "https://wallstreetcn.com/livenews/3121254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
+          "title": "周三（6月17日），美股降息赢家指数跌2.29%，报93.60点，彭博数据显示，北京时间21:51（美股盘初）曾瞬间跳水至零，02:00美联储决议声明发布后转跌。",
+          "url": "https://wallstreetcn.com/livenews/3121251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3121716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "周三（6月17日），美股行业ETF普遍收跌，网络股指数ETF跌2.89%，可选消费ETF、日常消费品等至多跌2.51%，区域银行ETF、银行业ETF、能源业ETF、全球航空业ETF至多跌1.90%，半导体指数ETF则涨1.29%。",
+          "url": "https://wallstreetcn.com/livenews/3121250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "美国或赔偿伊朗3千亿",
@@ -695,11 +973,12 @@
             20,
             21,
             27,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时47分 ~ 18时08分]"
+          "appearance_count": 9,
+          "time_info": "[01时47分 ~ 21时59分]"
         },
         {
           "title": "美国公布与伊朗达成的谅解备忘录正式文本",
@@ -712,6 +991,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时09分 ~ 13时31分]"
+        },
+        {
+          "title": "美国司法部调查伊朗最高领袖资金网络 华尔街银行进入审查视野",
+          "url": "https://wallstreetcn.com/livenews/3121749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "美国官员：本周末在瑞士举行的会议对于观察与伊朗谈判的进展将是至关重要的。",
@@ -899,7 +1189,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         },
@@ -913,170 +1203,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
-          "url": "https://wallstreetcn.com/articles/3774887",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时41分 ~ 18时08分]"
-        },
-        {
-          "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
-          "url": "https://wallstreetcn.com/articles/3774774",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时47分 ~ 06时41分]"
-        },
-        {
-          "title": "悬在市场上空的“三大利空”：沃什“鹰鸽不明”，AI“武器化监管”，美股史上最大股票发行潮",
-          "url": "https://wallstreetcn.com/articles/3774852",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时47分 ~ 08时09分]"
-        },
-        {
-          "title": "市场静待沃什首秀，美股指走高，半导体股多数上涨，SpaceX跌幅扩大至4%，油价涨1%",
-          "url": "https://wallstreetcn.com/articles/3774887",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时47分 ~ 04时03分]"
-        },
-        {
-          "title": "【早报】美联储转鹰；美股三大指数集体收跌；黄金、白银下跌；葡萄牙队爆冷战平",
-          "url": "https://www.cls.cn/detail/2403010",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时09分 ~ 13时31分]"
-        },
-        {
-          "title": "美股收盘：沃什首秀吓坏市场！三大指数尾盘跳水",
-          "url": "https://www.cls.cn/detail/2403003",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时09分 ~ 13时31分]"
-        },
-        {
-          "title": "美股三大指数尾盘跳水",
-          "url": "https://www.toutiao.com/trending/7652506164214631979/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时09分"
-        },
-        {
-          "title": "美股股指期货小幅上涨，纳指期货涨近0.5%，此前美伊签署电子备忘录。",
-          "url": "https://flash.jin10.com/detail/20260618060137337800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时41分"
-        },
-        {
-          "title": "美股费城银行指数转跌，此前一度涨1.6%。",
-          "url": "https://wallstreetcn.com/livenews/3121232",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时03分"
-        },
-        {
-          "title": "在美股时段交易的费城金银指数收跌2.63%，报355.89点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌1.82%，报2450.24点。 在美股时段交易的原材料指数收跌1%，报251.98点，彭博数据显示，北京时间21:51曾瞬间跳水至零、又瞬间恢复至之前的水平。 在美股时段交易的金属与矿业指数收跌1.63%，报295.95点。",
-          "url": "https://wallstreetcn.com/livenews/3121260",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时41分"
-        },
-        {
-          "title": "周三（6月17日），美股存储芯片与硬件供应链指数涨1.78%，报250.51点，过半交易时间持稳于256点附近，北京时间02:00美联储披露经济预期概要（SEP）之后显著回吐涨幅，美联储主席沃什新闻发布会开始后一度冲高至260点上方刷新日高。 成分股西部数据涨超4.5%，应用材料涨超4.3%，希捷科技、美光科技、拉姆研究至少涨超1%，闪迪、Rambus则跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3121255",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时41分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周三（6月17日），美国科技股七巨头（Magnificent 7）指数跌2.38%，报210.21点，跳空低开之后持续下挫，北京时间02:00美联储宣布按兵不动、披露经济预期概要（SEP）后显著地加速下跌，美联储主席凯文·沃什新闻发布会开始后再度加速下跌。 “超大”市值科技股指数跌1.56%，报432.59点，美联储决议声明发布后显著下挫，沃什新闻发布会开始之后冲高回落。",
-          "url": "https://wallstreetcn.com/livenews/3121254",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时41分"
-        },
-        {
-          "title": "周三（6月17日），美股降息赢家指数跌2.29%，报93.60点，彭博数据显示，北京时间21:51（美股盘初）曾瞬间跳水至零，02:00美联储决议声明发布后转跌。",
-          "url": "https://wallstreetcn.com/livenews/3121251",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时41分"
-        },
-        {
-          "title": "周三（6月17日），美股行业ETF普遍收跌，网络股指数ETF跌2.89%，可选消费ETF、日常消费品等至多跌2.51%，区域银行ETF、银行业ETF、能源业ETF、全球航空业ETF至多跌1.90%，半导体指数ETF则涨1.29%。",
-          "url": "https://wallstreetcn.com/livenews/3121250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时41分"
         }
       ]
     },
@@ -1170,37 +1296,8 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "沃什“首秀”美联储放鹰，三大美股指转跌，美元拉升，美债黄金跳水",
-          "url": "https://wallstreetcn.com/articles/3774939",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 18时08分]"
-        },
-        {
-          "title": "两年期美债收益率于美联储利率决议日涨约13.3个基点，两年期实际收益率也在沃什首秀日涨约20个基点",
-          "url": "https://wallstreetcn.com/livenews/3121268",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时41分"
-        }
-      ]
-    },
-    {
       "keyword_group": "半导体",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "【每日收评】科创50低开高走涨超4.5%，AI硬件反复活跃，半导体产业链再迎爆发",
@@ -1215,11 +1312,52 @@
           "time_info": "[01时47分 ~ 04时03分]"
         },
         {
+          "title": "【每日收评】科创50放量涨近4%，AI硬件与半导体持续火爆，多只科技权重续创历史新高",
+          "url": "https://www.cls.cn/detail/2403645",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时58分 ~ 21时59分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数收跌1.14%，报6122.30点。 热门中概股里，理想跌3.4%，阿里跌3.1%，蔚来涨0.2%，日月光半导体涨2%。 ETF中，中概互联网指数ETF（KWEB）收跌1.93%，中国科技指数ETF（CQQQ）收涨1.72%。 MSCI新兴市场ex中国ETF（EMXC）收涨0.35%，德银嘉实沪深300指数ETF（ASHR）收跌0.08%，XtrackersHarvest中证50（ASHS）收涨0.31%。",
           "url": "https://wallstreetcn.com/livenews/3121247",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "沃什“首秀”美联储放鹰，三大美股指转跌，美元拉升，美债黄金跳水",
+          "url": "https://wallstreetcn.com/articles/3774939",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 21时59分]"
+        },
+        {
+          "title": "两年期美债收益率于美联储利率决议日涨约13.3个基点，两年期实际收益率也在沃什首秀日涨约20个基点",
+          "url": "https://wallstreetcn.com/livenews/3121268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1252,6 +1390,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "分析：鹰派美联储将使金价更倾向于跌破4000美元 而非收复5000关口",
+          "url": "https://flash.jin10.com/detail/20260618214945472800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         }
       ]
     }
