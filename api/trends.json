@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-20T16:43:54.661386+08:00",
-  "total_titles_processed": 892,
+  "generated_at": "2026-06-20T19:10:26.329163+08:00",
+  "total_titles_processed": 1001,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 55,
       "titles": [
         {
           "title": "特朗普和高市早苗因珍珠港发生争吵",
@@ -44,6 +44,19 @@
           "time_info": "[01时52分 ~ 13时06分]"
         },
         {
+          "title": "以色列被曝与黎真主党达成停火，伊朗证实推迟与美谈判，特朗普施压“耗完60天”，白宫放风准备尽早启程谈判",
+          "url": "https://wallstreetcn.com/articles/3775098",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时05分 ~ 19时10分]"
+        },
+        {
           "title": "美国总统特朗普透露，卡塔尔赠予的空军一号专机已经搭载了星链通信网络。",
           "url": "https://flash.jin10.com/detail/20260620040803014800",
           "source": "金十数据",
@@ -64,18 +77,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时03分 ~ 08时03分]"
-        },
-        {
-          "title": "以色列被曝与黎真主党达成停火，伊朗证实推迟与美谈判，特朗普施压“耗完60天”，白宫放风准备尽早启程谈判",
-          "url": "https://wallstreetcn.com/articles/3775098",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时05分 ~ 16时43分]"
         },
         {
           "title": "美国总统特朗普：我们拥有全球顶尖的军队，拥有世上最先进的各类军机，我们也理应配备最顶级的总统专机。",
@@ -109,6 +110,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时03分 ~ 08时03分]"
+        },
+        {
+          "title": "特朗普：今年将再次访问中国",
+          "url": "https://news.ifeng.com/c/8u6mys1KcVF",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 19时10分]"
         },
         {
           "title": "万斯警告以色列：只有特朗普同情你们",
@@ -172,15 +184,15 @@
           "time_info": "[06时46分 ~ 13时06分]"
         },
         {
-          "title": "特朗普：今年将再次访问中国",
-          "url": "https://news.ifeng.com/c/8u6mys1KcVF",
-          "source": "凤凰网",
+          "title": "特朗普自夸对伊战争成果：伊朗被“完全击败”，美国不再软弱",
+          "url": "https://flash.jin10.com/detail/20260620190142057800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时43分"
+          "time_info": "19时10分"
         },
         {
           "title": "特朗普：美伊须60天内达成长期协议，否则将采取进一步行动",
@@ -220,15 +232,15 @@
           "time_info": "[06时46分 ~ 13时06分]"
         },
         {
-          "title": "意外长取消访美：特朗普冒犯了意大利",
-          "url": "https://www.toutiao.com/trending/7653072490532556324/",
-          "source": "今日头条",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-20）",
+          "url": "https://flash.jin10.com/detail/20260620184815728800",
+          "source": "金十数据",
           "ranks": [
-            5
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时43分"
+          "time_info": "19时10分"
         },
         {
           "title": "美国总统特朗普：今天稍早与以色列对话。 （为了伊朗协议）要求以色列同意与黎巴嫩真主党停火。（NBC）",
@@ -243,6 +255,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时28分 ~ 08时03分]"
+        },
+        {
+          "title": "意外长取消访美：特朗普冒犯了意大利",
+          "url": "https://www.toutiao.com/trending/7653072490532556324/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 19时10分]"
         },
         {
           "title": "美国总统特朗普：我结束了8场战争，与伊朗的战争是最艰难的。",
@@ -363,6 +387,19 @@
           "time_info": "[05时03分 ~ 08时03分]"
         },
         {
+          "title": "因特朗普言论 意大利副总理取消访美",
+          "url": "https://wallstreetcn.com/livenews/3122210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时06分 ~ 19时10分]"
+        },
+        {
           "title": "特朗普：约700艘船正在海峡通行 伊朗必须在60天内达成协议",
           "url": "https://flash.jin10.com/detail/20260620034905170800",
           "source": "金十数据",
@@ -443,18 +480,6 @@
           "time_info": "[05时03分 ~ 08时03分]"
         },
         {
-          "title": "因特朗普言论 意大利副总理取消访美",
-          "url": "https://wallstreetcn.com/livenews/3122210",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时06分 ~ 16时43分]"
-        },
-        {
           "title": "美国情报部门警告特朗普政府：以色列可能会破坏美国与伊朗的协议。（华盛顿邮报）",
           "url": "https://wallstreetcn.com/livenews/3122151",
           "source": "华尔街见闻-快讯",
@@ -467,7 +492,29 @@
           "time_info": "[01时52分 ~ 03时28分]"
         },
         {
+          "title": "特朗普坚称伊朗无条件投降了",
+          "url": "https://news.ifeng.com/c/8u6jGmZtj71",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时10分"
+        },
+        {
           "title": "特朗普言论“冒犯了整个意大利”，意外长取消访美",
+          "url": "https://news.ifeng.com/c/8u70Bz5ivT7",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        },
+        {
+          "title": "特朗普“剧透”，意大利怒了",
           "url": "https://news.ifeng.com/c/8u70Bz5ivT7",
           "source": "凤凰网",
           "ranks": [
@@ -475,7 +522,7 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时43分"
+          "time_info": "19时10分"
         },
         {
           "title": "美媒：特朗普周五与以色列通话 要求以方同意与真主党停火",
@@ -517,7 +564,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -564,6 +611,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        },
+        {
+          "title": "特朗普在摇摆州支持率大跌",
+          "url": "https://www.toutiao.com/trending/7652819170371420203/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时10分"
         },
         {
           "title": "特朗普对伊朗协议定调 旨在驳斥美国失败论",
@@ -623,11 +681,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时06分 ~ 16时43分]"
+          "appearance_count": 3,
+          "time_info": "[13时06分 ~ 19时10分]"
         },
         {
           "title": "伊朗外长：美国应对任何违反谅解备忘录条款的行为负责",
@@ -690,7 +749,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "国际金价再跳水失守4200美元，国内金饰克价破1300元",
@@ -725,7 +784,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -743,6 +802,18 @@
           "time_info": "[01时52分 ~ 08时03分]"
         },
         {
+          "title": "金价下跌买30克镯子差价有一万多",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E4%B9%B030%E5%85%8B%E9%95%AF%E5%AD%90%E5%B7%AE%E4%BB%B7%E6%9C%89%E4%B8%80%E4%B8%87%E5%A4%9A",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 19时10分]"
+        },
+        {
           "title": "金价银价双双下跌",
           "url": "https://www.douyin.com/hot/2540227",
           "source": "抖音",
@@ -754,15 +825,15 @@
           "time_info": "[01时52分 ~ 03时28分]"
         },
         {
-          "title": "金价下跌买30克镯子差价有一万多",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E4%B9%B030%E5%85%8B%E9%95%AF%E5%AD%90%E5%B7%AE%E4%BB%B7%E6%9C%89%E4%B8%80%E4%B8%87%E5%A4%9A",
-          "source": "百度热搜",
+          "title": "金价这轮下跌何时到底",
+          "url": "https://www.toutiao.com/trending/7653410213311024681/",
+          "source": "今日头条",
           "ranks": [
-            17
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时43分"
+          "time_info": "19时10分"
         }
       ]
     },
@@ -781,8 +852,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时52分 ~ 16时43分]"
+          "appearance_count": 11,
+          "time_info": "[01时52分 ~ 19时10分]"
         },
         {
           "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
@@ -793,8 +864,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时05分 ~ 16时43分]"
+          "appearance_count": 4,
+          "time_info": "[13时05分 ~ 19时10分]"
+        },
+        {
+          "title": "1192亿美元！本周美股吸引创纪录资金，投资者涌向科技股",
+          "url": "https://wallstreetcn.com/articles/3775107",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 19时10分]"
         },
         {
           "title": "欧洲STOXX 600个人护理、药品及食品杂货店指数跌超0.8%，刷新日低至155.50点下方。 在美国针对德国药品定价发起关税调查后，德国总理默茨预计，美国将继续遵守与欧洲的贸易承诺。 药品报销决定属于德国国内事务，如有需要，其政府将向美国提供相关信息。 6月18日美股盘后，美国对德国降低药品价格的努力提出批评，美国贸易代表格里尔指责德国“长期低价采购创新药品”。",
@@ -807,17 +890,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时52分 ~ 03时28分]"
-        },
-        {
-          "title": "1192亿美元！本周美股吸引创纪录资金，投资者涌向科技股",
-          "url": "https://wallstreetcn.com/articles/3775107",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时43分"
         }
       ]
     },
