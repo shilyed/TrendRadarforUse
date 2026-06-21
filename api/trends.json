@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T07:00:44.260533+08:00",
-  "total_titles_processed": 445,
+  "generated_at": "2026-06-21T08:10:00.007864+08:00",
+  "total_titles_processed": 505,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "外媒爆料：特朗普和高市早苗在G7会议上吵了起来",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时18分 ~ 07时00分]"
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 08时09分]"
         },
         {
           "title": "特朗普：今年将再次访问中国",
@@ -49,11 +49,12 @@
           "ranks": [
             9,
             7,
-            5
+            5,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时18分 ~ 07时00分]"
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 08时09分]"
         },
         {
           "title": "特朗普：若不能达成协议，美或收取海峡通行费",
@@ -63,8 +64,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时59分 ~ 07时00分]"
+          "appearance_count": 3,
+          "time_info": "[06时59分 ~ 08时09分]"
         },
         {
           "title": "美以关系如何？特朗普：关系很好，但必须让内塔尼亚胡“保持理智”",
@@ -75,8 +76,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时18分 ~ 07时00分]"
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 08时09分]"
         },
         {
           "title": "特朗普坚称伊朗无条件投降了",
@@ -86,8 +87,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时18分 ~ 07时00分]"
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 08时09分]"
+        },
+        {
+          "title": "特朗普：若与伊朗不能达成协议 美或收取海峡通行费",
+          "url": "https://flash.jin10.com/detail/20260621035019632800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时07分 ~ 08时09分]"
+        },
+        {
+          "title": "特朗普：霍尔木兹海峡停火期间及结束后都免征通行费 若协议未达成将由美方收费",
+          "url": "https://flash.jin10.com/detail/20260621031735328800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时07分 ~ 08时09分]"
         },
         {
           "title": "分析：特朗普对经济风险的担忧削弱了美国谈判筹码",
@@ -102,30 +127,6 @@
           "time_info": "[01时18分 ~ 03时12分]"
         },
         {
-          "title": "特朗普：若与伊朗不能达成协议 美或收取海峡通行费",
-          "url": "https://flash.jin10.com/detail/20260621035019632800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时07分 ~ 07时00分]"
-        },
-        {
-          "title": "特朗普：霍尔木兹海峡停火期间及结束后都免征通行费 若协议未达成将由美方收费",
-          "url": "https://flash.jin10.com/detail/20260621031735328800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时07分 ~ 07时00分]"
-        },
-        {
           "title": "特朗普的“空中行宫”谁买单",
           "url": "https://www.toutiao.com/trending/7653479351521906217/",
           "source": "今日头条",
@@ -136,6 +137,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时18分 ~ 03时12分]"
+        },
+        {
+          "title": "意大利总理回击特朗普批评：应关注自身支持率",
+          "url": "https://news.ifeng.com/c/8u6beESPjqF",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
+        },
+        {
+          "title": "梅洛尼回应特朗普“乞求合影”言论",
+          "url": "https://www.douyin.com/hot/2541105",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
         },
         {
           "title": "学者：伊朗效仿特朗普采取“周末战略”",
@@ -185,7 +208,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "伊朗军方宣布关闭霍尔木兹海峡，伊朗外交部称美国未能约束以色列，违反谅解备忘录，哪些信息值得关注？",
@@ -194,11 +217,12 @@
           "ranks": [
             3,
             2,
-            1
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时18分 ~ 07时00分]"
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 08时09分]"
         },
         {
           "title": "【美军称暂未观察到伊朗关闭霍尔木兹海峡】据美国媒体20日援引美国高级官员的话报道称，美军暂未观察到伊朗关闭霍尔木兹海峡的军事动向。（新华社）",
@@ -208,8 +232,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 07时00分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 08时09分]"
         },
         {
           "title": "巴基斯坦：伊朗与美国将于6月21日举行会谈",
@@ -219,8 +243,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 07时00分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 08时09分]"
         },
         {
           "title": "伊朗外交部：美国未能约束以色列，违反谅解备忘录",
@@ -230,8 +254,86 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 07时00分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 08时09分]"
+        },
+        {
+          "title": "美国副总统万斯：（关于前往瑞士进行伊朗会谈）我只能在那里待一两天。希望在核问题上取得进展，并在黎巴嫩停火问题上取得进展。",
+          "url": "https://flash.jin10.com/detail/20260621043445150800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时07分 ~ 08时09分]"
+        },
+        {
+          "title": "伊朗国家电视台：伊朗代表团前往瑞士与美国会谈。",
+          "url": "https://wallstreetcn.com/livenews/3122264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 08时09分]"
+        },
+        {
+          "title": "据伊朗外交部发言人的消息，伊朗代表团将前往瑞士，以跟进谈判进展并要求对方履行其承诺。 伊方已遵守自身承诺，美国有义务迫使以色列停止对黎巴嫩的袭击。 在瑞士，伊方将要求美方落实其承诺，并明确美方打算如何兑现这些承诺。 如果对方部分承诺未能落实，双方的整体谅解（协议）将“陷入危机”。 对方必须尽快采取必要措施。 如果对方拒绝履行其承诺，伊朗将采取必要措施予以回应。 我们不会签署无法落实的承诺；我们的原则是“以承诺换承诺”。（伊朗法尔斯通讯社Fars）",
+          "url": "https://wallstreetcn.com/livenews/3122269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 08时09分]"
+        },
+        {
+          "title": "美国副总统万斯称，美伊会谈可能于21日举行，目前与伊朗的谈判进展顺利。 预计将在未来几天内前往瑞士。 目前没有证据显示伊朗正在关闭霍尔木兹海峡。（央视新闻）",
+          "url": "https://wallstreetcn.com/livenews/3122263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 08时09分]"
+        },
+        {
+          "title": "美国副总统万斯：并没有任何证据表明伊朗仍然关闭霍尔木兹海峡。 在霍尔木兹海峡扫雷需要一些时间。",
+          "url": "https://wallstreetcn.com/livenews/3122262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 08时09分]"
+        },
+        {
+          "title": "美国副总统万斯谈及伊朗磋商的潜在时间表，称：库什纳、Witkoff在当地已经有数小时。 与Witkoff一番交谈之后，我理解形势不错。 预计将在未来两天启程离开（美国）。 关于以色列，相信我们能维持停火状态。 最终结果如何将取决于伊朗。 我们将在伊朗谈判方面提供机会。 以色列在许多方面都是美国的好伙伴。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3122260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 08时09分]"
+        },
+        {
+          "title": "投降的艺术：全球市场在美国-伊朗签署谅解备忘录后大涨，平静可能是暂时的",
+          "url": "https://wallstreetcn.com/livenews/3122258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 08时09分]"
         },
         {
           "title": "市场消息：伊朗革命卫队海军在霍尔木兹海峡附近发布无线电广播：鉴于以色列在黎巴嫩的行动以及美国违反相关承诺，霍尔木兹海峡现已关闭航行。所有船只被命令远离该海域，以确保自身安全。",
@@ -246,84 +348,6 @@
           "time_info": "[01时18分 ~ 03时12分]"
         },
         {
-          "title": "美国副总统万斯：（关于前往瑞士进行伊朗会谈）我只能在那里待一两天。希望在核问题上取得进展，并在黎巴嫩停火问题上取得进展。",
-          "url": "https://flash.jin10.com/detail/20260621043445150800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时07分 ~ 07时00分]"
-        },
-        {
-          "title": "伊朗国家电视台：伊朗代表团前往瑞士与美国会谈。",
-          "url": "https://wallstreetcn.com/livenews/3122264",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 07时00分]"
-        },
-        {
-          "title": "据伊朗外交部发言人的消息，伊朗代表团将前往瑞士，以跟进谈判进展并要求对方履行其承诺。 伊方已遵守自身承诺，美国有义务迫使以色列停止对黎巴嫩的袭击。 在瑞士，伊方将要求美方落实其承诺，并明确美方打算如何兑现这些承诺。 如果对方部分承诺未能落实，双方的整体谅解（协议）将“陷入危机”。 对方必须尽快采取必要措施。 如果对方拒绝履行其承诺，伊朗将采取必要措施予以回应。 我们不会签署无法落实的承诺；我们的原则是“以承诺换承诺”。（伊朗法尔斯通讯社Fars）",
-          "url": "https://wallstreetcn.com/livenews/3122269",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 07时00分]"
-        },
-        {
-          "title": "美国副总统万斯称，美伊会谈可能于21日举行，目前与伊朗的谈判进展顺利。 预计将在未来几天内前往瑞士。 目前没有证据显示伊朗正在关闭霍尔木兹海峡。（央视新闻）",
-          "url": "https://wallstreetcn.com/livenews/3122263",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 07时00分]"
-        },
-        {
-          "title": "美国副总统万斯：并没有任何证据表明伊朗仍然关闭霍尔木兹海峡。 在霍尔木兹海峡扫雷需要一些时间。",
-          "url": "https://wallstreetcn.com/livenews/3122262",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 07时00分]"
-        },
-        {
-          "title": "美国副总统万斯谈及伊朗磋商的潜在时间表，称：库什纳、Witkoff在当地已经有数小时。 与Witkoff一番交谈之后，我理解形势不错。 预计将在未来两天启程离开（美国）。 关于以色列，相信我们能维持停火状态。 最终结果如何将取决于伊朗。 我们将在伊朗谈判方面提供机会。 以色列在许多方面都是美国的好伙伴。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3122260",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 07时00分]"
-        },
-        {
-          "title": "投降的艺术：全球市场在美国-伊朗签署谅解备忘录后大涨，平静可能是暂时的",
-          "url": "https://wallstreetcn.com/livenews/3122258",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 07时00分]"
-        },
-        {
           "title": "美国中央司令部发言人：伊朗并不控制霍尔木兹海峡。",
           "url": "https://flash.jin10.com/detail/20260621003344834800",
           "source": "金十数据",
@@ -333,6 +357,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
+        },
+        {
+          "title": "霍尔木兹海峡又封了？伊朗、美国说法不一 瑞士小镇上演外交风云",
+          "url": "https://www.cls.cn/detail/2404688",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
         },
         {
           "title": "美国军方：美国军方始终保持在场并保持警惕，以确保与伊朗的协议各方面得到遵守、执行，并全面有效。",
@@ -360,8 +395,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时18分 ~ 07时00分]"
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 08时09分]"
         },
         {
           "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
@@ -372,8 +407,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时18分 ~ 07时00分]"
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 08时09分]"
         },
         {
           "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
@@ -383,8 +418,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时18分 ~ 07时00分]"
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 08时09分]"
         }
       ]
     },
@@ -402,8 +437,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时18分 ~ 07时00分]"
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 08时09分]"
         },
         {
           "title": "金价下跌买30克镯子差价有一万多",
@@ -429,11 +464,12 @@
           "ranks": [
             10,
             9,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时18分 ~ 07时00分]"
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 08时09分]"
         }
       ]
     },
@@ -449,8 +485,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 07时00分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 08时09分]"
         }
       ]
     }
