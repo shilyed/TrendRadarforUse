@@ -1,965 +1,232 @@
 {
-  "generated_at": "2026-06-22T22:28:58.730638+08:00",
-  "total_titles_processed": 1188,
+  "generated_at": "2026-06-23T02:42:35.440133+08:00",
+  "total_titles_processed": 295,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "万斯：特朗普致力于区域全面停火，希望改善与伊朗人的关系",
-          "url": "https://news.ifeng.com/c/8u90rSz0ftO",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时21分 ~ 10时55分]"
-        },
         {
           "title": "美伊艰难谈判：万斯称“取得巨大进展”，特朗普威胁“谈不好就炸”，伊朗强硬“合照不拍，抗议离场”",
           "url": "https://wallstreetcn.com/articles/3775145",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时55分 ~ 22时28分]"
-        },
-        {
-          "title": "事关霍尔木兹！特朗普最新发声 美伊技术层面谈判今日举行",
-          "url": "https://www.cls.cn/detail/2404722",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 07时03分]"
-        },
-        {
-          "title": "美媒称对伊朗开战近四个月几乎没成果，特朗普怒了",
-          "url": "https://news.ifeng.com/c/8uA2kEZD4Zh",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时51分 ~ 16时52分]"
-        },
-        {
-          "title": "美伊和平又生变数？特朗普威胁言论激怒伊朗 谈判陷入暂停",
-          "url": "https://www.cls.cn/detail/2405074",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时51分 ~ 16时52分]"
-        },
-        {
-          "title": "叙利亚总统al-Sharaa：美国总统特朗普有关叙利亚与黎巴嫩（政府）的论调被误解了。 叙利亚可能会支持黎巴嫩政府机构。（SANA）",
-          "url": "https://wallstreetcn.com/livenews/3122380",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时18分"
-        },
-        {
-          "title": "特朗普再轰《纽约时报》：虚假报道伊朗 简直是叛国！",
-          "url": "https://flash.jin10.com/detail/20260622063046911800",
-          "source": "金十数据",
-          "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时03分"
-        },
-        {
-          "title": "伊朗议长回应特朗普最新威胁",
-          "url": "https://flash.jin10.com/detail/20260622010423515800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "抗议特朗普威胁言论 伊朗代表团离开谈判地点",
-          "url": "https://flash.jin10.com/detail/20260622004746632800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "特朗普威胁伊朗,美伊谈判暂停",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355324&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E4%BC%8A%E6%9C%97%2C%E7%BE%8E%E4%BC%8A%E8%B0%88%E5%88%A4%E6%9A%82%E5%81%9C",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时55分"
-        },
-        {
-          "title": "特朗普谈判期间再次发出威胁 国际油价周一开盘上涨",
-          "url": "https://flash.jin10.com/detail/20260622061920162800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时03分"
-        },
-        {
-          "title": "特朗普：斯塔默将辞去英国首相职务",
-          "url": "https://wallstreetcn.com/livenews/3122370",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 05时07分]"
-        },
-        {
-          "title": "【特朗普就黎巴嫩问题再度威胁伊朗】美国总统特朗普21日在社交媒体上发文称，伊朗必须立即停止在黎巴嫩的“代理人”行动，否则美国将会再次对伊朗发起猛烈打击，“就像上周那样，而且会更猛烈”。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3122368",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            12,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 05时07分]"
-        },
-        {
-          "title": "美国总统特朗普：以色列无法“干掉”（黎巴嫩）真主党，这让我感到失望。",
-          "url": "https://wallstreetcn.com/livenews/3122366",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 05时07分]"
+          "time_info": "02时42分"
         },
         {
           "title": "伊朗代表团暂停伊美谈判，抗议特朗普威胁言论",
           "url": "https://m.thepaper.cn/newsDetail_forward_33425956",
           "source": "澎湃新闻",
           "ranks": [
-            16,
-            9,
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时55分 ~ 22时28分]"
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
-          "title": "以色列总理内塔尼亚胡：美国有人说特朗普完全听我的，以色列有人说我完全听特朗普的，这两种说法都不真实。我们是独立国家的领导人。我代表的是以色列的利益。",
-          "url": "https://flash.jin10.com/detail/20260622023516275800",
+          "title": "据Newsweek：特朗普的前盟友、美国知名保守派媒体人塔克·卡尔森宣布与共和党决裂。他的这一举动表明，随着伊朗战争和美以政策成为共和党内部辩论的焦点，右翼内部的分裂正在加深。",
+          "url": "https://flash.jin10.com/detail/20260623022102004800",
           "source": "金十数据",
           "ranks": [
-            5,
-            21
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 05时07分]"
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
-          "title": "特朗普称美国或收取中东地区20%的石油收益",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33425530",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时55分 ~ 22时28分]"
-        },
-        {
-          "title": "美国总统特朗普：与伊朗的谅解备忘录（MoU）仅仅是（之前）停火的延长而已。 伊朗必须阻止在黎巴嫩的代理人（给以色列）制造麻烦。 如果代理人没有被阻止，我们（美国与以色列）将再次袭击伊朗。",
-          "url": "https://wallstreetcn.com/livenews/3122364",
+          "title": "美国总统特朗普召见多家军火制造商，寻求提高武器产量。 洛克希德-马丁公司、RTX、波音、L3Harris、Northrop Grumman、霍尼韦尔等料将会见特朗普。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3122980",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 05时07分]"
-        },
-        {
-          "title": "美国总统特朗普：昨天有1900万桶石油流出波斯湾。",
-          "url": "https://wallstreetcn.com/livenews/3122360",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 05时07分]"
-        },
-        {
-          "title": "美国总统特朗普：Pezeshkian（伊朗总统）要管好自己的嘴。",
-          "url": "https://wallstreetcn.com/livenews/3122359",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 05时07分]"
-        },
-        {
-          "title": "特朗普的新专机，首次亮相",
-          "url": "https://www.cls.cn/detail/2404514",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 05时07分]"
-        },
-        {
-          "title": "特朗普再喷意总理，意外长：合作不会因此中断",
-          "url": "https://news.ifeng.com/c/8u9x7j0CV87",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时51分 ~ 16时52分]"
-        },
-        {
-          "title": "伊朗谈判员：（特朗普政府）很快将发布关于豁免伊朗石油的决定。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3122374",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 05时07分]"
-        },
-        {
-          "title": "美国总统特朗普：北约、意大利都没有捍卫美国。",
-          "url": "https://wallstreetcn.com/livenews/3122386",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时07分 ~ 07时03分]"
-        },
-        {
-          "title": "伊朗谈判代表团团长回应特朗普最新威胁：我们根本不把美国人的威胁放在眼里，奉劝他们最好谨言慎行",
-          "url": "https://wallstreetcn.com/livenews/3122372",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 05时07分]"
-        },
-        {
-          "title": "美国总统特朗普：伊朗构成的核威胁是严重的。",
-          "url": "https://wallstreetcn.com/livenews/3122385",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时07分 ~ 07时03分]"
-        },
-        {
-          "title": "伊朗：美国总统特朗普的威胁导致美方在瑞士的谈判中止。（法尔斯通讯社）",
-          "url": "https://wallstreetcn.com/livenews/3122373",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 05时07分]"
-        },
-        {
-          "title": "抗议特朗普威胁言论，伊朗代表团离开谈判地点",
-          "url": "https://wallstreetcn.com/livenews/3122371",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 05时07分]"
-        },
-        {
-          "title": "叙利亚总统al-Sharaa：美国总统特朗普有关叙利亚与黎巴嫩（政府）的讲话被误解了。 叙利亚可能会支持黎巴嫩政府机构。",
-          "url": "https://wallstreetcn.com/livenews/3122380",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时07分 ~ 07时03分]"
-        },
-        {
-          "title": "四面楚歌！英国首相据传要下台 特朗普已抢先宣布辞职消息",
-          "url": "https://www.cls.cn/detail/2405114",
-          "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时51分 ~ 16时52分]"
-        },
-        {
-          "title": "美国总统特朗普：必要时，美国可能会接管霍尔木兹海峡，可能会收取海峡通行费。 接管海峡将意味着美国攫取20%的石油（收益）。 我昨夜与伊朗官员们通话，用了脏话（expletive）。 告诉伊朗人，如果关闭海峡，伊朗人民将没有国家。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3122357",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时18分]"
-        },
-        {
-          "title": "万斯称特朗普致力于区域全面停火",
-          "url": "https://wallstreetcn.com/livenews/3122356",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时18分]"
-        },
-        {
-          "title": "美国副总统万斯在伊朗会谈之后表示：问题在于，我们还能在中东实现多少进展。 总统特朗普要求我们翻开新的篇章。 最近数小时取得很大的进展。 预计未来数小时还将取得更多进展。 如果伊朗弃核，美国愿意转变与伊朗人民的关系。 特朗普承诺推动实现该地区全面停火。 两国设法为（美国与伊朗之间的）技术对话制定框架。",
-          "url": "https://wallstreetcn.com/livenews/3122351",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时18分]"
-        },
-        {
-          "title": "特朗普发文威胁伊朗 美伊谈判暂停",
-          "url": "https://www.toutiao.com/trending/7653992819803033138/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时55分"
+          "time_info": "02时42分"
         },
         {
-          "title": "特朗普“抢发”斯塔默辞职消息",
-          "url": "https://wallstreetcn.com/livenews/3122905",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时28分"
-        },
-        {
-          "title": "伊朗代表团因抗议特朗普言论而离开谈判会场",
-          "url": "https://flash.jin10.com/detail/20260622003140203800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "德国国防部长：霍尔木兹海峡关闭责任在特朗普",
-          "url": "https://flash.jin10.com/detail/20260622020611881800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时18分"
-        },
-        {
-          "title": "美国总统特朗普：在为北约花费数万亿美元之后，意大利及其总理连考虑介入伊朗及其核威胁的念头都不曾有。数十年来，我们保卫他们，但一旦受到考验，他们却不在我们和世界其他国家最需要的时候挺身而出。令人失望！",
-          "url": "https://flash.jin10.com/detail/20260622034301639800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时07分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗代表团在特朗普于谈判期间发出威胁后拒绝返回四方会谈，但通过卡塔尔和巴基斯坦的调解人进行了信息交流。",
-          "url": "https://flash.jin10.com/detail/20260622054459785800",
+          "title": "据Politico：美国国防部长赫格塞思计划于周三在共和党研究委员会（RSC）午餐会上，向一大群共和党众议员就特朗普政府的军事拨款目标和另一项党派法案进行机密简报。",
+          "url": "https://flash.jin10.com/detail/20260623020035987800",
           "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时03分"
+          "time_info": "02时42分"
         },
         {
-          "title": "布油、WTI原油期货周一亚洲盘初上涨逾2%，此前，特朗普的最新威胁激怒伊朗。",
-          "url": "https://wallstreetcn.com/livenews/3122396",
+          "title": "特朗普政府考虑在美国弗吉尼亚州附近海底开采关键矿产",
+          "url": "https://wallstreetcn.com/livenews/3122973",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时03分"
+          "time_info": "02时42分"
         },
         {
-          "title": "特朗普炮轰《纽约时报》：谁说4个月战争毫无改变？伊朗已遭重创！",
-          "url": "https://flash.jin10.com/detail/20260622050321724800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时03分"
-        },
-        {
-          "title": "据黎巴嫩电视台Al-Mayadeen：伊朗代表团不会重返谈判，除非特朗普为其威胁道歉，并且以色列从黎巴嫩南部撤军。",
-          "url": "https://flash.jin10.com/detail/20260622015926521800",
+          "title": "美国法官阻止特朗普政府使用改版后的移民数据库进行选民登记核查。",
+          "url": "https://flash.jin10.com/detail/20260623014137013800",
           "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时18分"
+          "time_info": "02时42分"
         },
         {
-          "title": "美国总统特朗普：霍尔木兹海峡是开放的，石油正在“喷涌”。",
-          "url": "https://wallstreetcn.com/livenews/3122393",
+          "title": "美国总统特朗普背书支持Bruce BlakeMan竞选纽约州长。",
+          "url": "https://wallstreetcn.com/livenews/3122971",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时03分"
+          "time_info": "02时42分"
         },
         {
-          "title": "伊朗代表团抗议特朗普近期口头威胁",
-          "url": "https://flash.jin10.com/detail/20260621234839102800",
-          "source": "金十数据",
+          "title": "特朗普政府将叙利亚比特币交易所XChange纳入制裁清单。",
+          "url": "https://wallstreetcn.com/livenews/3122969",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时21分"
+          "time_info": "02时42分"
         },
         {
-          "title": "据伊朗Press TV：伊朗代表团已就特朗普近期的言辞威胁向美方提出抗议，目前正权衡采取适当回应的各项选项。",
-          "url": "https://flash.jin10.com/detail/20260621233810281800",
-          "source": "金十数据",
+          "title": "特朗普称伊朗将同意接受重大武器核查",
+          "url": "https://wallstreetcn.com/livenews/3122966",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时21分"
+          "time_info": "02时42分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 6,
       "titles": [
         {
-          "title": "伊朗外交部发言人：美国未执行谅解备忘录第一条",
-          "url": "https://news.ifeng.com/c/8u8jKnIv0GU",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时21分 ~ 10时55分]"
-        },
-        {
-          "title": "据Axios记者：一名参与会谈的外交官表示，伊朗代表团没有离开，美国与伊朗之间的谈判仍在继续。",
-          "url": "https://flash.jin10.com/detail/20260622010520748800",
+          "title": "美国豁免制裁前一周，伊朗出口了3000万桶原油",
+          "url": "https://flash.jin10.com/detail/20260623020649965800",
           "source": "金十数据",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "美国智库：伊朗战争致美方成本达400亿美元",
-          "url": "https://flash.jin10.com/detail/20260622025530617800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 05时07分]"
-        },
-        {
-          "title": "美国外交官员预计，与伊朗的磋商将持续至（瑞士当地时间）深夜。 预计会谈将在周一结束。 （美国和伊朗的）技术团队可能会滞留瑞士。 本次会谈围绕谅解备忘录（MoU）的执行取得成效。 会谈侧重于（潜在）核协议的组成要素，侧重于黎巴嫩“去冲突”的机制。 会谈就维持霍尔木兹海峡的开放状态取得良好进展。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3122389",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时07分 ~ 07时03分]"
-        },
-        {
-          "title": "据AXIOS网站：美国外交官表示，伊朗谈判的重点是黎巴嫩的冲突缓解机制以及执行停火协议。",
-          "url": "https://flash.jin10.com/detail/20260622041852645800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时07分 ~ 07时03分]"
-        },
-        {
-          "title": "报道：伊朗谈判人员仍在与美国接触，伊媒此前称代表离开瑞士会场",
-          "url": "https://wallstreetcn.com/livenews/3122376",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 05时07分]"
-        },
-        {
-          "title": "霍尔木兹海峡又封了？伊朗、美国说法不一 瑞士小镇上演外交风云",
-          "url": "https://www.cls.cn/detail/2404688",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 07时03分]"
-        },
-        {
-          "title": "【万斯称美国愿与伊朗“从根本上改变双边关系”】美国副总统万斯在与伊朗举行高级别会谈前表示，美国愿意与伊朗“从根本上改变双边关系”。万斯表示，伊朗和美国领导层此前从未以如此高的级别举行会晤。万斯称：“总统要求我们开启新的篇章，改变我们与伊朗人民的关系，并向伊朗人民伸出友谊之手。如果伊朗领导层愿意放弃成为‘地区不稳定因素’，如果他们愿意长期放弃‘发展核武器的目标’，那么美国愿意从根本上改变与伊朗的关系。”（央视）",
-          "url": "https://wallstreetcn.com/livenews/3122362",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 05时07分]"
-        },
-        {
-          "title": "据AXIOS网站记者：一位参与瑞士谈判的美国外交官表示，他预计与伊朗以及巴基斯坦和卡塔尔调解人的谈判将持续到夜间。",
-          "url": "https://flash.jin10.com/detail/20260622040804671800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时07分 ~ 07时03分]"
-        },
-        {
-          "title": "美国副总统万斯：今天的会议意味着技术磋商开始。 今天与伊朗的对话不会解决所有分歧。",
-          "url": "https://wallstreetcn.com/livenews/3122353",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时18分]"
-        },
-        {
-          "title": "美国伊朗在瑞士会谈",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BC%8A%E6%9C%97%E5%9C%A8%E7%91%9E%E5%A3%AB%E4%BC%9A%E8%B0%88%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时07分 ~ 07时03分]"
-        },
-        {
-          "title": "美国共和党参议员格雷厄姆：我们希望外交能够成功。 但如果伊朗试图挑战我们，我们将彻底摧毁他们。",
-          "url": "https://flash.jin10.com/detail/20260622001900873800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时21分"
+          "time_info": "02时42分"
         },
         {
-          "title": "据福克斯新闻：一名美国外交官表示，伊朗代表团仍留在瑞士，谈判仍在继续。全天都在认真推进谈判。围绕核协议所有要素的密集讨论正在进行中。部分讨论集中在澄清关于霍尔木兹海峡的混乱信息，以确保其保持开放。",
-          "url": "https://flash.jin10.com/detail/20260622040146108800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时07分"
-        },
-        {
-          "title": "美国外交官：伊朗会谈涉及澄清海峡问题的信息传递，包括在黎巴嫩南部执行停火协议，包括就核协议进行的深入讨论。",
-          "url": "https://wallstreetcn.com/livenews/3122398",
+          "title": "美国副总统万斯：看到大约1500万桶石油流出霍尔木兹海峡。 对我们已经取得的进展感觉良好，将围绕技术谈判继续取得进展。 如果没有取得进展，不会向伊朗解冻（被制裁的）资金。 对停火感觉良好。 成立机制，确保霍尔木兹海峡保持开放。 我们必须围绕伊朗磋商而继续努力。",
+          "url": "https://wallstreetcn.com/livenews/3122977",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时03分"
+          "time_info": "02时42分"
         },
         {
-          "title": "伊朗以中断整个中东能源供应威胁美国",
-          "url": "https://www.toutiao.com/trending/7653319486418534409/",
-          "source": "今日头条",
+          "title": "美国副总统万斯：如果没有进展，伊朗的资金不会被解冻。",
+          "url": "https://flash.jin10.com/detail/20260623014054479800",
+          "source": "金十数据",
           "ranks": [
-            17
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时55分"
+          "time_info": "02时42分"
         },
         {
-          "title": "据Axios记者：一名美国官员称，伊朗代表此前已同意在会议开始时安排媒体简报活动。“他们甚至带来了本国国家媒体进行报道，这些媒体已在活动现场提前就位。但尽管如此，他们在看到现场媒体数量后仍离开了会议，随后通过国家媒体发布了对情况的不准确描述，”该美方官员称。",
-          "url": "https://flash.jin10.com/detail/20260621235425288800",
+          "title": "美国副总统万斯：伊朗方面允许检查人员入境，这是近一段时间以来的首次。",
+          "url": "https://flash.jin10.com/detail/20260623013930114800",
           "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时21分"
+          "time_info": "02时42分"
         },
         {
-          "title": "据路透社：伊朗消息人士表示，伊朗与美国在瑞士的谈判已暂停，但并未结束。",
-          "url": "https://flash.jin10.com/detail/20260622014628275800",
+          "title": "美国副总统万斯：必须让检查员进入伊朗核设施。",
+          "url": "https://flash.jin10.com/detail/20260623013855816800",
           "source": "金十数据",
           "ranks": [
-            20
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时18分"
+          "time_info": "02时42分"
         },
         {
-          "title": "据沙特阿拉伯阿拉比亚电视台：消息人士称，美国与伊朗在瑞士举行的第二轮谈判即将开始。",
-          "url": "https://flash.jin10.com/detail/20260621233348848800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "据沙特阿拉伯阿拉比亚电视台援引消息人士称：伊朗代表团已离开谈判会场，返回其在瑞士的驻地，但与美国的谈判仍在通过中间方继续进行。",
-          "url": "https://flash.jin10.com/detail/20260622012111729800",
+          "title": "美国副总统万斯：（谈伊朗）对我们取得的进展感到非常满意。建立机制确保霍尔木兹通道保持开放。",
+          "url": "https://flash.jin10.com/detail/20260623013802023800",
           "source": "金十数据",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时18分"
-        },
-        {
-          "title": "伊朗表示将于周一与美国就谅解备忘录展开技术性磋商。（ISNA）",
-          "url": "https://wallstreetcn.com/livenews/3122651",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时52分"
-        },
-        {
-          "title": "伊朗、美国和卡塔尔开会讨论黎巴嫩局势",
-          "url": "https://wallstreetcn.com/livenews/3122336",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "美国与伊朗在瑞士会谈开始",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%8E%E4%BC%8A%E6%9C%97%E5%9C%A8%E7%91%9E%E5%A3%AB%E4%BC%9A%E8%B0%88%E5%BC%80%E5%A7%8B%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
+          "time_info": "02时42分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 3,
       "titles": [
         {
           "title": "美伊达成协议文件，美股盘初涨跌互现，半导体股普涨，油价跌超2%",
           "url": "https://wallstreetcn.com/articles/3775156",
           "source": "华尔街见闻",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时28分"
-        },
-        {
-          "title": "美股盘初，主要行业ETF多数上涨，生物科技指数ETF、科技行业ETF、半导体ETF均涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3122908",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时28分"
-        },
-        {
-          "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
-          "url": "https://www.cls.cn/detail/2404523",
-          "source": "财联社热门",
-          "ranks": [
-            8
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 07时03分]"
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
+          "title": "Credo Technology Group Holding Ltd.维持超过11%的涨幅，暂报303.90美元，美股盘初曾涨至308.67美元创盘中历史新高，Evercore ISI给予该公司超配的初始评级、目标价325美元，分析师Mark Lipacis认为，Credo将越来越被看做一家广泛的铜缆与光纤连接玩家/铜缆+光纤综合方案供应商。",
+          "url": "https://wallstreetcn.com/livenews/3122986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
           "title": "美股期指小幅上涨 美光科技盘前涨超4% | 今夜看点",
           "url": "https://www.cls.cn/detail/2405983",
           "source": "财联社热门",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时28分"
-        },
-        {
-          "title": "美股股指期货周一低开，其中纳指期货跌0.5%。",
-          "url": "https://flash.jin10.com/detail/20260622060014166800",
-          "source": "金十数据",
-          "ranks": [
-            11
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时03分"
-        },
-        {
-          "title": "美股小幅低开 存储、芯片股走高",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%B0%8F%E5%B9%85%E4%BD%8E%E5%BC%80+%E5%AD%98%E5%82%A8%E3%80%81%E8%8A%AF%E7%89%87%E8%82%A1%E8%B5%B0%E9%AB%98",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时28分"
-        },
-        {
-          "title": "SpaceX美股盘前下跌4.6%。",
-          "url": "https://wallstreetcn.com/livenews/3122656",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时52分"
-        },
-        {
-          "title": "美股盘初：纳指跌0.2%，费城半导体指数涨近2%，SpaceX跌约5%",
-          "url": "https://wallstreetcn.com/livenews/3122883",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "消费龙头们跨界半导体、算力赛道 多家公司出现股价异动",
-          "url": "https://www.cls.cn/detail/2404619",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 07时03分]"
-        },
-        {
-          "title": "供需错配引爆“算力金属”涨价潮 光通信、半导体材料公司多举措应对成本压力",
-          "url": "https://www.cls.cn/detail/2405188",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时51分 ~ 16时52分]"
-        },
-        {
-          "title": "半导体先进制程扩产预期升温 先进封装或将迎来同步放量",
-          "url": "https://www.cls.cn/detail/2405037",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时51分 ~ 16时52分]"
-        },
-        {
-          "title": "分析师：半导体行业正迎来超级周期",
-          "url": "https://www.toutiao.com/trending/7653135651920085034/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金十图示：2026年06月22日（周一）上海金早盘价为911.45元/克，较国际金价(911.54元/克)，低0.09元/克",
-          "url": "https://flash.jin10.com/detail/20260622102225158800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时55分"
-        },
-        {
-          "title": "金价暴跌黄金该买还是该卖",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E9%BB%84%E9%87%91%E8%AF%A5%E4%B9%B0%E8%BF%98%E6%98%AF%E8%AF%A5%E5%8D%96%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时51分 ~ 16时52分]"
+          "time_info": "02时42分"
         }
       ]
     },
@@ -968,32 +235,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "美元指数DXY短线下挫约15点，报100.97。",
-          "url": "https://flash.jin10.com/detail/20260622221300744800",
-          "source": "金十数据",
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.87%，暂报2285.71点，在一波V形反转行情中、北京时间07:37刷新期内最低点至2260.26点，在一波冲高回落行情中、21:50刷新期内最高至2331.37点。 MarketVectorTM数字资产100中盘指数涨0.43%，报2662.57点，07:36刷新期内最低至2598.96点、21:50刷新期内最高位至2699.43点。 MarketVector数字资产100指数涨0.71%，报12806.37点。 目前，Solana跌1.93%，狗狗币跌0.28%，XRP跌0.67%。 比特币涨0.86%，暂报64687.74美元；以太坊涨0.31%，暂报1738.19美元。",
+          "url": "https://wallstreetcn.com/livenews/3122963",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时28分"
+          "time_info": "02时42分"
         }
       ]
     },
     {
-      "keyword_group": "有色",
+      "keyword_group": "白银",
       "match_count": 1,
       "titles": [
         {
-          "title": "创业板指涨超1%，沪指涨0.05%，深成指涨0.71%，培育钻石、小金属、磷化工、有色·锆等方向领涨，沪深京三市上涨个股超1000只。",
-          "url": "https://wallstreetcn.com/livenews/3122479",
-          "source": "华尔街见闻-快讯",
+          "title": "上海黄金交易所黄金T+D 6月22日（周一）晚盘收盘下跌0.1%报912.62元/克；<br/>上海黄金交易所白银T+D 6月22日（周一）晚盘收盘下跌2.06%报15577.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260623023114771800",
+          "source": "金十数据",
           "ranks": [
-            9
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时55分"
+          "time_info": "02时42分"
         }
       ]
     }
