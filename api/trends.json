@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T00:23:26.692225+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-24T03:05:16.063871+08:00",
+  "total_titles_processed": 435,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 12,
       "titles": [
         {
           "title": "特朗普政府将提供175亿美元贷款，推动美国大型核电站建设",
@@ -30,15 +30,15 @@
           "time_info": "00时23分"
         },
         {
-          "title": "特朗普宣布美国汽车巨头将开始生产武器，包括巡航导弹和防空系统，释放了哪些信号？将对世界产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2052711074215081192",
-          "source": "知乎",
+          "title": "国际足联（FIFA）主席：美国总统特朗普将亲自颁发世界杯奖杯。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3123606",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时23分"
+          "time_info": "03时05分"
         },
         {
           "title": "美部长拍特朗普马屁，当场被打脸",
@@ -48,25 +48,104 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 03时05分]"
+        },
+        {
+          "title": "特朗普宣布美国汽车巨头将开始生产武器，包括巡航导弹和防空系统，释放了哪些信号？将对世界产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2052711074215081192",
+          "source": "知乎",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 03时05分]"
         },
         {
           "title": "特朗普提前宣布斯塔默辞职有何意味",
           "url": "https://www.toutiao.com/trending/7654527066271911478/",
           "source": "今日头条",
           "ranks": [
-            29
+            29,
+            21
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 03时05分]"
+        },
+        {
+          "title": "国际足联主席：特朗普将亲自颁发世界杯奖杯。​​​",
+          "url": "https://flash.jin10.com/detail/20260624022618787800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时23分"
+          "time_info": "03时05分"
+        },
+        {
+          "title": "特朗普称国际原子能机构核查人员将适时访问伊朗",
+          "url": "https://wallstreetcn.com/livenews/3123598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "特朗普支持率降至任内最低，半数美国人认为对伊战争得不偿失",
+          "url": "https://flash.jin10.com/detail/20260624022036676800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "美国总统特朗普被问及AI对卡车司机们构成的风险，却鼓吹就业数据。",
+          "url": "https://wallstreetcn.com/livenews/3123596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "美国总统特朗普：正与伊朗达成一份协议，将观察后续进展。 伊朗关于国际原子能机构（IAEA）观察员的立场是错误的。 并不急于实地调查伊朗的核问题。 伊朗在饥饿、食品、医药、通胀方面存在问题。",
+          "url": "https://wallstreetcn.com/livenews/3123594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "IBM(IBM.N)：特朗普政府将持有Anderon的股权，但不参与治理。",
+          "url": "https://flash.jin10.com/detail/20260624021722023800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "为期60天，美国暂时解除对伊朗石油制裁，这是过去数十年来第一次！",
@@ -76,8 +155,19 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 03时05分]"
+        },
+        {
+          "title": "据美联社：美国国土安全部发言人表示，美方放宽了对伊朗世界杯代表队的限制，允许该队在下一场比赛前两天启程前往比赛场地。",
+          "url": "https://flash.jin10.com/detail/20260624023107946800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时23分"
+          "time_info": "03时05分"
         },
         {
           "title": "巴基斯坦总理Sharif会见伊朗总统时表示：我们永远不会让你们感到失望。 巴方将继续发挥调停作用，直至实现持久和平。 伊朗（与美国）了谅解备忘录（MoU）。 MoU并没有涉及弹道导弹，（美国）不可以在弹道导弹问题上搞双标。 伊朗不希望讨论。 巴伊两国将携手合作，实现互利共赢。",
@@ -112,22 +202,24 @@
           "url": "https://www.zhihu.com/question/2052707670289806571",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 03时05分]"
         },
         {
           "title": "国际金价跌破4100美元整数关口，A股黄金股全线重挫",
           "url": "https://m.thepaper.cn/newsDetail_forward_33436473",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 03时05分]"
         }
       ]
     },
@@ -143,8 +235,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 03时05分]"
         },
         {
           "title": "“空头”末日预言：AI“强弩之末”，美股最快Q3见顶、跌幅30-50%，美版YCC和美债大重组，私募信贷危机待引爆",
@@ -154,8 +246,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 03时05分]"
         }
       ]
     },
@@ -179,11 +271,40 @@
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            6,
+            29
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 03时05分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "科技热潮降温 ，全球股市“黑色星期二”，费城半导体指数跌超7%，SpaceX市值跌破2万亿美元，现货黄金跌近2%",
+          "url": "https://wallstreetcn.com/articles/3775262",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 03时05分]"
+        },
+        {
+          "title": "彭博美元指数创2025年11月份以来盘中新高。",
+          "url": "https://wallstreetcn.com/livenews/3123590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时23分"
+          "time_info": "03时05分"
         }
       ]
     },
@@ -199,8 +320,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 03时05分]"
         },
         {
           "title": "【每日收评】创业板震荡走低跌近4%，有色、AI硬件集体调整，创新药板块逆势走强",
@@ -210,42 +331,54 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "科技热潮降温 ，全球股市“黑色星期二”，费城半导体指数跌超7%，SpaceX市值跌破2万亿美元，现货黄金跌近2%",
-          "url": "https://wallstreetcn.com/articles/3775262",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 03时05分]"
         }
       ]
     },
     {
       "keyword_group": "半导体",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "韩股大跌近 10% 再现熔断，韩国拟对「杠杆 ETF 炒作」出手干预，如何看全球 AI 半导体「散户杠杆化」现象？",
           "url": "https://www.zhihu.com/question/2052673340993811952",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 03时05分]"
+        },
+        {
+          "title": "半导体专家：第一次真正看到超级周期",
+          "url": "https://www.toutiao.com/trending/7654516746312748582/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时23分"
+          "time_info": "03时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 6月23日（周二）晚盘收盘下跌0.35%报900.43元/克；<br/>上海黄金交易所白银T+D 6月23日（周二）晚盘收盘下跌2.75%报14827.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260624023113394800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
         }
       ]
     }
