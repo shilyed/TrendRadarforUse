@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T05:26:27.749146+08:00",
-  "total_titles_processed": 526,
+  "generated_at": "2026-06-24T07:02:12.390636+08:00",
+  "total_titles_processed": 599,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普政府将提供175亿美元贷款，推动美国大型核电站建设",
@@ -19,15 +19,15 @@
           "time_info": "00时23分"
         },
         {
-          "title": "特朗普将目光投向美国中期选举，鼓吹战争结束经济即将起飞",
-          "url": "https://wallstreetcn.com/livenews/3123647",
-          "source": "华尔街见闻-快讯",
+          "title": "美部长拍特朗普马屁，当场被打脸",
+          "url": "https://news.ifeng.com/c/8uBxMmUnV4m",
+          "source": "凤凰网",
           "ranks": [
-            2
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时26分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 07时02分]"
         },
         {
           "title": "据英国金融时报：知情人士透露，特朗普在上周的七国集团峰会上对乌克兰在俄罗斯境内进行的远程打击“印象深刻，并表示非常赞赏”。特朗普还同意加大对俄罗斯能源的制裁力度。",
@@ -52,28 +52,18 @@
           "time_info": "03时05分"
         },
         {
-          "title": "美部长拍特朗普马屁，当场被打脸",
-          "url": "https://news.ifeng.com/c/8uBxMmUnV4m",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 05时26分]"
-        },
-        {
           "title": "特朗普宣布美国汽车巨头将开始生产武器，包括巡航导弹和防空系统，释放了哪些信号？将对世界产生哪些影响？",
           "url": "https://www.zhihu.com/question/2052711074215081192",
           "source": "知乎",
           "ranks": [
             6,
             9,
-            20
+            20,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 05时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 07时02分]"
         },
         {
           "title": "特朗普提前宣布斯塔默辞职有何意味",
@@ -82,11 +72,24 @@
           "ranks": [
             29,
             21,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 05时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 07时02分]"
+        },
+        {
+          "title": "特朗普将目光投向美国中期选举，鼓吹战争结束经济即将起飞",
+          "url": "https://wallstreetcn.com/livenews/3123647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 07时02分]"
         },
         {
           "title": "国际足联主席：特朗普将亲自颁发世界杯奖杯。​​​",
@@ -109,6 +112,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "美国总统特朗普打算周三在国会山签署住房法案。（PunchBowl）",
+          "url": "https://wallstreetcn.com/livenews/3123664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "特朗普支持率降至任内最低，半数美国人认为对伊战争得不偿失",
@@ -139,7 +153,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -172,7 +186,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         }
@@ -180,8 +194,30 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "美股收盘：AI投资热潮遭重新审视 芯片股重挫拖累纳指跌超2%",
+          "url": "https://www.cls.cn/detail/2407361",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时01分 ~ 07时02分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周二（6月23日），美国科技股七巨头（Magnificent 7）指数跌1.44%，报205.68点，特斯拉收跌5.79%。 “超大”市值科技股指数跌2.53%，报423.41点。",
+          "url": "https://wallstreetcn.com/livenews/3123677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
         {
           "title": "美股集体低开 纳指跌超2%",
           "url": "https://www.douyin.com/hot/2545296",
@@ -200,11 +236,24 @@
           "ranks": [
             6,
             29,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 05时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 07时02分]"
+        },
+        {
+          "title": "联邦快递(FDX.N)美股盘后延续晚间跌势，现跌约6%。",
+          "url": "https://flash.jin10.com/detail/20260624045424480800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 07时02分]"
         },
         {
           "title": "Cerebras Systems第一财季营收1.934亿美元，分析师预期1.814亿美元。 第一财季硬件营收1.106亿美元，云收入0.828亿美元。 第一财季每股亏损0.22美元，毛利润率45%，运营开支1.012亿美元。 预计全年营收8.55亿-8.65亿美元，分析师预期8.248亿美元。 预计第二财季营收大约1.94亿美元，分析师预期1.733亿美元。 Cerebras美股盘后跌5%。",
@@ -213,18 +262,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "联邦快递(FDX.N)美股盘后延续晚间跌势，现跌约6%。",
-          "url": "https://flash.jin10.com/detail/20260624045424480800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -235,9 +273,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "在美股时段交易的费城金银指数收跌4.66%，报326.80点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌4.41%，报2240.20点，亚太盘初以来缓慢地跌向2320点，北京时间21:30美股开盘时跳空下挫迅速跌穿2240点。 在美股时段交易的原材料指数收跌2.52%，报242.67点，跳空低开后，整体呈现出M形走势，跌幅一度在22:20收窄。 在美股时段交易的金属与矿业指数收跌3.75%，报279.09点。",
+          "url": "https://wallstreetcn.com/livenews/3123662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "周二（6月23日），美股行业ETF多数收涨，区域银行ETF收涨2.55%，医疗业ETF、银行业ETF、能源业ETF也至多涨2.31%，网络股指数ETF则收跌0.49%，可选消费ETF跌2.71%，科技行业ETF跌3.67%，全球科技股指数ETF跌5.33%，半导体ETF跌7.01%。",
@@ -246,9 +295,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "谷歌A(GOOGL.O)美股盘后涨超1%，将取代Verizon(VZ.N)在道琼斯指数中的位置；Verizon(VZ.N)盘后跌0.6%。",
+          "url": "https://flash.jin10.com/detail/20260624054152810800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "周二（6月23日），彭博电动汽车价格回报指数跌4.43%，报3591.03点，亚太盘初短暂地微幅上扬，随后持续走低，美股开盘后跌幅略微扩大。 成分股中，意法半导体法国巴黎股价收跌8.53%，安霸股份跌约7.4%，小马智行ADR跌约6.6%，特斯拉跌约5.7%，文远知行ADR跌约5%，港股雅迪集团控股、速腾聚创科技、中创新航科技集团、小米集团、地平线、理想收跌4.88%-4.32%，吉利汽车控股H股则收涨2.12%表现第二，Ola Electric Mobility Ltd.收涨2.61%。",
@@ -257,79 +317,37 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "韩股大跌近 10% 再现熔断，韩国拟对「杠杆 ETF 炒作」出手干预，如何看全球 AI 半导体「散户杠杆化」现象？",
-          "url": "https://www.zhihu.com/question/2052673340993811952",
-          "source": "知乎",
-          "ranks": [
-            11,
-            3,
-            2
-          ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 05时26分]"
-        },
-        {
-          "title": "半导体专家：第一次真正看到超级周期",
-          "url": "https://www.toutiao.com/trending/7654516746312748582/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时05分 ~ 05时26分]"
-        },
-        {
-          "title": "标普500指数的11个板块中，信息技术/科技板块收跌3.66%，工业板块跌2.03%，房地产、保健、日用消费品板块则至多收涨1.78%。 在科技板块，闪迪、美光、安森美半导体、高意公司Coherent收跌13.64%-10.40%，ServiceNOW则收涨3.15%表现第三，IBM 涨5.04%，CDW Corporation涨5.25%。",
-          "url": "https://wallstreetcn.com/livenews/3123634",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
         {
-          "title": "纳斯达克金龙中国指数收跌0.55%，报5953.29点。 热门中概股里，日月光半导体初步收跌约8.8%，阿特斯太阳能跌8.2%，小马智行跌7%，文远知行跌4.9%，大全新能源跌4.2%，小鹏跌3.8%，亚朵涨3.1%，拼多多、阿里跌约2%，网易有道涨6.66%。 ETF中，MSCI新兴市场ex中国ETF（EMXC）收跌6.44%，德银嘉实沪深300指数ETF（ASHR）收跌3.32%，XtrackersHarvest中证50（ASHS）收跌2.58%。 中国科技指数ETF（CQQQ）收跌2.80%，中概互联网指数ETF（KWEB）收跌2.24%。",
-          "url": "https://wallstreetcn.com/livenews/3123627",
+          "title": "Cerebras Systems美股盘后跌幅扩大至10%。",
+          "url": "https://wallstreetcn.com/livenews/3123665",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时26分"
+          "time_info": "07时02分"
         },
         {
-          "title": "标普500指数收跌107.33点，跌幅1.44%，报7365.46点。 道琼斯工业平均指数收跌45.87点，跌幅0.09%，报51666.84点。 纳斯达克综合指数（纳指）收跌579.563点，跌幅2.22%，报25587.039点。 纳斯达克100指数收跌999.81点，跌幅3.30%，报29347.273点。 纳斯达克科技市值加权指数收跌3.65%，报2872.5950点。 费城半导体指数收跌1152.214点，跌幅7.87%，创6月5日以来最差单日表现，报13482.508点。 费城证交所KBW银行指数收涨0.65%，报183.54点，连续第二个交易日创收盘历史新高。 道琼斯KBW地区银行指数收涨1.44%，报142.19点，逼近2月6日所创收盘历史最高位142.30点。 罗素2000指数收跌0.96%，报2975.481点，脱离收盘历史最高位。 纳斯达克生物科技指数收涨0.85%，报6185.56点。 标普中盘股400指数收跌1.04%，纳斯达克美国中等市值指数跌0.62%。 恐慌指数VIX收涨12.73%，报19.48。",
-          "url": "https://wallstreetcn.com/livenews/3123625",
+          "title": "耐克美股盘后涨2%，该公司任命辉瑞制药高管David M. Denton为首席财务官（CFO），8月17日生效。",
+          "url": "https://wallstreetcn.com/livenews/3123650",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时26分"
+          "time_info": "07时02分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "为期60天，美国暂时解除对伊朗石油制裁，这是过去数十年来第一次！",
@@ -339,8 +357,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 05时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 07时02分]"
+        },
+        {
+          "title": "国际能源署（IEA）：6月初，阿联酋石油出口飙升至430万桶/日，为（美国和以色列对伊朗发动）战争之前水平的大约85%，3月份仅仅190万桶/日。",
+          "url": "https://wallstreetcn.com/livenews/3123672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "据美联社：美国国土安全部发言人表示，美方放宽了对伊朗世界杯代表队的限制，允许该队在下一场比赛前两天启程前往比赛场地。",
@@ -378,6 +407,121 @@
       ]
     },
     {
+      "keyword_group": "半导体",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "韩股大跌近 10% 再现熔断，韩国拟对「杠杆 ETF 炒作」出手干预，如何看全球 AI 半导体「散户杠杆化」现象？",
+          "url": "https://www.zhihu.com/question/2052673340993811952",
+          "source": "知乎",
+          "ranks": [
+            11,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 07时02分]"
+        },
+        {
+          "title": "半导体专家：第一次真正看到超级周期",
+          "url": "https://www.toutiao.com/trending/7654516746312748582/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时05分 ~ 05时26分]"
+        },
+        {
+          "title": "标普500指数的11个板块中，信息技术/科技板块收跌3.66%，工业板块跌2.03%，房地产、保健、日用消费品板块则至多收涨1.78%。 在科技板块，闪迪、美光、安森美半导体、高意公司Coherent收跌13.64%-10.40%，ServiceNOW则收涨3.15%表现第三，IBM 涨5.04%，CDW Corporation涨5.25%。",
+          "url": "https://wallstreetcn.com/livenews/3123634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.55%，报5953.29点。 热门中概股里，日月光半导体初步收跌约8.8%，阿特斯太阳能跌8.2%，小马智行跌7%，文远知行跌4.9%，大全新能源跌4.2%，小鹏跌3.8%，亚朵涨3.1%，拼多多、阿里跌约2%，网易有道涨6.66%。 ETF中，MSCI新兴市场ex中国ETF（EMXC）收跌6.44%，德银嘉实沪深300指数ETF（ASHR）收跌3.32%，XtrackersHarvest中证50（ASHS）收跌2.58%。 中国科技指数ETF（CQQQ）收跌2.80%，中概互联网指数ETF（KWEB）收跌2.24%。",
+          "url": "https://wallstreetcn.com/livenews/3123627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "标普500指数收跌107.33点，跌幅1.44%，报7365.46点。 道琼斯工业平均指数收跌45.87点，跌幅0.09%，报51666.84点。 纳斯达克综合指数（纳指）收跌579.563点，跌幅2.22%，报25587.039点。 纳斯达克100指数收跌999.81点，跌幅3.30%，报29347.273点。 纳斯达克科技市值加权指数收跌3.65%，报2872.5950点。 费城半导体指数收跌1152.214点，跌幅7.87%，创6月5日以来最差单日表现，报13482.508点。 费城证交所KBW银行指数收涨0.65%，报183.54点，连续第二个交易日创收盘历史新高。 道琼斯KBW地区银行指数收涨1.44%，报142.19点，逼近2月6日所创收盘历史最高位142.30点。 罗素2000指数收跌0.96%，报2975.481点，脱离收盘历史最高位。 纳斯达克生物科技指数收涨0.85%，报6185.56点。 标普中盘股400指数收跌1.04%，纳斯达克美国中等市值指数跌0.62%。 恐慌指数VIX收涨12.73%，报19.48。",
+          "url": "https://wallstreetcn.com/livenews/3123625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
+          "url": "https://wallstreetcn.com/articles/3775156",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 07时02分]"
+        },
+        {
+          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐升，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3775262",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时01分 ~ 07时02分]"
+        },
+        {
+          "title": "“空头”末日预言：AI“强弩之末”，美股最快Q3见顶、跌幅30-50%，美版YCC和美债大重组，私募信贷危机待引爆",
+          "url": "https://wallstreetcn.com/articles/3775250",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 07时02分]"
+        },
+        {
+          "title": "两年期美债收益率周二跌超2.7个基点",
+          "url": "https://wallstreetcn.com/livenews/3123663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -410,9 +554,48 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "周二（6月23日）纽约尾盘，现货黄金跌1.89%，报4111.48美元/盎司，北京时间09:00微幅上扬至4198.46美元刷新日高，随后持续走低，12:00以来持续交投于4120美元附近、16:07刷新日低至4091.05美元。 COMEX黄金期货跌1.92%，报4129.10美元/盎司。 现货白银跌5.50%，报61.5025美元/盎司，06:00微幅高开至65.7325美元刷新日高，随后持续走低。 COMEX白银期货跌6.15%，报62.005美元/盎司。 COMEX铜期货跌3.64%，报6.1950美元/磅。 现货铂金跌1.85%，现货钯金跌2.90%。",
+          "url": "https://wallstreetcn.com/livenews/3123645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少81.58吨，当前持仓量为14941.91吨。欢迎点击查看数据中心...",
+          "url": "https://flash.jin10.com/detail/20260624061822886800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 6月23日（周二）晚盘收盘下跌0.35%报900.43元/克；<br/>上海黄金交易所白银T+D 6月23日（周二）晚盘收盘下跌2.75%报14827.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260624023113394800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时05分"
         }
       ]
     },
@@ -427,11 +610,12 @@
           "ranks": [
             17,
             12,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 05时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 07时02分]"
         },
         {
           "title": "国际金价跌破4100美元整数关口，A股黄金股全线重挫",
@@ -442,65 +626,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 05时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
-          "url": "https://wallstreetcn.com/articles/3775156",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 05时26分]"
-        },
-        {
-          "title": "“空头”末日预言：AI“强弩之末”，美股最快Q3见顶、跌幅30-50%，美版YCC和美债大重组，私募信贷危机待引爆",
-          "url": "https://wallstreetcn.com/articles/3775250",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 05时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "周二（6月23日）纽约尾盘，现货黄金跌1.89%，报4111.48美元/盎司，北京时间09:00微幅上扬至4198.46美元刷新日高，随后持续走低，12:00以来持续交投于4120美元附近、16:07刷新日低至4091.05美元。 COMEX黄金期货跌1.92%，报4129.10美元/盎司。 现货白银跌5.50%，报61.5025美元/盎司，06:00微幅高开至65.7325美元刷新日高，随后持续走低。 COMEX白银期货跌6.15%，报62.005美元/盎司。 COMEX铜期货跌3.64%，报6.1950美元/磅。 现货铂金跌1.85%，现货钯金跌2.90%。",
-          "url": "https://wallstreetcn.com/livenews/3123645",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 6月23日（周二）晚盘收盘下跌0.35%报900.43元/克；<br/>上海黄金交易所白银T+D 6月23日（周二）晚盘收盘下跌2.75%报14827.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260624023113394800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时05分"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 07时02分]"
         }
       ]
     },
@@ -517,19 +644,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 05时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 07时02分]"
         },
         {
           "title": "【每日收评】创业板震荡走低跌近4%，有色、AI硬件集体调整，创新药板块逆势走强",
           "url": "https://www.cls.cn/detail/2406846",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 05时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 07时02分]"
         }
       ]
     }
