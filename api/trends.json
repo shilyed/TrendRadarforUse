@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T07:02:12.390636+08:00",
-  "total_titles_processed": 599,
+  "generated_at": "2026-06-24T10:32:19.032154+08:00",
+  "total_titles_processed": 808,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普政府将提供175亿美元贷款，推动美国大型核电站建设",
@@ -92,6 +92,39 @@
           "time_info": "[05时26分 ~ 07时02分]"
         },
         {
+          "title": "史上首次！美参众两院通过决议，共同限制特朗普战争权力",
+          "url": "https://news.ifeng.com/c/8uClVTnMwCW",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "特朗普最新支持率公布",
+          "url": "https://news.ifeng.com/c/8uD1v25JY2x",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "美参议院通过决议要求特朗普结束对伊朗战事",
+          "url": "https://wallstreetcn.com/livenews/3123726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
           "title": "国际足联主席：特朗普将亲自颁发世界杯奖杯。​​​",
           "url": "https://flash.jin10.com/detail/20260624022618787800",
           "source": "金十数据",
@@ -101,6 +134,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "美参议院通过涉伊战争权力决议 特朗普遭遇象征性挫败",
+          "url": "https://www.cls.cn/detail/2407367",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
         },
         {
           "title": "特朗普称国际原子能机构核查人员将适时访问伊朗",
@@ -120,7 +164,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -189,23 +233,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "美国财长贝森特：特朗普和我明白债券市场的力量",
+          "url": "https://wallstreetcn.com/livenews/3123707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股收盘：AI投资热潮遭重新审视 芯片股重挫拖累纳指跌超2%",
           "url": "https://www.cls.cn/detail/2407361",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时01分 ~ 07时02分]"
+          "appearance_count": 3,
+          "time_info": "[07时01分 ~ 10时32分]"
+        },
+        {
+          "title": "【早报】美股半导体指数，暴跌超7%！芯片股全线重挫，闪迪、美光科技跌超13%；黄金、原油齐跌；C罗双响葡萄牙5球大胜、英格兰0-0战平加纳",
+          "url": "https://www.cls.cn/detail/2407391",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
         },
         {
           "title": "美股七巨头收盘播报｜周二（6月23日），美国科技股七巨头（Magnificent 7）指数跌1.44%，报205.68点，特斯拉收跌5.79%。 “超大”市值科技股指数跌2.53%，报423.41点。",
@@ -214,7 +281,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -267,6 +334,17 @@
           "time_info": "05时26分"
         },
         {
+          "title": "6月24日投资避雷针：美股半导体指数暴跌超7% 闪迪、美光科技跌超13%",
+          "url": "https://www.cls.cn/detail/2407435",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
           "title": "新兴市场ETF收跌将近5.7%，与纳指ETF领跌美股大类资产类ETF",
           "url": "https://wallstreetcn.com/livenews/3123636",
           "source": "华尔街见闻-快讯",
@@ -284,7 +362,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -306,7 +384,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -328,9 +406,31 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "技术面正在“接管市场”，美股关键技术位等待抄底资金“接棒”",
+          "url": "https://flash.jin10.com/detail/20260624095059820800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "美股芯片股全线重挫",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E8%82%A1%E5%85%A8%E7%BA%BF%E9%87%8D%E6%8C%AB",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
         },
         {
           "title": "耐克美股盘后涨2%，该公司任命辉瑞制药高管David M. Denton为首席财务官（CFO），8月17日生效。",
@@ -339,76 +439,15 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "为期60天，美国暂时解除对伊朗石油制裁，这是过去数十年来第一次！",
-          "url": "https://wallstreetcn.com/articles/3775244",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 07时02分]"
-        },
-        {
-          "title": "国际能源署（IEA）：6月初，阿联酋石油出口飙升至430万桶/日，为（美国和以色列对伊朗发动）战争之前水平的大约85%，3月份仅仅190万桶/日。",
-          "url": "https://wallstreetcn.com/livenews/3123672",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "据美联社：美国国土安全部发言人表示，美方放宽了对伊朗世界杯代表队的限制，允许该队在下一场比赛前两天启程前往比赛场地。",
-          "url": "https://flash.jin10.com/detail/20260624023107946800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时05分"
-        },
-        {
-          "title": "巴基斯坦总理Sharif会见伊朗总统时表示：我们永远不会让你们感到失望。 巴方将继续发挥调停作用，直至实现持久和平。 伊朗（与美国）了谅解备忘录（MoU）。 MoU并没有涉及弹道导弹，（美国）不可以在弹道导弹问题上搞双标。 伊朗不希望讨论。 巴伊两国将携手合作，实现互利共赢。",
-          "url": "https://wallstreetcn.com/livenews/3123558",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "美国国务卿鲁比奥：如果伊朗代理人发射导弹，就无法结束该地区的敌对行动。",
-          "url": "https://flash.jin10.com/detail/20260624000609278800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
         }
       ]
     },
     {
       "keyword_group": "半导体",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "韩股大跌近 10% 再现熔断，韩国拟对「杠杆 ETF 炒作」出手干预，如何看全球 AI 半导体「散户杠杆化」现象？",
@@ -434,6 +473,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时05分 ~ 05时26分]"
+        },
+        {
+          "title": "【数读IPO】半导体零部件概念股，今日上市",
+          "url": "https://www.cls.cn/detail/2407387",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "半导体产业链震荡拉升，西陇科学2连板，汇成股份、赛英电子、富满微、格科微均涨超10%，神工股份、中科飞测、长电科技等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3123734",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
         },
         {
           "title": "标普500指数的11个板块中，信息技术/科技板块收跌3.66%，工业板块跌2.03%，房地产、保健、日用消费品板块则至多收涨1.78%。 在科技板块，闪迪、美光、安森美半导体、高意公司Coherent收跌13.64%-10.40%，ServiceNOW则收涨3.15%表现第三，IBM 涨5.04%，CDW Corporation涨5.25%。",
@@ -472,7 +533,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
@@ -497,6 +558,17 @@
           "time_info": "[07时01分 ~ 07时02分]"
         },
         {
+          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3775262",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
           "title": "“空头”末日预言：AI“强弩之末”，美股最快Q3见顶、跌幅30-50%，美版YCC和美债大重组，私募信贷危机待引爆",
           "url": "https://wallstreetcn.com/articles/3775250",
           "source": "华尔街见闻",
@@ -509,15 +581,141 @@
           "time_info": "[00时23分 ~ 07时02分]"
         },
         {
+          "title": "AI交易遭遇加息考验：除了美元、美债，一切都在跌",
+          "url": "https://wallstreetcn.com/articles/3775294",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
           "title": "两年期美债收益率周二跌超2.7个基点",
           "url": "https://wallstreetcn.com/livenews/3123663",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "为期60天，美国暂时解除对伊朗石油制裁，这是过去数十年来第一次！",
+          "url": "https://wallstreetcn.com/articles/3775244",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 07时02分]"
+        },
+        {
+          "title": "国际能源署（IEA）：6月初，阿联酋石油出口飙升至430万桶/日，为（美国和以色列对伊朗发动）战争之前水平的大约85%，3月份仅仅190万桶/日。",
+          "url": "https://wallstreetcn.com/livenews/3123672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "据美联社：美国国土安全部发言人表示，美方放宽了对伊朗世界杯代表队的限制，允许该队在下一场比赛前两天启程前往比赛场地。",
+          "url": "https://flash.jin10.com/detail/20260624023107946800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "巴基斯坦总理Sharif会见伊朗总统时表示：我们永远不会让你们感到失望。 巴方将继续发挥调停作用，直至实现持久和平。 伊朗（与美国）了谅解备忘录（MoU）。 MoU并没有涉及弹道导弹，（美国）不可以在弹道导弹问题上搞双标。 伊朗不希望讨论。 巴伊两国将携手合作，实现互利共赢。",
+          "url": "https://wallstreetcn.com/livenews/3123558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：如果伊朗代理人发射导弹，就无法结束该地区的敌对行动。",
+          "url": "https://flash.jin10.com/detail/20260624000609278800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "美国财长贝森特：我们已告诉伊朗人我们想要一个“大协议”。 伊朗谈判将是一个过程。 如果伊朗降低其石油价格，对世界更好。 我们给伊朗提供胡萝卜，也有大棒。",
+          "url": "https://wallstreetcn.com/livenews/3123708",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "高盛首次下调 2026 年黄金目标价，国内银行业亦密集收紧黄金交易杠杆，国际金价是否即将跌破 4000？",
+          "url": "https://www.zhihu.com/question/2052707670289806571",
+          "source": "知乎",
+          "ranks": [
+            17,
+            12,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 07时02分]"
+        },
+        {
+          "title": "国际金价跌破4100美元整数关口，A股黄金股全线重挫",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33436473",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 07时02分]"
+        },
+        {
+          "title": "金价见底三大信号",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%A7%81%E5%BA%95%E4%B8%89%E5%A4%A7%E4%BF%A1%E5%8F%B7%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
         }
       ]
     },
@@ -582,7 +780,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -600,38 +798,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "高盛首次下调 2026 年黄金目标价，国内银行业亦密集收紧黄金交易杠杆，国际金价是否即将跌破 4000？",
-          "url": "https://www.zhihu.com/question/2052707670289806571",
-          "source": "知乎",
-          "ranks": [
-            17,
-            12,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 07时02分]"
-        },
-        {
-          "title": "国际金价跌破4100美元整数关口，A股黄金股全线重挫",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33436473",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 07时02分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "有色",
       "match_count": 2,
       "titles": [
@@ -644,8 +810,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 07时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 10时32分]"
         },
         {
           "title": "【每日收评】创业板震荡走低跌近4%，有色、AI硬件集体调整，创新药板块逆势走强",
@@ -658,6 +824,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时23分 ~ 07时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储芯片",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股开盘：存储芯片等概念走弱",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E7%AD%89%E6%A6%82%E5%BF%B5%E8%B5%B0%E5%BC%B1",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
         }
       ]
     }
