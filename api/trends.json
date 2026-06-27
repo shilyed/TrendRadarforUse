@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-27T19:22:55.573140+08:00",
-  "total_titles_processed": 1250,
+  "generated_at": "2026-06-27T21:15:22.403495+08:00",
+  "total_titles_processed": 1345,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "委内瑞拉强震突发，特朗普火速援救背后全是霸权算计",
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时08分 ~ 10时46分]"
+        },
+        {
+          "title": "美军再次对伊朗实施打击 特朗普指责伊朗违反停火协议",
+          "url": "https://www.cls.cn/detail/2410771",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时57分 ~ 21时15分]"
         },
         {
           "title": "美国总统特朗普：伊朗向穿越霍尔木兹海峡的船只发射了至少四架单向攻击无人机。这是对我们停火协议的愚蠢违反。",
@@ -39,18 +51,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
-        },
-        {
-          "title": "美军再次对伊朗实施打击 特朗普指责伊朗违反停火协议",
-          "url": "https://www.cls.cn/detail/2410771",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时57分 ~ 19时22分]"
         },
         {
           "title": "美国总统特朗普：（纽约）市长马姆达尼看起来是个和蔼可亲的人，他说他会确保人们的房租不会上涨，尽管能源价格上涨了。",
@@ -122,6 +122,17 @@
           "time_info": "[00时08分 ~ 00时09分]"
         },
         {
+          "title": "“特朗普在伊朗碰了钉子，所以默许乌克兰袭击莫斯科”",
+          "url": "https://news.ifeng.com/c/8uInDi1ssY8",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
           "title": "市场消息：美国总统特朗普施压参议员丽莎·默科斯基投票支持《拯救美国法案》。",
           "url": "https://flash.jin10.com/detail/20260627021241822800",
           "source": "金十数据",
@@ -131,6 +142,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
+        },
+        {
+          "title": "美国务卿鲁比奥：正推动特朗普明年初访问印度事宜",
+          "url": "https://flash.jin10.com/detail/20260627191008880800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "伊朗高级官员：特朗普不遵守谈判和停火原则",
@@ -205,7 +227,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -327,6 +349,18 @@
           "time_info": "[06时05分 ~ 07时57分]"
         },
         {
+          "title": "伊朗议会国家安全和外交政策委员会发言人雷扎伊表示，美国通过在霍尔木兹海峡制造紧张局势，违反了结束战争的备忘录。针对任何违反备忘录的行为，将遭到迅速且果断的回应。",
+          "url": "https://flash.jin10.com/detail/20260627181139499800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 21时15分]"
+        },
+        {
           "title": "美国军方：美国对伊朗实施打击，以回应其对商业船只的攻击。",
           "url": "https://flash.jin10.com/detail/20260627043703595800",
           "source": "金十数据",
@@ -347,17 +381,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时05分 ~ 07时57分]"
-        },
-        {
-          "title": "伊朗议会国家安全和外交政策委员会发言人雷扎伊表示，美国通过在霍尔木兹海峡制造紧张局势，违反了结束战争的备忘录。针对任何违反备忘录的行为，将遭到迅速且果断的回应。",
-          "url": "https://flash.jin10.com/detail/20260627181139499800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
         },
         {
           "title": "伊朗迈赫通讯社援引当地官员的话称，美国的攻击并未对西里克港造成损害。",
@@ -450,8 +473,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时46分 ~ 19时22分]"
+          "appearance_count": 6,
+          "time_info": "[10时46分 ~ 21时15分]"
         },
         {
           "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
@@ -463,8 +486,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时05分 ~ 19时22分]"
+          "appearance_count": 8,
+          "time_info": "[06时05分 ~ 21时15分]"
         },
         {
           "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
@@ -475,8 +498,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时57分 ~ 19时22分]"
+          "appearance_count": 7,
+          "time_info": "[07时57分 ~ 21时15分]"
         },
         {
           "title": "美股连跌的“核心逻辑”:“最大权重”Mag 7陨落",
@@ -487,8 +510,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时24分 ~ 19时22分]"
+          "appearance_count": 4,
+          "time_info": "[17时24分 ~ 21时15分]"
         },
         {
           "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
@@ -575,7 +598,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "【焦点复盘】沪指缩量跌超2%失守半年线，光通信概念遭重挫，半导体设备股强势依旧",
@@ -592,6 +615,19 @@
           "time_info": "[00时08分 ~ 14时24分]"
         },
         {
+          "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
+          "url": "https://www.cls.cn/detail/2410894",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时24分 ~ 21时15分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步收涨0.8%。 热门中概股里，网易初步收涨7.8%，拼多多涨4.5%，新东方、蔚来、百胜中国、理想至多涨4.2%，阿里涨0.1%，日月光半导体跌3.7%。",
           "url": "https://wallstreetcn.com/livenews/3125451",
           "source": "华尔街见闻-快讯",
@@ -604,27 +640,27 @@
           "time_info": "[04时28分 ~ 06时05分]"
         },
         {
-          "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
-          "url": "https://www.cls.cn/detail/2410894",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时24分 ~ 19时22分]"
-        },
-        {
           "title": "半导体龙头集体加注 先进封装何以成为最具壁垒环节？",
           "url": "https://www.cls.cn/detail/2410063",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 21时15分]"
+        },
+        {
+          "title": "又一半导体气体或陷入短缺 存储巨头全力加紧采购",
+          "url": "https://www.cls.cn/detail/2410926",
+          "source": "财联社热门",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时22分"
+          "time_info": "21时15分"
         },
         {
           "title": "费城半导体指数本周下跌7.9%，创下4月初以来的最大单周跌幅。",
@@ -647,6 +683,58 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "国际金价银价上涨",
+          "url": "https://www.douyin.com/hot/2549494",
+          "source": "抖音",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时24分 ~ 19时22分]"
+        },
+        {
+          "title": "金价大跌 有商家称跌没一辆迈巴赫",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C+%E6%9C%89%E5%95%86%E5%AE%B6%E7%A7%B0%E8%B7%8C%E6%B2%A1%E4%B8%80%E8%BE%86%E8%BF%88%E5%B7%B4%E8%B5%AB",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时24分 ~ 19时22分]"
+        },
+        {
+          "title": "金价大跌 有商家称跌没一辆迈巴赫",
+          "url": "https://www.toutiao.com/trending/7655931453586849835/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
+          "title": "金价跌25%银价暴跌45%",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C25%25%E9%93%B6%E4%BB%B7%E6%9A%B4%E8%B7%8C45%25%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时24分"
         }
       ]
     },
@@ -698,47 +786,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "国际金价银价上涨",
-          "url": "https://www.douyin.com/hot/2549494",
-          "source": "抖音",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时24分 ~ 19时22分]"
-        },
-        {
-          "title": "金价大跌 有商家称跌没一辆迈巴赫",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C+%E6%9C%89%E5%95%86%E5%AE%B6%E7%A7%B0%E8%B7%8C%E6%B2%A1%E4%B8%80%E8%BE%86%E8%BF%88%E5%B7%B4%E8%B5%AB",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时24分 ~ 19时22分]"
-        },
-        {
-          "title": "金价跌25%银价暴跌45%",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C25%25%E9%93%B6%E4%BB%B7%E6%9A%B4%E8%B7%8C45%25%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时24分"
         }
       ]
     },
