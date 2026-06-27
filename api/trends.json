@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-27T21:15:22.403495+08:00",
-  "total_titles_processed": 1345,
+  "generated_at": "2026-06-27T23:10:23.066678+08:00",
+  "total_titles_processed": 1468,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "委内瑞拉强震突发，特朗普火速援救背后全是霸权算计",
@@ -27,8 +27,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时57分 ~ 21时15分]"
+          "appearance_count": 8,
+          "time_info": "[07时57分 ~ 23时10分]"
         },
         {
           "title": "美国总统特朗普：伊朗向穿越霍尔木兹海峡的船只发射了至少四架单向攻击无人机。这是对我们停火协议的愚蠢违反。",
@@ -53,6 +53,28 @@
           "time_info": "02时25分"
         },
         {
+          "title": "特朗普公布“爱国者护照”新版效果图",
+          "url": "https://flash.jin10.com/detail/20260627230052437800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
+          "title": "欧盟回应特朗普关税威胁：坚决捍卫自身权利",
+          "url": "https://wallstreetcn.com/livenews/3125610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
           "title": "美国总统特朗普：（纽约）市长马姆达尼看起来是个和蔼可亲的人，他说他会确保人们的房租不会上涨，尽管能源价格上涨了。",
           "url": "https://flash.jin10.com/detail/20260627022141001800",
           "source": "金十数据",
@@ -73,6 +95,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
+        },
+        {
+          "title": "“特朗普在伊朗碰了钉子，所以默许乌克兰袭击莫斯科”",
+          "url": "https://news.ifeng.com/c/8uInDi1ssY8",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时15分 ~ 23时10分]"
         },
         {
           "title": "伊朗高级官员：特朗普不遵守谈判和停火原则",
@@ -122,17 +155,6 @@
           "time_info": "[00时08分 ~ 00时09分]"
         },
         {
-          "title": "“特朗普在伊朗碰了钉子，所以默许乌克兰袭击莫斯科”",
-          "url": "https://news.ifeng.com/c/8uInDi1ssY8",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时15分"
-        },
-        {
           "title": "市场消息：美国总统特朗普施压参议员丽莎·默科斯基投票支持《拯救美国法案》。",
           "url": "https://flash.jin10.com/detail/20260627021241822800",
           "source": "金十数据",
@@ -150,7 +172,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
@@ -455,6 +477,44 @@
       "match_count": 12,
       "titles": [
         {
+          "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
+          "url": "https://www.cls.cn/detail/2410765",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            5,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时05分 ~ 23时10分]"
+        },
+        {
+          "title": "半导体拖累美股，标普、纳指五连跌，美光跌6%，金银走高，原油一度跌4%",
+          "url": "https://wallstreetcn.com/articles/3775571",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时46分 ~ 23时10分]"
+        },
+        {
+          "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
+          "url": "https://www.cls.cn/detail/2410784",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时57分 ~ 23时10分]"
+        },
+        {
           "title": "科技股拖累全球股市，美股指下挫，光通信板块普跌，美光跌6%，金银走高，油价跌近4%",
           "url": "https://wallstreetcn.com/articles/3775571",
           "source": "华尔街见闻",
@@ -466,42 +526,6 @@
           "time_info": "[00时08分 ~ 06时05分]"
         },
         {
-          "title": "半导体拖累美股，标普、纳指五连跌，美光跌6%，金银走高，原油一度跌4%",
-          "url": "https://wallstreetcn.com/articles/3775571",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时46分 ~ 21时15分]"
-        },
-        {
-          "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
-          "url": "https://www.cls.cn/detail/2410765",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时05分 ~ 21时15分]"
-        },
-        {
-          "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
-          "url": "https://www.cls.cn/detail/2410784",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时57分 ~ 21时15分]"
-        },
-        {
           "title": "美股连跌的“核心逻辑”:“最大权重”Mag 7陨落",
           "url": "https://wallstreetcn.com/articles/3775664",
           "source": "华尔街见闻",
@@ -510,8 +534,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时24分 ~ 21时15分]"
+          "appearance_count": 5,
+          "time_info": "[17时24分 ~ 23时10分]"
         },
         {
           "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
@@ -598,7 +622,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "【焦点复盘】沪指缩量跌超2%失守半年线，光通信概念遭重挫，半导体设备股强势依旧",
@@ -621,11 +645,24 @@
           "ranks": [
             12,
             8,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时24分 ~ 21时15分]"
+          "appearance_count": 5,
+          "time_info": "[17时24分 ~ 23时10分]"
+        },
+        {
+          "title": "又一半导体气体或陷入短缺 存储巨头全力加紧采购",
+          "url": "https://www.cls.cn/detail/2410926",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时15分 ~ 23时10分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨0.8%。 热门中概股里，网易初步收涨7.8%，拼多多涨4.5%，新东方、蔚来、百胜中国、理想至多涨4.2%，阿里涨0.1%，日月光半导体跌3.7%。",
@@ -645,22 +682,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时22分 ~ 21时15分]"
-        },
-        {
-          "title": "又一半导体气体或陷入短缺 存储巨头全力加紧采购",
-          "url": "https://www.cls.cn/detail/2410926",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时15分"
+          "appearance_count": 3,
+          "time_info": "[19时22分 ~ 23时10分]"
         },
         {
           "title": "费城半导体指数本周下跌7.9%，创下4月初以来的最大单周跌幅。",
@@ -683,6 +710,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
+        },
+        {
+          "title": "日本半导体王牌为何开始担心中国",
+          "url": "https://www.toutiao.com/trending/7656075390498115126/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         }
       ]
     },
@@ -719,11 +757,12 @@
           "url": "https://www.toutiao.com/trending/7655931453586849835/",
           "source": "今日头条",
           "ranks": [
-            18
+            18,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时15分 ~ 23时10分]"
         },
         {
           "title": "金价跌25%银价暴跌45%",
@@ -815,6 +854,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时28分 ~ 06时05分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储芯片",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "存储芯片大涨 苹果美光打口水战",
+          "url": "https://www.baidu.com/s?wd=%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%A4%A7%E6%B6%A8+%E8%8B%B9%E6%9E%9C%E7%BE%8E%E5%85%89%E6%89%93%E5%8F%A3%E6%B0%B4%E6%88%98",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         }
       ]
     }
