@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-28T20:18:33.960073+08:00",
-  "total_titles_processed": 1091,
+  "generated_at": "2026-06-28T22:44:41.695431+08:00",
+  "total_titles_processed": 1223,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
+        {
+          "title": "特朗普威胁：伊朗或将不复存在；美军连续第二天空袭伊朗，伊朗革命卫队威胁对美军基地发起“地狱”式打击",
+          "url": "https://wallstreetcn.com/articles/3775683",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时19分 ~ 22时44分]"
+        },
         {
           "title": "欧盟回应特朗普关税威胁：坚决捍卫自身权利",
           "url": "https://wallstreetcn.com/livenews/3125610",
@@ -19,18 +31,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时02分 ~ 16时17分]"
-        },
-        {
-          "title": "特朗普威胁：伊朗或将不复存在；美军连续第二天空袭伊朗，伊朗革命卫队威胁对美军基地发起“地狱”式打击",
-          "url": "https://wallstreetcn.com/articles/3775683",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时19分 ~ 20时18分]"
         },
         {
           "title": "“特朗普在伊朗碰了钉子，所以默许乌克兰袭击莫斯科”",
@@ -66,6 +66,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时02分 ~ 08时02分]"
+        },
+        {
+          "title": "美国众议院议长约翰逊：将于周一把住房法案提交给美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20260628220938422800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
+        },
+        {
+          "title": "美国众议长约翰逊：下周一将移交住房立法草案给总统特朗普。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3125689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
         },
         {
           "title": "特朗普孙女发逛白宫vlog美国网友破防",
@@ -107,6 +129,34 @@
           "time_info": "[05时57分 ~ 08时02分]"
         },
         {
+          "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33467359",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15,
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时19分 ~ 22时44分]"
+        },
+        {
+          "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470245",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时19分 ~ 22时44分]"
+        },
+        {
           "title": "美媒：特朗普和内塔尼亚胡的交流比以前少了很多",
           "url": "https://flash.jin10.com/detail/20260628025551765800",
           "source": "金十数据",
@@ -132,31 +182,17 @@
           "time_info": "[19时02分 ~ 20时18分]"
         },
         {
-          "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33467359",
-          "source": "澎湃新闻",
+          "title": "美军连续第二天空袭伊朗，特朗普威胁伊朗或将不复存在，局势会再度持续升温吗？美方此轮袭击想达成哪些目标？",
+          "url": "https://www.zhihu.com/question/2054471851032539301",
+          "source": "知乎",
           "ranks": [
-            19,
-            15,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时19分 ~ 20时18分]"
-        },
-        {
-          "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33470245",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
             13,
-            12
+            11,
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时19分 ~ 20时18分]"
+          "time_info": "[16时17分 ~ 22时44分]"
         },
         {
           "title": "机构：特朗普施压美联储降息导致通胀高于2%的情景不太可能发生",
@@ -207,16 +243,15 @@
           "time_info": "[05时57分 ~ 08时02分]"
         },
         {
-          "title": "美军连续第二天空袭伊朗，特朗普威胁伊朗或将不复存在，局势会再度持续升温吗？美方此轮袭击想达成哪些目标？",
-          "url": "https://www.zhihu.com/question/2054471851032539301",
-          "source": "知乎",
+          "title": "特朗普发扛地球AI照，伊以都不服！",
+          "url": "https://news.ifeng.com/c/8uKW9oaTnDA",
+          "source": "凤凰网",
           "ranks": [
-            13,
-            11
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时17分 ~ 20时18分]"
+          "appearance_count": 2,
+          "time_info": "[20时18分 ~ 22时44分]"
         },
         {
           "title": "特朗普公布“爱国者护照”新版效果图",
@@ -243,6 +278,17 @@
           "time_info": "[12时19分 ~ 16时17分]"
         },
         {
+          "title": "特朗普政府质询美国纽约州在农业用地上的光伏项目",
+          "url": "https://wallstreetcn.com/livenews/3125682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
+        },
+        {
           "title": "扛不住成本，苹果游说特朗普政府",
           "url": "https://news.ifeng.com/c/8uKEvaozU5k",
           "source": "凤凰网",
@@ -252,17 +298,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
-        },
-        {
-          "title": "特朗普发扛地球AI照，伊以都不服！",
-          "url": "https://news.ifeng.com/c/8uKW9oaTnDA",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时18分"
         },
         {
           "title": "欧盟回应特朗普关税威胁：坚决捍卫自身权利",
@@ -282,7 +317,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
         },
@@ -312,7 +347,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美国中央司令部确认再次对伊朗进行打击",
@@ -352,11 +387,12 @@
           "url": "https://wallstreetcn.com/livenews/3125668",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时18分 ~ 22时44分]"
         },
         {
           "title": "据CNN：美国官员称，当伊朗声称对中东的美军目标发动袭击时，美国“探测到几架无人机”，但这些无人机并未击中目标。",
@@ -404,6 +440,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时04分 ~ 05时57分]"
+        },
+        {
+          "title": "周末要闻汇总：前5月电子行业利润翻倍；美国再对伊朗实施军事打击",
+          "url": "https://www.cls.cn/detail/2411069",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
         },
         {
           "title": "美国打击伊朗后，伊朗无人机袭击巴林且有油轮遭袭",
@@ -530,11 +577,12 @@
           "url": "https://wallstreetcn.com/articles/3775701",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时18分 ~ 22时44分]"
         }
       ]
     },
@@ -550,8 +598,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时02分 ~ 20时18分]"
+          "appearance_count": 12,
+          "time_info": "[01时02分 ~ 22时44分]"
         },
         {
           "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
@@ -562,8 +610,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时02分 ~ 20时18分]"
+          "appearance_count": 12,
+          "time_info": "[01时02分 ~ 22时44分]"
         },
         {
           "title": "半导体龙头集体加注 先进封装何以成为最具壁垒环节？",
@@ -575,8 +623,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时02分 ~ 20时18分]"
+          "appearance_count": 12,
+          "time_info": "[01时02分 ~ 22时44分]"
+        },
+        {
+          "title": "下周重磅日程：美国非农、中国PMI、沃什出席欧洲央行论坛，半导体“7月涨价潮”",
+          "url": "https://wallstreetcn.com/articles/3775686",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时18分 ~ 22时44分]"
         },
         {
           "title": "日本半导体王牌为何开始担心中国",
@@ -591,17 +651,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时02分 ~ 06时58分]"
-        },
-        {
-          "title": "下周重磅日程：美国非农、中国PMI、沃什出席欧洲央行论坛，半导体“7月涨价潮”",
-          "url": "https://wallstreetcn.com/articles/3775686",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时18分"
         }
       ]
     },
