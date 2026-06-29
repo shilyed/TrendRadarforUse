@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T18:26:18.426769+08:00",
-  "total_titles_processed": 1079,
+  "generated_at": "2026-06-29T22:43:52.147184+08:00",
+  "total_titles_processed": 1278,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普威胁：伊朗或将不复存在；美军连续第二天空袭伊朗，伊朗革命卫队威胁对美军基地发起“地狱”式打击",
@@ -95,6 +95,17 @@
           "time_info": "[00时04分 ~ 06时57分]"
         },
         {
+          "title": "市场消息：美国最高法院支持美国总统特朗普解雇联邦贸易委员会成员。",
+          "url": "https://flash.jin10.com/detail/20260629221812054800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
           "title": "特朗普政府质询美国纽约州在农业用地上的光伏项目",
           "url": "https://wallstreetcn.com/livenews/3125682",
           "source": "华尔街见闻-快讯",
@@ -117,6 +128,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时24分 ~ 04时54分]"
+        },
+        {
+          "title": "特朗普新关税阴霾笼罩！全球零售商抢先囤货 中美航线运费飙涨六成",
+          "url": "https://www.cls.cn/detail/2411631",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 22时43分]"
         },
         {
           "title": "美国总统特朗普称，林肯纪念堂倒影池在遭受严重损坏后现已全面投入使用。",
@@ -142,15 +165,26 @@
           "time_info": "13时24分"
         },
         {
-          "title": "特朗普新关税阴霾笼罩！全球零售商抢先囤货 中美航线运费飙涨六成",
-          "url": "https://www.cls.cn/detail/2411631",
-          "source": "财联社热门",
+          "title": "市场消息：美国最高法院拒绝允许特朗普罢免美联储理事丽莎·库克，允许丽莎·库克暂且继续留任。",
+          "url": "https://flash.jin10.com/detail/20260629221647822800",
+          "source": "金十数据",
           "ranks": [
-            10
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时26分"
+          "time_info": "22时43分"
+        },
+        {
+          "title": "特朗普坚称美伊周二会谈 科技板块起势反弹 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2412084",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "美国众议院议长约翰逊：将于周一把住房法案提交给美国总统特朗普。",
@@ -164,13 +198,24 @@
           "time_info": "00时04分"
         },
         {
+          "title": "特朗普遭遇挫折 美国最高法院认可邮寄选票的宽限期",
+          "url": "https://flash.jin10.com/detail/20260629221213800800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-29）",
           "url": "https://flash.jin10.com/detail/20260629174526536800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -189,7 +234,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "又一半导体气体或陷入短缺 存储巨头全力加紧采购",
@@ -255,11 +300,23 @@
           "url": "https://www.cls.cn/detail/2411668",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 22时43分]"
+        },
+        {
+          "title": "纳斯达克100指数转跌，此前一度涨1.5%。 费城半导体指数跌超2.7%。",
+          "url": "https://wallstreetcn.com/livenews/3126224",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时26分"
+          "time_info": "22时43分"
         },
         {
           "title": "半导体零部件头部企业、‌半导体材料‌概念股明日申购",
@@ -288,11 +345,23 @@
           "url": "https://wallstreetcn.com/articles/3775723",
           "source": "华尔街见闻",
           "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 22时43分]"
+        },
+        {
+          "title": "费城半导体指数跌幅扩大至2.5%，美光科技(MU.O)、Arm(ARM.O)跌超8%，英特尔(INTC.O)跌7%，迈威尔科技(MRVL.O)跌超5%，英伟达(NVDA.O)跌0.7%。",
+          "url": "https://flash.jin10.com/detail/20260629221452634800",
+          "source": "金十数据",
+          "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时26分"
+          "time_info": "22时43分"
         },
         {
           "title": "【图解牛熊股】半导体板块涨幅居前，证券板块表现活跃",
@@ -331,7 +400,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "周末要闻汇总：前5月电子行业利润翻倍；美国再对伊朗实施军事打击",
@@ -354,7 +423,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -402,7 +471,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -429,13 +498,24 @@
           "time_info": "08时04分"
         },
         {
+          "title": "美国国务卿鲁比奥和美国总统特使威特科夫今天将向众议院和参议院汇报伊朗局势。（PunchBowl）",
+          "url": "https://wallstreetcn.com/livenews/3126211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
           "title": "据伊朗法尔斯通讯社：受美国采取激进措施影响，霍尔木兹海峡航运活动有所减少，目前船舶过境作业通过伊朗航道进行。",
           "url": "https://flash.jin10.com/detail/20260629173551889800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -454,7 +534,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股近一个月触发7次，“兴登堡预兆”有多准？A股准确率高达92%！",
@@ -469,13 +549,24 @@
           "time_info": "[00时04分 ~ 13时24分]"
         },
         {
+          "title": "美股三大指数高开低走，纳指转跌，美光跌3.5%，油价回到70上方",
+          "url": "https://wallstreetcn.com/articles/3775727",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
           "title": "韩国重磅芯片计划支撑市场，美股盘前存储芯片股反弹，美光涨超2%，油价一度回到70上方",
           "url": "https://wallstreetcn.com/articles/3775727",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -497,7 +588,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -511,6 +602,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时57分"
+        },
+        {
+          "title": "美股太空股ETF涨幅一度高达4.6%。",
+          "url": "https://wallstreetcn.com/livenews/3126203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "北美科技软件股指数ETF美股盘初涨约2.1%，进入连续第二个交易日反弹，报90.02美元，",
+          "url": "https://wallstreetcn.com/livenews/3126202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "美股三大指数集体高开，纳指涨0.8%，标普500指数涨0.5%，道指涨0.23%。科技股涨跌不一，英伟达涨0.66%，部分存储概念股走低，美光科技跌超2%，闪迪跌超1%。Strategy涨近5%，此前公司宣布授权10亿美元优先股回购计划。康卡斯特上涨12%，公司计划分拆NBC环球。",
+          "url": "https://wallstreetcn.com/livenews/3126200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         }
       ]
     },
@@ -525,7 +649,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -566,8 +690,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "国际金价跳水",
+          "url": "https://www.douyin.com/hot/2552234",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
         {
           "title": "PCE只带来喘息，金价修复仍等就业验证",
           "url": "https://flash.jin10.com/detail/20260629120148011800",
@@ -578,6 +713,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储芯片",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "高盛交易员预警：存储芯片板块面临三大下行风险",
+          "url": "https://wallstreetcn.com/articles/3775760",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         }
       ]
     }
