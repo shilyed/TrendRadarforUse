@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T00:18:26.443797+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-01T02:32:18.235595+08:00",
+  "total_titles_processed": 416,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "“我不在乎中期选举”：特朗普惹恼共和党议员",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时32分]"
         },
         {
           "title": "美伊谈判前途未卜：特朗普称周二将在多哈谈，伊朗否认计划会谈，以防长称以伊明天就可能重开战火",
@@ -26,8 +26,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时32分]"
         },
         {
           "title": "遭特朗普讽刺后，英首相最热人选拒绝美国邀请",
@@ -37,8 +37,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时32分]"
         },
         {
           "title": "据华尔街日报：特朗普政府正试图遏制创纪录高位的牛肉价格。特朗普政府计划向较小型肉类加工商提供资金，鼓励其继续屠宰牛只；美国农业部计划提供最高5亿美元款项，以支持牛肉加工。",
@@ -74,6 +74,17 @@
           "time_info": "00时18分"
         },
         {
+          "title": "美国总统特朗普回应“最高法院推翻特朗普限制‘出生公民权’行政令”，称：最高法院的裁决对美国来说太糟糕了。 国会山应该着手废除出生公民权。",
+          "url": "https://wallstreetcn.com/livenews/3126924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
           "title": "美国最高法院推翻总统特朗普限制出生公民权的措施。",
           "url": "https://wallstreetcn.com/livenews/3126877",
           "source": "华尔街见闻-快讯",
@@ -83,6 +94,79 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "【年中盘点】最热十大板块梳理：半导体设备与材料领涨 CPO、PCB等科技板块赚钱效应火爆",
+          "url": "https://www.cls.cn/detail/2412980",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时32分]"
+        },
+        {
+          "title": "独立半导体研究机构SemiAnalysis预计，英伟达在2027财年下半年的数据中心计算收入将较华尔街一致预期高出约20%，主要基于供应瓶颈缓解以及Vera Rubin平台加速放量。",
+          "url": "https://wallstreetcn.com/livenews/3126943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "半导体供应链现“极限拉扯”：基板厂涨价遭拒 下游以成本回落为由施压",
+          "url": "https://www.cls.cn/detail/2413060",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时32分]"
+        },
+        {
+          "title": "A股上半年收官！创业板涨超35%，科创50暴涨64%，算力硬件、芯片半导体全线飙涨",
+          "url": "https://wallstreetcn.com/articles/3775807",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时32分]"
+        },
+        {
+          "title": "【每日收评】科创50再度涨近4%，算力硬件股集体反弹，半导体产业链反复活跃",
+          "url": "https://www.cls.cn/detail/2413033",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时32分]"
+        },
+        {
+          "title": "纳斯达克100指数涨幅扩大至1.5%，标普500指数涨0.7%，半导体指数涨3.3%。",
+          "url": "https://wallstreetcn.com/livenews/3126922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
         }
       ]
     },
@@ -98,8 +182,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时32分]"
         },
         {
           "title": "城堡证券称散户以创纪录速度抄底美股，6月有望成为交易最活跃月份",
@@ -117,11 +201,23 @@
           "url": "https://wallstreetcn.com/articles/3775797",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时32分]"
+        },
+        {
+          "title": "美股冲击近6年最强季度表现 美伊代表齐赴多哈 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2413394",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时32分]"
         },
         {
           "title": "大摩警告：美股半导体或迎顶点",
@@ -133,84 +229,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
-        },
-        {
-          "title": "美股冲击近6年最强季度表现 美伊代表齐赴多哈 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2413394",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "【年中盘点】最热十大板块梳理：半导体设备与材料领涨 CPO、PCB等科技板块赚钱效应火爆",
-          "url": "https://www.cls.cn/detail/2412980",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "半导体供应链现“极限拉扯”：基板厂涨价遭拒 下游以成本回落为由施压",
-          "url": "https://www.cls.cn/detail/2413060",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "A股上半年收官！创业板涨超35%，科创50暴涨64%，算力硬件、芯片半导体全线飙涨",
-          "url": "https://wallstreetcn.com/articles/3775807",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "【每日收评】科创50再度涨近4%，算力硬件股集体反弹，半导体产业链反复活跃",
-          "url": "https://www.cls.cn/detail/2413033",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
-          "title": "据知情人士透露，伊朗革命卫队已告知调解方，如果在多哈会谈中无法获得伊朗对霍尔木兹海峡拥有唯一控制权的保证，将再次关闭这条航道。 革命卫队还要求美国及其他国家放弃让船只经由靠近阿曼一侧海峡南部水域航行的计划。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3126906",
-          "source": "华尔街见闻-快讯",
+          "title": "据油轮追踪机构：自美国制裁放松以来，伊朗已出口约5000万桶石油。",
+          "url": "https://flash.jin10.com/detail/20260701015529200800",
+          "source": "金十数据",
           "ranks": [
-            7
+            5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时18分"
+          "time_info": "02时32分"
         },
         {
           "title": "凤凰女记者：伊朗对霍尔木兹海峡态度十分强硬，只能美国做出妥协",
@@ -218,6 +253,17 @@
           "source": "凤凰网",
           "ranks": [
             9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时32分]"
+        },
+        {
+          "title": "据知情人士透露，伊朗革命卫队已告知调解方，如果在多哈会谈中无法获得伊朗对霍尔木兹海峡拥有唯一控制权的保证，将再次关闭这条航道。 革命卫队还要求美国及其他国家放弃让船只经由靠近阿曼一侧海峡南部水域航行的计划。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3126906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -251,11 +297,12 @@
           "url": "https://wallstreetcn.com/articles/3775847",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时32分]"
         }
       ]
     },
@@ -271,8 +318,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时32分]"
         }
       ]
     }
