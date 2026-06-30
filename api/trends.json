@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30T14:50:19.594801+08:00",
-  "total_titles_processed": 1012,
+  "generated_at": "2026-06-30T18:27:50.132566+08:00",
+  "total_titles_processed": 1209,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "特朗普坚称美伊周二会谈 科技板块起势反弹 | 今夜看点",
@@ -135,23 +135,35 @@
           "time_info": "[03时45分 ~ 05时19分]"
         },
         {
+          "title": "美最高法院裁定库克暂时留任，特朗普称将确保其不影响重大货币政策决定",
+          "url": "https://wallstreetcn.com/articles/3775773",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时37分 ~ 18时27分]"
+        },
+        {
+          "title": "特朗普性侵案上诉失败，被裁决赔偿女作家500万美元",
+          "url": "https://news.ifeng.com/c/8uN6TfbvLaw",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时50分 ~ 18时27分]"
+        },
+        {
           "title": "美伊和谈前景不明！特朗普坚称今日举行会谈 伊方连连否认",
           "url": "https://www.cls.cn/detail/2412327",
           "source": "财联社热门",
           "ranks": [
             12,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时37分 ~ 14时50分]"
-        },
-        {
-          "title": "美最高法院裁定库克暂时留任，特朗普称将确保其不影响重大货币政策决定",
-          "url": "https://wallstreetcn.com/articles/3775773",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -259,17 +271,6 @@
           "time_info": "10时37分"
         },
         {
-          "title": "特朗普性侵案上诉失败，被裁决赔偿女作家500万美元",
-          "url": "https://news.ifeng.com/c/8uN6TfbvLaw",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时50分"
-        },
-        {
           "title": "美国总统特朗普：（关于多哈会晤）这或许很重要，我们将拭目以待。",
           "url": "https://flash.jin10.com/detail/20260630032736175800",
           "source": "金十数据",
@@ -279,6 +280,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时45分"
+        },
+        {
+          "title": "遭特朗普讽刺后，英首相最热人选拒绝美国邀请",
+          "url": "https://news.ifeng.com/c/8uNYuN5imVw",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "解雇美联储理事？特朗普在最高法院“碰钉子”",
@@ -411,13 +423,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时45分"
+        },
+        {
+          "title": "卡塔尔外交部发言人：美国总统特使威特科夫和特朗普女婿库什纳将前往卡塔尔与调解人会面，讨论谈判事宜；目前没有计划进行美伊之间的高层会议。",
+          "url": "https://flash.jin10.com/detail/20260630181048101800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
+          "url": "https://wallstreetcn.com/articles/3775727",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时56分 ~ 18时27分]"
+        },
         {
           "title": "美股三大指数高开低走，纳指转跌，美光跌3.5%，油价回到70上方",
           "url": "https://wallstreetcn.com/articles/3775727",
@@ -428,17 +462,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时29分 ~ 05时19分]"
-        },
-        {
-          "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
-          "url": "https://wallstreetcn.com/articles/3775727",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时56分 ~ 14时50分]"
         },
         {
           "title": "【早报】美股大反弹；3大存储巨头，遭集体诉讼；金银下跌，油价收涨",
@@ -574,6 +597,17 @@
           "time_info": "10时37分"
         },
         {
+          "title": "美股出现罕见信号，“入熊”概率高达67%！",
+          "url": "https://www.cls.cn/detail/2412465",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
           "title": "金十图示：2026年06月29日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260630040557144800",
           "source": "金十数据",
@@ -632,7 +666,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "存储巨头开启大规模扩产 半导体设备将进入卖方市场？",
@@ -721,15 +755,48 @@
           "time_info": "05时19分"
         },
         {
+          "title": "【每日收评】科创50再度涨近4%，算力硬件股集体反弹，半导体产业链反复活跃",
+          "url": "https://www.cls.cn/detail/2413033",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
+          "title": "A股上半年收官！创业板涨超35%，科创50暴涨64%，算力硬件、芯片半导体全线飙涨",
+          "url": "https://wallstreetcn.com/articles/3775807",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
           "title": "近20家模拟及功率半导体企业开启新一轮涨价 板块有望持续走强",
           "url": "https://www.cls.cn/detail/2412314",
           "source": "财联社热门",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
+        },
+        {
+          "title": "【年中盘点】最热十大板块梳理：半导体设备与材料领涨 CPO、PCB等科技板块赚钱效应火爆",
+          "url": "https://www.cls.cn/detail/2412980",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "纳斯达克100指数收涨超2.2%，半导体指数涨超3.8%，小盘股指、生物科技指数创历史新高",
@@ -818,7 +885,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         },
@@ -829,9 +896,37 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "伊朗总统：若美国遵守协议 伊方也将履行承诺",
+          "url": "https://wallstreetcn.com/livenews/3126690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
+          "title": "凤凰女记者：伊朗对霍尔木兹海峡态度十分强硬，只能美国做出妥协",
+          "url": "https://news.ifeng.com/c/8uNZON3SysC",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         }
       ]
     },
@@ -850,8 +945,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时29分 ~ 14时50分]"
+          "appearance_count": 9,
+          "time_info": "[01时29分 ~ 18时27分]"
         },
         {
           "title": "专家：国内存储芯片行情大概率没结束",
@@ -860,7 +955,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         }
@@ -895,7 +990,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         }
