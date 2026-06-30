@@ -1,185 +1,33 @@
 {
-  "generated_at": "2026-06-30T21:05:40.916124+08:00",
-  "total_titles_processed": 1369,
+  "generated_at": "2026-07-01T00:18:26.443797+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "特朗普坚称美伊周二会谈 科技板块起势反弹 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2412084",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时29分 ~ 10时37分]"
-        },
-        {
-          "title": "特朗普宣布美伊将会谈，伊朗却公开否认！双方连会不会见面都没谈拢",
-          "url": "https://flash.jin10.com/detail/20260630073601084800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时56分"
-        },
-        {
-          "title": "美国总统特朗普：华盛顿倒影池已恢复运行并重现美观，将在7月4日后修复防水层等损坏并尽快恢复原状，同时加强对纪念碑等设施的安保，任何破坏行为将面临最高10年监禁。",
-          "url": "https://flash.jin10.com/detail/20260630045341435800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        },
-        {
-          "title": "特朗普新关税阴霾笼罩！全球零售商抢先囤货 中美航线运费飙涨六成",
-          "url": "https://www.cls.cn/detail/2411631",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时29分 ~ 06时49分]"
-        },
         {
           "title": "“我不在乎中期选举”：特朗普惹恼共和党议员",
           "url": "https://news.ifeng.com/c/8uNrdCXnoF5",
           "source": "凤凰网",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "美国总统特朗普：由于有关邮寄投票的裁决令人有些意外，《保障美国选民资格法案》显得更加重要。",
-          "url": "https://flash.jin10.com/detail/20260630033047940800",
-          "source": "金十数据",
-          "ranks": [
-            4
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时45分"
+          "time_info": "00时18分"
         },
         {
-          "title": "美国总统特朗普：我想他们（伊朗方面）已启程去多哈开会。",
-          "url": "https://flash.jin10.com/detail/20260630033019264800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
-        },
-        {
-          "title": "美国白宫：美国总统特朗普授权暂停对从摩洛哥进口的磷酸盐肥料的某些关税。",
-          "url": "https://flash.jin10.com/detail/20260630072923721800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时56分"
-        },
-        {
-          "title": "特朗普：住房法案尚未提交给我，等法案送到后，我会决定如何处理。",
-          "url": "https://flash.jin10.com/detail/20260630033741841800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时45分 ~ 05时19分]"
-        },
-        {
-          "title": "市场消息：白宫正临时启用多名特朗普长期顾问，以加强沟通与选举筹备，应对共和党在2026年中期选举中可能失去国会控制权的风险。",
-          "url": "https://flash.jin10.com/detail/20260630050643766800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 06时49分]"
-        },
-        {
-          "title": "美国总统特朗普：不太可能将《保障美国选民资格法案》纳入其中。",
-          "url": "https://flash.jin10.com/detail/20260630033732173800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时45分 ~ 05时19分]"
-        },
-        {
-          "title": "美国总统特朗普：（住房法案）我目前还不知道对此有什么计划。",
-          "url": "https://flash.jin10.com/detail/20260630033555569800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时45分 ~ 05时19分]"
-        },
-        {
-          "title": "美最高法院裁定库克暂时留任，特朗普称将确保其不影响重大货币政策决定",
-          "url": "https://wallstreetcn.com/articles/3775773",
+          "title": "美伊谈判前途未卜：特朗普称周二将在多哈谈，伊朗否认计划会谈，以防长称以伊明天就可能重开战火",
+          "url": "https://wallstreetcn.com/articles/3775765",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
-            8
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时37分 ~ 21时05分]"
-        },
-        {
-          "title": "特朗普性侵案上诉失败，被裁决赔偿女作家500万美元",
-          "url": "https://news.ifeng.com/c/8uN6TfbvLaw",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时50分 ~ 18时27分]"
-        },
-        {
-          "title": "美伊和谈前景不明！特朗普坚称今日举行会谈 伊方连连否认",
-          "url": "https://www.cls.cn/detail/2412327",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时37分 ~ 14时50分]"
+          "appearance_count": 1,
+          "time_info": "00时18分"
         },
         {
           "title": "遭特朗普讽刺后，英首相最热人选拒绝美国邀请",
@@ -189,893 +37,242 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 21时05分]"
+          "appearance_count": 1,
+          "time_info": "00时18分"
         },
         {
-          "title": "美国总统特朗普：（最高法院）裁决后预计不会有更多解职。",
-          "url": "https://wallstreetcn.com/livenews/3126299",
+          "title": "据华尔街日报：特朗普政府正试图遏制创纪录高位的牛肉价格。特朗普政府计划向较小型肉类加工商提供资金，鼓励其继续屠宰牛只；美国农业部计划提供最高5亿美元款项，以支持牛肉加工。",
+          "url": "https://flash.jin10.com/detail/20260630235100163800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        },
+        {
+          "title": "美最高法院驳回特朗普的限制“出生公民权”行政令",
+          "url": "https://wallstreetcn.com/livenews/3126889",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 06时49分]"
-        },
-        {
-          "title": "美最高法院裁定：特朗普暂不能罢免美联储理事库克",
-          "url": "https://www.cls.cn/detail/2412193",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时37分 ~ 14时50分]"
-        },
-        {
-          "title": "美国总统特朗普：我认为他们（伊朗方面）已经动身去参加多哈会议。 多哈会议或许重要，或许不重要。",
-          "url": "https://wallstreetcn.com/livenews/3126296",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 06时49分]"
-        },
-        {
-          "title": "美国总统特朗普：油价已大幅下跌。",
-          "url": "https://flash.jin10.com/detail/20260630032956729800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
-        },
-        {
-          "title": "特朗普称美伊今天多哈会谈",
-          "url": "https://flash.jin10.com/detail/20260630072655057800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时56分"
-        },
-        {
-          "title": "美国总统特朗普：提名Keith E. Sonderling为劳工部长。",
-          "url": "https://wallstreetcn.com/livenews/3126345",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时56分"
-        },
-        {
-          "title": "美国总统特朗普签署关于汽车售后零部件的备忘录。",
-          "url": "https://flash.jin10.com/detail/20260630032916343800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
-        },
-        {
-          "title": "报道：SpaceX与美国讨论捐赠股票给“特朗普账户”",
-          "url": "https://wallstreetcn.com/livenews/3126344",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时56分"
-        },
-        {
-          "title": "特朗普“和粉丝吵翻了”",
-          "url": "https://news.ifeng.com/c/8uMPZ6rxaBi",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时37分"
-        },
-        {
-          "title": "美国总统特朗普：（关于多哈会晤）这或许很重要，我们将拭目以待。",
-          "url": "https://flash.jin10.com/detail/20260630032736175800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
-        },
-        {
-          "title": "解雇美联储理事？特朗普在最高法院“碰钉子”",
-          "url": "https://news.ifeng.com/c/8uN5SKblxo3",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时37分"
-        },
-        {
-          "title": "美媒：SpaceX与美国政府讨论向“特朗普账户”捐赠股票事宜",
-          "url": "https://flash.jin10.com/detail/20260630070512009800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时56分"
-        },
-        {
-          "title": "据华尔街日报：美国国税局调整规则，免除多数“特朗普账户”持有人因小额投入而产生的赠与税申报义务。",
-          "url": "https://flash.jin10.com/detail/20260630040343836800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        },
-        {
-          "title": "特朗普政府取消能源公司Duke Energy在美国北卡莱罗纳州近海的风电租赁合同。",
-          "url": "https://wallstreetcn.com/livenews/3126259",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "美国总统特朗普： 我很荣幸地宣布，我提名凯斯·E·桑德林（Keith E. Sonderling）担任美国劳工部的常任部长。",
-          "url": "https://flash.jin10.com/detail/20260630065224546800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时56分"
-        },
-        {
-          "title": "Axon Enterprise Inc.（AXON）收涨9.85%，报510.60美元，跳空高开后持续高位震荡，逼近6月4日收盘位513.20美元、3月11日收盘位517.57美元。 据媒体报道，在移民执法局（ICE）向该公司采购一批武器之前，美国总统特朗普买入该公司股票。",
-          "url": "https://wallstreetcn.com/livenews/3126328",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时49分"
-        },
-        {
-          "title": "美国总统特朗普：（关于伊朗）我认为，我们在军事上正在获胜，甚至可以说，这场军事行动几乎已经取得胜利。",
-          "url": "https://flash.jin10.com/detail/20260630034422150800",
-          "source": "金十数据",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时19分"
+          "time_info": "00时18分"
         },
         {
-          "title": "据美国财经媒体Semafor：SpaceX(SPCX.O)与美国政府讨论向“特朗普账户”捐赠股票事宜。",
-          "url": "https://flash.jin10.com/detail/20260630064846082800",
-          "source": "金十数据",
+          "title": "美国总统特朗普称赞最高法院关于政治支出的裁决。",
+          "url": "https://wallstreetcn.com/livenews/3126888",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时56分"
+          "time_info": "00时18分"
         },
         {
-          "title": "美国总统特朗普：与《保障美国选民资格法案》相比，其他事情都显得无足轻重。",
-          "url": "https://flash.jin10.com/detail/20260630033950897800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        },
-        {
-          "title": "美国总统特朗普：我正在将药价降低200%、300%，甚至400%，但几乎没人谈论这件事。民主党反对这一举措，如果他们上台执政，药价将上涨300%、400%，甚至500%。",
-          "url": "https://flash.jin10.com/detail/20260630033906236800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        },
-        {
-          "title": "特朗普：将确保美联储理事库克不会做出关键决定",
-          "url": "https://wallstreetcn.com/livenews/3126253",
+          "title": "美国最高法院推翻总统特朗普限制出生公民权的措施。",
+          "url": "https://wallstreetcn.com/livenews/3126877",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "美国总统特朗普：最高法院今天的裁决赋予总统解雇部分独立联邦机构官员的权力，这是过去100年来总统权力最大的一次扩张，也是在这一关键时刻作出的一项具有里程碑意义的裁决。",
-          "url": "https://flash.jin10.com/detail/20260630025055671800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
-        },
-        {
-          "title": "卡塔尔外交部发言人：美国总统特使威特科夫和特朗普女婿库什纳将前往卡塔尔与调解人会面，讨论谈判事宜；目前没有计划进行美伊之间的高层会议。",
-          "url": "https://flash.jin10.com/detail/20260630181048101800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时27分"
+          "time_info": "00时18分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 5,
       "titles": [
         {
           "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
           "url": "https://wallstreetcn.com/articles/3775727",
           "source": "华尔街见闻",
           "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时56分 ~ 21时05分]"
-        },
-        {
-          "title": "美股三大指数高开低走，纳指转跌，美光跌3.5%，油价回到70上方",
-          "url": "https://wallstreetcn.com/articles/3775727",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时29分 ~ 05时19分]"
-        },
-        {
-          "title": "【早报】美股大反弹；3大存储巨头，遭集体诉讼；金银下跌，油价收涨",
-          "url": "https://www.cls.cn/detail/2412290",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时56分 ~ 14时50分]"
-        },
-        {
-          "title": "美股收盘：芯片股绝地反攻强势翻红 纳指涨超2%道指收新高",
-          "url": "https://www.cls.cn/detail/2412265",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时49分 ~ 14时50分]"
-        },
-        {
-          "title": "科技股领涨，美股全线收涨，油价反弹，日元跌至40年低位",
-          "url": "https://wallstreetcn.com/articles/3775727",
-          "source": "华尔街见闻",
-          "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时49分"
+          "time_info": "00时18分"
         },
         {
-          "title": "周一（6月29日），美股行业ETF多数收涨，半导体ETF涨3.33%，可选消费ETF、科技行业ETF、网络股指数ETF至少涨2.22%，能源业ETF则收跌0.48%，区域银行ETF跌0.56%，全球航空业ETF跌0.60%。 标普500指数的11个板块中，电信板块收涨3.11%，可选消费板块涨2.68%，信息技术/科技板块涨1.69%表现第三，能源板块收跌0.62%，房地产板块跌0.73%，原材料板块跌1.86%。",
-          "url": "https://wallstreetcn.com/livenews/3126312",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            15,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时19分 ~ 07时56分]"
-        },
-        {
-          "title": "美股费城半导体指数涨幅扩大至3.2%。",
-          "url": "https://wallstreetcn.com/livenews/3126274",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 03时45分]"
-        },
-        {
-          "title": "周一（6月29日），彭博电动汽车价格回报指数涨2.73%，报3522.70点，亚太时段显著走高，北京时间14:00以来持稳于3500点附近，美股开盘后涨幅略微有所扩大。",
-          "url": "https://wallstreetcn.com/livenews/3126310",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 06时49分]"
-        },
-        {
-          "title": "AI牛市的悬头之剑：不只是韩国，美股杠杆同样触目惊心",
-          "url": "https://wallstreetcn.com/articles/3775756",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时56分 ~ 14时50分]"
-        },
-        {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时29分 ~ 07时56分]"
-        },
-        {
-          "title": "美股大类资产类ETF周一多数收涨，纳指100 ETF涨2.49%，标普500 ETF、巴克莱美国可转债ETF、美国布伦特油价基金至多涨1.65%，道指ETF涨0.76%，新兴市场ETF、欧元做多、美国国债20+年ETF至多涨0.36%。 日元做多、罗素2000指数ETF、做多美元指数则至多收跌0.53%，农产品基金跌1.08%，大豆基金跌1.14%，黄金ETF跌1.35%。",
-          "url": "https://wallstreetcn.com/livenews/3126325",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时49分 ~ 07时56分]"
-        },
-        {
-          "title": "现货黄金跌约1.8%，美股早盘一度逼近4000点整数位心理关口",
-          "url": "https://wallstreetcn.com/livenews/3126316",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时49分 ~ 07时56分]"
-        },
-        {
-          "title": "特朗普又“救”了美股？数据显示：周末打伊朗，周一反弹几乎成固定剧本",
-          "url": "https://flash.jin10.com/detail/20260630102253792800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时37分"
-        },
-        {
-          "title": "美股出现罕见信号，“入熊”概率高达67%！",
-          "url": "https://www.cls.cn/detail/2412465",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时27分"
-        },
-        {
-          "title": "金十图示：2026年06月29日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260630040557144800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        },
-        {
-          "title": "美股太阳能股盘前上涨，Enphase Energy涨12%，SolarEdge Technologies涨11%，Sunrun涨3.5%，Fluence Energy涨6.3%。",
-          "url": "https://wallstreetcn.com/livenews/3126785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "金十图示：2026年06月29日（周一）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260630040546625800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        },
-        {
-          "title": "美股收盘：纳指涨2%，西部数据大涨11%",
-          "url": "https://flash.jin10.com/detail/20260630040102209800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        },
-        {
-          "title": "美股扩大涨幅，纳指涨超2%， 标普500指数涨1.15%，道指涨0.67%。",
-          "url": "https://flash.jin10.com/detail/20260630024742708800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
-        },
-        {
-          "title": "美股费城半导体指数转涨。",
-          "url": "https://wallstreetcn.com/livenews/3126248",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "存储巨头开启大规模扩产 半导体设备将进入卖方市场？",
-          "url": "https://www.cls.cn/detail/2411668",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时29分 ~ 06时49分]"
-        },
-        {
-          "title": "沪指涨超1%，科创50暴涨超4%再创新高，半导体、创新药大爆发，恒科指大涨超3%，科网股集体反攻",
-          "url": "https://wallstreetcn.com/articles/3775723",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时29分 ~ 14时50分]"
-        },
-        {
-          "title": "韩国全力打造新的半导体集群！三星和SK海力士将斥重金布局存储产业",
-          "url": "https://www.cls.cn/detail/2411622",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时29分 ~ 07时56分]"
-        },
-        {
-          "title": "相关主题ETF上周“吸金”超过250亿元，A股半导体板块高景气下波动加大",
-          "url": "https://wallstreetcn.com/livenews/3126330",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时49分 ~ 07时56分]"
-        },
-        {
-          "title": "【年中盘点】最热十大板块梳理：半导体设备与材料领涨 CPO、PCB等科技板块赚钱效应火爆",
-          "url": "https://www.cls.cn/detail/2412980",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 21时05分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨1.41%，报5810.93点。 热门中概股里，百度初步收涨7.5%，小鹏涨5.8%，日月光半导体、网易涨4.3%，金山云涨3.4%，阿里巴巴涨0.6%，理想跌0.9%。 ETF中，中国科技指数ETF（CQQQ）收涨2.25%，中概互联网指数ETF（KWEB）收涨1.50%。 XtrackersHarvest中证50（ASHS）收涨1.22%，德银嘉实沪深300指数ETF（ASHR）收涨1.06%，MSCI新兴市场ex中国ETF（EMXC）收涨0.41%。",
-          "url": "https://wallstreetcn.com/livenews/3126306",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 06时49分]"
-        },
-        {
-          "title": "【每日收评】科创50再度涨近4%，算力硬件股集体反弹，半导体产业链反复活跃",
-          "url": "https://www.cls.cn/detail/2413033",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 21时05分]"
-        },
-        {
-          "title": "A股上半年收官！创业板涨超35%，科创50暴涨64%，算力硬件、芯片半导体全线飙涨",
-          "url": "https://wallstreetcn.com/articles/3775807",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 21时05分]"
-        },
-        {
-          "title": "标普500指数涨超1%，纳指涨超1.7%，纳斯达克100指数涨幅扩大至2%，半导体指数涨3.5%。",
-          "url": "https://wallstreetcn.com/livenews/3126280",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时45分 ~ 05时19分]"
-        },
-        {
-          "title": "标普500指数收涨86.41点，涨幅1.18%，报7440.43点。 道琼斯工业平均指数收涨306.63点，涨幅0.59%，报52182.74点。 纳斯达克综合指数（纳指）收涨522.526点，涨幅2.07%，报25820.144点。 纳斯达克100指数收涨656.513点，涨幅2.26%，报29774.751点。 纳斯达克科技市值加权指数收涨2.33%，报2890.6411点。 费城半导体指数收涨506.09点，涨幅3.83%，报13709.66点。 费城证交所KBW银行指数收涨0.18%，报182.74点。 道琼斯KBW地区银行指数收跌0.69%，报145.21点。 罗素2000指数收涨0.01%，报3010.417点，勉强连续三个交易日创收盘历史新高。 纳斯达克生物科技指数收涨1.28%，报6563.09点，连续六天创收盘历史新高。 标普中盘股400指数收涨0.31%，报3828.08点，时隔一天再创收盘历史新高。 纳斯达克美国中等市值指数涨0.57%，报3813.0588点，继续创收盘历史新高。 恐慌指数VIX收跌4.13%，报17.65，在一波短时冲高回落行情中、北京时间22:15达到19.45。",
-          "url": "https://wallstreetcn.com/livenews/3126308",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        },
-        {
-          "title": "近20家模拟及功率半导体企业开启新一轮涨价 板块有望持续走强",
-          "url": "https://www.cls.cn/detail/2412314",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时50分"
-        },
-        {
-          "title": "半导体供应链现“极限拉扯”：基板厂涨价遭拒 下游以成本回落为由施压",
-          "url": "https://www.cls.cn/detail/2413060",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "纳斯达克100指数收涨超2.2%，半导体指数涨超3.8%，小盘股指、生物科技指数创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3126308",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时49分"
-        },
-        {
-          "title": "港股半导体板块震荡走强，长光辰芯(03277.HK)涨超6%，纳芯微(02676.HK)涨超3%，中芯国际(00981.HK)、上海复旦(01385.HK)等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260630095915071800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "技术刘Pro：黄金呈双筹码峰特征，白银筹码呈单峰分布",
-          "url": "https://flash.jin10.com/detail/20260630203257996800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少45.01吨，当前持仓量为14902.53吨。欢迎点击查看数据中心...",
-          "url": "https://flash.jin10.com/detail/20260630060851094800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时49分"
-        },
-        {
-          "title": "现货白银向上触及59美元/盎司，日内涨1.23%。",
-          "url": "https://flash.jin10.com/detail/20260630143126294800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时50分"
-        },
-        {
-          "title": "大摩Wilson：类比白银，半导体或正在经历最后狂欢",
-          "url": "https://wallstreetcn.com/articles/3775847",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "现货白银短线走高1.3美元，现报58.8美元/盎司，日内涨0.8%。纽约期银日内涨超1.00%，现报59.23美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260630142836312800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.05%，暂报2115.22点。 MarketVectorTM数字资产100中盘指数涨0.25%，报2459.50点。 MarketVector数字资产100指数涨0.58%，报11851.89点。 目前，Solana涨4.53%，狗狗币跌0.23%，XRP涨0.73%。 比特币涨0.71%，暂报59799.70美元；以太坊涨1.21%，暂报1582.95元。",
-          "url": "https://wallstreetcn.com/livenews/3126275",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 03时45分]"
-        },
-        {
-          "title": "周一（6月29日）纽约尾盘，ICE美元指数跌0.24%，报101.112点，日内交投区间为101.394-101.071点，正轨持续走低。 彭博美元指数跌0.13%，报1221.43点，日内交投区间为1223.93-1221.36点。",
-          "url": "https://wallstreetcn.com/livenews/3126297",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 06时49分]"
-        },
-        {
-          "title": "美元指数29日下跌",
-          "url": "https://flash.jin10.com/detail/20260630053044155800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "伊朗总统：若美国遵守协议 伊方也将履行承诺",
-          "url": "https://wallstreetcn.com/livenews/3126690",
+          "title": "城堡证券称散户以创纪录速度抄底美股，6月有望成为交易最活跃月份",
+          "url": "https://wallstreetcn.com/livenews/3126910",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时27分"
+          "time_info": "00时18分"
+        },
+        {
+          "title": "AI热情驱动，美股指走高，太阳能板块普涨，日元创40年新低，金银油齐涨",
+          "url": "https://wallstreetcn.com/articles/3775797",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        },
+        {
+          "title": "大摩警告：美股半导体或迎顶点",
+          "url": "https://www.douyin.com/hot/2553354",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        },
+        {
+          "title": "美股冲击近6年最强季度表现 美伊代表齐赴多哈 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2413394",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "【年中盘点】最热十大板块梳理：半导体设备与材料领涨 CPO、PCB等科技板块赚钱效应火爆",
+          "url": "https://www.cls.cn/detail/2412980",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        },
+        {
+          "title": "半导体供应链现“极限拉扯”：基板厂涨价遭拒 下游以成本回落为由施压",
+          "url": "https://www.cls.cn/detail/2413060",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        },
+        {
+          "title": "A股上半年收官！创业板涨超35%，科创50暴涨64%，算力硬件、芯片半导体全线飙涨",
+          "url": "https://wallstreetcn.com/articles/3775807",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        },
+        {
+          "title": "【每日收评】科创50再度涨近4%，算力硬件股集体反弹，半导体产业链反复活跃",
+          "url": "https://www.cls.cn/detail/2413033",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "据知情人士透露，伊朗革命卫队已告知调解方，如果在多哈会谈中无法获得伊朗对霍尔木兹海峡拥有唯一控制权的保证，将再次关闭这条航道。 革命卫队还要求美国及其他国家放弃让船只经由靠近阿曼一侧海峡南部水域航行的计划。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3126906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
         },
         {
           "title": "凤凰女记者：伊朗对霍尔木兹海峡态度十分强硬，只能美国做出妥协",
           "url": "https://news.ifeng.com/c/8uNZON3SysC",
           "source": "凤凰网",
           "ranks": [
-            7,
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 21时05分]"
-        },
-        {
-          "title": "伊朗：国际原子能机构仍未获准进入受损核设施。 美国在执行谅解备忘录过程中仍存在“重大挑战”。",
-          "url": "https://wallstreetcn.com/livenews/3126775",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时05分"
+          "time_info": "00时18分"
         }
       ]
     },
     {
-      "keyword_group": "存储芯片",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "高盛交易员预警：存储芯片板块面临三大下行风险",
-          "url": "https://wallstreetcn.com/articles/3775760",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时29分 ~ 18时27分]"
-        },
-        {
-          "title": "消息称腾讯与长鑫存储签署 200 多亿元大单，可能带来哪些影响？国产存储芯片开始大规模商业化落地了吗？",
-          "url": "https://www.zhihu.com/question/2054996623214600765",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "专家：国内存储芯片行情大概率没结束",
-          "url": "https://www.toutiao.com/trending/7656972435522080297/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
+      "keyword_group": "金价",
       "match_count": 1,
       "titles": [
         {
-          "title": "周一（6月29日）纽约尾盘，美国10年期国债收益率跌0.20个基点，报4.3666%，日内整体窄幅震荡于4.3646%-4.3882%区间。 两年期美债收益率涨0.62个基点，报4.0983%；30年期美债收益率跌1.28个基点，报4.8513%。 2/10年期美债收益率利差跌0.813个基点，报+26.829个基点。 10年期通胀保值国债（TIPS）收益率跌1.93个基点，至2.1369%；两年期TIPS收益率跌2.12个基点，至2.0932%；30年期TIPS收益率跌1.92个基点，至2.6808%。",
-          "url": "https://wallstreetcn.com/livenews/3126304",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 06时49分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "有色",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "有色金属期货主力合约短线走高，沪锡2608涨幅扩大至1.95%，现报396300元/吨。沪铜2608涨幅扩大至0.47%，现报103100元/吨。沪铝2608日内跌幅收窄至1.91%，现报22585元/吨。沪锌2608涨幅扩大至0.37%，现报24350元/吨。",
-          "url": "https://flash.jin10.com/detail/20260630143449508800",
+          "title": "据总部位于伦敦的独立研究机构官方货币与金融机构论坛（OMFIF）调查，地缘政治风险的上升正推动黄金需求上涨。尽管金价较一年前已飙升逾20%，但表示计划增加黄金投资的央行比例仍创下历史新高。",
+          "url": "https://flash.jin10.com/detail/20260701000005099800",
           "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "大摩Wilson：类比白银，半导体或正在经历最后狂欢",
+          "url": "https://wallstreetcn.com/articles/3775847",
+          "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时50分"
+          "time_info": "00时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储芯片",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "消息称腾讯与长鑫存储签署 200 多亿元大单，可能带来哪些影响？国产存储芯片开始大规模商业化落地了吗？",
+          "url": "https://www.zhihu.com/question/2054996623214600765",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
         }
       ]
     }
