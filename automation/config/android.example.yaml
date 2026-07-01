@@ -1,0 +1,38 @@
+appium:
+  server_url: "http://127.0.0.1:4723"
+  automation_name: "UiAutomator2"
+
+device:
+  platform_name: "Android"
+  device_name: "AndroidDevice"
+  platform_version: "14"
+  udid: "emulator-5554"
+
+app:
+  package: "com.example.zara"
+  activity: ".MainActivity"
+  apk_path: ""
+  no_reset: false
+  full_reset: false
+  auto_grant_permissions: true
+
+framework:
+  implicit_wait_sec: 8
+  explicit_wait_sec: 20
+  screenshot_dir: "automation/output"
+  locators_file: "automation/config/locators.example.yaml"
+  skip_if_example_config: true
+
+accounts:
+  valid_username: ""
+  valid_password: ""
+  invalid_password: "wrong-password"
+  unregistered_username: ""
+
+test_data:
+  search_keyword: "连衣裙"
+  invalid_search_keyword: "xyz123"
+  suggestion_keyword: "牛仔"
+  customer_service_message: "这件衣服有M码吗"
+  product_color: "白色"
+  product_size: "M"

@@ -71,6 +71,36 @@
 </details>
 
 
+## 🤖 安卓自动化测试脚手架
+
+已新增 `/automation` 目录，用于承接 ZARA Android 真机自动化回归框架，按业务模块拆分：
+
+- `automation/tests/test_startup.py`：启动与隐私政策
+- `automation/tests/test_home.py`：首页与轮播图
+- `automation/tests/test_product.py`：商品浏览、SKU、搜索
+- `automation/tests/test_cart.py`：购物车
+- `automation/tests/test_login.py`：登录
+- `automation/tests/test_customer_service.py`：客服
+
+### 使用方式
+
+1. 安装依赖：`pip install -r requirements.txt`
+2. 准备真机与 Appium Server（Android + UiAutomator2）
+3. 复制 `automation/config/android.example.yaml` 为 `automation/config/android.local.yaml`
+4. 按实际包名、Activity、账号、APK 路径、定位信息修改 `android.local.yaml` 与 `locators` 文件
+5. 执行全部模块：`python -m automation.run_tests`
+6. 按模块执行：`python -m automation.run_tests --module startup`
+7. 按用例执行：`python -m automation.run_tests --case TC-LOGIN-01`
+
+### 框架说明
+
+- 共享层：`automation/core`，封装驱动初始化、测试基类、用例元数据
+- 页面层：`automation/pages`，按页面对象模式封装交互动作
+- 配置层：`automation/config`，集中管理真机、账号、定位与测试数据
+- 运行器：`automation/run_tests.py`，支持按模块、按 case id 分块执行
+
+默认示例配置会主动跳过执行，避免误连设备；填入真实参数后即可逐模块落地脚本。
+
 ## ✨ 核心功能
 
 ### **全网热点聚合**

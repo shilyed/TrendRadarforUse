@@ -1,0 +1,110 @@
+startup:
+  splash_logo:
+    by: id
+    value: com.example.zara:id/splash_logo
+  privacy_dialog:
+    by: id
+    value: com.example.zara:id/privacy_dialog
+  privacy_agree_button:
+    by: id
+    value: com.example.zara:id/privacy_agree
+  privacy_reject_button:
+    by: id
+    value: com.example.zara:id/privacy_reject
+
+home:
+  home_tab:
+    by: accessibility_id
+    value: 首页
+  banner:
+    by: id
+    value: com.example.zara:id/home_banner
+  search_entry:
+    by: id
+    value: com.example.zara:id/search_entry
+
+product:
+  menu_category:
+    by: accessibility_id
+    value: MENU
+  product_list:
+    by: id
+    value: com.example.zara:id/product_list
+  first_product_card:
+    by: xpath
+    value: (//*[@resource-id='com.example.zara:id/product_card'])[1]
+  quick_add_button:
+    by: xpath
+    value: (//*[@resource-id='com.example.zara:id/quick_add'])[1]
+  add_to_cart_button:
+    by: id
+    value: com.example.zara:id/add_to_cart
+  color_input:
+    by: id
+    value: com.example.zara:id/color_selector
+  size_input:
+    by: id
+    value: com.example.zara:id/size_selector
+  sku_confirm_button:
+    by: id
+    value: com.example.zara:id/confirm_sku
+  search_input:
+    by: id
+    value: com.example.zara:id/search_input
+  search_submit:
+    by: id
+    value: com.example.zara:id/search_submit
+
+cart:
+  cart_tab:
+    by: accessibility_id
+    value: 购物车
+  first_item_increase:
+    by: xpath
+    value: (//*[@resource-id='com.example.zara:id/cart_item_plus'])[1]
+  first_item_decrease:
+    by: xpath
+    value: (//*[@resource-id='com.example.zara:id/cart_item_minus'])[1]
+  manage_button:
+    by: id
+    value: com.example.zara:id/cart_manage
+  delete_button:
+    by: id
+    value: com.example.zara:id/cart_delete
+  clear_invalid_button:
+    by: id
+    value: com.example.zara:id/cart_clear_invalid
+  total_price:
+    by: id
+    value: com.example.zara:id/cart_total_price
+
+login:
+  profile_tab:
+    by: accessibility_id
+    value: 我的
+  login_entry:
+    by: id
+    value: com.example.zara:id/login_entry
+  username_input:
+    by: id
+    value: com.example.zara:id/username_input
+  password_input:
+    by: id
+    value: com.example.zara:id/password_input
+  password_toggle:
+    by: id
+    value: com.example.zara:id/password_toggle
+  submit_button:
+    by: id
+    value: com.example.zara:id/login_submit
+
+customer_service:
+  entry:
+    by: id
+    value: com.example.zara:id/customer_service_entry
+  message_input:
+    by: id
+    value: com.example.zara:id/customer_service_input
+  send_button:
+    by: id
+    value: com.example.zara:id/customer_service_send
