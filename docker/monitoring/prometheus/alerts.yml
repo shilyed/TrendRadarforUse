@@ -1,0 +1,20 @@
+groups:
+  - name: trendradar-alerts
+    rules:
+      - alert: TrendRadarApiDown
+        expr: probe_success{job="blackbox-trend-radar"} == 0
+        for: 2m
+        labels:
+          severity: critical
+        annotations:
+          summary: TrendRadar API 不可用
+          description: TrendRadar /healthz 连续 2 分钟不可访问。
+
+      - alert: TrendRadarHighErrorRate
+        expr: sum(rate(trendradar_http_requests_total{status=~"5.."}[5m])) / clamp_min(sum(rate(trendradar_http_requests_total[5m])), 0.001) > 0.1
+        for: 5m
+        labels:
+          severity: warning
+        annotations:
+          summary: TrendRadar API 5xx 错误率过高
+          description: 最近 5 分钟 5xx 错误率超过 10%。

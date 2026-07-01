@@ -1,0 +1,97 @@
+services:
+  trend-radar:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    container_name: trend-radar
+    restart: unless-stopped
+    volumes:
+      - ../config:/app/config:ro
+      - ../output:/app/output
+      - ../api:/app/api
+      - ../img:/app/img
+    environment:
+      - TZ=Asia/Shanghai
+      - FEISHU_WEBHOOK_URL=${FEISHU_WEBHOOK_URL:-}
+      - TELEGRAM_BOT_TOKEN=${TELEGRAM_BOT_TOKEN:-}
+      - TELEGRAM_CHAT_ID=${TELEGRAM_CHAT_ID:-}
+      - DINGTALK_WEBHOOK_URL=${DINGTALK_WEBHOOK_URL:-}
+      - WEWORK_WEBHOOK_URL=${WEWORK_WEBHOOK_URL:-}
+      - CRON_SCHEDULE=${CRON_SCHEDULE:-*/5 * * * *}
+      - RUN_MODE=${RUN_MODE:-cron}
+      - IMMEDIATE_RUN=${IMMEDIATE_RUN:-true}
+
+  trend-radar-api:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    container_name: trend-radar-api
+    restart: unless-stopped
+    depends_on:
+      - trend-radar
+    ports:
+      - "5001:5001"
+    volumes:
+      - ../config:/app/config:ro
+      - ../output:/app/output
+      - ../api:/app/api
+      - ../img:/app/img
+    environment:
+      - TZ=Asia/Shanghai
+      - RUN_MODE=api
+      - FEISHU_WEBHOOK_URL=${FEISHU_WEBHOOK_URL:-}
+      - TELEGRAM_BOT_TOKEN=${TELEGRAM_BOT_TOKEN:-}
+      - TELEGRAM_CHAT_ID=${TELEGRAM_CHAT_ID:-}
+      - DINGTALK_WEBHOOK_URL=${DINGTALK_WEBHOOK_URL:-}
+      - WEWORK_WEBHOOK_URL=${WEWORK_WEBHOOK_URL:-}
+    command: ["python", "main.py", "--serve-api"]
+
+  prometheus:
+    image: prom/prometheus:v2.54.1
+    container_name: trend-radar-prometheus
+    restart: unless-stopped
+    ports:
+      - "9090:9090"
+    volumes:
+      - ./monitoring/prometheus/prometheus.yml:/etc/prometheus/prometheus.yml:ro
+      - ./monitoring/prometheus/alerts.yml:/etc/prometheus/alerts.yml:ro
+
+  blackbox-exporter:
+    image: prom/blackbox-exporter:v0.25.0
+    container_name: trend-radar-blackbox
+    restart: unless-stopped
+    ports:
+      - "9115:9115"
+    volumes:
+      - ./monitoring/blackbox/blackbox.yml:/config/blackbox.yml:ro
+    command: ["--config.file=/config/blackbox.yml"]
+
+  node-exporter:
+    image: prom/node-exporter:v1.8.2
+    container_name: trend-radar-node-exporter
+    restart: unless-stopped
+    ports:
+      - "9100:9100"
+    command:
+      - --path.rootfs=/host
+    pid: host
+    volumes:
+      - /:/host:ro,rslave
+
+  grafana:
+    image: grafana/grafana:11.1.5
+    container_name: trend-radar-grafana
+    restart: unless-stopped
+    depends_on:
+      - prometheus
+    ports:
+      - "3000:3000"
+    environment:
+      - GF_SECURITY_ADMIN_USER=${GF_SECURITY_ADMIN_USER:-admin}
+      - GF_SECURITY_ADMIN_PASSWORD=${GF_SECURITY_ADMIN_PASSWORD:-admin}
+      - GF_ALERTING_ENABLED=true
+      - GF_UNIFIED_ALERTING_ENABLED=true
+    volumes:
+      - ./monitoring/grafana/provisioning/datasources:/etc/grafana/provisioning/datasources:ro
+      - ./monitoring/grafana/provisioning/dashboards:/etc/grafana/provisioning/dashboards:ro
+      - ./monitoring/grafana/dashboards:/etc/grafana/provisioning/dashboards/json:ro

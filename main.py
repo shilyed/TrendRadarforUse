@@ -17,11 +17,25 @@ import yaml
 
 # API 功能为可选依赖，尝试导入 Flask
 try:
-    from flask import Flask, jsonify, send_from_directory
+    from flask import Flask, jsonify, send_from_directory, request, g, Response
 
     FLASK_AVAILABLE = True
 except ImportError:
     FLASK_AVAILABLE = False
+
+# 监控功能为可选依赖，尝试导入 Prometheus client
+try:
+    from prometheus_client import (
+        Counter,
+        Histogram,
+        Gauge,
+        CONTENT_TYPE_LATEST,
+        generate_latest,
+    )
+
+    PROMETHEUS_AVAILABLE = True
+except ImportError:
+    PROMETHEUS_AVAILABLE = False
 
 # 截图功能为可选依赖，尝试导入 Playwright
 try:
@@ -33,6 +47,13 @@ except ImportError:
 
 
 VERSION = "2.2.0"
+
+TRENDRADAR_HTTP_REQUESTS_TOTAL = None
+TRENDRADAR_HTTP_REQUEST_DURATION_SECONDS = None
+TRENDRADAR_LAST_TOTAL_TITLES = None
+TRENDRADAR_LAST_KEYWORD_GROUPS = None
+TRENDRADAR_LAST_FAILED_SOURCES = None
+TRENDRADAR_LAST_GENERATED_TIMESTAMP = None
 
 
 # === 配置管理 ===
@@ -144,6 +165,35 @@ print("正在加载配置...")
 CONFIG = load_config()
 print(f"TrendRadar v{VERSION} 配置加载完成")
 print(f"监控平台数量: {len(CONFIG['PLATFORMS'])}")
+
+if PROMETHEUS_AVAILABLE:
+    TRENDRADAR_HTTP_REQUESTS_TOTAL = Counter(
+        "trendradar_http_requests_total",
+        "TrendRadar API 请求总数",
+        ["path", "method", "status"],
+    )
+    TRENDRADAR_HTTP_REQUEST_DURATION_SECONDS = Histogram(
+        "trendradar_http_request_duration_seconds",
+        "TrendRadar API 请求耗时分布",
+        ["path", "method"],
+        buckets=(0.05, 0.1, 0.3, 0.5, 1, 3, 5, 10, 30, 60),
+    )
+    TRENDRADAR_LAST_TOTAL_TITLES = Gauge(
+        "trendradar_last_total_titles_processed",
+        "TrendRadar 最近一次生成时处理的标题总数",
+    )
+    TRENDRADAR_LAST_KEYWORD_GROUPS = Gauge(
+        "trendradar_last_keyword_groups",
+        "TrendRadar 最近一次生成时匹配到的关键词组数量",
+    )
+    TRENDRADAR_LAST_FAILED_SOURCES = Gauge(
+        "trendradar_last_failed_sources",
+        "TrendRadar 最近一次生成时失败数据源数量",
+    )
+    TRENDRADAR_LAST_GENERATED_TIMESTAMP = Gauge(
+        "trendradar_last_generated_timestamp",
+        "TrendRadar 最近一次生成时间戳（秒）",
+    )
 
 
 # === 新增功能：网页截图 ===
@@ -3608,12 +3658,54 @@ def generate_static_api_files(analyzer: "NewsAnalyzer"):
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(api_data, f, ensure_ascii=False, indent=2)
 
+    if PROMETHEUS_AVAILABLE:
+        TRENDRADAR_LAST_TOTAL_TITLES.set(total_titles)
+        TRENDRADAR_LAST_KEYWORD_GROUPS.set(len(api_data.get("trends", [])))
+        TRENDRADAR_LAST_FAILED_SOURCES.set(len(failed_ids))
+        TRENDRADAR_LAST_GENERATED_TIMESTAMP.set(time.time())
+
     print(f"静态API文件已成功生成: {output_path}")
 
 
 # --- Flask App (如果已安装) ---
 if FLASK_AVAILABLE:
     app = Flask(__name__)
+
+    @app.before_request
+    def _before_request():
+        g.request_start_time = time.perf_counter()
+
+    @app.after_request
+    def _after_request(response):
+        if PROMETHEUS_AVAILABLE and TRENDRADAR_HTTP_REQUESTS_TOTAL:
+            path = request.path
+            method = request.method
+            status = str(response.status_code)
+            TRENDRADAR_HTTP_REQUESTS_TOTAL.labels(path=path, method=method, status=status).inc()
+
+            if TRENDRADAR_HTTP_REQUEST_DURATION_SECONDS and hasattr(g, "request_start_time"):
+                duration = max(time.perf_counter() - g.request_start_time, 0)
+                TRENDRADAR_HTTP_REQUEST_DURATION_SECONDS.labels(path=path, method=method).observe(duration)
+        return response
+
+    @app.route('/healthz')
+    def healthz():
+        """健康检查接口"""
+        return jsonify(
+            {
+                "status": "ok",
+                "service": "trendradar-api",
+                "version": VERSION,
+                "time": get_beijing_time().isoformat(),
+            }
+        )
+
+    @app.route('/metrics')
+    def metrics():
+        """Prometheus 指标暴露接口"""
+        if not PROMETHEUS_AVAILABLE:
+            return jsonify({"error": "prometheus_client 未安装"}), 503
+        return Response(generate_latest(), mimetype=CONTENT_TYPE_LATEST)
 
     @app.route('/api/trends.json')
     @app.route('/api/trends')

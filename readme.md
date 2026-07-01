@@ -714,6 +714,69 @@ platforms:
    ```
 </details>
 
+<details>
+<summary><strong>👉 Grafana 监控看板（Prometheus + 告警）</strong></summary>
+
+### 📌 1) 明确目标与展示粒度
+
+建议先聚焦这 5 个核心指标：
+- 访问量：`trendradar_http_requests_total`
+- 错误率：`status=5xx`
+- 接口耗时：`trendradar_http_request_duration_seconds`
+- 服务器 CPU：`node_cpu_seconds_total`
+- 服务器内存：`node_memory_MemAvailable_bytes`
+
+默认看板已按 **业务指标 / 系统指标** 分组，刷新频率 30 秒，时间范围最近 6 小时。
+
+### 📌 2) 启动监控栈
+
+在 `docker` 目录执行：
+
+```bash
+cd docker
+docker compose -f docker-compose.monitoring.yml up -d
+```
+
+服务说明：
+- `trend-radar-api`：提供 `/api/trends`、`/healthz`、`/metrics`
+- `prometheus`：采集 TrendRadar、Blackbox、Node Exporter 指标
+- `grafana`：自动加载数据源和看板
+- `blackbox-exporter`：探测 API 可用性与延迟
+- `node-exporter`：采集主机 CPU/内存
+
+### 📌 3) 访问看板
+
+- Grafana: `http://localhost:3000`
+- 默认账号: `admin`
+- 默认密码: `admin`（可通过 `.env` 配置 `GF_SECURITY_ADMIN_PASSWORD`）
+- 预置看板: **TrendRadar / TrendRadar 监控总览**
+
+### 📌 4) 已内置面板（对应建议骨架）
+
+- 总览指标：访问量、错误率、P95 耗时、可用性
+- 趋势图：按路径请求趋势、健康检查延迟
+- 系统指标：CPU 使用率、内存使用率
+
+### 📌 5) 告警与分享
+
+预置 Prometheus 告警规则：
+- `TrendRadarApiDown`：`/healthz` 连续 2 分钟不可用
+- `TrendRadarHighErrorRate`：5 分钟内 5xx 错误率 > 10%
+
+看板 JSON 位于：
+- `docker/monitoring/grafana/dashboards/trendradar-observability.json`
+
+可直接导出/版本化此 JSON 进行团队共享和回滚。
+
+### 📌 6) 持续迭代建议
+
+每周复盘一次：
+- 删除低价值面板
+- 按团队角色拆分总览页/明细页
+- 对高价值指标补充更精细告警阈值
+
+</details>
+
 ## ☕ 学习交流与1元点赞
 
 > 心意到就行，收到的点赞用于提高开发者开源的积极性
