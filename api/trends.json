@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T16:13:02.340720+08:00",
-  "total_titles_processed": 991,
+  "generated_at": "2026-07-06T20:39:03.383106+08:00",
+  "total_titles_processed": 1194,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
@@ -50,8 +50,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时42分 ~ 16时13分]"
+          "appearance_count": 6,
+          "time_info": "[11时42分 ~ 20时39分]"
         },
         {
           "title": "一图看懂｜宣布关税后大量交易，特朗普账户如何“精准”炒股",
@@ -246,6 +246,17 @@
           "time_info": "[02时02分 ~ 04时08分]"
         },
         {
+          "title": "民调：多数美国人认为特朗普在伊朗战争中得不偿失 拖累中期选举",
+          "url": "https://www.cls.cn/detail/2417917",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时38分 ~ 20时39分]"
+        },
+        {
           "title": "特朗普再次呼吁废除“冗长辩论”机制",
           "url": "https://flash.jin10.com/detail/20260706022746976800",
           "source": "金十数据",
@@ -358,13 +369,24 @@
           "time_info": "00时59分"
         },
         {
+          "title": "以色列总理内塔尼亚胡：特朗普和我在很多事情上看法一致。 我与特朗普的关系“没问题”。 尚未确定访美日期。",
+          "url": "https://wallstreetcn.com/livenews/3129367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
           "title": "今年是美国独立250周年，外交部：习近平主席向特朗普总统致电表达了祝贺",
           "url": "https://flash.jin10.com/detail/20260706151838369800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
         },
@@ -383,7 +405,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "精准预测“美股动量股”暴跌后，高盛看到“逢低买入”的迹象",
@@ -414,11 +436,24 @@
           "url": "https://wallstreetcn.com/articles/3776130",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时42分 ~ 20时39分]"
+        },
+        {
+          "title": "美股史上最大规模海外公司首次募资！“存储巨头”SK海力士本周五登陆纳斯达克",
+          "url": "https://wallstreetcn.com/articles/3776235",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时42分 ~ 16时13分]"
+          "time_info": "[16时12分 ~ 20时39分]"
         },
         {
           "title": "美股盘前，大型科技股普涨，美光科技涨超3%，闪迪涨超5%，英特尔涨超2%。",
@@ -427,7 +462,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
         },
@@ -443,17 +478,6 @@
           "time_info": "08时01分"
         },
         {
-          "title": "美股史上最大规模海外公司首次募资！“存储巨头”SK海力士本周五登陆纳斯达克",
-          "url": "https://wallstreetcn.com/articles/3776235",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时12分 ~ 16时13分]"
-        },
-        {
           "title": "环球下周看点：美联储会议纪要来袭 美股二季报大幕开启",
           "url": "https://www.cls.cn/detail/2417191",
           "source": "财联社热门",
@@ -463,6 +487,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时00分 ~ 08时01分]"
+        },
+        {
+          "title": "博通美股盘前一度涨超5%，报道称博通与苹果同意将技术合作扩展至2031年，博通将为苹果开发定制ASIC芯片产品。",
+          "url": "https://wallstreetcn.com/livenews/3129383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
         },
         {
           "title": "美股期货涨幅收窄，标普500指数期货现涨0.2%。",
@@ -476,6 +511,17 @@
           "time_info": "11时43分"
         },
         {
+          "title": "博通(AVGO.O)美股盘前拉升，现涨超4%。",
+          "url": "https://flash.jin10.com/detail/20260706200753107800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
           "title": "警惕7月变盘！美股或遭剧烈“洗牌”，风格轮动要来了？",
           "url": "https://flash.jin10.com/detail/20260706110105825800",
           "source": "金十数据",
@@ -485,6 +531,79 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "现货白银站上63美元/盎司，日内涨1.03%。",
+          "url": "https://flash.jin10.com/detail/20260706062940266800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时55分 ~ 08时01分]"
+        },
+        {
+          "title": "金十图示：2026年07月06日（周一）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260706065533294800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 7月6日（周一）收盘下跌0.0%报907.0元/克；<br/>上海黄金交易所白银T+D 7月6日（周一）收盘下跌0.07%报15082.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260706153019874800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时13分"
+        },
+        {
+          "title": "技术刘Pro：国际现货黄金正构筑起跳平台，白银或保持...区间震荡",
+          "url": "https://flash.jin10.com/detail/20260706201958492800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
+          "title": "A股贵金属板块再度走强，白银有色、中金岭南、湖南白银触及涨停，山金国际、赤峰黄金、西部黄金、中金黄金涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3129093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时43分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 7月6日（周一）晚盘盘初下跌0.0%报907.0元/克；<br/>上海黄金交易所白银T+D 7月6日（周一）晚盘盘初上涨0.19%报15150.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260706200038119800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
         }
       ]
     },
@@ -553,57 +672,6 @@
       ]
     },
     {
-      "keyword_group": "白银",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "现货白银站上63美元/盎司，日内涨1.03%。",
-          "url": "https://flash.jin10.com/detail/20260706062940266800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时55分 ~ 08时01分]"
-        },
-        {
-          "title": "金十图示：2026年07月06日（周一）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260706065533294800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 7月6日（周一）收盘下跌0.0%报907.0元/克；<br/>上海黄金交易所白银T+D 7月6日（周一）收盘下跌0.07%报15082.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260706153019874800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时13分"
-        },
-        {
-          "title": "A股贵金属板块再度走强，白银有色、中金岭南、湖南白银触及涨停，山金国际、赤峰黄金、西部黄金、中金黄金涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3129093",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        }
-      ]
-    },
-    {
       "keyword_group": "存储芯片",
       "match_count": 2,
       "titles": [
@@ -612,11 +680,12 @@
           "url": "https://www.cls.cn/detail/2417818",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时12分 ~ 16时13分]"
+          "appearance_count": 4,
+          "time_info": "[16时12分 ~ 20时39分]"
         },
         {
           "title": "创业板指探底回升，跌幅收窄至1%以内，此前一度跌超2.8%，深证成指现跌0.68%，沪指跌0.23%，存储芯片板块拉升。",
@@ -642,7 +711,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
         }
