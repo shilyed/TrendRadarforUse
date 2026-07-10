@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T10:06:12.133050+08:00",
-  "total_titles_processed": 737,
+  "generated_at": "2026-07-10T14:36:55.436337+08:00",
+  "total_titles_processed": 949,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
@@ -29,17 +29,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时13分 ~ 10时06分]"
-        },
-        {
-          "title": "特朗普称“日本导弹”打美国航母，白宫回应",
-          "url": "https://news.ifeng.com/c/8udg4food2U",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时05分 ~ 10时06分]"
         },
         {
           "title": "特朗普：伊朗这件事上，中国赢得了美国的尊重",
@@ -75,6 +64,18 @@
           "time_info": "[01时13分 ~ 07时04分]"
         },
         {
+          "title": "特朗普称“日本导弹”打美国航母，白宫回应",
+          "url": "https://news.ifeng.com/c/8udg4food2U",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时05分 ~ 14时36分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基：与美国总统特朗普详细讨论了爱国者导弹生产的许可证问题。",
           "url": "https://flash.jin10.com/detail/20260710010810950800",
           "source": "金十数据",
@@ -102,11 +103,12 @@
           "url": "https://news.ifeng.com/c/8udchHV60GP",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时05分 ~ 10时06分]"
+          "appearance_count": 3,
+          "time_info": "[10时05分 ~ 14时36分]"
         },
         {
           "title": "特朗普松口了，美媒：泽连斯基但不能高兴太早",
@@ -151,6 +153,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "特朗普“把自己困住了”，陷入两难",
+          "url": "https://news.ifeng.com/c/8uddEUs34xh",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         },
         {
           "title": "以色列总理办公室：美国总统特朗普通报美方在海湾地区的行动。",
@@ -237,6 +250,28 @@
           "time_info": "[01时13分 ~ 07时04分]"
         },
         {
+          "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
+          "url": "https://wallstreetcn.com/articles/3776523",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时05分 ~ 14时36分]"
+        },
+        {
+          "title": "【早报】美股贵金属、存储股集体爆发；油价下挫，黄金走强；兆易创新、工业富联等业绩预计倍增；法国成首支四强球队",
+          "url": "https://www.cls.cn/detail/2422278",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时05分 ~ 14时36分]"
+        },
+        {
           "title": "美股期指上涨 纳指期货涨近1% 芯片股盘前集体走强 | 今夜看点",
           "url": "https://www.cls.cn/detail/2422043",
           "source": "财联社热门",
@@ -261,28 +296,6 @@
           "time_info": "[01时13分 ~ 05时15分]"
         },
         {
-          "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
-          "url": "https://wallstreetcn.com/articles/3776523",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时05分 ~ 10时06分]"
-        },
-        {
-          "title": "【早报】美股贵金属、存储股集体爆发；油价下挫，黄金走强；兆易创新、工业富联等业绩预计倍增；法国成首支四强球队",
-          "url": "https://www.cls.cn/detail/2422278",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时05分 ~ 10时06分]"
-        },
-        {
           "title": "芯片股领涨提振美股，油价下跌令市场暂时搁置地缘风险，黄金加密货币反弹",
           "url": "https://wallstreetcn.com/articles/3776523",
           "source": "华尔街见闻",
@@ -302,8 +315,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时04分 ~ 10时06分]"
+          "appearance_count": 4,
+          "time_info": "[07时04分 ~ 14时36分]"
         },
         {
           "title": "美股大类资产类ETF多数收涨，纳指ETF涨超1.6%、与小盘股ETF、黄金ETF领跑",
@@ -397,7 +410,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "半导体行业两大催化共振 科创50创今年最大单日涨幅",
@@ -412,6 +425,17 @@
           "time_info": "[01时13分 ~ 07时04分]"
         },
         {
+          "title": "【数读IPO】今日1申购2上市，涉及半导体零部件龙头等",
+          "url": "https://www.cls.cn/detail/2422276",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时05分 ~ 14时36分]"
+        },
+        {
           "title": "股价首破400元，成交额同步登顶！半导体龙头续创新高，这些股也刷出成交纪录",
           "url": "https://www.cls.cn/detail/2421765",
           "source": "财联社热门",
@@ -421,17 +445,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时13分 ~ 07时04分]"
-        },
-        {
-          "title": "【数读IPO】今日1申购2上市，涉及半导体零部件龙头等",
-          "url": "https://www.cls.cn/detail/2422276",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时05分 ~ 10时06分]"
         },
         {
           "title": "拐点已至！长鑫IPO或引爆国产半导体Capex新周期",
@@ -457,6 +470,17 @@
           "time_info": "[01时13分 ~ 03时25分]"
         },
         {
+          "title": "创业板指跌超3%，沪指跌0.39%，深成指跌1.28%，半导体芯片、培育钻石、证券、锂矿等方向跌幅居前，沪深京三市下跌个股近1600只。",
+          "url": "https://wallstreetcn.com/livenews/3131781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收涨0.56%，报6134.98点。 热门中概股里，日月光半导体涨8.6%，阿里巴巴涨2%，拼多多涨1.2%，网易涨0.2%，腾讯跌1.8%，小鹏、比亚迪、蔚来跌超2%。 ETF中，中国科技指数ETF（CQQQ）收涨4.38%，中概互联网指数ETF（KWEB）收涨0.27%。 XtrackersHarvest中证50（ASHS）收涨4.26%，德银嘉实沪深300指数ETF（ASHR）收涨2.99%，MSCI新兴市场ex中国ETF（EMXC）收涨0.77%。",
           "url": "https://wallstreetcn.com/livenews/3131532",
           "source": "华尔街见闻-快讯",
@@ -466,6 +490,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "创业板指午后跌超2%，科创50指数跌2%，电子化学品、半导体、培育钻石、证券板块跌幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3131771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         },
         {
           "title": "标普500指数收涨60.93点，涨幅0.81%，报7543.64点。 道琼斯工业平均指数收涨139.02点，涨幅0.27%，报52487.41点。 纳斯达克综合指数（纳指）收涨336.238点，涨幅1.30%，报26206.89点。 纳斯达克100指数收涨474.535点，涨幅1.62%，报29727.097点。 纳斯达克科技市值加权指数收涨1.74%，报2939.4248点。 费城半导体指数收涨385.036点，涨幅3.06%，报12960.003点。 费城证交所KBW银行指数收涨1.93%，报186.26点。 道琼斯KBW地区银行指数收涨1.66%，报145.18点。 罗素2000指数收涨1.22%，报2992.541点。 纳斯达克生物科技指数收涨0.39%，报6818.99点。 标普中盘股400指数收涨1.24%，纳斯达克美国中等市值指数涨1.08%。 恐慌指数VIX收跌6.27%，报15.84。",
