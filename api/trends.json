@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T04:56:05.222541+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2026-07-12T05:41:49.677610+08:00",
+  "total_titles_processed": 400,
   "failed_sources": [],
   "trends": [
     {
@@ -8,22 +8,23 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "美股处于“极度脆弱”的时候，财报季开启了",
+          "url": "https://wallstreetcn.com/articles/3776694",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 05时41分]"
+        },
+        {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
           "url": "https://wallstreetcn.com/articles/3776680",
           "source": "华尔街见闻",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 04时56分]"
-        },
-        {
-          "title": "美股处于“极度脆弱”的时候，财报季开启了",
-          "url": "https://wallstreetcn.com/articles/3776694",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -38,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 04时56分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 05时41分]"
         },
         {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
@@ -50,8 +51,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 04时56分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 05时41分]"
         },
         {
           "title": "美股涨势背后存在隐忧 数据显示市场内部广度正在收窄",
@@ -60,9 +61,78 @@
           "ranks": [
             4
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时56分 ~ 05时41分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "特朗普：1000枚导弹已瞄准伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33565148",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 05时41分]"
+        },
+        {
+          "title": "特朗普给了泽连斯基一个重要承诺，舆论泼冷水",
+          "url": "https://news.ifeng.com/c/8ufglrDUNWy",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 05时41分]"
+        },
+        {
+          "title": "特朗普在北约峰会说了什么",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E5%8C%97%E7%BA%A6%E5%B3%B0%E4%BC%9A%E8%AF%B4%E4%BA%86%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            24,
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 05时41分]"
+        },
+        {
+          "title": "美国总统特朗普：我刚在沃尔特·里德医院完成了一次完美的体检。我每六个月做一次体检，此外，我还要求了另一项认知测试，我是唯一一位这样做的总统，三次测试我都通过了——每个问题都答对了。",
+          "url": "https://flash.jin10.com/detail/20260712002717195800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            5,
+            12,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 05时41分]"
+        },
+        {
+          "title": "伊朗最高领袖称将报复美以，特朗普：1000枚导弹已瞄准伊朗",
+          "url": "https://wallstreetcn.com/articles/3776705",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时56分"
+          "time_info": "05时41分"
         }
       ]
     },
@@ -78,8 +148,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 04时56分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 05时41分]"
         },
         {
           "title": "据伊朗Press TV：一位伊朗高级情报消息人士称，美国正在对伊朗展开一场协调一致的施压、威胁和媒体虚假信息宣传行动。",
@@ -93,8 +163,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 04时56分]"
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 05时41分]"
         },
         {
           "title": "美官员称美国团队未前往阿曼参加与伊朗的谈判",
@@ -103,9 +173,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时56分 ~ 05时41分]"
         },
         {
           "title": "伊朗消息人士：美国不放弃现有立场就“免谈”",
@@ -116,8 +186,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 04时56分]"
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 05时41分]"
         },
         {
           "title": "美国驻以色列大使：以色列已通知我们有关伊朗策划刺杀美国总统一事。伊朗的威胁并不新鲜，其行为也没有改变。我们没有看到伊朗存在温和派的真实证据。",
@@ -129,66 +199,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时48分 ~ 04时56分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "特朗普：1000枚导弹已瞄准伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33565148",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 04时56分]"
-        },
-        {
-          "title": "特朗普给了泽连斯基一个重要承诺，舆论泼冷水",
-          "url": "https://news.ifeng.com/c/8ufglrDUNWy",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 04时56分]"
-        },
-        {
-          "title": "特朗普在北约峰会说了什么",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E5%8C%97%E7%BA%A6%E5%B3%B0%E4%BC%9A%E8%AF%B4%E4%BA%86%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            24,
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 04时56分]"
-        },
-        {
-          "title": "美国总统特朗普：我刚在沃尔特·里德医院完成了一次完美的体检。我每六个月做一次体检，此外，我还要求了另一项认知测试，我是唯一一位这样做的总统，三次测试我都通过了——每个问题都答对了。",
-          "url": "https://flash.jin10.com/detail/20260712002717195800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            5,
-            12,
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 04时56分]"
+          "appearance_count": 4,
+          "time_info": "[02时48分 ~ 05时41分]"
         }
       ]
     },
@@ -216,8 +228,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 04时56分]"
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 05时41分]"
         }
       ]
     },
@@ -231,11 +243,12 @@
           "source": "今日头条",
           "ranks": [
             29,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时01分 ~ 04时56分]"
+          "appearance_count": 5,
+          "time_info": "[04时01分 ~ 05时41分]"
         }
       ]
     }
