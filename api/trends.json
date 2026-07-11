@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T19:48:04.741690+08:00",
-  "total_titles_processed": 1323,
+  "generated_at": "2026-07-11T20:59:50.644185+08:00",
+  "total_titles_processed": 1396,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普搞中国那套，拿来对付西班牙？",
@@ -28,8 +28,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时09分 ~ 19时48分]"
+          "appearance_count": 6,
+          "time_info": "[15时09分 ~ 20时59分]"
+        },
+        {
+          "title": "特朗普：1000枚导弹已瞄准伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33565148",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时09分 ~ 20时59分]"
         },
         {
           "title": "特朗普称将授权乌克兰本土生产“爱国者”导弹，专家：只是画大饼",
@@ -44,18 +56,6 @@
           "time_info": "[00时16分 ~ 12时57分]"
         },
         {
-          "title": "特朗普：1000枚导弹已瞄准伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33565148",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时09分 ~ 19时48分]"
-        },
-        {
           "title": "美国总统特朗普与沙特王储讨论伊朗问题。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3132269",
           "source": "华尔街见闻-快讯",
@@ -66,6 +66,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时53分 ~ 10时11分]"
+        },
+        {
+          "title": "特朗普改口：美加跨国大桥将于27日通车",
+          "url": "https://wallstreetcn.com/livenews/3132331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            9,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时19分 ~ 20时59分]"
         },
         {
           "title": "特朗普：伊朗要求继续谈判 美已同意",
@@ -79,19 +93,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时18分 ~ 07时52分]"
-        },
-        {
-          "title": "特朗普改口：美加跨国大桥将于27日通车",
-          "url": "https://wallstreetcn.com/livenews/3132331",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时19分 ~ 19时48分]"
         },
         {
           "title": "美国总统特朗普：原来的那份协议我无法接受！新协议很棒，也很公平。感谢加拿大政府，并祝贺他们。愿我们两国在这一精彩的新工程上共同取得多年成功！！",
@@ -201,6 +202,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时57分 ~ 15时09分]"
+        },
+        {
+          "title": "特朗普在北约峰会说了什么",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E5%8C%97%E7%BA%A6%E5%B3%B0%E4%BC%9A%E8%AF%B4%E4%BA%86%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "白宫证实特朗普已“清空”美选举援助委员会",
@@ -337,8 +349,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时57分 ~ 19时48分]"
+          "appearance_count": 4,
+          "time_info": "[18时57分 ~ 20时59分]"
         },
         {
           "title": "据Axios：一位美国官员表示，“如果明天他们（伊朗）不作出相关表态，那明天对他们来说可不会是个好日子。”",
@@ -373,11 +385,12 @@
           "ranks": [
             2,
             7,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时19分 ~ 19时48分]"
+          "appearance_count": 4,
+          "time_info": "[17时19分 ~ 20时59分]"
         },
         {
           "title": "美国高级官员：预计伊朗将宣布霍尔木兹海峡免征通行费，并承诺不向船只开火。",
@@ -480,11 +493,12 @@
           "url": "https://wallstreetcn.com/livenews/3132342",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时48分 ~ 20时59分]"
         },
         {
           "title": "消息人士：美国、伊朗、巴基斯坦与卡塔尔将举行四方通话",
@@ -614,21 +628,6 @@
       "match_count": 15,
       "titles": [
         {
-          "title": "万众瞩目！SK海力士今晚美股首秀 首日表现牵动全球存储板块走向",
-          "url": "https://www.cls.cn/detail/2423160",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 19时48分]"
-        },
-        {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
           "url": "https://wallstreetcn.com/articles/3776680",
           "source": "华尔街见闻",
@@ -640,8 +639,39 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时53分 ~ 20时59分]"
+        },
+        {
+          "title": "万众瞩目！SK海力士今晚美股首秀 首日表现牵动全球存储板块走向",
+          "url": "https://www.cls.cn/detail/2423160",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            6,
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时16分 ~ 20时59分]"
+        },
+        {
+          "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
+          "url": "https://www.cls.cn/detail/2423438",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[06时53分 ~ 19时48分]"
+          "time_info": "[07时52分 ~ 20时59分]"
         },
         {
           "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
@@ -654,20 +684,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时16分 ~ 07时52分]"
-        },
-        {
-          "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
-          "url": "https://www.cls.cn/detail/2423438",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时52分 ~ 19时48分]"
         },
         {
           "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
@@ -696,8 +712,22 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 19时48分]"
+          "appearance_count": 14,
+          "time_info": "[00时16分 ~ 20时59分]"
+        },
+        {
+          "title": "美股处于“极度脆弱”的时候，财报季开启了",
+          "url": "https://wallstreetcn.com/articles/3776694",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时09分 ~ 20时59分]"
         },
         {
           "title": "SK海力士首日开盘价170美元，美股指盘中涨跌互现，英伟达涨超3%，布油跌超1%",
@@ -711,19 +741,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时16分 ~ 05时53分]"
-        },
-        {
-          "title": "美股处于“极度脆弱”的时候，财报季开启了",
-          "url": "https://wallstreetcn.com/articles/3776694",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时09分 ~ 19时48分]"
         },
         {
           "title": "AI叙事助美股三连阳，SK海力士ADR首日大涨13%，布油冲高转跌，黄金走V仍收跌",
@@ -909,6 +926,70 @@
       ]
     },
     {
+      "keyword_group": "存储芯片",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "SK海力士CEO：2027年将迎来史上最严重存储芯片短缺，供不应求或持续至2030年后",
+          "url": "https://wallstreetcn.com/articles/3776685",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时57分 ~ 20时59分]"
+        },
+        {
+          "title": "SK海力士CEO Kwak Noh-Jung：存储芯片供应短缺可能会持续至2030年之后。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3132206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "存储芯片股过去数周跌超20% 底层逻辑面临重估",
+          "url": "https://wallstreetcn.com/livenews/3132353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "存储芯片股过去数周跌超20% 底层逻辑面临重估",
+          "url": "https://flash.jin10.com/detail/20260711200334609800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "SK海力士首席执行官预计存储芯片短缺将持续到下一个十年",
+          "url": "https://wallstreetcn.com/livenews/3132206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "白银",
       "match_count": 3,
       "titles": [
@@ -946,48 +1027,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储芯片",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "SK海力士CEO：2027年将迎来史上最严重存储芯片短缺，供不应求或持续至2030年后",
-          "url": "https://wallstreetcn.com/articles/3776685",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时57分 ~ 19时48分]"
-        },
-        {
-          "title": "SK海力士CEO Kwak Noh-Jung：存储芯片供应短缺可能会持续至2030年之后。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/3132206",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "SK海力士首席执行官预计存储芯片短缺将持续到下一个十年",
-          "url": "https://wallstreetcn.com/livenews/3132206",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时16分"
         }
       ]
     },
