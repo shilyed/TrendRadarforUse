@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T18:20:19.411412+08:00",
-  "total_titles_processed": 1034,
+  "generated_at": "2026-07-12T19:52:47.855124+08:00",
+  "total_titles_processed": 1132,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "美国被曝已向伊朗下最后通牒，要求必须做出一项承诺",
@@ -97,6 +97,17 @@
           "time_info": "09时55分"
         },
         {
+          "title": "伊朗军方发言人：霍尔木兹海峡管理权在伊朗，美国强加航线违反备忘录",
+          "url": "https://flash.jin10.com/detail/20260712193152672800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
           "title": "伊朗打击美国在中东地区目标",
           "url": "https://m.thepaper.cn/newsDetail_forward_33569534",
           "source": "澎湃新闻",
@@ -104,8 +115,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时20分 ~ 18时20分]"
+          "appearance_count": 5,
+          "time_info": "[13时20分 ~ 19时52分]"
         },
         {
           "title": "伊朗打击美国在中东地区目标",
@@ -245,7 +256,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普：1000枚导弹已瞄准伊朗",
@@ -355,7 +366,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -371,15 +382,27 @@
           "time_info": "16时03分"
         },
         {
-          "title": "委内瑞拉代总统成傀儡？采访要特朗普批，发文要鲁比奥审",
-          "url": "https://news.ifeng.com/c/8uhQRko1ti1",
+          "title": "特朗普立下数千枚导弹“报复遗嘱”，万斯可以不听吗？",
+          "url": "https://news.ifeng.com/c/8uheASr3DB8",
           "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时20分"
+          "time_info": "19时52分"
+        },
+        {
+          "title": "委内瑞拉代总统成傀儡？采访要特朗普批，发文要鲁比奥审",
+          "url": "https://news.ifeng.com/c/8uhQRko1ti1",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 19时52分]"
         },
         {
           "title": "美国总统特朗普：参议员林赛·格雷厄姆，我所认识的最伟大的人和参议员之一，去世了！他总是勤勉工作，是一位真正的美国爱国者。林赛将被深深怀念！！！后续将公布更多细节和安排。太令人悲痛了！",
@@ -388,7 +411,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -421,7 +444,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -432,7 +455,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         }
@@ -476,8 +499,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时45分 ~ 18时20分]"
+          "appearance_count": 17,
+          "time_info": "[00时45分 ~ 19时52分]"
         },
         {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
@@ -510,6 +533,20 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "全球存储扩产+海外设备供应告急，国产半导体设备迎“超级时代”",
+          "url": "https://wallstreetcn.com/articles/3776714",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时20分 ~ 19时52分]"
+        },
+        {
           "title": "荷兰为何急着解决安世半导体问题",
           "url": "https://www.toutiao.com/trending/7661180211047697966/",
           "source": "今日头条",
@@ -521,19 +558,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时01分 ~ 05时41分]"
-        },
-        {
-          "title": "全球存储扩产+海外设备供应告急，国产半导体设备迎“超级时代”",
-          "url": "https://wallstreetcn.com/articles/3776714",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时20分 ~ 18时20分]"
         }
       ]
     },
@@ -578,7 +602,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         }
