@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T16:53:14.733696+08:00",
-  "total_titles_processed": 1050,
+  "generated_at": "2026-07-13T19:54:25.573055+08:00",
+  "total_titles_processed": 1226,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
         {
           "title": "伊朗打击美国在中东地区目标",
@@ -39,7 +39,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -153,6 +153,17 @@
           "time_info": "07时45分"
         },
         {
+          "title": "美国中央司令部：美军并未袭击伊朗哈尔克岛。",
+          "url": "https://wallstreetcn.com/livenews/3132871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
           "title": "据CNN：美国中央司令部发言人霍金斯上尉表示，在过去一小时内，伊朗革命卫队向通过霍尔木兹海峡的商船开火。截至目前，美军飞机已成功击落一枚伊朗巡航导弹和一架单向攻击无人机。",
           "url": "https://flash.jin10.com/detail/20260713055814899800",
           "source": "金十数据",
@@ -170,9 +181,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
+        },
+        {
+          "title": "伊朗电视台称，霍尔木兹海峡将继续关闭，直到美国停止干涉。",
+          "url": "https://wallstreetcn.com/livenews/3132853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
+          "title": "伊朗称美国袭击了阿巴丹市，造成一人受伤。（塔斯尼姆通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3132852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         },
         {
           "title": "伊朗革命卫队：摧毁两台部署至科威特的美国海马斯火箭炮发射系统。",
@@ -203,9 +236,31 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
+        },
+        {
+          "title": "伊朗：局势升级直接责任在美国 外交努力仍在继续",
+          "url": "https://wallstreetcn.com/livenews/3132842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
+          "title": "美国中央司令部：美军未对伊朗哈尔克岛发动打击。",
+          "url": "https://flash.jin10.com/detail/20260713190611950800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         },
         {
           "title": "伊朗外交部：与美国的谅解备忘录已进入“危机”阶段",
@@ -214,7 +269,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         }
@@ -236,6 +291,17 @@
           "time_info": "[00时50分 ~ 07时45分]"
         },
         {
+          "title": "特朗普：伊朗违背承诺，刚谈完不到一小时就袭击商船",
+          "url": "https://news.ifeng.com/c/8uidsBIJWO9",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时57分 ~ 19时54分]"
+        },
+        {
           "title": "委内瑞拉代总统成傀儡？采访要特朗普批，发文要鲁比奥审",
           "url": "https://news.ifeng.com/c/8uhQRko1ti1",
           "source": "凤凰网",
@@ -245,17 +311,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时50分 ~ 07时45分]"
-        },
-        {
-          "title": "特朗普：伊朗违背承诺，刚谈完不到一小时就袭击商船",
-          "url": "https://news.ifeng.com/c/8uidsBIJWO9",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时57分 ~ 16时53分]"
         },
         {
           "title": "特朗普谈伊朗：霍尔木兹海峡已开放。",
@@ -294,20 +349,20 @@
           "time_info": "[02时54分 ~ 05时41分]"
         },
         {
-          "title": "曝特朗普登上伊朗复仇名单",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E7%99%BB%E4%B8%8A%E4%BC%8A%E6%9C%97%E5%A4%8D%E4%BB%87%E5%90%8D%E5%8D%95",
-          "source": "bilibili 热搜",
+          "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
+          "url": "https://news.ifeng.com/c/8uj34x8QE0R",
+          "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时52分 ~ 16时53分]"
+          "appearance_count": 3,
+          "time_info": "[16时52分 ~ 19时54分]"
         },
         {
-          "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
-          "url": "https://news.ifeng.com/c/8uj34x8QE0R",
-          "source": "凤凰网",
+          "title": "曝特朗普登上伊朗复仇名单",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E7%99%BB%E4%B8%8A%E4%BC%8A%E6%9C%97%E5%A4%8D%E4%BB%87%E5%90%8D%E5%8D%95",
+          "source": "bilibili 热搜",
           "ranks": [
             7
           ],
@@ -346,7 +401,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -379,7 +434,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         }
@@ -387,7 +442,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "全球存储扩产+海外设备供应告急，国产半导体设备迎“超级时代”",
@@ -421,11 +476,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时34分 ~ 16时53分]"
+          "appearance_count": 4,
+          "time_info": "[13时34分 ~ 19时54分]"
         },
         {
           "title": "15个交易日逾千亿元，A股半导体主题ETF“吸金”",
@@ -439,6 +495,17 @@
           "time_info": "07时45分"
         },
         {
+          "title": "【TCL科技：预计上半年净利润同比增长96%-108%】TCL科技公告，预计2026年上半年净利润为37亿元—39.2亿元，同比增长96%—108%。报告期内，公司聚焦半导体显示、新能源光伏和半导体材料业务的核心主业发展，坚持战略引领、创新驱动、先进制造、全球经营，持续提升相对竞争力，实现高质量可持续发展。",
+          "url": "https://wallstreetcn.com/livenews/3132890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
           "title": "基本半导体(09971.HK)公告，其部分产品价格预计上调幅度最高不超过25%，具体调整方案将根据产品类别、订单规模、合作模式、市场区域及双方商业安排等因素综合确定，并与相关客户有序实施。",
           "url": "https://flash.jin10.com/detail/20260713060353055800",
           "source": "金十数据",
@@ -449,6 +516,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时40分 ~ 07时45分]"
+        },
+        {
+          "title": "创业板跌超3%，科技齐跌，存储芯片重挫、兆易创新跌停，恒科指跌1%，半导体集体调整",
+          "url": "https://wallstreetcn.com/articles/3776758",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         },
         {
           "title": "A股半导体板块短线拉升，上海合晶涨超13%，帝奥微、托伦斯、富创精密、盛科通信、恒玄科技等跟涨。",
@@ -465,18 +543,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "AI恐慌蔓延，美股盘前存储芯片股普跌，SK海力士暴跌15.4%创历史最大跌幅，原油上涨，黄金下跌",
           "url": "https://wallstreetcn.com/articles/3776754",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时52分 ~ 16时53分]"
+          "appearance_count": 3,
+          "time_info": "[16时52分 ~ 19时54分]"
         },
         {
           "title": "布伦特原油期货周一亚市早盘高开3%，美股期货小幅走低，纳斯达克100指数期货跌0.2%。此前美伊冲突升级。",
@@ -502,13 +581,24 @@
           "time_info": "06时40分"
         },
         {
+          "title": "美股Q2财报季前瞻：非科技股盈利韧性凸显 科技股“答卷”超预期才能过关",
+          "url": "https://www.cls.cn/detail/2424724",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
           "title": "美股盘前，存储芯片股普跌，SK海力士跌近10%",
           "url": "https://wallstreetcn.com/livenews/3132708",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         }
@@ -566,7 +656,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         }
