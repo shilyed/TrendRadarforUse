@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-15T04:52:48.938133+08:00",
-  "total_titles_processed": 509,
+  "generated_at": "2026-07-15T05:50:50.188762+08:00",
+  "total_titles_processed": 584,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
+          "url": "https://news.ifeng.com/c/8ukTbU27CpD",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 05时50分]"
+        },
         {
           "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
           "url": "https://wallstreetcn.com/articles/3776822",
@@ -20,15 +31,16 @@
           "time_info": "[01时06分 ~ 04时52分]"
         },
         {
-          "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
-          "url": "https://news.ifeng.com/c/8ukTbU27CpD",
-          "source": "凤凰网",
+          "title": "沃什国会听证首秀：即使特朗普批评也会按数据行动，6月CPI降温不代表通胀“任务完成”",
+          "url": "https://wallstreetcn.com/articles/3776932",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 04时52分]"
+          "appearance_count": 3,
+          "time_info": "[03时05分 ~ 05时50分]"
         },
         {
           "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
@@ -39,8 +51,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 04时52分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 05时50分]"
         },
         {
           "title": "如何看特朗普在霍尔木兹收费",
@@ -49,22 +61,23 @@
           "ranks": [
             26,
             10,
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 05时50分]"
+        },
+        {
+          "title": "新闻蒸馏器｜边打边放话还要收过路费，特朗普重启60天战争窗口",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33581551",
+          "source": "澎湃新闻",
+          "ranks": [
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 04时52分]"
-        },
-        {
-          "title": "沃什国会听证首秀：即使特朗普批评也会按数据行动，6月CPI降温不代表通胀“任务完成”",
-          "url": "https://wallstreetcn.com/articles/3776932",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时05分 ~ 04时52分]"
+          "appearance_count": 3,
+          "time_info": "[03时05分 ~ 05时50分]"
         },
         {
           "title": "沃什货币政策听证首秀：即使特朗普批评也会按数据行动，美联储有工具实现价格稳定",
@@ -78,15 +91,16 @@
           "time_info": "[01时06分 ~ 01时07分]"
         },
         {
-          "title": "新闻蒸馏器｜边打边放话还要收过路费，特朗普重启60天战争窗口",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33581551",
-          "source": "澎湃新闻",
+          "title": "特朗普放弃霍尔木兹海峡20%收费计划 国际油价回吐部分涨幅",
+          "url": "https://www.cls.cn/detail/2426473",
+          "source": "财联社热门",
           "ranks": [
-            14
+            11,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时05分 ~ 04时52分]"
+          "time_info": "[04时52分 ~ 05时50分]"
         },
         {
           "title": "美国总统特朗普称代理司法部长托德·布兰奇“表现卓越”，敦促参议院尽快批准其正式任职。",
@@ -111,15 +125,15 @@
           "time_info": "03时05分"
         },
         {
-          "title": "特朗普放弃霍尔木兹海峡20%收费计划 国际油价回吐部分涨幅",
-          "url": "https://www.cls.cn/detail/2426473",
-          "source": "财联社热门",
+          "title": "才一天就改口！特朗普放弃霍尔木兹海峡货运收费20%，美油“闪跌”",
+          "url": "https://wallstreetcn.com/articles/3776934",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时52分"
+          "time_info": "05时50分"
         },
         {
           "title": "市场消息：美国众议院议员拉斯金致信派拉蒙CEO埃里森，要求其回应是否在推动CBS新闻报道迎合特朗普立场。",
@@ -142,6 +156,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "据Axios：一名白宫官员驳斥了以色列媒体有关内塔尼亚胡将于下周访问华盛顿的报道，并表示：“目前特朗普总统的日程安排中没有内塔尼亚胡的访问计划。”",
+          "url": "https://flash.jin10.com/detail/20260715044150500800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时50分"
         },
         {
           "title": "美国总统特朗普声称：通胀趋势将会延续下去。",
@@ -216,7 +241,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         }
@@ -224,8 +249,20 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
+          "url": "https://wallstreetcn.com/articles/3776754",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 05时50分]"
+        },
         {
           "title": "美国通胀降温，美股盘初涨跌互现，存储芯片股大涨，IBM跌26%，原油涨3%，黄金涨2%",
           "url": "https://wallstreetcn.com/articles/3776859",
@@ -239,37 +276,50 @@
           "time_info": "[01时06分 ~ 04时52分]"
         },
         {
-          "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
-          "url": "https://wallstreetcn.com/articles/3776754",
+          "title": "美国通胀降温，美股指全线反弹，存储芯片股大涨，IBM暴跌25%，油金齐涨",
+          "url": "https://wallstreetcn.com/articles/3776859",
           "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时50分"
+        },
+        {
+          "title": "Lionsgate Studio Corp.（LION，狮门影业）美股盘后涨11%，据路透报道，该公司探索出售，获得来自Bollore SE（BOL.FP）的兴趣。",
+          "url": "https://wallstreetcn.com/livenews/3133888",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 04时52分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时50分"
         },
         {
           "title": "美股大类资产类ETF多数收涨，布油基金涨2.8%，与新兴市场ETF、黄金ETF领跑",
           "url": "https://wallstreetcn.com/livenews/3133870",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时52分 ~ 05时50分]"
         },
         {
           "title": "周二（7月14日），美股行业ETF涨跌各异，半导体ETF收涨2.51%，全球科技股指数ETF、科技行业ETF至多涨1.65%，银行业ETF跌0.06%，全球航空业ETF、日常消费品ETF至多跌1.38%，医疗业ETF跌1.93%。",
           "url": "https://wallstreetcn.com/livenews/3133869",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时52分 ~ 05时50分]"
         },
         {
           "title": "金十图示：2026年07月14日（周二）美股热门股票行情一览（美股收盘）",
@@ -278,7 +328,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -289,7 +339,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -300,7 +350,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -311,9 +361,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
+        },
+        {
+          "title": "周二（7月14日），美股降息赢家指数涨1.04%，报95.79点，整体维持上涨状态，在美国CPI通胀数据发布之后高开，美联储主席沃什听证会期间回吐涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3133875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时50分"
+        },
+        {
+          "title": "周二（7月14日），美股存储芯片与硬件供应链指数涨3.67%，报221.73点。 成分股Sandisk涨5.01%，美光、拉姆研究至少涨4.9%，希捷科技涨2.05%，西部数据涨1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3133874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时50分"
         },
         {
           "title": "金十图示：2026年07月14日（周二）美股热门股票行情一览（美股盘中）",
@@ -333,7 +405,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -373,8 +445,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 04时52分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 05时50分]"
         },
         {
           "title": "伊朗革命卫队：只要美国在地区的“邪恶行动”存在，地区将不会有一滴石油和天然气出口。",
@@ -449,7 +521,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -471,7 +543,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -481,6 +553,48 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金价又绷不住了网友直言想抄底",
+          "url": "https://www.toutiao.com/trending/7661722713741295679/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            9,
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 05时50分]"
+        },
+        {
+          "title": "金价在美国CPI通胀数据发布日涨超1.2%，钯金涨4.1%",
+          "url": "https://wallstreetcn.com/livenews/3133883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时50分"
+        },
+        {
+          "title": "花旗：随着通胀降温减轻美联储加息压力，预计铂金价格将反弹。",
+          "url": "https://flash.jin10.com/detail/20260715003710951800",
+          "source": "金十数据",
+          "ranks": [
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -510,7 +624,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -521,39 +635,37 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         }
       ]
     },
     {
-      "keyword_group": "金价",
+      "keyword_group": "美元",
       "match_count": 2,
       "titles": [
         {
-          "title": "金价又绷不住了网友直言想抄底",
-          "url": "https://www.toutiao.com/trending/7661722713741295679/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 04时52分]"
-        },
-        {
-          "title": "花旗：随着通胀降温减轻美联储加息压力，预计铂金价格将反弹。",
-          "url": "https://flash.jin10.com/detail/20260715003710951800",
+          "title": "美元指数14日下跌",
+          "url": "https://flash.jin10.com/detail/20260715045623923800",
           "source": "金十数据",
           "ranks": [
-            16
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时50分"
+        },
+        {
+          "title": "美元指数跌超0.3%",
+          "url": "https://wallstreetcn.com/livenews/3133844",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时07分"
+          "time_info": "04时52分"
         }
       ]
     },
@@ -570,36 +682,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 04时52分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 05时50分]"
         },
         {
           "title": "长鑫科技 7 月 16 日开启新股申购，最高估值超 4 万亿，这对其自身发展和半导体产业意味着什么？",
           "url": "https://www.zhihu.com/question/2058449781597459395",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时05分 ~ 04时52分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数跌超0.3%",
-          "url": "https://wallstreetcn.com/livenews/3133844",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时52分"
+          "appearance_count": 3,
+          "time_info": "[03时05分 ~ 05时50分]"
         }
       ]
     },
