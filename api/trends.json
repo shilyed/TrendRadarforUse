@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T05:50:50.188762+08:00",
-  "total_titles_processed": 584,
+  "generated_at": "2026-07-15T06:49:48.090183+08:00",
+  "total_titles_processed": 643,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 05时50分]"
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 06时49分]"
         },
         {
           "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
@@ -36,11 +36,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时05分 ~ 05时50分]"
+          "appearance_count": 4,
+          "time_info": "[03时05分 ~ 06时49分]"
         },
         {
           "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
@@ -51,8 +52,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 05时50分]"
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 06时49分]"
         },
         {
           "title": "如何看特朗普在霍尔木兹收费",
@@ -62,22 +63,92 @@
             26,
             10,
             14,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 05时50分]"
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 06时49分]"
+        },
+        {
+          "title": "美国总统特朗普：我现在不想谈判。我说了，我们不谈判了。",
+          "url": "https://flash.jin10.com/detail/20260715062230575800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
+        },
+        {
+          "title": "特朗普：将继续打击伊朗",
+          "url": "https://wallstreetcn.com/livenews/3133913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
+        },
+        {
+          "title": "美国总统特朗普宣称：现在，我才不想与伊朗对话。 美方（已经）告诉伊朗，最好还是达成一份协议。 我们一直都认真仔细地对待（伊朗）平民。",
+          "url": "https://wallstreetcn.com/livenews/3133911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
+        },
+        {
+          "title": "据法新社：美国总统特朗普威胁称，如果没有达成协议，将于下周打击伊朗发电厂。",
+          "url": "https://flash.jin10.com/detail/20260715061817167800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
+        },
+        {
+          "title": "美国总统特朗普：美国敦促伊朗达成协议。",
+          "url": "https://flash.jin10.com/detail/20260715061639787800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
         },
         {
           "title": "新闻蒸馏器｜边打边放话还要收过路费，特朗普重启60天战争窗口",
           "url": "https://m.thepaper.cn/newsDetail_forward_33581551",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时05分 ~ 06时49分]"
+        },
+        {
+          "title": "特朗普放弃霍尔木兹海峡20%收费计划 国际油价回吐部分涨幅",
+          "url": "https://www.cls.cn/detail/2426473",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[03时05分 ~ 05时50分]"
+          "time_info": "[04时52分 ~ 06时49分]"
         },
         {
           "title": "沃什货币政策听证首秀：即使特朗普批评也会按数据行动，美联储有工具实现价格稳定",
@@ -91,16 +162,16 @@
           "time_info": "[01时06分 ~ 01时07分]"
         },
         {
-          "title": "特朗普放弃霍尔木兹海峡20%收费计划 国际油价回吐部分涨幅",
-          "url": "https://www.cls.cn/detail/2426473",
-          "source": "财联社热门",
+          "title": "才一天就改口！特朗普放弃霍尔木兹海峡货运收费20%，美油“闪跌”",
+          "url": "https://wallstreetcn.com/articles/3776934",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            10
+            10,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时52分 ~ 05时50分]"
+          "time_info": "[05时50分 ~ 06时49分]"
         },
         {
           "title": "美国总统特朗普称代理司法部长托德·布兰奇“表现卓越”，敦促参议院尽快批准其正式任职。",
@@ -114,6 +185,17 @@
           "time_info": "03时05分"
         },
         {
+          "title": "美国总统特朗普：美国于周二与伊朗进行了对话。",
+          "url": "https://flash.jin10.com/detail/20260715061629798800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
+        },
+        {
           "title": "特朗普宣称将与伊拉克达成“庞大”的石油交易",
           "url": "https://wallstreetcn.com/livenews/3133830",
           "source": "华尔街见闻-快讯",
@@ -125,15 +207,48 @@
           "time_info": "03时05分"
         },
         {
-          "title": "才一天就改口！特朗普放弃霍尔木兹海峡货运收费20%，美油“闪跌”",
-          "url": "https://wallstreetcn.com/articles/3776934",
-          "source": "华尔街见闻",
+          "title": "美国总统特朗普宣称：明晚将再次袭击伊朗。 下周将袭击伊朗的发电厂和桥梁。 我会将能源目标留到最后，最终将袭击伊朗的能源目标。 伊朗别无选择，只能（与美方）达成协议。",
+          "url": "https://wallstreetcn.com/livenews/3133907",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时50分"
+          "time_info": "06时49分"
+        },
+        {
+          "title": "美国总统特朗普：将把针对伊朗的能源设施目标留到最后。",
+          "url": "https://flash.jin10.com/detail/20260715061205994800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
+        },
+        {
+          "title": "据福克斯新闻：美国总统特朗普表示，对伊朗的打击将持续，直到我说够了为止。伊朗还有一些斗志，但他们的余力不多。",
+          "url": "https://flash.jin10.com/detail/20260715061106742800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
+        },
+        {
+          "title": "美国总统特朗普在预先录制的采访中宣称：我们“痛打”伊朗。 我们必须维持霍尔木兹海峡的开放。 重申海峡仍然是开放的。 他们已经完成了伊朗目标。 “袭击伊朗”将持续至我喊“够了”。 他们还剩下一些战斗，但已经不多了。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3133905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
         },
         {
           "title": "市场消息：美国众议院议员拉斯金致信派拉蒙CEO埃里森，要求其回应是否在推动CBS新闻报道迎合特朗普立场。",
@@ -145,6 +260,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "特朗普：用贸易投资协议取代霍尔木兹海峡货物收费",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33586641",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
         },
         {
           "title": "美国总统特朗普针对俄罗斯制裁立法草案声称：（美国国会山）可能会将伊朗塞入其中。 他们可能会将霍尔木兹海峡问题塞入俄罗斯草案。 俄罗斯草案可能会纳入霍尔木兹与伊朗。",
@@ -164,7 +290,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时50分"
         },
@@ -249,7 +375,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
@@ -282,20 +408,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时50分 ~ 06时49分]"
         },
         {
-          "title": "Lionsgate Studio Corp.（LION，狮门影业）美股盘后涨11%，据路透报道，该公司探索出售，获得来自Bollore SE（BOL.FP）的兴趣。",
-          "url": "https://wallstreetcn.com/livenews/3133888",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：CPI降温叠加银行财报开门红 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2426541",
+          "source": "财联社热门",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时50分"
+          "time_info": "06时49分"
         },
         {
           "title": "美股大类资产类ETF多数收涨，布油基金涨2.8%，与新兴市场ETF、黄金ETF领跑",
@@ -320,6 +446,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时52分 ~ 05时50分]"
+        },
+        {
+          "title": "Lionsgate Studio Corp.（LION，狮门影业）美股盘后涨11%，据路透报道，该公司探索出售，获得来自Bollore SE（BOL.FP）的兴趣。",
+          "url": "https://wallstreetcn.com/livenews/3133888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时50分 ~ 06时49分]"
         },
         {
           "title": "金十图示：2026年07月14日（周二）美股热门股票行情一览（美股收盘）",
@@ -372,7 +510,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时50分"
         },
@@ -383,7 +521,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时50分"
         },
@@ -435,7 +573,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "美国向全世界敲竹杠，伊朗外长嘲讽",
@@ -445,8 +583,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 05时50分]"
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 06时49分]"
         },
         {
           "title": "伊朗革命卫队：只要美国在地区的“邪恶行动”存在，地区将不会有一滴石油和天然气出口。",
@@ -515,6 +653,17 @@
           "time_info": "03时05分"
         },
         {
+          "title": "伊朗副总统：美国违背承诺在预料之中",
+          "url": "https://wallstreetcn.com/livenews/3133895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
+        },
+        {
           "title": "美国制裁伊朗央行。",
           "url": "https://wallstreetcn.com/livenews/3133853",
           "source": "华尔街见闻-快讯",
@@ -548,6 +697,28 @@
           "time_info": "04时52分"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗军方表示，针对该地区美国基地的无人机行动将持续进行，直至“最终胜利”。",
+          "url": "https://flash.jin10.com/detail/20260715054416739800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
+        },
+        {
+          "title": "伊朗副总统：美国违背承诺在预料之中",
+          "url": "https://flash.jin10.com/detail/20260715053010404800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
+        },
+        {
           "title": "英国财政部：如果美国与伊朗的战争进一步加剧，油价可能会达到150美元/桶。 预计英国央行将在2026年加息至少一次。 预计四季度通胀为3.2%。",
           "url": "https://wallstreetcn.com/livenews/3133776",
           "source": "华尔街见闻-快讯",
@@ -561,50 +732,8 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "金价又绷不住了网友直言想抄底",
-          "url": "https://www.toutiao.com/trending/7661722713741295679/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            9,
-            16,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 05时50分]"
-        },
-        {
-          "title": "金价在美国CPI通胀数据发布日涨超1.2%，钯金涨4.1%",
-          "url": "https://wallstreetcn.com/livenews/3133883",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时50分"
-        },
-        {
-          "title": "花旗：随着通胀降温减轻美联储加息压力，预计铂金价格将反弹。",
-          "url": "https://flash.jin10.com/detail/20260715003710951800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股美债黄金跌！美联储理事沃勒：若核心通胀持续高企，美联储或需加息",
@@ -638,6 +767,60 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
+        },
+        {
+          "title": "据知情人士透露，高盛100亿美元高评级债券发行获得大约320亿美元认购。 在6-31年的三部分到期时间债券供应中，久期最长的债券收益率定价较可比美债溢价大约113个基点，最初讨论的收窄大约22个基点。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3133904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金价又绷不住了网友直言想抄底",
+          "url": "https://www.toutiao.com/trending/7661722713741295679/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            9,
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 06时49分]"
+        },
+        {
+          "title": "金价在美国CPI通胀数据发布日涨超1.2%，钯金涨4.1%",
+          "url": "https://wallstreetcn.com/livenews/3133883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时50分 ~ 06时49分]"
+        },
+        {
+          "title": "花旗：随着通胀降温减轻美联储加息压力，预计铂金价格将反弹。",
+          "url": "https://flash.jin10.com/detail/20260715003710951800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时07分"
         }
       ]
     },
@@ -652,7 +835,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时50分"
         },
@@ -682,8 +865,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 05时50分]"
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 06时49分]"
         },
         {
           "title": "长鑫科技 7 月 16 日开启新股申购，最高估值超 4 万亿，这对其自身发展和半导体产业意味着什么？",
@@ -691,11 +874,12 @@
           "source": "知乎",
           "ranks": [
             20,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时05分 ~ 05时50分]"
+          "appearance_count": 4,
+          "time_info": "[03时05分 ~ 06时49分]"
         }
       ]
     },
