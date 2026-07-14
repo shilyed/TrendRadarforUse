@@ -1,25 +1,12 @@
 {
-  "generated_at": "2026-07-14T17:49:18.343158+08:00",
-  "total_titles_processed": 1280,
+  "generated_at": "2026-07-14T19:21:06.779482+08:00",
+  "total_titles_processed": 1415,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 63,
+      "match_count": 64,
       "titles": [
-        {
-          "title": "特朗普宣称接管霍尔木兹海峡，伊朗警告战火将蔓延全区",
-          "url": "https://wallstreetcn.com/articles/3776814",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时09分 ~ 17时49分]"
-        },
         {
           "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
           "url": "https://wallstreetcn.com/articles/3776822",
@@ -30,8 +17,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时45分 ~ 17时49分]"
+          "appearance_count": 8,
+          "time_info": "[07时45分 ~ 19时21分]"
+        },
+        {
+          "title": "特朗普宣称接管霍尔木兹海峡，伊朗警告战火将蔓延全区",
+          "url": "https://wallstreetcn.com/articles/3776814",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[01时09分 ~ 19时21分]"
         },
         {
           "title": "特朗普：恢复对伊朗封锁，将收取海峡货运两成费用",
@@ -41,11 +42,24 @@
             18,
             16,
             14,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时09分 ~ 17时49分]"
+          "appearance_count": 14,
+          "time_info": "[01时09分 ~ 19时21分]"
+        },
+        {
+          "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
+          "url": "https://news.ifeng.com/c/8ukTbU27CpD",
+          "source": "凤凰网",
+          "ranks": [
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时44分 ~ 19时21分]"
         },
         {
           "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
@@ -110,21 +124,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时49分"
-        },
-        {
-          "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
-          "url": "https://news.ifeng.com/c/8ukTbU27CpD",
-          "source": "凤凰网",
-          "ranks": [
-            12,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时44分 ~ 17时49分]"
         },
         {
           "title": "美媒：特朗普已通知国会伊朗战事重新爆发",
@@ -195,6 +197,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时52分 ~ 05时48分]"
+        },
+        {
+          "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33580758",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时49分 ~ 19时21分]"
         },
         {
           "title": "特朗普通知国会伊朗战事重新爆发，伊朗称袭击美国海军第五舰队司令部，局势将如何发展？本轮战事会持续多久？",
@@ -423,7 +437,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时49分"
         },
@@ -472,6 +486,17 @@
           "time_info": "07时45分"
         },
         {
+          "title": "压力推到极限，特朗普离TACO只差一张牌？",
+          "url": "https://flash.jin10.com/detail/20260714190042200800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
           "title": "德国两年期国债收益率涨超7个基点，投资者关注特朗普对霍尔木兹海峡的最新态度",
           "url": "https://wallstreetcn.com/livenews/3133007",
           "source": "华尔街见闻-快讯",
@@ -516,17 +541,6 @@
           "time_info": "15时06分"
         },
         {
-          "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33580758",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时49分"
-        },
-        {
           "title": "美国总统特朗普：（关于伊朗）我们将摧毁镐山（Pickaxe Mountain）。",
           "url": "https://flash.jin10.com/detail/20260714043115058800",
           "source": "金十数据",
@@ -544,7 +558,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时49分"
         },
@@ -665,7 +679,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时49分"
         },
@@ -728,7 +742,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
@@ -739,8 +753,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时45分 ~ 17时49分]"
+          "appearance_count": 8,
+          "time_info": "[07时45分 ~ 19时21分]"
         },
         {
           "title": "美股收盘：美伊局势升级打压风险偏好 芯片股重挫纳指跌逾1.5%",
@@ -754,6 +768,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[06时47分 ~ 15时06分]"
+        },
+        {
+          "title": "高盛、美银齐发卖出警报，对冲基金却重返科技股，美股仓位信号现分歧",
+          "url": "https://wallstreetcn.com/articles/3776816",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时45分 ~ 19时21分]"
         },
         {
           "title": "AI恐慌叠加中东局势升温，美股指盘中齐跌，SK海力士跌7%，油价涨超4%，黄金跌超2%，",
@@ -778,20 +806,6 @@
           "time_info": "[05时47分 ~ 05时48分]"
         },
         {
-          "title": "高盛、美银齐发卖出警报，对冲基金却重返科技股，美股仓位信号现分歧",
-          "url": "https://wallstreetcn.com/articles/3776816",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时45分 ~ 17时49分]"
-        },
-        {
           "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金重挫",
           "url": "https://wallstreetcn.com/articles/3776754",
           "source": "华尔街见闻",
@@ -801,6 +815,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时47分"
+        },
+        {
+          "title": "IBM美股盘前跌超14%，公司第二财季初步营收为172亿美元，预期为178.6亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3133624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
         },
         {
           "title": "美股半导体大跌！闪迪跌超10%",
@@ -823,6 +848,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        },
+        {
+          "title": "AI恐慌缓和，美股盘前存储芯片股普涨，韩股深V反弹，原油上涨，黄金小幅上扬",
+          "url": "https://wallstreetcn.com/articles/3776859",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时49分 ~ 19时21分]"
         },
         {
           "title": "美股大类资产类ETF普跌，新兴市场ETF跌约3.6%，黄金ETF跌超2.6%",
@@ -919,17 +956,6 @@
           "time_info": "[09时44分 ~ 09时45分]"
         },
         {
-          "title": "AI恐慌缓和，美股盘前存储芯片股普涨，韩股深V反弹，原油上涨，黄金小幅上扬",
-          "url": "https://wallstreetcn.com/articles/3776859",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时49分"
-        },
-        {
           "title": "金十图示：2026年07月13日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260714040535103800",
           "source": "金十数据",
@@ -974,6 +1000,39 @@
           "time_info": "04时52分"
         },
         {
+          "title": "美国银行第二季度净利息收入为160.0亿美元，预期为159.2亿美元。 第二季度每股收益为1.21美元。 第二季度FICC交易收入（不含DVA）为35.4亿美元，预期为35.3亿美元。 第二季度股票交易收入（不含DVA）为36.2亿美元，预期为26.9亿美元。 美国银行美股盘前微涨。",
+          "url": "https://wallstreetcn.com/livenews/3133600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
+          "title": "摩根大通第二季度调整后营收为580.2亿美元，预期为513.9亿美元。 第二季度每股收益为7.70美元；第二季度调整后每股收益为6.14美元。 第二季度FICC（固定收益、外汇及大宗商品）销售与交易收入为60.5亿美元，预期为62.9亿美元。 第二季度股票销售与交易收入为60.3亿美元，预期为39.8亿美元。 摩根大通预计全财年净利息收入约为1055亿美元，此前预期约为1030亿美元。 摩根大通预计全财年调整后支出约1075亿美元，此前预期约1050亿美元。 摩根大通美股盘前微涨。",
+          "url": "https://wallstreetcn.com/livenews/3133594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
+          "title": "富国银行第二季度营收为226.2亿美元，预期为218亿美元。 第二季度每股收益为2.00美元。 第二季度净利息收入为123.2亿美元，预期为123.2亿美元。 富国银行美股盘前涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3133590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
           "title": "金十图示：2026年07月13日（周一）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260714003035875800",
           "source": "金十数据",
@@ -1002,6 +1061,17 @@
           "time_info": "[01时09分 ~ 07时45分]"
         },
         {
+          "title": "美国向全世界敲竹杠，伊朗外长嘲讽",
+          "url": "https://news.ifeng.com/c/8ukLcwiKckH",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时49分 ~ 19时21分]"
+        },
+        {
           "title": "美国将恢复“针对伊朗的封锁”",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E6%81%A2%E5%A4%8D%E2%80%9C%E9%92%88%E5%AF%B9%E4%BC%8A%E6%9C%97%E7%9A%84%E5%B0%81%E9%94%81%E2%80%9D",
           "source": "百度热搜",
@@ -1025,17 +1095,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
-        },
-        {
-          "title": "美国向全世界敲竹杠，伊朗外长嘲讽",
-          "url": "https://news.ifeng.com/c/8ukLcwiKckH",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时49分"
         },
         {
           "title": "伊朗称袭击美国海军第五舰队司令部",
@@ -1188,7 +1247,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "创业板跌超3%，科技齐跌，存储芯片重挫、兆易创新跌停，恒科指跌1%，半导体集体调整",
@@ -1202,6 +1261,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时09分 ~ 06时47分]"
+        },
+        {
+          "title": "9分钟回撤11个点！半导体龙头复盘次日再巨震，全市场高波动股名单一览",
+          "url": "https://www.cls.cn/detail/2426035",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时20分 ~ 19时21分]"
         },
         {
           "title": "险资年内密集参设股权投资基金，布局AI、半导体等领域",
@@ -1276,7 +1346,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时49分"
         }
@@ -1319,7 +1389,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时49分"
         },
@@ -1377,7 +1447,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少16.87吨，当前持仓量为14854.64吨。欢迎点击查看数据中心...",
@@ -1401,6 +1471,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "白银有色：预计上半年净利润6,400万元到9,500万元，将实现扭亏为盈，有色金属及贵金属产品市场价格同比上升。",
+          "url": "https://wallstreetcn.com/livenews/3133592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
         }
       ]
     },
@@ -1417,8 +1498,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时06分 ~ 17时49分]"
+          "appearance_count": 4,
+          "time_info": "[15时06分 ~ 19时21分]"
         }
       ]
     },
