@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T12:54:17.084418+08:00",
-  "total_titles_processed": 1059,
+  "generated_at": "2026-07-16T15:18:25.908549+08:00",
+  "total_titles_processed": 1203,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 68,
+      "match_count": 69,
       "titles": [
         {
           "title": "白宫战情室紧急开会！特朗普讨论对伊朗发动大规模进攻计划",
@@ -64,11 +64,12 @@
             15,
             14,
             11,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时08分 ~ 12时54分]"
+          "appearance_count": 11,
+          "time_info": "[01时08分 ~ 15时18分]"
         },
         {
           "title": "特朗普称俄罗斯已准备好达成协议以结束俄乌冲突",
@@ -78,11 +79,26 @@
             19,
             16,
             14,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时58分 ~ 12时54分]"
+          "appearance_count": 10,
+          "time_info": "[02时58分 ~ 15时18分]"
+        },
+        {
+          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
+          "url": "https://wallstreetcn.com/articles/3777042",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时51分 ~ 15时18分]"
         },
         {
           "title": "伊拉克总理到访白宫，特朗普：他年轻又帅，这我就不高兴了",
@@ -109,19 +125,6 @@
           "time_info": "[01时08分 ~ 07时53分]"
         },
         {
-          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
-          "url": "https://wallstreetcn.com/articles/3777042",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时51分 ~ 12时54分]"
-        },
-        {
           "title": "沃什国会听证首秀：即使特朗普批评也会按数据行动，6月CPI降温不代表通胀“任务完成”",
           "url": "https://wallstreetcn.com/articles/3776932",
           "source": "华尔街见闻",
@@ -131,6 +134,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时08分 ~ 02时58分]"
+        },
+        {
+          "title": "特朗普感谢伊朗",
+          "url": "https://news.ifeng.com/c/8undGPmAvXz",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "美媒：特朗普倾向扩大对伊军事行动，选项包括夺取哈尔克岛",
@@ -235,6 +249,17 @@
           "time_info": "[01时08分 ~ 02时58分]"
         },
         {
+          "title": "特朗普性侵案败诉，已赔付女作家逾 560 万美元，美国现任总统被判定性侵成立，这件事对其影响多大？",
+          "url": "https://www.zhihu.com/question/2060762952576323839",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 15时18分]"
+        },
+        {
           "title": "美国总统特朗普要求纽约州立即改变数据中心政策。",
           "url": "https://wallstreetcn.com/livenews/3134527",
           "source": "华尔街见闻-快讯",
@@ -268,17 +293,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时52分 ~ 07时53分]"
-        },
-        {
-          "title": "特朗普性侵案败诉，已赔付女作家逾 560 万美元，美国现任总统被判定性侵成立，这件事对其影响多大？",
-          "url": "https://www.zhihu.com/question/2060762952576323839",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 12时54分]"
         },
         {
           "title": "美国总统特朗普声称：美国很快将对“非法”卡车司机采取行动。",
@@ -608,7 +622,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -740,7 +754,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -781,7 +795,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
@@ -820,8 +834,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时51分 ~ 12时54分]"
+          "appearance_count": 7,
+          "time_info": "[06时51分 ~ 15时18分]"
         },
         {
           "title": "美国6月PPI低于预期 美股期指走高 阿斯麦财报提振芯片股 | 今夜看点",
@@ -848,6 +862,17 @@
           "time_info": "[05时52分 ~ 06时52分]"
         },
         {
+          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
+          "url": "https://wallstreetcn.com/articles/3776964",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 15时18分]"
+        },
+        {
           "title": "美国通胀降温提振美股，存储跌幅扩大，戴尔重挫13%，油价转跌",
           "url": "https://wallstreetcn.com/articles/3776964",
           "source": "华尔街见闻",
@@ -870,17 +895,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时52分 ~ 07时53分]"
-        },
-        {
-          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
-          "url": "https://wallstreetcn.com/articles/3776964",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 12时54分]"
         },
         {
           "title": "美股存储芯片指数初步收跌6.4%，半导体指数跌2.1%。 纳斯达克100指数初步收跌0.3%，成分股中，西部数据初步收跌8.7%，闪迪跌8.5%，美光跌7.9%，Lumentum跌7.3%，希捷科技跌6.1%，思科、英特尔、CoreWeave、AMD至少跌3.4%，Meta、谷歌A涨3%，苹果涨4.1%，汤森路透涨4.2%，PayPal涨17.4%。 亚马逊、微软、3M、Merck初步收涨超2%，与苹果、谷歌A领跑道指成分股。",
@@ -1010,6 +1024,17 @@
           "time_info": "05时52分"
         },
         {
+          "title": "台积电美股夜盘跌0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3134862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
           "title": "农产品基金收涨约1.3%，领涨美股大类资产类ETF",
           "url": "https://wallstreetcn.com/livenews/3134598",
           "source": "华尔街见闻-快讯",
@@ -1057,7 +1082,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美国持续打击伊朗，战争成本预测高达1000亿美元",
@@ -1076,11 +1101,12 @@
           "url": "https://news.ifeng.com/c/8unecXHHhfz",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 15时18分]"
         },
         {
           "title": "三名美国官员称，近期美国对伊朗的打击行动正在增强美方进一步升级行动的选项。",
@@ -1194,6 +1220,17 @@
           "time_info": "04时06分"
         },
         {
+          "title": "伊朗外交部发言人巴加埃：美国针对伊朗的侵略行径公然违反了国际法以及双方签署的谅解备忘录。",
+          "url": "https://flash.jin10.com/detail/20260716150359442800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
           "title": "伊朗革命卫队称将摧毁美国“进攻性基础设施”",
           "url": "https://wallstreetcn.com/livenews/3134701",
           "source": "华尔街见闻-快讯",
@@ -1251,8 +1288,91 @@
       ]
     },
     {
+      "keyword_group": "半导体",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "韩国央行：半导体行业、中东局势发展及贸易环境变化仍存在不确定性。",
+          "url": "https://flash.jin10.com/detail/20260716093242113800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "港股半导体板块午后持续走低，澜起科技(06809.HK)跌超23%，兆易创新(03986.HK)跌超9%，华虹宏力(01347.HK)跌超6%，中芯国际(00981.HK)、晶门半导体(02878.HK)等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260716150946887800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "商务部回应推动解决安世半导体问题进展",
+          "url": "https://flash.jin10.com/detail/20260716150536540800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "沪指跌幅扩大至2%，电子化学品、半导体、存储芯片板块跌幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3134877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "A股收评：创业板指回落收跌2.95% 半导体、CPO等算力硬件股领跌",
+          "url": "https://flash.jin10.com/detail/20260716150426340800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "金十图示：2026年07月16日（周四）富时中国A50指数成分股今日收盘行情一览：多数板块下跌，半导体、通信设备及消费电子板块领跌；白酒、工业金属板块逆势走强。",
+          "url": "https://flash.jin10.com/detail/20260716150325246800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "标普收涨不到0.4%，半导体指数跌约2.1%，费城银行指数涨超1.5%继续创收盘历史新高",
+          "url": "https://wallstreetcn.com/livenews/3134592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时52分"
+        }
+      ]
+    },
+    {
       "keyword_group": "白银",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "上海黄金交易所黄金T+D 7月15日（周三）晚盘收盘上涨0.28%报886.0元/克；<br/>上海黄金交易所白银T+D 7月15日（周三）晚盘收盘下跌0.99%报14138.0元/千克。",
@@ -1277,13 +1397,24 @@
           "time_info": "01时08分"
         },
         {
+          "title": "挂单报告：国际现货黄金关注下行押注 国际现货白银横盘整理",
+          "url": "https://flash.jin10.com/detail/20260716150330031800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
           "title": "金十图示：2026年07月16日（周四）白银ETF持仓报告",
           "url": "https://flash.jin10.com/detail/20260716121432236800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -1293,6 +1424,45 @@
           "source": "金十数据",
           "ranks": [
             22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储芯片",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "A股存储芯片板块开盘领跌，德明利、华天科技2连跌停，精测电子、江丰电子跌超10%，通富微电、香农芯创等均大幅低开。",
+          "url": "https://wallstreetcn.com/livenews/3134714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "A股存储芯片板块持续回落，兆易创新、太极实业、华天科技、长电科技、德明利等多股封跌停板，澜起科技跌超18%，江丰电子、恒烁股份、国科微等跌超10%。",
+          "url": "https://wallstreetcn.com/livenews/3134873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "A股存储芯片板块盘初多股低开，德明利、华天科技、江丰电子竞价跌停，通富微电、天山电子等跌逾9%，香农芯创、澜起科技等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260716092727409800",
+          "source": "金十数据",
+          "ranks": [
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1329,58 +1499,19 @@
       ]
     },
     {
-      "keyword_group": "半导体",
-      "match_count": 2,
+      "keyword_group": "金价",
+      "match_count": 1,
       "titles": [
         {
-          "title": "韩国央行：半导体行业、中东局势发展及贸易环境变化仍存在不确定性。",
-          "url": "https://flash.jin10.com/detail/20260716093242113800",
+          "title": "金十图示：2026年07月16日（周四）上海金午盘价为878.07元/克，较国际金价（约为876.59元/克），高1.48元/克。",
+          "url": "https://flash.jin10.com/detail/20260716150205331800",
           "source": "金十数据",
           "ranks": [
-            2
+            22
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "标普收涨不到0.4%，半导体指数跌约2.1%，费城银行指数涨超1.5%继续创收盘历史新高",
-          "url": "https://wallstreetcn.com/livenews/3134592",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储芯片",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "A股存储芯片板块开盘领跌，德明利、华天科技2连跌停，精测电子、江丰电子跌超10%，通富微电、香农芯创等均大幅低开。",
-          "url": "https://wallstreetcn.com/livenews/3134714",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "A股存储芯片板块盘初多股低开，德明利、华天科技、江丰电子竞价跌停，通富微电、天山电子等跌逾9%，香农芯创、澜起科技等跟跌。",
-          "url": "https://flash.jin10.com/detail/20260716092727409800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
+          "time_info": "15时18分"
         }
       ]
     },
