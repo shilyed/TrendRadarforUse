@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T02:59:16.637681+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2026-07-17T04:02:36.959141+08:00",
+  "total_titles_processed": 440,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 16,
       "titles": [
         {
           "title": "伊朗司法机构称未释放任何美国在押人员。（MIZAN）",
@@ -14,20 +14,43 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "据伊通社（IRNA）：伊朗布什尔省省长表示，在美国持续发动袭击背景下，布什尔市当地时间稍早传出两次爆炸声，相关情况仍在进一步调查中。",
+          "url": "https://flash.jin10.com/detail/20260717033207726800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "美国副总统万斯：以色列政府内部有人试图在伊朗协议问题上影响美国",
+          "url": "https://wallstreetcn.com/livenews/3135253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         },
         {
           "title": "伊朗司法部门：暂无美国囚犯从伊朗监狱获释或交换。",
           "url": "https://flash.jin10.com/detail/20260717024825919800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 04时02分]"
         },
         {
           "title": "重启对伊封锁来首次！美国袭击与伊朗有关油轮 海上对抗升级",
@@ -37,8 +60,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 04时02分]"
+        },
+        {
+          "title": "白宫称伊朗仍在与美国对话",
+          "url": "https://wallstreetcn.com/livenews/3135227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 04时02分]"
         },
         {
           "title": "据伊朗迈赫尔通讯社：伊朗班达尔阿巴斯附近遭到美国袭击，霍尔木兹甘省政府称暂无人员伤亡和财产损失。",
@@ -52,15 +87,48 @@
           "time_info": "01时06分"
         },
         {
+          "title": "伊朗革命卫队：伊朗绝不会允许美国介入霍尔木兹海峡事务。伊朗规定的航行路线是安全的，任何偏离该路线的航线都将面临风险，相关船只可能遭受损害。",
+          "url": "https://flash.jin10.com/detail/20260717031824680800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "伊朗革命卫队：美国目前已陷入困境，唯一出路是撤出西亚地区。美国霸凌和挑衅的时代已经结束。",
+          "url": "https://flash.jin10.com/detail/20260717031532132800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
           "title": "据伊朗国家电视台：伊朗南部阿巴斯港地区遭到美国炮弹袭击。",
           "url": "https://flash.jin10.com/detail/20260717022858052800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "伊朗革命卫队：自宣布停火以来，美国战斗机没有一天离开霍尔木兹海峡区域，美方军事活动仍持续存在。",
+          "url": "https://flash.jin10.com/detail/20260717030827920800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         },
         {
           "title": "美国连续第六晚打击伊朗",
@@ -69,18 +137,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        },
-        {
-          "title": "白宫称伊朗仍在与美国对话",
-          "url": "https://wallstreetcn.com/livenews/3135227",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         },
@@ -91,9 +148,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "伊朗革命卫队：只有美国不再存在于该地区，霍尔木兹海峡的安全才能得到全面保障。",
+          "url": "https://flash.jin10.com/detail/20260717025637220800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         },
         {
           "title": "据伊朗媒体Fars News：约旦外交部长表示，美国在约旦没有军事基地，但有美军人员驻扎，这是约旦与华盛顿军事合作的一部分。",
@@ -102,7 +170,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         },
@@ -113,7 +181,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         }
@@ -121,7 +189,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
@@ -131,8 +199,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 04时02分]"
         },
         {
           "title": "白宫提词员利用特朗普演讲内幕获利逾10万美元，CFTC对其展开调查",
@@ -150,11 +218,12 @@
           "url": "https://flash.jin10.com/detail/20260717024018004800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 04时02分]"
         },
         {
           "title": "特朗普将赴世界杯现场观看决赛",
@@ -163,9 +232,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "伊朗称特朗普关于美国囚犯获释的说法不实",
+          "url": "https://wallstreetcn.com/livenews/3135237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：提词器操作员在预测平台Kalshi上就特朗普的发言内容下注，CFTC正在调查。",
@@ -185,7 +265,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         },
@@ -196,7 +276,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         }
@@ -204,7 +284,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "半导体抛售潮重创全球股市，美股盘初涨跌互现，存储股普跌，台积电跌3%，现货黄金跌2%",
@@ -214,8 +294,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 04时02分]"
         },
         {
           "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
@@ -225,8 +305,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 04时02分]"
+        },
+        {
+          "title": "纳斯达克100指数跌幅扩大至2%，成分股Nebius集团跌14.2%，闪迪跌12.8%，Rocket Labs跌12.2%，希捷科技跌10.6%，西部数据跌10.2%，Astera Labs跌9.8%，迈威尔科技/美满电子、Lumentum、泰瑞达、英特尔至少跌6.9%，谷歌A跌4.7%。 半导体指数跌5%，存储芯片指数维持大约9%的跌幅。 北美科技软件股指数ETF跌幅重新扩大至0.4%，美股盘初一度跌1.9%。",
+          "url": "https://wallstreetcn.com/livenews/3135254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         },
         {
           "title": "美股期指走低 纳指期货跌1% 芯片股普遍承压 | 今夜看点",
@@ -236,8 +327,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 04时02分]"
         },
         {
           "title": "金十图示：2026年07月16日（周四）美股热门股票行情一览（美股盘中）",
@@ -286,8 +377,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 04时02分]"
         },
         {
           "title": "费城半导体指数跌至逾一个月低点，跌幅扩大至4.45%。",
@@ -307,7 +398,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         }
@@ -323,22 +414,58 @@
           "source": "百度热搜",
           "ranks": [
             26,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 04时02分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 7月16日（周四）晚盘收盘下跌1.09%报870.1元/克；<br/>上海黄金交易所白银T+D 7月16日（周四）晚盘收盘下跌2.29%报13592.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260717023033144800",
           "source": "金十数据",
           "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 04时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美债收益率普遍涨超1个基点",
+          "url": "https://wallstreetcn.com/livenews/3135247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数涨约0.3%",
+          "url": "https://wallstreetcn.com/livenews/3135248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时59分"
+          "time_info": "04时02分"
         }
       ]
     },
@@ -354,8 +481,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 04时02分]"
         }
       ]
     }
