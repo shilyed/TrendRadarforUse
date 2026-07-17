@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T07:53:05.585855+08:00",
-  "total_titles_processed": 637,
+  "generated_at": "2026-07-17T09:55:06.987976+08:00",
+  "total_titles_processed": 775,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "伊朗司法机构称未释放任何美国在押人员。（MIZAN）",
@@ -25,9 +25,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
+        },
+        {
+          "title": "美国军方完成对伊朗的最新一轮打击。 美军称，打击了数十个伊朗军事目标，打击了伊朗沿海监视与防空阵地。 美军中央司令部称，正在进一步削弱伊朗的军事能力。",
+          "url": "https://wallstreetcn.com/livenews/3135387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         },
         {
           "title": "据华尔街日报：一名美国高级官员表示，美军周四对伊朗境内多座桥梁发动打击，旨在切断通往阿巴斯港及霍尔木兹海峡海军基地的补给路线。伊朗利用该基地袭击船只和投射力量。",
@@ -36,7 +47,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
         },
@@ -159,7 +170,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
         },
@@ -192,7 +203,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
         },
@@ -217,6 +228,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        },
+        {
+          "title": "美国袭击伊朗港口城市致7死9伤",
+          "url": "https://wallstreetcn.com/livenews/3135355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         },
         {
           "title": "据伊朗媒体Fars News：约旦外交部长表示，美国在约旦没有军事基地，但有美军人员驻扎，这是约旦与华盛顿军事合作的一部分。",
@@ -258,15 +280,210 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
         }
       ]
     },
     {
+      "keyword_group": "特朗普",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
+          "url": "https://news.ifeng.com/c/8uoXl1Ao0h2",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 07时53分]"
+        },
+        {
+          "title": "美国首例！特朗普恼火：可怕的决定，要输给中国了",
+          "url": "https://news.ifeng.com/c/8uofMrB5Gdq",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时52分 ~ 09时55分]"
+        },
+        {
+          "title": "白宫：特朗普将出席世界杯决赛",
+          "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 09时55分]"
+        },
+        {
+          "title": "美国总统特朗普：不转播我演讲的电视网应被吊销执照。",
+          "url": "https://flash.jin10.com/detail/20260717094121843800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "白宫提词员利用特朗普演讲内幕获利逾10万美元，CFTC对其展开调查",
+          "url": "https://flash.jin10.com/detail/20260717010030245800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时06分"
+        },
+        {
+          "title": "据CBS：美国总统特朗普将于当地时间7月22日访问亚特兰大都会区一所高中，推广新的“特朗普账户”投资计划。",
+          "url": "https://flash.jin10.com/detail/20260717024018004800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 04时02分]"
+        },
+        {
+          "title": "特朗普：我们47年前就应该攻击伊朗，那样会容易得多",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33598128",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 09时55分]"
+        },
+        {
+          "title": "美国总统特朗普：国会必须通过选民身份识别法案。",
+          "url": "https://flash.jin10.com/detail/20260717093506237800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "特朗普将赴世界杯现场观看决赛",
+          "url": "https://flash.jin10.com/detail/20260717021058975800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "伊朗称特朗普关于美国囚犯获释的说法不实",
+          "url": "https://wallstreetcn.com/livenews/3135237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "特朗普：很快就会看到在伊朗的成果。",
+          "url": "https://wallstreetcn.com/livenews/3135354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：提词器操作员在预测平台Kalshi上就特朗普的发言内容下注，CFTC正在调查。",
+          "url": "https://wallstreetcn.com/livenews/3135177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时06分"
+        },
+        {
+          "title": "报道：特朗普帖文花钱就能抢先看",
+          "url": "https://wallstreetcn.com/livenews/3135311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "美国总统特朗普准备在（今天稍早的）演讲中谈论委内瑞拉大选。（Semafor）",
+          "url": "https://wallstreetcn.com/livenews/3135274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时58分"
+        },
+        {
+          "title": "美国总统特朗普向全国发表讲话。特朗普宣扬通胀下降和股市上涨。",
+          "url": "https://wallstreetcn.com/livenews/3135352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：白宫提词器操作员被停职。 美国总统特朗普认为，被控参与下注的提词器操作员“行为可耻”。",
+          "url": "https://wallstreetcn.com/livenews/3135212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普今晚将谈论选举诚信。 媒体应当播放特朗普今夜的讲话。 重申（特朗普）对沃尔玛的赞赏。 特朗普将前往世界杯决赛现场。",
+          "url": "https://wallstreetcn.com/livenews/3135209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "半导体抛售潮重创全球股市，美股盘初涨跌互现，存储股普跌，台积电跌3%，现货黄金跌2%",
@@ -274,17 +491,6 @@
           "source": "华尔街见闻",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 05时58分]"
-        },
-        {
-          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
-          "url": "https://wallstreetcn.com/articles/3776964",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -299,8 +505,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 07时53分]"
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 09时55分]"
+        },
+        {
+          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
+          "url": "https://wallstreetcn.com/articles/3776964",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 05时58分]"
         },
         {
           "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
@@ -310,19 +527,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时52分 ~ 07时53分]"
+          "appearance_count": 4,
+          "time_info": "[07时52分 ~ 09时55分]"
         },
         {
           "title": "美股收盘：芯片股持续下挫拖累纳指跌近1.5% 存储、光通信板块领跌",
           "url": "https://www.cls.cn/detail/2428956",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时52分 ~ 07时53分]"
+          "appearance_count": 4,
+          "time_info": "[07时52分 ~ 09时55分]"
         },
         {
           "title": "百胜餐饮集团美股盘后下跌4%，美国食品药品监督管理局（FDA）将就塔可钟（Taco Bell）的生菜问题发布警告。",
@@ -351,11 +569,23 @@
           "url": "https://www.toutiao.com/trending/7663271539885739558/",
           "source": "今日头条",
           "ranks": [
-            27
+            27,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时52分 ~ 09时55分]"
+        },
+        {
+          "title": "7月17日投资避雷针：美股半导体板块再度大跌 SK海力士、闪迪跌超12%",
+          "url": "https://www.cls.cn/detail/2429026",
+          "source": "财联社热门",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时52分 ~ 07时53分]"
+          "time_info": "[09时54分 ~ 09时55分]"
         },
         {
           "title": "金十图示：2026年07月16日（周四）美股热门股票行情一览（美股盘中）",
@@ -408,7 +638,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
         },
@@ -437,131 +667,127 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 11,
+      "keyword_group": "半导体",
+      "match_count": 6,
       "titles": [
         {
-          "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
-          "url": "https://news.ifeng.com/c/8uoXl1Ao0h2",
-          "source": "凤凰网",
+          "title": "涉晶圆刻蚀、清洗等环节 两大半导体材料齐涨价",
+          "url": "https://www.cls.cn/detail/2428607",
+          "source": "财联社热门",
           "ranks": [
-            5,
-            4
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 07时53分]"
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 09时55分]"
         },
         {
-          "title": "美国首例！特朗普恼火：可怕的决定，要输给中国了",
-          "url": "https://news.ifeng.com/c/8uofMrB5Gdq",
-          "source": "凤凰网",
+          "title": "创业板指、科创50均跌超4%，算力硬件、半导体芯片等方向跌幅居前，沪深京三市下跌个股近2700只。",
+          "url": "https://wallstreetcn.com/livenews/3135376",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时52分 ~ 07时53分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         },
         {
-          "title": "白宫提词员利用特朗普演讲内幕获利逾10万美元，CFTC对其展开调查",
-          "url": "https://flash.jin10.com/detail/20260717010030245800",
+          "title": "创业板指、科创50均跌超3%，沪指跌0.55%，深成指跌2.10%，算力硬件、半导体芯片等方向跌幅居前，沪深京三市下跌个股近2500只。",
+          "url": "https://wallstreetcn.com/livenews/3135373",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "创业板指、科创50均跌超2%，沪指跌0.38%，深成指跌1.36%，算力硬件、半导体芯片等方向跌幅居前，沪深京三市下跌个股近2300只。",
+          "url": "https://wallstreetcn.com/livenews/3135368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "费城半导体指数跌至逾一个月低点，跌幅扩大至4.45%。",
+          "url": "https://flash.jin10.com/detail/20260717002645893800",
           "source": "金十数据",
           "ranks": [
-            2
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
         },
         {
-          "title": "据CBS：美国总统特朗普将于当地时间7月22日访问亚特兰大都会区一所高中，推广新的“特朗普账户”投资计划。",
-          "url": "https://flash.jin10.com/detail/20260717024018004800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 04时02分]"
-        },
-        {
-          "title": "特朗普将赴世界杯现场观看决赛",
-          "url": "https://flash.jin10.com/detail/20260717021058975800",
-          "source": "金十数据",
+          "title": "标普500指数跌0.6%，刷新日低，道指跌0.3%，纳指跌1.2%，纳斯达克100指数跌1.6%，半导体指数跌4.8%。",
+          "url": "https://wallstreetcn.com/livenews/3135222",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储芯片",
+      "match_count": 4,
+      "titles": [
         {
-          "title": "伊朗称特朗普关于美国囚犯获释的说法不实",
-          "url": "https://wallstreetcn.com/livenews/3135237",
-          "source": "华尔街见闻-快讯",
+          "title": "沪指跌破3900点，科创50跌4%，存储芯片掀起跌停潮，医药逆势拉升，恒科指涨2%，科网股大反弹",
+          "url": "https://wallstreetcn.com/articles/3777077",
+          "source": "华尔街见闻",
           "ranks": [
-            18
+            9,
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时02分"
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 09时55分]"
         },
         {
-          "title": "美国商品期货交易委员会（CFTC）：提词器操作员在预测平台Kalshi上就特朗普的发言内容下注，CFTC正在调查。",
-          "url": "https://wallstreetcn.com/livenews/3135177",
-          "source": "华尔街见闻-快讯",
+          "title": "港股市场存储芯片概念股集体下跌，南方两倍做多海力士(07709)跌超13%，南方两倍做多三星电子(07747)、澜起科技(06809.HK)、兆易创新(03986.HK)跌超3%。",
+          "url": "https://flash.jin10.com/detail/20260717093800976800",
+          "source": "金十数据",
           "ranks": [
-            21
+            4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时06分"
+          "time_info": "09时55分"
         },
         {
-          "title": "报道：特朗普帖文花钱就能抢先看",
-          "url": "https://wallstreetcn.com/livenews/3135311",
-          "source": "华尔街见闻-快讯",
+          "title": "A股存储芯片板块延续跌势，德明利连续第三日跌停，华天科技、江波龙、香农芯创、佰维存储跟跌。",
+          "url": "https://flash.jin10.com/detail/20260717093300121800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "A股开盘，上证指数开跌0.44%，深证成指开跌0.97%，创业板指开跌1.36%；存储芯片、CRO概念跌幅居前。",
+          "url": "https://flash.jin10.com/detail/20260717092516834800",
+          "source": "金十数据",
           "ranks": [
             21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时53分"
-        },
-        {
-          "title": "美国总统特朗普准备在（今天稍早的）演讲中谈论委内瑞拉大选。（Semafor）",
-          "url": "https://wallstreetcn.com/livenews/3135274",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：白宫提词器操作员被停职。 美国总统特朗普认为，被控参与下注的提词器操作员“行为可耻”。",
-          "url": "https://wallstreetcn.com/livenews/3135212",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普今晚将谈论选举诚信。 媒体应当播放特朗普今夜的讲话。 重申（特朗普）对沃尔玛的赞赏。 特朗普将前往世界杯决赛现场。",
-          "url": "https://wallstreetcn.com/livenews/3135209",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时59分"
+          "time_info": "09时55分"
         }
       ]
     },
@@ -610,45 +836,6 @@
       ]
     },
     {
-      "keyword_group": "半导体",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "涉晶圆刻蚀、清洗等环节 两大半导体材料齐涨价",
-          "url": "https://www.cls.cn/detail/2428607",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 07时53分]"
-        },
-        {
-          "title": "费城半导体指数跌至逾一个月低点，跌幅扩大至4.45%。",
-          "url": "https://flash.jin10.com/detail/20260717002645893800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        },
-        {
-          "title": "标普500指数跌0.6%，刷新日低，道指跌0.3%，纳指跌1.2%，纳斯达克100指数跌1.6%，半导体指数跌4.8%。",
-          "url": "https://wallstreetcn.com/livenews/3135222",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -659,7 +846,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
         },
@@ -713,30 +900,12 @@
           "url": "https://www.cls.cn/detail/2428987",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时52分 ~ 07时53分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储芯片",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "沪指跌破3900点，科创50跌4%，存储芯片掀起跌停潮，医药逆势拉升，恒科指涨2%，科网股大反弹",
-          "url": "https://wallstreetcn.com/articles/3777077",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 07时53分]"
+          "appearance_count": 4,
+          "time_info": "[07时52分 ~ 09时55分]"
         }
       ]
     }
