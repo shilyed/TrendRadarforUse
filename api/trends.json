@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T05:54:44.320638+08:00",
-  "total_titles_processed": 539,
+  "generated_at": "2026-07-18T06:41:18.935131+08:00",
+  "total_titles_processed": 550,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时54分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时41分]"
         },
         {
           "title": "生死博弈！“特朗普美元”来了",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时54分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时41分]"
         },
         {
           "title": "白宫：特朗普将出席世界杯决赛",
@@ -69,11 +69,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时00分 ~ 05时54分]"
+          "appearance_count": 3,
+          "time_info": "[05时00分 ~ 06时41分]"
         },
         {
           "title": "特朗普：6月通胀传来“好消息”，美国迎来“黄金时代”",
@@ -128,11 +129,12 @@
           "url": "https://flash.jin10.com/detail/20260718045100973800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时54分 ~ 06时41分]"
         },
         {
           "title": "加拿大野火殃及美国，特朗普称要用关税来支付",
@@ -244,22 +246,36 @@
           "url": "https://flash.jin10.com/detail/20260718051643073800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时54分 ~ 06时41分]"
         },
         {
           "title": "伊朗称袭击美驻巴林设施 警告美国中东AI资产或成目标",
           "url": "https://flash.jin10.com/detail/20260718045807451800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时54分 ~ 06时41分]"
+        },
+        {
+          "title": "伊朗革命卫队：如果美国继续打击伊朗目标，伊方将扩大对美国在中东地区相关工业、科技和人工智能资产的攻击。",
+          "url": "https://flash.jin10.com/detail/20260718044547376800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时54分 ~ 06时41分]"
         },
         {
           "title": "伊朗最高领袖顾问雷扎伊：如果美国人占领伊朗境内任何地点，我们可能会进入进攻性战争阶段，而不再只是防御性战争。",
@@ -274,26 +290,16 @@
           "time_info": "[04时01分 ~ 05时00分]"
         },
         {
-          "title": "伊朗革命卫队：如果美国继续打击伊朗目标，伊方将扩大对美国在中东地区相关工业、科技和人工智能资产的攻击。",
-          "url": "https://flash.jin10.com/detail/20260718044547376800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时54分"
-        },
-        {
           "title": "伊朗革命卫队：伊军袭击了美国驻巴林的基础设施，摧毁无人艇仓库及一处人工智能中心。此次行动是对美国此前袭击伊朗桥梁等基础设施事件的回应。",
           "url": "https://flash.jin10.com/detail/20260718044353532800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时54分 ~ 06时41分]"
         },
         {
           "title": "LS Power：美国电力市场基本不受伊朗战争推高油价影响",
@@ -376,25 +382,25 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "科技股抛售潮蔓延，美股低开，纳指跌1.8%，半导体板块领跌，布油涨3%，黄金失守4000美元",
-          "url": "https://wallstreetcn.com/articles/3777186",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时54分]"
-        },
         {
           "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
           "url": "https://wallstreetcn.com/articles/3777075",
           "source": "华尔街见闻",
           "ranks": [
             3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时41分]"
+        },
+        {
+          "title": "科技股抛售潮蔓延，美股低开，纳指跌1.8%，半导体板块领跌，布油涨3%，黄金失守4000美元",
+          "url": "https://wallstreetcn.com/articles/3777186",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -412,6 +418,17 @@
           "time_info": "01时03分"
         },
         {
+          "title": "美股收盘：三大指数集体收跌 费城半导体指数进入熊市 存储板块冲高回落",
+          "url": "https://www.cls.cn/detail/2430055",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
           "title": "美股存储芯片指数本周跌超17%，较收盘历史最高位已回撤超31%",
           "url": "https://wallstreetcn.com/livenews/3135907",
           "source": "华尔街见闻-快讯",
@@ -420,8 +437,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时00分 ~ 05时54分]"
+          "appearance_count": 3,
+          "time_info": "[05时00分 ~ 06时41分]"
         },
         {
           "title": "周五（7月17日），美股行业ETF普遍收跌，全球航空业ETF跌2.53%，半导体ETF跌2.18%，可选消费ETF跌1.62%，区域银行ETF回撤1.58%，全球科技股指数ETF、网络股指数ETF、科技行业ETF至多跌1.31%，能源业ETF涨1.16%。",
@@ -432,8 +449,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时00分 ~ 05时54分]"
+          "appearance_count": 3,
+          "time_info": "[05时00分 ~ 06时41分]"
         },
         {
           "title": "金十图示：2026年07月17日（周五）美股热门股票行情一览（美股收盘）",
@@ -441,11 +458,12 @@
           "source": "金十数据",
           "ranks": [
             13,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时00分 ~ 05时54分]"
+          "appearance_count": 3,
+          "time_info": "[05时00分 ~ 06时41分]"
         },
         {
           "title": "金十图示：2026年07月17日（周五）热门中概股行情一览（美股收盘）",
@@ -453,11 +471,12 @@
           "source": "金十数据",
           "ranks": [
             14,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时00分 ~ 05时54分]"
+          "appearance_count": 3,
+          "time_info": "[05时00分 ~ 06时41分]"
         },
         {
           "title": "美股收盘：三大股指低收，芯片股涨跌不一",
@@ -500,6 +519,17 @@
           "time_info": "02时55分"
         },
         {
+          "title": "现货黄金涨1%收复4000美元整数位心理关口，本周跌2.5%，白银本周跌6.6%",
+          "url": "https://wallstreetcn.com/livenews/3135913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时54分 ~ 06时41分]"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：截至7月14日当周，COMEX黄金投机者将净多头持仓增加4,294手至119,147手。COMEX白银投机者将净多头持仓减少1,755手至10,377手。COMEX铜投机者将净多头持仓增加1,536手至61,932手。",
           "url": "https://flash.jin10.com/detail/20260718033105365800",
           "source": "金十数据",
@@ -509,17 +539,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
-        },
-        {
-          "title": "现货黄金涨1%收复4000美元整数位心理关口，本周跌2.5%，白银本周跌6.6%",
-          "url": "https://wallstreetcn.com/livenews/3135913",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时54分"
         },
         {
           "title": "现货白银日内涨幅达1.0%，报56.06美元/盎司。",
@@ -555,11 +574,12 @@
           "source": "金十数据",
           "ranks": [
             9,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时00分 ~ 05时54分]"
+          "appearance_count": 3,
+          "time_info": "[05时00分 ~ 06时41分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌1.81%，报6280.72点，本周累计上涨2.61%，7月15-16日持续走高。 热门中概股里，百度初步收跌4.8%，美团、小鹏、腾讯、理想跌超3%，拼多多、日月光半导体、阿里跌超2%，网易涨0.7%，阿特斯太阳能涨1.5%，大全新能源涨2.2%，晶科能源涨3.1%。 ETF中，中国科技指数ETF（CQQQ）收跌5.07%，本周跌9.56%； XtrackersHarvest中证50（ASHS）收跌4.65%，本周跌11.31%； 德银嘉实沪深300指数ETF（ASHR）收跌2.66%，本周跌4.95%； 中概互联网指数ETF（KWEB）收跌2.44%，本周涨1.63%——延续此前两周先后反弹4.39%、5.56%的表现； MSCI新兴市场ex中国ETF（EMXC）收跌1.08%，本周累跌6.64%。",
@@ -570,8 +590,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时00分 ~ 05时54分]"
+          "appearance_count": 3,
+          "time_info": "[05时00分 ~ 06时41分]"
         },
         {
           "title": "费城半导体指数较6月22日创下的历史收盘高点下跌20.2%。",
@@ -579,11 +599,12 @@
           "source": "金十数据",
           "ranks": [
             16,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时00分 ~ 05时54分]"
+          "appearance_count": 3,
+          "time_info": "[05时00分 ~ 06时41分]"
         },
         {
           "title": "本周，存储芯片指数跌16.7%——成分股闪迪跌27.3%、西部数据跌17.6%、美光跌11.8%。标普累跌1.5%，道指累跌0.8%，纳指累跌2.7%。费城半导体指数跌9.5%。 标普500指数初步收跌约1%，电信板块跌2.4%，可选消费板块跌1.5%，科技板块跌0.8%，能源板块涨1.1%。 纳斯达克100指数初步收跌1.5%，成分股中，ISRG初步收跌13.8%，铿腾电子跌9%，新思科技跌8%，奈飞跌6.9%，应用材料、Astera Labs跌超5%，西部数据涨2.2%，Diamondback Energy涨2.9%，Nebius集团涨3%，Lumentum涨4.1%，希捷科技涨6.2%。 可口可乐初步收跌4.1%，与IBM、家得宝、高盛、SHW、麦当劳、谷歌A领跌道指成分股，苹果涨0.1%，思科涨2.1%，Travelers Companies Inc.涨9.5%。",
@@ -609,9 +630,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时54分 ~ 06时41分]"
         },
         {
           "title": "美债收益率刷新日高，投资者关注美国与伊朗的紧张局势。 WTI原油5分钟内上涨0.6美元/桶，报81.32美元/桶；布伦特原油5分钟内上涨0.51美元/桶，报87.31美元/桶。 据Axios报道，美国向以色列增派更多（超过20架）加油机。",
@@ -635,11 +656,12 @@
           "url": "https://flash.jin10.com/detail/20260718050516466800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时54分 ~ 06时41分]"
         },
         {
           "title": "美元指数本周累跌约0.2%",
