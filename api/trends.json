@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T12:58:48.989255+08:00",
-  "total_titles_processed": 960,
+  "generated_at": "2026-07-17T15:13:46.793216+08:00",
+  "total_titles_processed": 1116,
   "failed_sources": [],
   "trends": [
     {
@@ -109,6 +109,18 @@
           "time_info": "[02时59分 ~ 04时02分]"
         },
         {
+          "title": "美国政府新规收紧国际学生等入境居留期限 美军连续第五晚打击伊朗 | 环球市场",
+          "url": "https://www.cls.cn/detail/2428979",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 15时13分]"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社：伊朗班达尔阿巴斯附近遭到美国袭击，霍尔木兹甘省政府称暂无人员伤亡和财产损失。",
           "url": "https://flash.jin10.com/detail/20260717004358097800",
           "source": "金十数据",
@@ -184,17 +196,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
-        },
-        {
-          "title": "美国政府新规收紧国际学生等入境居留期限 美军连续第五晚打击伊朗 | 环球市场",
-          "url": "https://www.cls.cn/detail/2428979",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时58分"
         },
         {
           "title": "白宫称伊朗仍在与美国对话",
@@ -299,7 +300,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
@@ -329,11 +330,12 @@
           "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时54分 ~ 12时58分]"
+          "appearance_count": 4,
+          "time_info": "[09时54分 ~ 15时13分]"
         },
         {
           "title": "美国总统特朗普：不转播我演讲的电视网应被吊销执照。",
@@ -345,6 +347,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "特朗普说别人都在笑话美国",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E5%88%AB%E4%BA%BA%E9%83%BD%E5%9C%A8%E7%AC%91%E8%AF%9D%E7%BE%8E%E5%9B%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
         },
         {
           "title": "白宫提词员利用特朗普演讲内幕获利逾10万美元，CFTC对其展开调查",
@@ -375,11 +388,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时54分 ~ 12时58分]"
+          "appearance_count": 4,
+          "time_info": "[09时54分 ~ 15时13分]"
         },
         {
           "title": "美国总统特朗普：国会必须通过选民身份识别法案。",
@@ -399,7 +413,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
@@ -520,6 +534,17 @@
           "time_info": "[01时06分 ~ 05时58分]"
         },
         {
+          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
+          "url": "https://wallstreetcn.com/articles/3777075",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时52分 ~ 15时13分]"
+        },
+        {
           "title": "美股期指走低 纳指期货跌1% 芯片股普遍承压 | 今夜看点",
           "url": "https://www.cls.cn/detail/2428765",
           "source": "财联社热门",
@@ -543,17 +568,6 @@
           "time_info": "[01时06分 ~ 05时58分]"
         },
         {
-          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
-          "url": "https://wallstreetcn.com/articles/3777075",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时52分 ~ 12时58分]"
-        },
-        {
           "title": "美股收盘：芯片股持续下挫拖累纳指跌近1.5% 存储、光通信板块领跌",
           "url": "https://www.cls.cn/detail/2428956",
           "source": "财联社热门",
@@ -563,8 +577,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时52分 ~ 12时58分]"
+          "appearance_count": 6,
+          "time_info": "[07时52分 ~ 15时13分]"
         },
         {
           "title": "百胜餐饮集团美股盘后下跌4%，美国食品药品监督管理局（FDA）将就塔可钟（Taco Bell）的生菜问题发布警告。",
@@ -589,6 +603,18 @@
           "time_info": "04时02分"
         },
         {
+          "title": "7月17日投资避雷针：美股半导体板块再度大跌 SK海力士、闪迪跌超12%",
+          "url": "https://www.cls.cn/detail/2429026",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时54分 ~ 15时13分]"
+        },
+        {
           "title": "美股芯片股深夜大跌",
           "url": "https://www.toutiao.com/trending/7663271539885739558/",
           "source": "今日头条",
@@ -599,18 +625,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时52分 ~ 09时55分]"
-        },
-        {
-          "title": "7月17日投资避雷针：美股半导体板块再度大跌 SK海力士、闪迪跌超12%",
-          "url": "https://www.cls.cn/detail/2429026",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时54分 ~ 12时58分]"
         },
         {
           "title": "金十图示：2026年07月16日（周四）美股热门股票行情一览（美股盘中）",
@@ -674,7 +688,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
@@ -704,7 +718,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "涉晶圆刻蚀、清洗等环节 两大半导体材料齐涨价",
@@ -772,6 +786,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "国产二维半导体产线投产",
+          "url": "https://www.toutiao.com/trending/7662388447847759922/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
         }
       ]
     },
@@ -872,6 +897,35 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【早报】美股存储股再遭重挫；美军连续空袭伊朗；油价、金价双双下跌；多只芯片股发布重要公告",
+          "url": "https://www.cls.cn/detail/2428987",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时52分 ~ 15时13分]"
+        },
+        {
+          "title": "金十图示：2026年07月17日（周五）上海金午盘价为872.37元/克，较国际金价（约为871.26元/克），高1.11元/克。",
+          "url": "https://flash.jin10.com/detail/20260717150219408800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -924,24 +978,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【早报】美股存储股再遭重挫；美军连续空袭伊朗；油价、金价双双下跌；多只芯片股发布重要公告",
-          "url": "https://www.cls.cn/detail/2428987",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时52分 ~ 12时58分]"
         }
       ]
     }
