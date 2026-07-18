@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T04:53:48.974192+08:00",
-  "total_titles_processed": 452,
+  "generated_at": "2026-07-19T05:42:50.367885+08:00",
+  "total_titles_processed": 468,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时50分 ~ 04时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时50分 ~ 05时42分]"
         },
         {
           "title": "美国袭击伊朗在波斯湾周边的锡里克（Sirik）。（伊朗媒体Tasnim）",
@@ -27,19 +27,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 04时53分]"
-        },
-        {
-          "title": "据华尔街日报：美国熟悉相关袭击情况的官员表示，伊朗已适应美国的防御体系，发射的导弹速度极高，且在飞向地面过程中能够机动变轨。",
-          "url": "https://flash.jin10.com/detail/20260719041234832800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 05时42分]"
         },
         {
           "title": "伊朗外交部发言人：美国违反协议，造成“不可能”全面落实谅解备忘录（MoU）。 美国违反MoU期间，伊朗不会全面履行MoU提出的义务。（伊朗半官方媒体Tasnim）",
@@ -50,8 +39,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 04时53分]"
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 05时42分]"
         },
         {
           "title": "据美联社：自去年2月与伊朗爆发战争以来，已有16名美国士兵遇难，超过430人受伤。",
@@ -60,11 +49,12 @@
           "ranks": [
             2,
             13,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时51分 ~ 04时53分]"
+          "appearance_count": 4,
+          "time_info": "[02时51分 ~ 05时42分]"
         },
         {
           "title": "伊朗第一副总统：谅解备忘录墨迹未干，美国就发动袭击",
@@ -78,6 +68,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时51分 ~ 04时53分]"
+        },
+        {
+          "title": "伊朗驻巴基斯坦大使：美国无意推动协议取得成功",
+          "url": "https://flash.jin10.com/detail/20260719034107497800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时01分 ~ 05时42分]"
         },
         {
           "title": "伊朗塔斯尼姆通讯社发布伊朗导弹击中约旦穆瓦法克·萨勒提空军基地的瞬间。此次袭击导致两名美国军人死亡，另有一名美国军人失踪。",
@@ -105,16 +108,16 @@
           "time_info": "[00时46分 ~ 01时50分]"
         },
         {
-          "title": "伊朗驻巴基斯坦大使：美国无意推动协议取得成功",
-          "url": "https://flash.jin10.com/detail/20260719034107497800",
+          "title": "据华尔街日报：美国熟悉相关袭击情况的官员表示，伊朗已适应美国的防御体系，发射的导弹速度极高，且在飞向地面过程中能够机动变轨。",
+          "url": "https://flash.jin10.com/detail/20260719041234832800",
           "source": "金十数据",
           "ranks": [
-            3,
-            12
+            5,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时01分 ~ 04时53分]"
+          "time_info": "[04时53分 ~ 05时42分]"
         },
         {
           "title": "伊朗最高领袖：美国行为证明其总统签字“毫无价值”",
@@ -124,8 +127,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时51分 ~ 04时53分]"
+          "appearance_count": 4,
+          "time_info": "[02时51分 ~ 05时42分]"
         },
         {
           "title": "报道称美国对伊朗南部阿巴斯港发动空袭",
@@ -133,11 +136,25 @@
           "source": "金十数据",
           "ranks": [
             6,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时01分 ~ 04时53分]"
+          "appearance_count": 3,
+          "time_info": "[04时01分 ~ 05时42分]"
+        },
+        {
+          "title": "美国中央司令部：美军继续严格执行针对伊朗正在实施的海上封锁。截至7月18日，美国中央司令部已改道5艘商船，并使1艘船舶失去行动能力。",
+          "url": "https://flash.jin10.com/detail/20260719030439022800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时01分 ~ 05时42分]"
         },
         {
           "title": "据以色列第13频道：美国正准备通过向中东地区派遣约100架加油机，扩大对伊朗的行动范围。以色列国防机构正在为该地区可能出现的重大局势升级做准备。",
@@ -150,18 +167,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时51分 ~ 04时01分]"
-        },
-        {
-          "title": "美国中央司令部：美军继续严格执行针对伊朗正在实施的海上封锁。截至7月18日，美国中央司令部已改道5艘商船，并使1艘船舶失去行动能力。",
-          "url": "https://flash.jin10.com/detail/20260719030439022800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时01分 ~ 04时53分]"
         },
         {
           "title": "伊朗最高领袖称美国露出真面目",
@@ -201,7 +206,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "白宫声称特朗普并非针对中国",
@@ -212,8 +217,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 04时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 05时42分]"
         },
         {
           "title": "穆杰塔巴：特朗普的签名毫无价值、无效",
@@ -223,8 +228,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时01分 ~ 04时53分]"
+          "appearance_count": 3,
+          "time_info": "[04时01分 ~ 05时42分]"
         },
         {
           "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
@@ -234,8 +239,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 04时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 05时42分]"
         },
         {
           "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
@@ -246,8 +251,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 04时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 05时42分]"
         },
         {
           "title": "如何看待白宫提词器操作员提前获取特朗普演讲稿，并据此押注获利近 10 万元，最终被调查？",
@@ -261,8 +266,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 04时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 05时42分]"
         },
         {
           "title": "空气质量影响世界杯决赛？特朗普扬言就加拿大山火烟霾追加关税",
@@ -274,8 +279,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 04时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 05时42分]"
         },
         {
           "title": "特朗普透露：因凡蒂诺曾建议美国和中国联合举办一届世界杯",
@@ -287,19 +292,19 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 04时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 05时42分]"
         },
         {
-          "title": "伊朗驻巴基斯坦大使：特朗普摧毁了两项重要外交成果",
-          "url": "https://flash.jin10.com/detail/20260719043315182800",
+          "title": "据黎巴嫩国家通讯社：黎巴嫩总统奥恩已抵达华盛顿，将于明日开始与美国国务卿鲁比奥会面，并于下周二与美国总统特朗普会晤。",
+          "url": "https://flash.jin10.com/detail/20260719045619804800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时53分"
+          "time_info": "05时42分"
         },
         {
           "title": "美媒：特朗普政府仍未说明本轮冲突的持续时间与最终目标",
@@ -313,6 +318,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时50分 ~ 04时01分]"
+        },
+        {
+          "title": "伊朗驻巴基斯坦大使：特朗普摧毁了两项重要外交成果",
+          "url": "https://flash.jin10.com/detail/20260719043315182800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时42分]"
         },
         {
           "title": "特朗普政府拟向欧洲等地提供拨款 支持“MAGA”导向项目",
@@ -393,8 +410,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 04时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 05时42分]"
         },
         {
           "title": "国际金价险守4000美元关口 美伊冲突升级双方扩大打击范围 | 环球市场",
@@ -404,8 +421,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 04时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 05时42分]"
         }
       ]
     },
@@ -421,8 +438,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 04时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 05时42分]"
         },
         {
           "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
@@ -433,8 +450,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 04时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 05时42分]"
         }
       ]
     },
@@ -450,8 +467,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 04时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 05时42分]"
         }
       ]
     }
