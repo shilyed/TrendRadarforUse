@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T07:44:54.608939+08:00",
-  "total_titles_processed": 606,
+  "generated_at": "2026-07-18T09:45:12.618747+08:00",
+  "total_titles_processed": 723,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "中方驳斥特朗普“中国干预美国大选”论调",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时03分 ~ 07时44分]"
+          "appearance_count": 10,
+          "time_info": "[01时03分 ~ 09时45分]"
         },
         {
           "title": "生死博弈！“特朗普美元”来了",
@@ -52,6 +52,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "特朗普的社交帖文被包装成付费产品，华尔街机构不付费就将“慢人一步”",
+          "url": "https://flash.jin10.com/detail/20260718092759635800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         },
         {
           "title": "加拿大山火肆虐，特朗普要求对方通过关税承担污染成本",
@@ -140,6 +151,18 @@
           "time_info": "[05时54分 ~ 07时44分]"
         },
         {
+          "title": "曝特朗普买股票后在社媒发有利信息",
+          "url": "https://www.toutiao.com/trending/7662654350632255514/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时44分 ~ 09时45分]"
+        },
+        {
           "title": "加拿大野火殃及美国，特朗普称要用关税来支付",
           "url": "https://flash.jin10.com/detail/20260718033109369800",
           "source": "金十数据",
@@ -217,17 +240,6 @@
           "time_info": "04时01分"
         },
         {
-          "title": "曝特朗普买股票后在社媒发有利信息",
-          "url": "https://www.toutiao.com/trending/7662654350632255514/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时44分"
-        },
-        {
           "title": "据以色列媒体：以色列总理内塔尼亚胡推迟访美，不仅是因为已故共和党参议员林赛·格雷厄姆的葬礼安排有变，还因与特朗普政府分歧加剧，尤其是美国副总统万斯近期严厉批评以色列。",
           "url": "https://flash.jin10.com/detail/20260718014652994800",
           "source": "金十数据",
@@ -253,7 +265,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "据伊朗迈赫尔通讯社：美国导弹袭击了伊朗阿瓦士市西南部地区。",
@@ -269,15 +281,27 @@
           "time_info": "[05时54分 ~ 07时44分]"
         },
         {
+          "title": "美国军方：美国军方结束了对伊朗连续第七夜的打击。",
+          "url": "https://flash.jin10.com/detail/20260718094009737800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
           "title": "美国：伊朗朝着美国位于沙特的军事基地发射导弹。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3135937",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时44分 ~ 09时45分]"
         },
         {
           "title": "伊朗称袭击美驻巴林设施 警告美国中东AI资产或成目标",
@@ -331,6 +355,17 @@
           "time_info": "[04时01分 ~ 05时00分]"
         },
         {
+          "title": "伊朗军方声称，最新的攻击瞄准了科威特的美国弹药库、桥梁以及约旦的燃料储备。",
+          "url": "https://flash.jin10.com/detail/20260718085336636800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
           "title": "LS Power：美国电力市场基本不受伊朗战争推高油价影响",
           "url": "https://flash.jin10.com/detail/20260717235035290800",
           "source": "金十数据",
@@ -340,6 +375,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
+        },
+        {
+          "title": "据伊朗学生通讯社：阿巴斯港（Bandar Abbas）附近一处地点遭到美国军方袭击。",
+          "url": "https://flash.jin10.com/detail/20260718084737738800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         },
         {
           "title": "伊朗关联油轮掉头、蛇形机动，美国实施海上封锁",
@@ -397,6 +443,17 @@
           "time_info": "05时00分"
         },
         {
+          "title": "伊朗国家电视台援引伊朗军方消息称，已对美国在科威特和约旦的营地及基地进行了打击。",
+          "url": "https://flash.jin10.com/detail/20260718075831060800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
           "title": "据伊通社（IRNA）：伊朗称在北印度洋发射巡航导弹打击美国舰艇，启动“闪电行动”第十三阶段。",
           "url": "https://flash.jin10.com/detail/20260718034803406800",
           "source": "金十数据",
@@ -411,7 +468,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
@@ -441,11 +498,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时41分 ~ 07时44分]"
+          "appearance_count": 4,
+          "time_info": "[06时41分 ~ 09时45分]"
         },
         {
           "title": "金十图示：2026年07月17日（周五）热门中概股行情一览（美股盘中）",
@@ -513,6 +571,28 @@
           "time_info": "[05时00分 ~ 07时44分]"
         },
         {
+          "title": "美股半导体指数跌入熊市",
+          "url": "https://www.toutiao.com/trending/7663631586239188521/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 09时45分]"
+        },
+        {
+          "title": "资深财富管理人士：美股或回调40%",
+          "url": "https://www.toutiao.com/trending/7662685956433330227/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 09时45分]"
+        },
+        {
           "title": "美股收盘：三大股指低收，芯片股涨跌不一",
           "url": "https://flash.jin10.com/detail/20260718040114530800",
           "source": "金十数据",
@@ -548,7 +628,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -569,11 +649,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时54分 ~ 07时44分]"
+          "appearance_count": 4,
+          "time_info": "[05时54分 ~ 09时45分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至7月14日当周，COMEX黄金投机者将净多头持仓增加4,294手至119,147手。COMEX白银投机者将净多头持仓减少1,755手至10,377手。COMEX铜投机者将净多头持仓增加1,536手至61,932手。",
@@ -612,7 +693,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "费城半导体指数进入熊市",
@@ -654,6 +735,17 @@
           "time_info": "[05时00分 ~ 06时41分]"
         },
         {
+          "title": "韩国半导体杠杆爆仓",
+          "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%A0%E6%9D%86%E7%88%86%E4%BB%93&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 09时45分]"
+        },
+        {
           "title": "本周，存储芯片指数跌16.7%——成分股闪迪跌27.3%、西部数据跌17.6%、美光跌11.8%。标普累跌1.5%，道指累跌0.8%，纳指累跌2.7%。费城半导体指数跌9.5%。 标普500指数初步收跌约1%，电信板块跌2.4%，可选消费板块跌1.5%，科技板块跌0.8%，能源板块涨1.1%。 纳斯达克100指数初步收跌1.5%，成分股中，ISRG初步收跌13.8%，铿腾电子跌9%，新思科技跌8%，奈飞跌6.9%，应用材料、Astera Labs跌超5%，西部数据涨2.2%，Diamondback Energy涨2.9%，Nebius集团涨3%，Lumentum涨4.1%，希捷科技涨6.2%。 可口可乐初步收跌4.1%，与IBM、家得宝、高盛、SHW、麦当劳、谷歌A领跌道指成分股，苹果涨0.1%，思科涨2.1%，Travelers Companies Inc.涨9.5%。",
           "url": "https://wallstreetcn.com/livenews/3135896",
           "source": "华尔街见闻-快讯",
@@ -676,11 +768,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时54分 ~ 07时44分]"
+          "appearance_count": 4,
+          "time_info": "[05时54分 ~ 09时45分]"
         },
         {
           "title": "美债收益率刷新日高，投资者关注美国与伊朗的紧张局势。 WTI原油5分钟内上涨0.6美元/桶，报81.32美元/桶；布伦特原油5分钟内上涨0.51美元/桶，报87.31美元/桶。 据Axios报道，美国向以色列增派更多（超过20架）加油机。",
@@ -734,11 +827,12 @@
           "url": "https://www.cls.cn/detail/2430073",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时44分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时44分 ~ 09时45分]"
         }
       ]
     }
