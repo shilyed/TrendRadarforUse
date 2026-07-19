@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T22:23:45.984190+08:00",
-  "total_titles_processed": 1518,
+  "generated_at": "2026-07-19T23:50:21.948822+08:00",
+  "total_titles_processed": 1612,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 35,
+      "match_count": 38,
       "titles": [
         {
           "title": "美军对伊朗发动新一轮空袭，约旦美军基地5天遭4袭，美军两人死亡，伊朗最高领袖强调将给美国留下“刻骨铭心的教训”",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时15分 ~ 22时23分]"
+          "appearance_count": 7,
+          "time_info": "[13时15分 ~ 23时50分]"
         },
         {
           "title": "美国中央司令部：2名美军士兵在约旦因伊朗袭击而死亡，另有1人失踪",
@@ -40,8 +40,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时20分 ~ 22时23分]"
+          "appearance_count": 5,
+          "time_info": "[18时20分 ~ 23时50分]"
         },
         {
           "title": "美国袭击伊朗在波斯湾周边的锡里克（Sirik）。（伊朗媒体Tasnim）",
@@ -66,6 +66,21 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时46分 ~ 07时44分]"
+        },
+        {
+          "title": "协议成废纸,伊朗掀桌硬刚美国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356311&amp;topic_name=%E5%8D%8F%E8%AE%AE%E6%88%90%E5%BA%9F%E7%BA%B8%2C%E4%BC%8A%E6%9C%97%E6%8E%80%E6%A1%8C%E7%A1%AC%E5%88%9A%E7%BE%8E%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            7,
+            10,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时02分 ~ 23时50分]"
         },
         {
           "title": "伊朗最高领袖：美国行为证明其总统签字“毫无价值”",
@@ -116,20 +131,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时41分 ~ 09时53分]"
-        },
-        {
-          "title": "协议成废纸,伊朗掀桌硬刚美国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356311&amp;topic_name=%E5%8D%8F%E8%AE%AE%E6%88%90%E5%BA%9F%E7%BA%B8%2C%E4%BC%8A%E6%9C%97%E6%8E%80%E6%A1%8C%E7%A1%AC%E5%88%9A%E7%BE%8E%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            7,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时02分 ~ 22时23分]"
         },
         {
           "title": "据美联社：自去年2月与伊朗爆发战争以来，已有16名美国士兵遇难，超过430人受伤。",
@@ -258,6 +259,18 @@
           "time_info": "[20时58分 ~ 22时23分]"
         },
         {
+          "title": "伊朗：美国近期发动的袭击已造成伊朗超过50人罹难，517人受伤。",
+          "url": "https://wallstreetcn.com/livenews/3136292",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 23时50分]"
+        },
+        {
           "title": "伊朗最高领袖称美国露出真面目",
           "url": "https://flash.jin10.com/detail/20260719005228630800",
           "source": "金十数据",
@@ -268,6 +281,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时50分 ~ 02时51分]"
+        },
+        {
+          "title": "伊朗称击落一架美国LUCAS无人机",
+          "url": "https://flash.jin10.com/detail/20260719230939240800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
+        },
+        {
+          "title": "美国能源部长称对伊朗军事行动将持续进行",
+          "url": "https://wallstreetcn.com/livenews/3136306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
         },
         {
           "title": "伊朗谴责美国对在建核电站发动“恐怖袭击”",
@@ -281,17 +316,6 @@
           "time_info": "19时50分"
         },
         {
-          "title": "伊朗：美国近期发动的袭击已造成伊朗超过50人罹难，517人受伤。",
-          "url": "https://wallstreetcn.com/livenews/3136292",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
           "title": "美国中央司令部：于美东时间7月18日晚上11:30完成了对伊朗的另一轮打击。",
           "url": "https://flash.jin10.com/detail/20260719113717584800",
           "source": "金十数据",
@@ -301,6 +325,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
+        },
+        {
+          "title": "美国能源部长称对伊朗军事行动将持续进行",
+          "url": "https://flash.jin10.com/detail/20260719221347953800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
         },
         {
           "title": "据伊朗媒体Fars News：伊朗革命卫队海军一位知情人士表示，只要美国的恶劣行径持续存在，霍尔木兹海峡就将继续关闭。目前，没有船只通过霍尔木兹海峡；任何试图通过该海峡的行为，特别是来自挑衅船只的尝试，都将遭到伊朗武装力量的回应。",
@@ -408,7 +443,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
@@ -427,7 +462,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "穆杰塔巴：特朗普的签名毫无价值、无效",
@@ -455,6 +490,20 @@
           "time_info": "[00时46分 ~ 07时44分]"
         },
         {
+          "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
+          "url": "https://www.cls.cn/detail/2430341",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时15分 ~ 23时50分]"
+        },
+        {
           "title": "特朗普透露：因凡蒂诺曾建议美国和中国联合举办一届世界杯",
           "url": "https://m.thepaper.cn/newsDetail_forward_33611562",
           "source": "澎湃新闻",
@@ -480,20 +529,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时46分 ~ 13时15分]"
-        },
-        {
-          "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
-          "url": "https://www.cls.cn/detail/2430341",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时15分 ~ 22时23分]"
         },
         {
           "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
@@ -540,33 +575,12 @@
           "source": "凤凰网",
           "ranks": [
             9,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时20分 ~ 22时23分]"
-        },
-        {
-          "title": "美国总统特朗普：英国拥有如此巨大的潜力，但这一切都始于开发北海石油。",
-          "url": "https://flash.jin10.com/detail/20260719220841809800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
-          "title": "美国总统特朗普：此外，有消息称英国将拆除那些老旧且外观丑陋的风力发电机，这些设备一直笼罩着阿伯丁市并破坏着城市景观。",
-          "url": "https://flash.jin10.com/detail/20260719220832968800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
+          "appearance_count": 5,
+          "time_info": "[18时20分 ~ 23时50分]"
         },
         {
           "title": "伊朗驻巴基斯坦大使：特朗普摧毁了两项重要外交成果",
@@ -582,17 +596,6 @@
           "time_info": "[04时53分 ~ 07时44分]"
         },
         {
-          "title": "美国总统特朗普：英国每年向挪威支付数十亿美元购买石油，而挪威开采的却只是北海价值较低的区域——这简直太荒谬了。",
-          "url": "https://flash.jin10.com/detail/20260719220803871800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
           "title": "据黎巴嫩国家通讯社：黎巴嫩总统奥恩已抵达华盛顿，将于明日开始与美国国务卿鲁比奥会面，并于下周二与美国总统特朗普会晤。",
           "url": "https://flash.jin10.com/detail/20260719045619804800",
           "source": "金十数据",
@@ -604,28 +607,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时42分 ~ 09时53分]"
-        },
-        {
-          "title": "美国总统特朗普：这是地球上最优质的石油资源之一，仍有数百年的产能，许多资源甚至尚未被发现，这将使英国从一个贫困的灾难国变成世界上最富有的国家之一。",
-          "url": "https://flash.jin10.com/detail/20260719220736369800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
-          "title": "美国总统特朗普：苏格兰阿伯丁的市民们正在街头载歌载舞，因为即将就任的英国首相伯纳姆宣布，他将全面开放宝贵的北海石油资源。",
-          "url": "https://flash.jin10.com/detail/20260719220638278800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
         },
         {
           "title": "特朗普：“完全不在乎”伊朗暂停履行临时协议",
@@ -679,6 +660,42 @@
           "time_info": "[01时50分 ~ 04时01分]"
         },
         {
+          "title": "美国总统特朗普：英国拥有如此巨大的潜力，但这一切都始于开发北海石油。",
+          "url": "https://flash.jin10.com/detail/20260719220841809800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 23时50分]"
+        },
+        {
+          "title": "美国总统特朗普：此外，有消息称英国将拆除那些老旧且外观丑陋的风力发电机，这些设备一直笼罩着阿伯丁市并破坏着城市景观。",
+          "url": "https://flash.jin10.com/detail/20260719220832968800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 23时50分]"
+        },
+        {
+          "title": "美国总统特朗普：英国每年向挪威支付数十亿美元购买石油，而挪威开采的却只是北海价值较低的区域——这简直太荒谬了。",
+          "url": "https://flash.jin10.com/detail/20260719220803871800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 23时50分]"
+        },
+        {
           "title": "伊朗最高领袖：美国一再违背协议，特朗普的签字毫无信誉",
           "url": "https://flash.jin10.com/detail/20260719003200067800",
           "source": "金十数据",
@@ -689,6 +706,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时46分 ~ 01时50分]"
+        },
+        {
+          "title": "美国总统特朗普：这是地球上最优质的石油资源之一，仍有数百年的产能，许多资源甚至尚未被发现，这将使英国从一个贫困的灾难国变成世界上最富有的国家之一。",
+          "url": "https://flash.jin10.com/detail/20260719220736369800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 23时50分]"
+        },
+        {
+          "title": "美国总统特朗普：苏格兰阿伯丁的市民们正在街头载歌载舞，因为即将就任的英国首相伯纳姆宣布，他将全面开放宝贵的北海石油资源。",
+          "url": "https://flash.jin10.com/detail/20260719220638278800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 23时50分]"
         },
         {
           "title": "谁将与特朗普同举大力神杯",
@@ -729,6 +770,18 @@
           "time_info": "[02时51分 ~ 04时01分]"
         },
         {
+          "title": "特朗普政府：将在未来数周、数月设法降低能源价格",
+          "url": "https://wallstreetcn.com/livenews/3136290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 23时50分]"
+        },
+        {
           "title": "特朗普点评英格兰队战术",
           "url": "https://www.douyin.com/hot/2575689",
           "source": "抖音",
@@ -738,6 +791,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时41分 ~ 07时44分]"
+        },
+        {
+          "title": "美国总统特朗普宣称：北海石油是世界上最优质的石油来源之一。 英国的巨大潜力始于开放北海石油。 英国花钱向挪威买油简直是荒唐。 “我们爱你，苏格兰！”",
+          "url": "https://wallstreetcn.com/livenews/3136305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
         },
         {
           "title": "伊朗最高领袖指责美国一再违约，称：特朗普的签名“毫无价值、无效”",
@@ -760,17 +824,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
-        },
-        {
-          "title": "特朗普政府：将在未来数周、数月设法降低能源价格",
-          "url": "https://wallstreetcn.com/livenews/3136290",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
         },
         {
           "title": "据纽约邮报：美国总统特朗普表示，美国的打击阻止了伊朗获得核武器。如果不制止伊朗，地区可能会陷入更广泛的冲突。",
@@ -970,8 +1023,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时58分 ~ 22时23分]"
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 23时50分]"
         }
       ]
     }
