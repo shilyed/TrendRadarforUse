@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T20:11:03.877382+08:00",
-  "total_titles_processed": 1379,
+  "generated_at": "2026-07-20T23:04:13.749216+08:00",
+  "total_titles_processed": 1541,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "美国援外大转向：特朗普要向欧洲输出“MAGA”",
@@ -42,6 +42,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时43分 ~ 06时43分]"
+        },
+        {
+          "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时08分 ~ 23时04分]"
         },
         {
           "title": "特朗普：痛击伊朗，为身亡美军报仇",
@@ -108,19 +122,6 @@
           "time_info": "[00时48分 ~ 04时04分]"
         },
         {
-          "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时08分 ~ 20时11分]"
-        },
-        {
           "title": "特朗普政府：将在未来数周、数月设法降低能源价格",
           "url": "https://wallstreetcn.com/livenews/3136290",
           "source": "华尔街见闻-快讯",
@@ -185,6 +186,17 @@
           "time_info": "[05时43分 ~ 07时51分]"
         },
         {
+          "title": "如何看特朗普不愿离开颁奖台",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E6%84%BF%E7%A6%BB%E5%BC%80%E9%A2%81%E5%A5%96%E5%8F%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时03分 ~ 23时04分]"
+        },
+        {
           "title": "美军死亡人数达到17人，特朗普仍然在战略应对方面沉默不语",
           "url": "https://wallstreetcn.com/livenews/3136355",
           "source": "华尔街见闻-快讯",
@@ -237,7 +249,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时11分"
         },
@@ -264,6 +276,17 @@
           "time_info": "07时51分"
         },
         {
+          "title": "英国新上任的首相伯纳姆已经与美国总统特朗普通话。（英国卫报）",
+          "url": "https://wallstreetcn.com/livenews/3136960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
           "title": "特朗普给西班牙颁奖后赖着不走",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%BB%99%E8%A5%BF%E7%8F%AD%E7%89%99%E9%A2%81%E5%A5%96%E5%90%8E%E8%B5%96%E7%9D%80%E4%B8%8D%E8%B5%B0%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -286,6 +309,28 @@
           "time_info": "07时51分"
         },
         {
+          "title": "美国白宫官员：美国总统特朗普与新任英国首相伯纳姆进行了交谈。",
+          "url": "https://flash.jin10.com/detail/20260720223517066800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
+          "title": "墨西哥总统辛鲍姆：在世界杯的间隙，与美国贸易代表格里尔、商务部长卢特尼克、国务卿卢比奥对话。 并与美国总统特朗普、加拿大总理卡尼短暂对话。 （将）在周三、或者周四接见格里尔。",
+          "url": "https://wallstreetcn.com/livenews/3136953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
           "title": "特朗普称痛击伊朗为身亡美军报仇",
           "url": "https://wallstreetcn.com/livenews/3136417",
           "source": "华尔街见闻-快讯",
@@ -300,7 +345,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美军对伊朗发动新一轮空袭，约旦美军基地5天遭4袭，美军两人死亡，伊朗最高领袖强调将给美国留下“刻骨铭心的教训”",
@@ -315,6 +360,19 @@
           "time_info": "[00时48分 ~ 10时11分]"
         },
         {
+          "title": "伊朗外长：美国曾试图“收买”我们，我当场拒绝",
+          "url": "https://news.ifeng.com/c/8uuXB95ZA03",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时08分 ~ 23时04分]"
+        },
+        {
           "title": "协议成废纸,伊朗掀桌硬刚美国",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356311&amp;topic_name=%E5%8D%8F%E8%AE%AE%E6%88%90%E5%BA%9F%E7%BA%B8%2C%E4%BC%8A%E6%9C%97%E6%8E%80%E6%A1%8C%E7%A1%AC%E5%88%9A%E7%BE%8E%E5%9B%BD",
           "source": "贴吧",
@@ -327,18 +385,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时48分 ~ 14时08分]"
-        },
-        {
-          "title": "伊朗外长：美国曾试图“收买”我们，我当场拒绝",
-          "url": "https://news.ifeng.com/c/8uuXB95ZA03",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时08分 ~ 20时11分]"
         },
         {
           "title": "据伊朗Press TV：有消息指美国对伊朗城市大不里士发动了打击。",
@@ -486,6 +532,17 @@
           "time_info": "00时48分"
         },
         {
+          "title": "据法尔斯通讯社：伊朗称美国空袭设拉子，未造成人员伤亡。",
+          "url": "https://flash.jin10.com/detail/20260720224852744800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
           "title": "伊朗武装部队：将“毁灭性回击”美国野蛮行径",
           "url": "https://m.thepaper.cn/newsDetail_forward_33615489",
           "source": "澎湃新闻",
@@ -533,8 +590,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "芯片股抛售暂歇，美股高开，存储芯片股普涨，SK海力士涨4%，油价转跌",
+          "url": "https://wallstreetcn.com/articles/3777383",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时03分 ~ 23时04分]"
+        },
         {
           "title": "芯片股抛售暂歇，美股期指齐涨，存储股盘前走高，SK海力士涨5%，油价回吐涨幅",
           "url": "https://wallstreetcn.com/articles/3777383",
@@ -553,9 +621,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时11分"
+        },
+        {
+          "title": "美股芯片板块盘前反弹 中东局势扑朔迷离 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2431734",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时03分 ~ 23时04分]"
         },
         {
           "title": "7月20日投资避雷针：上周五美股三大指数集体收跌 费城半导体指数进入技术性熊市",
@@ -586,7 +665,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时11分"
         }
@@ -655,7 +734,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时11分"
         },
@@ -709,6 +788,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数DXY突破101，日内涨0.25%。",
+          "url": "https://flash.jin10.com/detail/20260720225453018800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         }
       ]
     },
