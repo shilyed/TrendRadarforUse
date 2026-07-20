@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T14:08:52.192812+08:00",
-  "total_titles_processed": 1017,
+  "generated_at": "2026-07-20T17:51:50.710194+08:00",
+  "total_titles_processed": 1225,
   "failed_sources": [],
   "trends": [
     {
@@ -184,6 +184,18 @@
           "time_info": "[06时43分 ~ 07时51分]"
         },
         {
+          "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时08分 ~ 17时51分]"
+        },
+        {
           "title": "谁将与特朗普同举大力神杯",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%81%E5%B0%86%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8C%E4%B8%BE%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF",
           "source": "bilibili 热搜",
@@ -216,17 +228,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
-        },
-        {
-          "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时08分"
         },
         {
           "title": "特朗普为西班牙颁奖",
@@ -305,6 +306,18 @@
           "time_info": "[00时48分 ~ 14时08分]"
         },
         {
+          "title": "伊朗外长：美国曾试图“收买”我们，我当场拒绝",
+          "url": "https://news.ifeng.com/c/8uuXB95ZA03",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时08分 ~ 17时51分]"
+        },
+        {
           "title": "据伊朗Press TV：有消息指美国对伊朗城市大不里士发动了打击。",
           "url": "https://flash.jin10.com/detail/20260720072937572800",
           "source": "金十数据",
@@ -314,17 +327,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
-        },
-        {
-          "title": "伊朗外长：美国曾试图“收买”我们，我当场拒绝",
-          "url": "https://news.ifeng.com/c/8uuXB95ZA03",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时08分"
         },
         {
           "title": "美国中央司令部开始对伊朗进行新一轮打击，已于美国东部时间晚上7点开始对伊朗进行空袭。",
@@ -569,7 +571,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
         },
@@ -637,9 +639,26 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储芯片",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "存储芯片人气股，连续四个交易日跌停",
+          "url": "https://www.cls.cn/detail/2430856",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
         }
       ]
     }
