@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-07-20T07:51:54.667685+08:00",
-  "total_titles_processed": 664,
+  "generated_at": "2026-07-20T10:11:18.027101+08:00",
+  "total_titles_processed": 827,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
-        {
-          "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
-          "url": "https://www.cls.cn/detail/2430341",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时48分 ~ 07时51分]"
-        },
         {
           "title": "美国援外大转向：特朗普要向欧洲输出“MAGA”",
           "url": "https://news.ifeng.com/c/8utCDuus6XE",
@@ -26,6 +14,18 @@
           "ranks": [
             4,
             5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 10时11分]"
+        },
+        {
+          "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
+          "url": "https://www.cls.cn/detail/2430341",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -184,13 +184,24 @@
           "time_info": "[04时04分 ~ 06时43分]"
         },
         {
+          "title": "特朗普：痛击伊朗，为身亡美军报仇",
+          "url": "https://news.ifeng.com/c/8uuJZX8B2mu",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
           "title": "特朗普摸大力神杯",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%91%B8%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF",
           "source": "百度热搜",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
         },
@@ -201,7 +212,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
         },
@@ -212,9 +223,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
+        },
+        {
+          "title": "特朗普给西班牙颁奖后赖着不走",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%BB%99%E8%A5%BF%E7%8F%AD%E7%89%99%E9%A2%81%E5%A5%96%E5%90%8E%E8%B5%96%E7%9D%80%E4%B8%8D%E8%B5%B0%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         },
         {
           "title": "美国总统特朗普将大力神杯颁给西班牙队。",
@@ -223,26 +245,38 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
+        },
+        {
+          "title": "特朗普称痛击伊朗为身亡美军报仇",
+          "url": "https://wallstreetcn.com/livenews/3136417",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "美军对伊朗发动新一轮空袭，约旦美军基地5天遭4袭，美军两人死亡，伊朗最高领袖强调将给美国留下“刻骨铭心的教训”",
           "url": "https://wallstreetcn.com/articles/3777329",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时48分 ~ 07时51分]"
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 10时11分]"
         },
         {
           "title": "协议成废纸,伊朗掀桌硬刚美国",
@@ -250,11 +284,12 @@
           "source": "贴吧",
           "ranks": [
             13,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时48分 ~ 07时51分]"
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 10时11分]"
         },
         {
           "title": "据伊朗Press TV：有消息指美国对伊朗城市大不里士发动了打击。",
@@ -263,7 +298,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
         },
@@ -274,7 +309,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
         },
@@ -402,6 +437,39 @@
           "time_info": "00时48分"
         },
         {
+          "title": "伊朗武装部队：将“毁灭性回击”美国野蛮行径",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33615489",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "伊朗革命卫队：两艘油轮在试图通过霍尔木兹海峡南部航线后被炸毁。 只要美国在该地区的行动继续，霍尔木兹海峡对于石化产品或“任何一滴油气”的运输都将是不安全的。",
+          "url": "https://wallstreetcn.com/livenews/3136434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：美国仍对通过外交途径解决伊朗问题持开放态度。",
+          "url": "https://flash.jin10.com/detail/20260720094116657800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
           "title": "伊朗称击落一架美国LUCAS无人机",
           "url": "https://flash.jin10.com/detail/20260719230939240800",
           "source": "金十数据",
@@ -411,6 +479,58 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "周末要闻汇总：费城半导体指数进入技术性熊市；茅台宣布涨价",
+          "url": "https://www.cls.cn/detail/2430503",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 10时11分]"
+        },
+        {
+          "title": "创业板指涨超3%，沪指涨1.32%，深成指涨1.73%，油气、算力租赁、半导体芯片、CPO等方向涨幅居前，沪深京三市上涨个股超4200只。",
+          "url": "https://wallstreetcn.com/livenews/3136456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "A股半导体芯片股盘初反弹，星宸科技20cm涨停，盛科通信、富瀚微涨超10%，普冉股份、银河微电、杰华特、芯导科技涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3136450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "创业板指涨超3%，半导体板块走强；成分股中，星宸科技20CM涨停，协创数据涨超10%。",
+          "url": "https://flash.jin10.com/detail/20260720093544502800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         }
       ]
     },
@@ -436,7 +556,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
         }
@@ -474,25 +594,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时43分 ~ 06时43分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周末要闻汇总：费城半导体指数进入技术性熊市；茅台宣布涨价",
-          "url": "https://www.cls.cn/detail/2430503",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时48分 ~ 07时51分]"
         }
       ]
     }
