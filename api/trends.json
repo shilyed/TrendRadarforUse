@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-22T05:58:03.280965+08:00",
-  "total_titles_processed": 547,
+  "generated_at": "2026-07-22T06:52:34.772758+08:00",
+  "total_titles_processed": 592,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 34,
       "titles": [
+        {
+          "title": "因人事任命非特朗普属意，美国考虑退出联合国难民署",
+          "url": "https://news.ifeng.com/c/8uwZlCa0EaK",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 06时52分]"
+        },
         {
           "title": "特朗普放话将轰炸伊朗“镐山” 认为可能存放离心机",
           "url": "https://flash.jin10.com/detail/20260722015056462800",
@@ -17,28 +28,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
-        },
-        {
-          "title": "美国联邦通信委员会：特朗普政府考虑禁止进口军用级无人机。",
-          "url": "https://flash.jin10.com/detail/20260722055028115800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
-          "title": "美国总统特朗普提名Adam Candeub负责司法部反垄断部门的事务。",
-          "url": "https://wallstreetcn.com/livenews/3137768",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
         },
         {
           "title": "特朗普承认伊朗在约旦“钻了空子”",
@@ -52,17 +41,6 @@
           "time_info": "00时20分"
         },
         {
-          "title": "特朗普“淡化”与伊朗谈判可能性，并称将在红海航运受威胁时出手",
-          "url": "https://wallstreetcn.com/livenews/3137767",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
           "title": "金十提示：美国总统特朗普与黎巴嫩总统白宫会晤的媒体公开部分结束。",
           "url": "https://flash.jin10.com/detail/20260721234532750800",
           "source": "金十数据",
@@ -72,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "特朗普有意提名国际足联主席因凡蒂诺出任联合国秘书长",
+          "url": "https://flash.jin10.com/detail/20260722064418802800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
         },
         {
           "title": "特朗普：胡塞武装若封锁红海，美国将采取行动",
@@ -85,15 +74,40 @@
           "time_info": "02时11分"
         },
         {
-          "title": "因人事任命非特朗普属意，美国考虑退出联合国难民署",
-          "url": "https://news.ifeng.com/c/8uwZlCa0EaK",
-          "source": "凤凰网",
+          "title": "美国联邦通信委员会：特朗普政府考虑禁止进口军用级无人机。",
+          "url": "https://flash.jin10.com/detail/20260722055028115800",
+          "source": "金十数据",
           "ranks": [
-            9
+            1,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 05时58分]"
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 06时52分]"
+        },
+        {
+          "title": "美国总统特朗普提名Adam Candeub负责司法部反垄断部门的事务。",
+          "url": "https://wallstreetcn.com/livenews/3137768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 06时52分]"
+        },
+        {
+          "title": "特朗普“淡化”与伊朗谈判可能性，并称将在红海航运受威胁时出手",
+          "url": "https://wallstreetcn.com/livenews/3137767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 06时52分]"
         },
         {
           "title": "如何看待世界杯决赛之后，西班牙队在官方的庆祝照片上把特朗普给裁剪掉了？",
@@ -101,11 +115,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 04时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 06时52分]"
         },
         {
           "title": "特朗普暗示美军将对伊朗发动强硬报复：每杀害一名美国士兵将付出数倍代价",
@@ -124,11 +139,12 @@
           "url": "https://www.cls.cn/detail/2433190",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时57分 ~ 05时58分]"
+          "appearance_count": 3,
+          "time_info": "[05时57分 ~ 06时52分]"
         },
         {
           "title": "特朗普警告胡塞武装：若封锁红海 美国将“采取行动”",
@@ -151,6 +167,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普计划下周到访密歇根州开展选举造势活动。",
+          "url": "https://flash.jin10.com/detail/20260722063924180800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "加拿大取消与美国的跨境大桥庆祝活动，此前特朗普政府宣布对加拿大加征关税。 加拿大说，Gordie Howe Bridge仍然将在7月27日开放。",
+          "url": "https://wallstreetcn.com/livenews/3137772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
         },
         {
           "title": "美国总统特朗普：将非常猛烈地打击镐山地区。",
@@ -197,6 +235,17 @@
           "time_info": "00时20分"
         },
         {
+          "title": "据Axios：美国议员要求美国证交会调查特朗普媒体科技集团(DJT.O)旗下的Truth Social将其数据访问权商业化的计划。此前有报道称，该集团的“Truth API”产品定于8月1日上线，该产品将提供对该平台排名前十的热门账户公开帖文的实时访问权限。",
+          "url": "https://flash.jin10.com/detail/20260722062026177800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
           "title": "美国总统特朗普：允许美国所有的航空公司直飞黎巴嫩。",
           "url": "https://wallstreetcn.com/livenews/3137726",
           "source": "华尔街见闻-快讯",
@@ -225,7 +274,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -247,7 +296,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -272,6 +321,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
+        },
+        {
+          "title": "据华尔街日报：官员透露，特朗普政府计划在联邦科学研究中降低对高校的侧重，转而强调人工智能。",
+          "url": "https://flash.jin10.com/detail/20260722060041607800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
         },
         {
           "title": "美国总统特朗普：伊朗可能试图通过霍尔木兹海影响选举。",
@@ -332,7 +392,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
@@ -342,19 +402,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 05时58分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 06时52分]"
         },
         {
           "title": "美股AI概念盘前昂扬齐涨 美伊战火仍在持续 | 今夜看点",
           "url": "https://www.cls.cn/detail/2433005",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 05时58分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 06时52分]"
         },
         {
           "title": "科技股力撑美股指反弹，芯片指数大涨5%，美光市值重回万亿，黄金拉升",
@@ -364,8 +425,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时57分 ~ 05时58分]"
+          "appearance_count": 3,
+          "time_info": "[05时57分 ~ 06时52分]"
         },
         {
           "title": "全球科技股反弹！纳指涨2%，美股存储芯片指数涨超10%，布油重回90美元上方",
@@ -428,11 +489,47 @@
           "url": "https://wallstreetcn.com/livenews/3137752",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 06时52分]"
+        },
+        {
+          "title": "Oklo与X-Energy加入美国总统特朗普设法加速面向AI的核反应堆的行动。 Oklo美股盘后涨6%，X-Energy涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3137751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 06时52分]"
+        },
+        {
+          "title": "新兴市场ETF收涨2.8%，与布油基金、黄金ETF等领跑美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3137748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 06时52分]"
+        },
+        {
+          "title": "美股收盘：明星存储股集体飙涨两位数 芯片股反弹费城指数升逾5%",
+          "url": "https://www.cls.cn/detail/2433220",
+          "source": "财联社热门",
+          "ranks": [
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时58分"
+          "time_info": "06时52分"
         },
         {
           "title": "美股存储芯片指数涨超10%，美光科技上涨10.17%，SK海力士上涨11.18%，闪迪上涨11.86%，西部数据上涨12.67%，希捷科技上涨10.42%，铠侠ADR上涨13.78%。",
@@ -446,35 +543,13 @@
           "time_info": "00时20分"
         },
         {
-          "title": "Oklo与X-Energy加入美国总统特朗普设法加速面向AI的核反应堆的行动。 Oklo美股盘后涨6%，X-Energy涨超10%。",
-          "url": "https://wallstreetcn.com/livenews/3137751",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
-          "title": "新兴市场ETF收涨2.8%，与布油基金、黄金ETF等领跑美股大类资产类ETF",
-          "url": "https://wallstreetcn.com/livenews/3137748",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
           "title": "超微电脑（SMCI）预计第四财季营收接近指引区间110亿-125亿美元的底部。 预计第四财季毛利润率15%-17%，公司原本预计8.2%-8.4%。 超微电脑美股盘后涨超20%。",
           "url": "https://wallstreetcn.com/livenews/3137744",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -485,7 +560,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -568,7 +643,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -579,7 +654,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -620,7 +695,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "绝地大反转！科创50狂涨超10%，芯片半导体集体爆发、存储“一哥”涨停，恒科指涨超1%，智谱飙涨超35%",
@@ -630,8 +705,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 05时58分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 06时52分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌0.7%。 热门中概股里，腾讯跌3.5%，网易跌3.4%，阿里跌2%，拼多多跌1.3%，日月光半导体涨8.7%。",
@@ -643,6 +718,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "AI算力需求驱动+产品涨价，半导体产业链上半年业绩大面积预增",
+          "url": "https://wallstreetcn.com/livenews/3137778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
         },
         {
           "title": "【每日收评】创业板指探底回升涨超7%，半导体芯片、算力硬件等科技赛道卷土重来",
@@ -674,7 +760,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -685,7 +771,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         }
@@ -700,11 +786,12 @@
           "url": "https://wallstreetcn.com/livenews/3137759",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 06时52分]"
         },
         {
           "title": "金价为什么上蹿下跳",
@@ -745,11 +832,29 @@
           "url": "https://flash.jin10.com/detail/20260722055020303800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 06时52分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储芯片",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "传SK海力士正洽购英特尔俄亥俄州园区，拟在美生产存储芯片",
+          "url": "https://flash.jin10.com/detail/20260722062701635800",
+          "source": "金十数据",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时58分"
+          "time_info": "06时52分"
         }
       ]
     }
