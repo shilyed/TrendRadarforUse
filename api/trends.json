@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T02:11:50.617456+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2026-07-22T04:16:16.920156+08:00",
+  "total_titles_processed": 473,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普放话将轰炸伊朗“镐山” 认为可能存放离心机",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
         },
@@ -47,7 +47,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
         },
@@ -56,11 +56,12 @@
           "url": "https://www.zhihu.com/question/2062849285499138343",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 02时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 04时16分]"
         },
         {
           "title": "因人事任命非特朗普属意，美国考虑退出联合国难民署",
@@ -70,8 +71,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 02时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 04时16分]"
         },
         {
           "title": "特朗普暗示美军将对伊朗发动强硬报复：每杀害一名美国士兵将付出数倍代价",
@@ -82,8 +83,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 02时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 04时16分]"
         },
         {
           "title": "特朗普警告胡塞武装：若封锁红海 美国将“采取行动”",
@@ -92,7 +93,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
         },
@@ -152,6 +153,28 @@
           "time_info": "00时20分"
         },
         {
+          "title": "美国总统特朗普：允许美国所有的航空公司直飞黎巴嫩。",
+          "url": "https://wallstreetcn.com/livenews/3137726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
+        },
+        {
+          "title": "美国总统特朗普：已指示政府允许所有美国航空公司开通飞往黎巴嫩的直飞航班。",
+          "url": "https://flash.jin10.com/detail/20260722032500875800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
+        },
+        {
           "title": "美国总统特朗普谈及红海局势，声称：如果的确发生（也门胡塞武装袭击），我们将处理。",
           "url": "https://wallstreetcn.com/livenews/3137667",
           "source": "华尔街见闻-快讯",
@@ -180,7 +203,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
         },
@@ -243,7 +266,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
@@ -253,8 +276,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 02时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 04时16分]"
         },
         {
           "title": "美股AI概念盘前昂扬齐涨 美伊战火仍在持续 | 今夜看点",
@@ -264,8 +287,20 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 04时16分]"
+        },
+        {
+          "title": "全球科技股反弹！纳指涨2%，美股存储芯片指数涨超10%，布油重回90美元上方",
+          "url": "https://wallstreetcn.com/articles/3777518",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时20分 ~ 02时11分]"
+          "time_info": "[02时11分 ~ 04时16分]"
         },
         {
           "title": "全球科技股反弹！美股盘初走高，存储芯片股普涨，闪迪涨9%，布油重回90美元上方，现货白银涨4%",
@@ -279,15 +314,15 @@
           "time_info": "00时20分"
         },
         {
-          "title": "全球科技股反弹！纳指涨2%，美股存储芯片指数涨超10%，布油重回90美元上方",
-          "url": "https://wallstreetcn.com/articles/3777518",
-          "source": "华尔街见闻",
+          "title": "美股存储芯片指数初步收涨11.2%，半导体指数涨5.2%。 标普500指数初步收涨0.9%，科技板块涨2.4%，能源板块涨1.1%，电信板块跌0.7%，日用消费品板块跌0.9%。 纳斯达克100指数初步收涨1.9%，成分股中，Nebius集团初步收涨19%，闪迪涨14%，西部数据涨12.5%，希捷科技涨11.2%，英特尔涨8.8%，Adobe跌3.1%，CrowdStrike跌3.7%，Workday跌3.9%，汤森路透跌5%。",
+          "url": "https://wallstreetcn.com/livenews/3137738",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时11分"
+          "time_info": "04时16分"
         },
         {
           "title": "金十图示：2026年07月21日（周二）热门中概股行情一览（美股盘中）",
@@ -296,7 +331,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
         },
@@ -307,7 +342,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
         },
@@ -329,7 +364,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
         }
@@ -337,7 +372,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 8,
       "titles": [
         {
           "title": "据伊朗媒体Fars News：巴林遭到袭击的区域是美国军方人员驻扎地点。",
@@ -346,7 +381,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
         },
@@ -357,9 +392,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
+        },
+        {
+          "title": "美国战争部长赫格塞斯：（美国+以色列发动的）伊朗战争给美方带来375亿美元成本。",
+          "url": "https://wallstreetcn.com/livenews/3137735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
+        },
+        {
+          "title": "美国军方：截至7月21日，美军已在执行封锁行动期间改变8艘商业船只航向，并使1艘船只失去行动能力，以全面落实对伊朗的封锁。",
+          "url": "https://flash.jin10.com/detail/20260722033952810800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
         },
         {
           "title": "美国众议院议长约翰逊：必须结束伊朗战争。",
@@ -368,15 +425,48 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
+        },
+        {
+          "title": "新任英国首相批准美国使用英国基地对伊朗进行部分打击",
+          "url": "https://flash.jin10.com/detail/20260722031435590800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
+        },
+        {
+          "title": "美国国防部长赫格塞思：伊朗此前已获得就霍尔木兹海峡问题进行谈判的“所有机会”。如果伊朗袭击商业船只，美国将采取“10倍强度”的反击。",
+          "url": "https://flash.jin10.com/detail/20260722031229599800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
+        },
+        {
+          "title": "新任英国首相伯纳姆批准美国使用英国基地对伊朗进行部分打击。",
+          "url": "https://flash.jin10.com/detail/20260722031057881800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
         }
       ]
     },
     {
       "keyword_group": "半导体",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "绝地大反转！科创50狂涨超10%，芯片半导体集体爆发、存储“一哥”涨停，恒科指涨超1%，智谱飙涨超35%",
@@ -386,8 +476,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 02时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 04时16分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收跌0.7%。 热门中概股里，腾讯跌3.5%，网易跌3.4%，阿里跌2%，拼多多跌1.3%，日月光半导体涨8.7%。",
+          "url": "https://wallstreetcn.com/livenews/3137739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
         },
         {
           "title": "【每日收评】创业板指探底回升涨超7%，半导体芯片、算力硬件等科技赛道卷土重来",
@@ -398,8 +499,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 02时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 04时16分]"
         },
         {
           "title": "纳斯达克100指数涨幅扩大至2%，刷新日高，成分股Nebius涨16.1%，闪迪涨13.2%泰瑞达涨13.1%，美光涨13%，西部数据涨12.8%，希捷科技涨11.5%，Lumentum涨9.3%，CoreWeave涨9.3%。 标普500指数涨幅扩大至将近1%，道指涨526点涨幅超过1%，纳指涨353点涨幅1.4%，半导体指数涨5.4%，银行指数涨1%。",
@@ -408,7 +509,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
         }
@@ -425,9 +526,26 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数涨超0.2%，日元跌穿163",
+          "url": "https://wallstreetcn.com/livenews/3137725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
         }
       ]
     }
