@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T00:24:13.979320+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-07-23T02:04:31.578207+08:00",
+  "total_titles_processed": 389,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 02时04分]"
         },
         {
           "title": "据华盛顿邮报：美国总统特朗普政府正在考虑在马里采取军事行动。",
@@ -25,7 +25,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
         },
@@ -37,8 +37,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 02时04分]"
         },
         {
           "title": "国际油价持续拉升！特朗普盯上的伊朗“镐山”有什么奥秘？",
@@ -48,8 +48,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 02时04分]"
+        },
+        {
+          "title": "新闻蒸馏器｜特朗普关税或将“换壳”：覆盖60国，税率10%至12.5%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33634011",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时04分"
         },
         {
           "title": "特朗普政府暂停向美国两州拨付10亿美元医疗补助资金",
@@ -58,7 +69,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
         }
@@ -76,8 +87,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 02时04分]"
         },
         {
           "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
@@ -87,8 +98,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 02时04分]"
         },
         {
           "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
@@ -98,8 +109,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 02时04分]"
         },
         {
           "title": "美股三大股指走势分化，纳指转涨，此前一度跌超0.8%，道指涨0.3%；标普500指数跌1.52%。",
@@ -108,9 +119,54 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "以媒：美国拟动用重型轰炸机打击伊朗",
+          "url": "https://flash.jin10.com/detail/20260723013624498800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时04分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：如果我们的安全得不到保障，就不会有任何基础设施是安全的。霍尔木兹海峡的安全取决于美国军队不在该地区存在。",
+          "url": "https://flash.jin10.com/detail/20260723012737481800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.55%，暂报2174.29点。 MarketVectorTM数字资产100中盘指数跌0.72%，报2491.90点，亚太午盘持续扩大跌幅。 MarketVector数字资产100指数跌0.31%，报13130点。 目前，Solana涨0.95%，狗狗币跌0.22%，XRP持平。 比特币跌0.32%，暂报66188.99美元；以太坊涨1.31%，暂报1947.90美元。",
+          "url": "https://wallstreetcn.com/livenews/3138337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时04分"
         }
       ]
     },
@@ -125,7 +181,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
         }
