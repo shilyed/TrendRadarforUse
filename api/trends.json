@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T02:04:31.578207+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-07-23T04:09:26.586358+08:00",
+  "total_titles_processed": 464,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
@@ -15,8 +15,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 04时09分]"
+        },
+        {
+          "title": "美国总统特朗普：美国不需要霍尔木兹海峡。委内瑞拉正与美国合作生产石油。",
+          "url": "https://flash.jin10.com/detail/20260723034521965800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
         },
         {
           "title": "据华盛顿邮报：美国总统特朗普政府正在考虑在马里采取军事行动。",
@@ -37,8 +48,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 04时09分]"
         },
         {
           "title": "国际油价持续拉升！特朗普盯上的伊朗“镐山”有什么奥秘？",
@@ -48,19 +59,42 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 04时09分]"
         },
         {
           "title": "新闻蒸馏器｜特朗普关税或将“换壳”：覆盖60国，税率10%至12.5%",
           "url": "https://m.thepaper.cn/newsDetail_forward_33634011",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时04分 ~ 04时09分]"
+        },
+        {
+          "title": "特朗普：我们在伊朗取得胜利，我们不需要霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3138382",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时04分"
+          "time_info": "04时09分"
+        },
+        {
+          "title": "特朗普政府探索联邦水域核电项目",
+          "url": "https://flash.jin10.com/detail/20260723032253567800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
         },
         {
           "title": "特朗普政府暂停向美国两州拨付10亿美元医疗补助资金",
@@ -77,7 +111,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
           "title": "AI交易热情回落，美股盘初走低，存储芯片、光通信股普跌，SK海力士跌5%，布油涨近3%",
@@ -87,8 +121,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 04时09分]"
         },
         {
           "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
@@ -98,8 +132,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 04时09分]"
         },
         {
           "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
@@ -109,8 +143,52 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 04时09分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet二季度营收1198亿美元，预期1170.2亿美元。 谷歌云营收247.7亿美元，预期224.6亿美元。 谷歌A美股盘后跌1.24%，暂报337.84美元。",
+          "url": "https://wallstreetcn.com/livenews/3138391",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
+        {
+          "title": "美股软件ETF收跌3%，创6月5日以来最大单日跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3138389",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
+        {
+          "title": "周三（7月22日）美股尾盘，美股降息赢家指数大致持平，报95.17点，早盘冲高回落、随后出现一波V形反转行情。 “特朗普关税输家”指数跌0.13%，“特朗普金融指数”跌0.17%。",
+          "url": "https://wallstreetcn.com/livenews/3138380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
+        {
+          "title": "国际黄金、石油、铜、美股、美元再现同步上涨，日元兑美元跌破 163，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2063182962879993810",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
         },
         {
           "title": "美股三大股指走势分化，纳指转涨，此前一度跌超0.8%，道指涨0.3%；标普500指数跌1.52%。",
@@ -127,7 +205,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "以媒：美国拟动用重型轰炸机打击伊朗",
@@ -136,7 +214,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         },
@@ -147,15 +225,48 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：美国战争部长在国会听证会上接受质询期间，竟没有一个问题涉及这场对伊朗战争的人道影响，尽管各方都清楚，这是一场非法发动的战争。",
+          "url": "https://flash.jin10.com/detail/20260723031816286800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
+        {
+          "title": "伊朗最高联合军事指挥部表示，如果美国兑现威胁，伊朗将切断海湾地区全部石油流动，并将该地区的石油、天然气、电力及经济基础设施作为打击目标。（伊朗国家媒体）",
+          "url": "https://wallstreetcn.com/livenews/3138365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
+        {
+          "title": "伊朗革命卫队航空航天部队司令称，如果伊朗的桥梁或发电厂遭到袭击，伊朗将切断美国地区盟友的电力供应。（伊朗塔斯尼姆通讯社Tasnim）",
+          "url": "https://wallstreetcn.com/livenews/3138360",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.55%，暂报2174.29点。 MarketVectorTM数字资产100中盘指数跌0.72%，报2491.90点，亚太午盘持续扩大跌幅。 MarketVector数字资产100指数跌0.31%，报13130点。 目前，Solana涨0.95%，狗狗币跌0.22%，XRP持平。 比特币跌0.32%，暂报66188.99美元；以太坊涨1.31%，暂报1947.90美元。",
@@ -164,16 +275,38 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
+        },
+        {
+          "title": "周三（7月22日）纽约尾盘，ICE美元指数跌0.04%，报101.130点，日内交投区间为101.198-101.020点。 彭博美元指数跌0.01%，报1219.62点，日内交投区间为1220.20-1218.35点。",
+          "url": "https://wallstreetcn.com/livenews/3138377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
         }
       ]
     },
     {
       "keyword_group": "半导体",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "标普500指数初步收跌大约0.1%，电信板块跌1.1%，科技板块大致持平，能源板块涨1.1%，原材料板块涨1.3%，公用事业板块涨2.2%。 纳斯达克100指数初步收跌0.4%，成分股中，SpaceX初步收跌6.6%，Workday跌6.2%，汤森路透跌3.6%，英特尔跌2.5%，Meta、微软至少跌2%，英伟达涨2.1%，博通涨2.6%，CoreWeave涨4.1%，核电股CEG涨4.8%。 半导体指数涨0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3138386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
         {
           "title": "英伟达涨2.9%，刷新日高，半导体指数目前涨1.1%。",
           "url": "https://wallstreetcn.com/livenews/3138305",
@@ -184,6 +317,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "“债券义警”疑似再现：30年期美债收益率高于5%的天数创近二十年最多",
+          "url": "https://wallstreetcn.com/livenews/3138384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
         }
       ]
     }
