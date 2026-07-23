@@ -1,845 +1,195 @@
 {
-  "generated_at": "2026-07-23T23:49:29.997562+08:00",
-  "total_titles_processed": 1626,
+  "generated_at": "2026-07-24T01:11:20.470749+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
-          "url": "https://news.ifeng.com/c/8uy1V150ZKO",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 07时03分]"
-        },
         {
           "title": "特朗普：我们与伊朗只是小规模冲突",
           "url": "https://news.ifeng.com/c/8uzZogT1UTe",
           "source": "凤凰网",
           "ranks": [
-            2,
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时27分 ~ 23时49分]"
-        },
-        {
-          "title": "污蔑中国遭驳斥后，特朗普自曝：美国对中国“做过一些事”",
-          "url": "https://news.ifeng.com/c/8uyHXh9awI8",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时59分 ~ 16时15分]"
-        },
-        {
-          "title": "特朗普威胁：若伊朗袭击霍尔木兹海峡船只 美方将轰炸其桥梁和发电厂",
-          "url": "https://www.cls.cn/detail/2434427",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时00分 ~ 13时27分]"
+          "appearance_count": 1,
+          "time_info": "01时11分"
         },
         {
           "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
           "url": "https://wallstreetcn.com/articles/3777708",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8,
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时27分 ~ 23时49分]"
-        },
-        {
-          "title": "美国总统特朗普：美国不需要霍尔木兹海峡。委内瑞拉正与美国合作生产石油。",
-          "url": "https://flash.jin10.com/detail/20260723034521965800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时09分"
+          "time_info": "01时11分"
         },
         {
-          "title": "特朗普放话：胡塞武装袭船的帐算在伊朗头上！布油期货破百",
-          "url": "https://flash.jin10.com/detail/20260723212320444800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
-          "title": "特朗普：预计美联邦政府在9月将出现“停摆”",
-          "url": "https://news.ifeng.com/c/8uyvegEdrQo",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "特朗普称正“认真考虑”重启对伊朗的大规模作战",
-          "url": "https://wallstreetcn.com/livenews/3138980",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时49分"
-        },
-        {
-          "title": "据华盛顿邮报：美国总统特朗普政府正在考虑在马里采取军事行动。",
-          "url": "https://flash.jin10.com/detail/20260723000745259800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "特朗普：伊朗尚未准备好达成协议",
-          "url": "https://flash.jin10.com/detail/20260723234018735800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时49分"
-        },
-        {
-          "title": "新闻蒸馏器｜特朗普关税或将“换壳”：覆盖60国，税率10%至12.5%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33634011",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时04分 ~ 09时59分]"
-        },
-        {
-          "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
-          "url": "https://wallstreetcn.com/articles/3777603",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时09分]"
-        },
-        {
-          "title": "国际油价持续拉升！特朗普盯上的伊朗“镐山”有什么奥秘？",
-          "url": "https://www.cls.cn/detail/2434152",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时09分]"
-        },
-        {
-          "title": "伊朗袭击已致近 100 名美军受伤，特朗普扬言强硬报复，美伊会爆发全面战争吗？中东局势将走向何方？",
-          "url": "https://www.zhihu.com/question/2062856603762742765",
-          "source": "知乎",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时14分 ~ 19时02分]"
-        },
-        {
-          "title": "特朗普宣布两年后对仿制药征收 100% 关税，该举措出于什么目的？会对相关产业带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2063183942509754265",
-          "source": "知乎",
-          "ranks": [
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 13时27分]"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：沙特有望迅速加入（亚伯拉罕）协议，美国总统特朗普已经与沙特讨论这方面的问题。 将设法最终敲定美国与沙特之间的（核能）协议。 将继续与沙特对话。",
-          "url": "https://wallstreetcn.com/livenews/3138978",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时49分"
-        },
-        {
-          "title": "报道：特朗普称接近就“大规模袭击伊朗”做决定",
-          "url": "https://wallstreetcn.com/livenews/3138976",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时49分"
-        },
-        {
-          "title": "白宫新闻秘书莱维特：美国总统特朗普尚未就核协议条件与沙特领导人进行交谈。",
-          "url": "https://flash.jin10.com/detail/20260723233557382800",
+          "title": "在致立法者的信中，特朗普政府敦促国会在交通法案中加入永久夏令时，并优先考虑汽车交通需求而非自行车道建设。",
+          "url": "https://flash.jin10.com/detail/20260724003541392800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时49分"
+          "time_info": "01时11分"
         },
         {
-          "title": "美媒：美国向中东增派兵力，为特朗普扩大对伊战事提供更多选项",
-          "url": "https://flash.jin10.com/detail/20260723061154517800",
+          "title": "美国参议院阻止了限制特朗普对伊战争权力的决议。",
+          "url": "https://flash.jin10.com/detail/20260724003337969800",
           "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时03分"
-        },
-        {
-          "title": "特朗普：我们在伊朗取得胜利，我们不需要霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/livenews/3138382",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
-          "title": "特朗普要求沙特加入亚伯拉罕协议",
-          "url": "https://wallstreetcn.com/livenews/3138896",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普将于下周五在戴维营举办内阁会议。",
-          "url": "https://wallstreetcn.com/livenews/3138972",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时49分"
-        },
-        {
-          "title": "特朗普政府探索联邦水域核电项目",
-          "url": "https://flash.jin10.com/detail/20260723032253567800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
-          "title": "A股油服工程板块盘初拉升，中曼石油涨超9%，科力股份涨超7%，潜能恒信、通源石油、博迈科、石化油服、海油工程等个股跟涨。特朗普此前在社交媒体发文称，只要伊朗在霍尔木兹海峡向船只开火，美国都将轰炸并摧毁伊朗的一座桥梁或发电厂。",
-          "url": "https://flash.jin10.com/detail/20260723093244752800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
+          "time_info": "01时11分"
         },
         {
           "title": "委内瑞拉石油多着呢！特朗普：我们才不需要霍尔木兹海峡",
           "url": "https://m.thepaper.cn/newsDetail_forward_33643805",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时49分"
+          "time_info": "01时11分"
         },
         {
-          "title": "特朗普：接近就“大规模打击”伊朗作出决定",
-          "url": "https://flash.jin10.com/detail/20260723233215266800",
+          "title": "美国总统特朗普提名的美国消费者金融保护局负责人表示，将对裁减该机构大部分员工的计划“保持开放态度”。",
+          "url": "https://flash.jin10.com/detail/20260724000958452800",
           "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时49分"
-        },
-        {
-          "title": "特朗普：预计美联邦政府在9月将出现“停摆”",
-          "url": "https://wallstreetcn.com/livenews/3138407",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时01分"
+          "time_info": "01时11分"
         },
         {
-          "title": "特朗普：对于未来胡塞武装的袭击，美国将追究伊朗的责任。 （谈伊朗和胡塞）如果他们再这样做，将予以惩罚。 对胡塞武装非常失望。 伊朗和胡塞武装将面临严厉的军事惩罚。",
-          "url": "https://wallstreetcn.com/livenews/3138881",
+          "title": "特朗普称正“认真考虑”重启对伊朗的大规模作战",
+          "url": "https://wallstreetcn.com/livenews/3138980",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时29分"
+          "time_info": "01时11分"
         },
         {
-          "title": "特朗普政府暂停向美国两州拨付10亿美元医疗补助资金",
-          "url": "https://wallstreetcn.com/livenews/3138289",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 23,
-      "titles": [
-        {
-          "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
-          "url": "https://wallstreetcn.com/articles/3777614",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时03分 ~ 23时49分]"
-        },
-        {
-          "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
-          "url": "https://wallstreetcn.com/articles/3777612",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 07时03分]"
-        },
-        {
-          "title": "AI交易热情回落，美股盘初走低，存储芯片、光通信股普跌，SK海力士跌5%，布油涨近3%",
-          "url": "https://wallstreetcn.com/articles/3777614",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 06时01分]"
-        },
-        {
-          "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
-          "url": "https://wallstreetcn.com/articles/3777518",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 06时01分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体收低 美伊互放狠话重燃加息预期",
-          "url": "https://www.cls.cn/detail/2434473",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时00分 ~ 13时27分]"
-        },
-        {
-          "title": "【早报】美股AI服务器整机龙头，大涨近20%；特斯拉、谷歌披露财报；油价、黄金齐升；A股又一波公司启动增持回购",
-          "url": "https://www.cls.cn/detail/2434518",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 13时27分]"
-        },
-        {
-          "title": "谷歌母公司Alphabet二季度营收1198亿美元，预期1170.2亿美元。 谷歌云营收247.7亿美元，预期224.6亿美元。 谷歌A美股盘后跌1.24%，暂报337.84美元。",
-          "url": "https://wallstreetcn.com/livenews/3138391",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
-          "title": "美股软件ETF收跌3%，创6月5日以来最大单日跌幅。",
-          "url": "https://wallstreetcn.com/livenews/3138389",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
-          "title": "国际黄金、石油、铜、美股、美元再现同步上涨，日元兑美元跌破 163，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2063182962879993810",
-          "source": "知乎",
-          "ranks": [
-            15,
-            13,
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时09分 ~ 09时59分]"
-        },
-        {
-          "title": "特斯拉美股盘后维持下跌3%的状态，马斯克在电话会议上讲话。",
-          "url": "https://wallstreetcn.com/livenews/3138429",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时01分 ~ 07时03分]"
-        },
-        {
-          "title": "特斯拉(TSLA.O)美股盘后跌幅扩大至5%，马斯克称扩大Optimus机器人产能将面临困难。",
-          "url": "https://flash.jin10.com/detail/20260723054245169800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        },
-        {
-          "title": "洛克希德马丁第二季度净销售额200.6亿美元，预期193.3亿美元 第二季度每股收益7.94美元，去年同期1.46美元。 洛克希德马丁预计全年净销售额797.5亿至817.5亿美元，市场预期791.3亿美元。 洛克希德马丁预计全年营业利润85亿至87亿美元。 洛克希德马丁预计全年每股收益29.95至30.65美元，此前预期29.35至30.25美元。 洛克希德马丁美股盘前涨7.5%。",
-          "url": "https://wallstreetcn.com/livenews/3138819",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "周三（7月22日）美股尾盘，美股降息赢家指数大致持平，报95.17点，早盘冲高回落、随后出现一波V形反转行情。 “特朗普关税输家”指数跌0.13%，“特朗普金融指数”跌0.17%。",
-          "url": "https://wallstreetcn.com/livenews/3138380",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
-          "title": "周四美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3138894",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
-          "title": "SK海力士(SKHY.O)美股盘后涨4.5%，美光科技(MU.O)涨2%，特斯拉(TSLA.O)跌3%，谷歌A(GOOGL.O)跌4%，",
-          "url": "https://flash.jin10.com/detail/20260723053142248800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        },
-        {
-          "title": "美股大类资产类ETF多数收跌，小盘股指ETF跌超0.9%，大豆、黄金、布油基金涨超1%",
-          "url": "https://wallstreetcn.com/livenews/3138406",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        },
-        {
-          "title": "纳斯达克100指数跌幅扩大至2%，纳指跌超2.3%，标普跌1.3%、恐慌指数VIX涨17%，道指维持大约1%的跌幅。 美股超大规模云服务商（Hyperscalers）指数跌幅扩大至约5%——跳空低开之后持续扩大跌幅，刷新日低至86.24点。 亚马逊股价下跌5%，创2月6日以来最大盘中跌幅。",
-          "url": "https://wallstreetcn.com/livenews/3138960",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时49分"
-        },
-        {
-          "title": "美股三大股指走势分化，纳指转涨，此前一度跌超0.8%，道指涨0.3%；标普500指数跌1.52%。",
-          "url": "https://flash.jin10.com/detail/20260722232746995800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "霍尼韦尔第二季度销售额97.2亿美元，第二季度调整后每股收益4.52美元。 霍尼韦尔预计2026年全年销售额198亿至200亿美元，此前预期199亿至202亿美元。 霍尼韦尔预计2026年有机销售额增长3%至4%，此前预期2%至3%。 霍尼韦尔预计2026年自由现金流约20亿美元，此前预期约20亿美元。 霍尼韦尔美股盘前涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3138796",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "特斯拉美股盘后跌幅扩大至5%，SpaceX涨0.7%。 马斯克在分析师电话会上表示：Optimus将是特斯拉最难实现规模化量产的产品。",
-          "url": "https://wallstreetcn.com/livenews/3138431",
+          "title": "白宫新闻秘书Leavitt：沙特有望迅速加入（亚伯拉罕）协议，美国总统特朗普已经与沙特讨论这方面的问题。 将设法最终敲定美国与沙特之间的（核能）协议。 将继续与沙特对话。",
+          "url": "https://wallstreetcn.com/livenews/3138978",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时03分"
+          "time_info": "01时11分"
         },
         {
-          "title": "特斯拉美股盘后跌幅扩大至5%，马斯克在分析师电话会上表示：Optimus将是特斯拉最难实现规模化量产的产品。",
-          "url": "https://wallstreetcn.com/livenews/3138430",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时03分"
-        },
-        {
-          "title": "康卡斯特（Comcast）第二季度营收299.4亿美元，预期293亿美元。 第二季度调整后每股收益为1.04美元，预期为0.97美元。 康卡斯特（Comcast）旗下流媒体平台Peacock首次实现季度盈利。 康卡斯特美股盘前涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3138792",
+          "title": "报道：特朗普称接近就“大规模袭击伊朗”做决定",
+          "url": "https://wallstreetcn.com/livenews/3138976",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时02分"
+          "time_info": "01时11分"
         },
         {
-          "title": "周三（7月22日），美股行业ETF多数收跌，网络股指数ETF、全球航空业ETF、生物科技指数ETF至多跌1.86%，半导体ETF涨0.48%，能源业ETF涨1.20%。 标普500指数的11个板块中，电信板块收跌1.29%，可选消费板块跌0.84%，信息技术/科技板块涨0.01%，能源板块涨1.19%，原材料板块涨1.45%，公用事业板块涨2.29%。",
-          "url": "https://wallstreetcn.com/livenews/3138400",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "美国国务卿鲁比奥：希望胡塞武装能够停止攻击，他们被伊朗愚弄了。",
-          "url": "https://flash.jin10.com/detail/20260723155531970800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时15分"
-        },
-        {
-          "title": "美国国务卿鲁比奥：看来伊朗尚未准备好达成协议，他们将付出代价。伊朗的代价将每晚增大，直到他们清醒过来。",
-          "url": "https://flash.jin10.com/detail/20260723155446040800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时15分"
-        },
-        {
-          "title": "以媒：美国拟动用重型轰炸机打击伊朗",
-          "url": "https://flash.jin10.com/detail/20260723013624498800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时04分"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：如果我们的安全得不到保障，就不会有任何基础设施是安全的。霍尔木兹海峡的安全取决于美国军队不在该地区存在。",
-          "url": "https://flash.jin10.com/detail/20260723012737481800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时04分"
-        },
-        {
-          "title": "伊朗外交部发言人巴加埃：美国战争部长在国会听证会上接受质询期间，竟没有一个问题涉及这场对伊朗战争的人道影响，尽管各方都清楚，这是一场非法发动的战争。",
-          "url": "https://flash.jin10.com/detail/20260723031816286800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
-          "title": "美国中央司令部：美国东部时间今天下午5点30分，美军对伊朗军事目标发动新一轮打击。此次行动将继续削弱伊朗威胁在地区海域航行的民用海员及商船的能力。",
-          "url": "https://flash.jin10.com/detail/20260723060519976800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时03分"
-        },
-        {
-          "title": "美国中央司令部：美军周三对伊朗发动了新一轮打击。",
-          "url": "https://flash.jin10.com/detail/20260723060459693800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时03分"
-        },
-        {
-          "title": "美国打伊朗越打敌人越多",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%89%93%E4%BC%8A%E6%9C%97%E8%B6%8A%E6%89%93%E6%95%8C%E4%BA%BA%E8%B6%8A%E5%A4%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时03分"
-        },
-        {
-          "title": "伊朗最高联合军事指挥部表示，如果美国兑现威胁，伊朗将切断海湾地区全部石油流动，并将该地区的石油、天然气、电力及经济基础设施作为打击目标。（伊朗国家媒体）",
-          "url": "https://wallstreetcn.com/livenews/3138365",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
-          "title": "伊朗迈赫尔通讯社援引胡齐斯坦省官员的话称，阿瓦士（Ahvaz）附近的一处地点遭到了美国导弹袭击。",
-          "url": "https://flash.jin10.com/detail/20260723050906280800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        },
-        {
-          "title": "伊朗革命卫队航空航天部队司令称，如果伊朗的桥梁或发电厂遭到袭击，伊朗将切断美国地区盟友的电力供应。（伊朗塔斯尼姆通讯社Tasnim）",
-          "url": "https://wallstreetcn.com/livenews/3138360",
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普将于下周五在戴维营举办内阁会议。",
+          "url": "https://wallstreetcn.com/livenews/3138972",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时09分"
+          "time_info": "01时11分"
         }
       ]
     },
     {
-      "keyword_group": "半导体",
-      "match_count": 6,
+      "keyword_group": "美股",
+      "match_count": 3,
       "titles": [
         {
-          "title": "意法半导体第二季度净营收 34.9亿美元，市场预估34.6亿美元。 第二季度营业利润 1.87亿美元，市场预估2.336亿美元。 第二季度净利润 2.22亿美元，市场预估2.041亿美元。 第二季度每股收益 24美分，市场预估23美分。 第二季度自由现金流 7,500万美元，市场预估3.00亿美元。 第二季度资本支出 4.190亿美元，市场预估4.848亿美元 预计第三季度净营收 37.0亿美元，市场预估37.9亿美元。 预计第三季度毛利率 37%，市场预估36.8%。",
-          "url": "https://wallstreetcn.com/livenews/3138619",
-          "source": "华尔街见闻-快讯",
+          "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时27分"
+          "time_info": "01时11分"
         },
         {
-          "title": "标普500指数初步收跌大约0.1%，电信板块跌1.1%，科技板块大致持平，能源板块涨1.1%，原材料板块涨1.3%，公用事业板块涨2.2%。 纳斯达克100指数初步收跌0.4%，成分股中，SpaceX初步收跌6.6%，Workday跌6.2%，汤森路透跌3.6%，英特尔跌2.5%，Meta、微软至少跌2%，英伟达涨2.1%，博通涨2.6%，CoreWeave涨4.1%，核电股CEG涨4.8%。 半导体指数涨0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3138386",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
-          "title": "沃特股份：公司PTFE产品已成功进入全球主流半导体设备厂商等供应链",
-          "url": "https://flash.jin10.com/detail/20260723094014308800",
-          "source": "金十数据",
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=9&Refer=top",
+          "source": "微博",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时59分"
+          "time_info": "01时11分"
         },
         {
-          "title": "A股三大股指震荡收涨，锂矿、电网爆发，科创50跌近4%，半导体产业链齐跌，恒指涨超1%，科网股普涨",
-          "url": "https://wallstreetcn.com/articles/3777740",
-          "source": "华尔街见闻",
+          "title": "摩根大通：接下来几周是美股命运关键",
+          "url": "https://www.toutiao.com/trending/7665718883323481643/",
+          "source": "今日头条",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时49分"
-        },
-        {
-          "title": "英伟达涨2.9%，刷新日高，半导体指数目前涨1.1%。",
-          "url": "https://wallstreetcn.com/livenews/3138305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时24分"
-        },
+          "time_info": "01时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "欧股意法半导体股价暴跌17%，因业绩展望未达预期。",
-          "url": "https://wallstreetcn.com/livenews/3138691",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗最高领袖顾问雷扎伊：美国总统已从“疯子游戏”转向“绝望者游戏”，若伊朗基础设施遭攻击，伊朗将采取更强烈回应。",
+          "url": "https://flash.jin10.com/detail/20260724003816659800",
+          "source": "金十数据",
           "ranks": [
-            25
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时15分"
+          "time_info": "01时11分"
+        },
+        {
+          "title": "伊朗称袭击美国亚马逊公司在巴林的数据基础设施，这个地方有多重要？将造成哪些影响？",
+          "url": "https://www.zhihu.com/question/2063259853338972886",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时11分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "金十图示：2026年07月23日（周四）上海金午盘价为896.63元/克，较国际金价(891.25元/克)，高5.38元/克",
-          "url": "https://flash.jin10.com/detail/20260723154915285800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时15分"
-        },
-        {
-          "title": "金价涨超1%，重返4100美元上方，纽约铜跌1%",
-          "url": "https://wallstreetcn.com/livenews/3138415",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        },
         {
           "title": "金价四连涨深圳水贝又挤爆了",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%9B%9B%E8%BF%9E%E6%B6%A8%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D%E5%8F%88%E6%8C%A4%E7%88%86%E4%BA%86%23&t=31&band_rank=30&Refer=top",
@@ -847,54 +197,49 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时49分"
+          "time_info": "01时11分"
         }
       ]
     },
     {
       "keyword_group": "白银",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "纽约银日内跌幅达4.0%，报57.84美元/盎司。 现货白银日内跌幅达3.5%，报57.59美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3138905",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        },
         {
           "title": "报道：印度白银进口因新许可证制度受阻而大幅下滑",
           "url": "https://wallstreetcn.com/livenews/3138979",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时49分"
-        },
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加22.49吨，当前持仓量为15066.94吨。欢迎点击查看数据中心..",
-          "url": "https://flash.jin10.com/detail/20260723061656457800",
-          "source": "金十数据",
-          "ranks": [
-            8
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时03分"
+          "time_info": "01时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股三大股指震荡收涨，锂矿、电网爆发，科创50跌近4%，半导体产业链齐跌，恒指涨超1%，科网股普涨",
+          "url": "https://wallstreetcn.com/articles/3777740",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时11分"
         }
       ]
     },
     {
       "keyword_group": "存储芯片",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "特斯拉电话会：马斯克称正进行“二战以来美国最快的工业规模扩张”，获美光存储芯片“超级配额”",
@@ -904,92 +249,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时59分 ~ 23时49分]"
-        },
-        {
-          "title": "特斯拉(TSLA.O)CEO马斯克：美光以合理条件提供了数量可观的存储芯片配额。",
-          "url": "https://flash.jin10.com/detail/20260723060842031800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时03分"
-        },
-        {
-          "title": "马斯克：美光科技已经给予特斯拉存储芯片（供应）配额。",
-          "url": "https://wallstreetcn.com/livenews/3138442",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.55%，暂报2174.29点。 MarketVectorTM数字资产100中盘指数跌0.72%，报2491.90点，亚太午盘持续扩大跌幅。 MarketVector数字资产100指数跌0.31%，报13130点。 目前，Solana涨0.95%，狗狗币跌0.22%，XRP持平。 比特币跌0.32%，暂报66188.99美元；以太坊涨1.31%，暂报1947.90美元。",
-          "url": "https://wallstreetcn.com/livenews/3138337",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时04分"
-        },
-        {
-          "title": "周三（7月22日）纽约尾盘，ICE美元指数跌0.04%，报101.130点，日内交投区间为101.198-101.020点。 彭博美元指数跌0.01%，报1219.62点，日内交投区间为1220.20-1218.35点。",
-          "url": "https://wallstreetcn.com/livenews/3138377",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "“债券义警”疑似再现：30年期美债收益率高于5%的天数创近二十年最多",
-          "url": "https://wallstreetcn.com/livenews/3138384",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "有色",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "港股午评：恒指收涨1.34%，有色金属板块走强",
-          "url": "https://flash.jin10.com/detail/20260723120228115800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
+          "time_info": "01时11分"
         }
       ]
     }
