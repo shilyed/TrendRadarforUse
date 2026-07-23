@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T06:55:03.391901+08:00",
-  "total_titles_processed": 558,
+  "generated_at": "2026-07-24T07:54:37.380646+08:00",
+  "total_titles_processed": 632,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普：我们与伊朗只是小规模冲突",
@@ -19,6 +19,20 @@
           "time_info": "[01时11分 ~ 06时55分]"
         },
         {
+          "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
+          "url": "https://wallstreetcn.com/articles/3777791",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时03分 ~ 07时54分]"
+        },
+        {
           "title": "委内瑞拉石油多着呢！特朗普：我们才不需要霍尔木兹海峡",
           "url": "https://m.thepaper.cn/newsDetail_forward_33643805",
           "source": "澎湃新闻",
@@ -27,21 +41,19 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 06时55分]"
+          "appearance_count": 7,
+          "time_info": "[01时11分 ~ 07时54分]"
         },
         {
-          "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
-          "url": "https://wallstreetcn.com/articles/3777791",
-          "source": "华尔街见闻",
+          "title": "美参议院否决限制特朗普对伊战争权力的决议案",
+          "url": "https://wallstreetcn.com/livenews/3139120",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            8,
-            7
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时03分 ~ 06时55分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时54分"
         },
         {
           "title": "美国高级官员：美国总统特朗普将动用其掌握的一切工具来实现他所期望的目标，包括使用关税。",
@@ -73,7 +85,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时55分"
         },
@@ -128,7 +140,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时55分"
         },
@@ -213,7 +225,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
@@ -234,8 +246,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时59分 ~ 06时55分]"
+          "appearance_count": 4,
+          "time_info": "[05时59分 ~ 07时54分]"
         },
         {
           "title": "美股",
@@ -246,8 +258,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 06时55分]"
+          "appearance_count": 7,
+          "time_info": "[01时11分 ~ 07时54分]"
+        },
+        {
+          "title": "美股收盘：七巨头齐跌特斯拉重挫14% 纳指降2%布油站上100美元",
+          "url": "https://www.cls.cn/detail/2435694",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时54分 ~ 07时54分]"
         },
         {
           "title": "周四（7月23日），美股行业ETF多数收跌，可选消费ETF跌4.61%，网络股指数ETF跌2.56%，半导体ETF跌1.15%，生物科技指数ETF、医疗业ETF、工业指数ETF涨1.06%-1.73%。 标普500指数的11个板块中，电信板块重挫5.2%，可选消费板块跌5.12%，信息技术/科技板块跌1.12%，能源板块涨0.56%，工业板块涨1.77%。",
@@ -286,15 +310,15 @@
           "time_info": "[04时53分 ~ 05时59分]"
         },
         {
-          "title": "美股收盘：七巨头齐跌特斯拉重挫14% 纳指降2%布油站上100美元",
-          "url": "https://www.cls.cn/detail/2435694",
+          "title": "【早报】美股科技赛道大跌，存储股逆市走高；油价暴涨、黄金跳水；长鑫科技下周一上市",
+          "url": "https://www.cls.cn/detail/2435717",
           "source": "财联社热门",
           "ranks": [
-            12
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时54分 ~ 06时55分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时54分"
         },
         {
           "title": "甲骨文与美国五角大楼签订10年期软件承包合同，价值高达70亿美元。 甲骨文（ORCL）美股盘后涨4%。",
@@ -330,6 +354,17 @@
           "time_info": "04时53分"
         },
         {
+          "title": "美股七巨头齐跌 特斯拉重挫14%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%83%E5%B7%A8%E5%A4%B4%E9%BD%90%E8%B7%8C+%E7%89%B9%E6%96%AF%E6%8B%89%E9%87%8D%E6%8C%AB14%25",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时54分"
+        },
+        {
           "title": "英特尔(INTC.O)美股盘后涨超9%，其三季度营收展望高于预期。",
           "url": "https://flash.jin10.com/detail/20260724040502451800",
           "source": "金十数据",
@@ -358,7 +393,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时55分"
         },
@@ -399,8 +434,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 06时55分]"
+          "appearance_count": 7,
+          "time_info": "[01时11分 ~ 07时54分]"
         },
         {
           "title": "美国中央司令部：自恢复对伊朗实施海上封锁以来的9天内，已重新引导12艘商业船只改变航线，并使1艘船只失去行动能力。",
@@ -431,7 +466,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时55分"
         },
@@ -453,15 +488,17 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "分析人士：半导体产业景气度持续验证，板块调整后配置价值凸显",
-          "url": "https://wallstreetcn.com/livenews/3139108",
-          "source": "华尔街见闻-快讯",
+          "title": "A股三大股指震荡收涨，锂矿、电网爆发，科创50跌近4%，半导体产业链齐跌，恒指涨超1%，科网股普涨",
+          "url": "https://wallstreetcn.com/articles/3777740",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            10,
+            9,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时55分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 07时54分]"
         },
         {
           "title": "花旗包括Andrew Gardiner在内的分析师在一份报告中指出：意法半导体（STMicroelectronics NV）业绩展望显示出终端市场正在建立周期性复苏，且AI/数据中心的增长持续加速。 但相应的，市场预期和股价今年也已大幅上涨。在缺乏进一步上调盈利预期的动力下，该股短期内可能面临压力。",
@@ -475,16 +512,16 @@
           "time_info": "03时03分"
         },
         {
-          "title": "A股三大股指震荡收涨，锂矿、电网爆发，科创50跌近4%，半导体产业链齐跌，恒指涨超1%，科网股普涨",
-          "url": "https://wallstreetcn.com/articles/3777740",
-          "source": "华尔街见闻",
+          "title": "分析人士：半导体产业景气度持续验证，板块调整后配置价值凸显",
+          "url": "https://wallstreetcn.com/livenews/3139108",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            9
+            2,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时11分 ~ 06时55分]"
+          "appearance_count": 2,
+          "time_info": "[06时55分 ~ 07时54分]"
         },
         {
           "title": "标普500指数初步收跌1.2%，电信板块重挫5%可选消费板块跌4.9%，科技板块跌1.3%，能源板块涨0.4%，工业板块涨1.5%。 纳斯达克100指数初步收跌1.9%，道指跌1%，半导体指数跌1.1%，银行指数跌1.1%。",
@@ -504,7 +541,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时55分"
         }
@@ -606,8 +643,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 06时55分]"
+          "appearance_count": 7,
+          "time_info": "[01时11分 ~ 07时54分]"
         },
         {
           "title": "金价跌2%，下探4000美元整数位心理关口",
@@ -632,11 +669,12 @@
           "url": "https://wallstreetcn.com/articles/3777724",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 06时55分]"
+          "appearance_count": 7,
+          "time_info": "[01时11分 ~ 07时54分]"
         }
       ]
     }
