@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T09:59:38.546677+08:00",
-  "total_titles_processed": 773,
+  "generated_at": "2026-07-23T13:27:17.568633+08:00",
+  "total_titles_processed": 969,
   "failed_sources": [],
   "trends": [
     {
@@ -50,8 +50,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时00分 ~ 09时59分]"
+          "appearance_count": 5,
+          "time_info": "[06时00分 ~ 13时27分]"
         },
         {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
@@ -61,8 +61,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时03分 ~ 09时59分]"
+          "appearance_count": 3,
+          "time_info": "[07时03分 ~ 13时27分]"
         },
         {
           "title": "【早报】美股AI服务器整机龙头，大涨近20%；特斯拉、谷歌披露财报；油价、黄金齐升；A股又一波公司启动增持回购",
@@ -71,9 +71,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 13时27分]"
         },
         {
           "title": "谷歌母公司Alphabet二季度营收1198亿美元，预期1170.2亿美元。 谷歌云营收247.7亿美元，预期224.6亿美元。 谷歌A美股盘后跌1.24%，暂报337.84美元。",
@@ -215,7 +215,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
@@ -229,15 +229,40 @@
           "time_info": "[00时23分 ~ 07时03分]"
         },
         {
+          "title": "特朗普威胁：若伊朗袭击霍尔木兹海峡船只 美方将轰炸其桥梁和发电厂",
+          "url": "https://www.cls.cn/detail/2434427",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时00分 ~ 13时27分]"
+        },
+        {
           "title": "污蔑中国遭驳斥后，特朗普自曝：美国对中国“做过一些事”",
           "url": "https://news.ifeng.com/c/8uyHXh9awI8",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 13时27分]"
+        },
+        {
+          "title": "特朗普：我们与伊朗只是小规模冲突",
+          "url": "https://news.ifeng.com/c/8uzZogT1UTe",
           "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时59分"
+          "time_info": "13时27分"
         },
         {
           "title": "美国总统特朗普：美国不需要霍尔木兹海峡。委内瑞拉正与美国合作生产石油。",
@@ -251,26 +276,13 @@
           "time_info": "04时09分"
         },
         {
-          "title": "特朗普威胁：若伊朗袭击霍尔木兹海峡船只 美方将轰炸其桥梁和发电厂",
-          "url": "https://www.cls.cn/detail/2434427",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时00分 ~ 09时59分]"
-        },
-        {
           "title": "特朗普：预计美联邦政府在9月将出现“停摆”",
           "url": "https://news.ifeng.com/c/8uyvegEdrQo",
           "source": "凤凰网",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         },
@@ -320,6 +332,29 @@
           "time_info": "[00时23分 ~ 04时09分]"
         },
         {
+          "title": "特朗普宣布两年后对仿制药征收 100% 关税，该举措出于什么目的？会对相关产业带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2063183942509754265",
+          "source": "知乎",
+          "ranks": [
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 13时27分]"
+        },
+        {
+          "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
+          "url": "https://wallstreetcn.com/articles/3777708",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
           "title": "美媒：美国向中东增派兵力，为特朗普扩大对伊战事提供更多选项",
           "url": "https://flash.jin10.com/detail/20260723061154517800",
           "source": "金十数据",
@@ -353,24 +388,13 @@
           "time_info": "04时09分"
         },
         {
-          "title": "特朗普宣布两年后对仿制药征收 100% 关税，该举措出于什么目的？会对相关产业带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2063183942509754265",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
           "title": "A股油服工程板块盘初拉升，中曼石油涨超9%，科力股份涨超7%，潜能恒信、通源石油、博迈科、石化油服、海油工程等个股跟涨。特朗普此前在社交媒体发文称，只要伊朗在霍尔木兹海峡向船只开火，美国都将轰炸并摧毁伊朗的一座桥梁或发电厂。",
           "url": "https://flash.jin10.com/detail/20260723093244752800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         },
@@ -505,8 +529,19 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "意法半导体第二季度净营收 34.9亿美元，市场预估34.6亿美元。 第二季度营业利润 1.87亿美元，市场预估2.336亿美元。 第二季度净利润 2.22亿美元，市场预估2.041亿美元。 第二季度每股收益 24美分，市场预估23美分。 第二季度自由现金流 7,500万美元，市场预估3.00亿美元。 第二季度资本支出 4.190亿美元，市场预估4.848亿美元 预计第三季度净营收 37.0亿美元，市场预估37.9亿美元。 预计第三季度毛利率 37%，市场预估36.8%。",
+          "url": "https://wallstreetcn.com/livenews/3138619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
         {
           "title": "标普500指数初步收跌大约0.1%，电信板块跌1.1%，科技板块大致持平，能源板块涨1.1%，原材料板块涨1.3%，公用事业板块涨2.2%。 纳斯达克100指数初步收跌0.4%，成分股中，SpaceX初步收跌6.6%，Workday跌6.2%，汤森路透跌3.6%，英特尔跌2.5%，Meta、微软至少跌2%，英伟达涨2.1%，博通涨2.6%，CoreWeave涨4.1%，核电股CEG涨4.8%。 半导体指数涨0.4%。",
           "url": "https://wallstreetcn.com/livenews/3138386",
@@ -525,7 +560,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         },
@@ -553,9 +588,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 13时27分]"
         },
         {
           "title": "特斯拉(TSLA.O)CEO马斯克：美光以合理条件提供了数量可观的存储芯片配额。",
@@ -657,6 +692,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "有色",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "港股午评：恒指收涨1.34%，有色金属板块走强",
+          "url": "https://flash.jin10.com/detail/20260723120228115800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
         }
       ]
     }
