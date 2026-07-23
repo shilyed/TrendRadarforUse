@@ -1,233 +1,11 @@
 {
-  "generated_at": "2026-07-23T16:15:00.685000+08:00",
-  "total_titles_processed": 1128,
+  "generated_at": "2026-07-23T19:02:48.554370+08:00",
+  "total_titles_processed": 1292,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
-          "url": "https://news.ifeng.com/c/8uy1V150ZKO",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 07时03分]"
-        },
-        {
-          "title": "污蔑中国遭驳斥后，特朗普自曝：美国对中国“做过一些事”",
-          "url": "https://news.ifeng.com/c/8uyHXh9awI8",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时59分 ~ 16时15分]"
-        },
-        {
-          "title": "特朗普：我们与伊朗只是小规模冲突",
-          "url": "https://news.ifeng.com/c/8uzZogT1UTe",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时27分 ~ 16时15分]"
-        },
-        {
-          "title": "特朗普威胁：若伊朗袭击霍尔木兹海峡船只 美方将轰炸其桥梁和发电厂",
-          "url": "https://www.cls.cn/detail/2434427",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时00分 ~ 13时27分]"
-        },
-        {
-          "title": "美国总统特朗普：美国不需要霍尔木兹海峡。委内瑞拉正与美国合作生产石油。",
-          "url": "https://flash.jin10.com/detail/20260723034521965800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
-          "title": "特朗普：预计美联邦政府在9月将出现“停摆”",
-          "url": "https://news.ifeng.com/c/8uyvegEdrQo",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "据华盛顿邮报：美国总统特朗普政府正在考虑在马里采取军事行动。",
-          "url": "https://flash.jin10.com/detail/20260723000745259800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "新闻蒸馏器｜特朗普关税或将“换壳”：覆盖60国，税率10%至12.5%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33634011",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时04分 ~ 09时59分]"
-        },
-        {
-          "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
-          "url": "https://wallstreetcn.com/articles/3777603",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时09分]"
-        },
-        {
-          "title": "国际油价持续拉升！特朗普盯上的伊朗“镐山”有什么奥秘？",
-          "url": "https://www.cls.cn/detail/2434152",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时09分]"
-        },
-        {
-          "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
-          "url": "https://wallstreetcn.com/articles/3777708",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时27分 ~ 16时15分]"
-        },
-        {
-          "title": "特朗普宣布两年后对仿制药征收 100% 关税，该举措出于什么目的？会对相关产业带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2063183942509754265",
-          "source": "知乎",
-          "ranks": [
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 13时27分]"
-        },
-        {
-          "title": "伊朗袭击已致近 100 名美军受伤，特朗普扬言强硬报复，美伊会爆发全面战争吗？中东局势将走向何方？",
-          "url": "https://www.zhihu.com/question/2062856603762742765",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时14分 ~ 16时15分]"
-        },
-        {
-          "title": "美媒：美国向中东增派兵力，为特朗普扩大对伊战事提供更多选项",
-          "url": "https://flash.jin10.com/detail/20260723061154517800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时03分"
-        },
-        {
-          "title": "特朗普：我们在伊朗取得胜利，我们不需要霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/livenews/3138382",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
-          "title": "特朗普政府探索联邦水域核电项目",
-          "url": "https://flash.jin10.com/detail/20260723032253567800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
-          "title": "A股油服工程板块盘初拉升，中曼石油涨超9%，科力股份涨超7%，潜能恒信、通源石油、博迈科、石化油服、海油工程等个股跟涨。特朗普此前在社交媒体发文称，只要伊朗在霍尔木兹海峡向船只开火，美国都将轰炸并摧毁伊朗的一座桥梁或发电厂。",
-          "url": "https://flash.jin10.com/detail/20260723093244752800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "特朗普：预计美联邦政府在9月将出现“停摆”",
-          "url": "https://wallstreetcn.com/livenews/3138407",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        },
-        {
-          "title": "特朗普政府暂停向美国两州拨付10亿美元医疗补助资金",
-          "url": "https://wallstreetcn.com/livenews/3138289",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
@@ -252,6 +30,18 @@
           "time_info": "[00时23分 ~ 06时01分]"
         },
         {
+          "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时03分 ~ 19时02分]"
+        },
+        {
           "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
           "url": "https://wallstreetcn.com/articles/3777518",
           "source": "华尔街见闻",
@@ -261,17 +51,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时23分 ~ 06时01分]"
-        },
-        {
-          "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
-          "url": "https://wallstreetcn.com/articles/3777614",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时03分 ~ 16时15分]"
         },
         {
           "title": "美股收盘：三大指数集体收低 美伊互放狠话重燃加息预期",
@@ -357,6 +136,17 @@
           "time_info": "06时01分"
         },
         {
+          "title": "洛克希德马丁第二季度净销售额200.6亿美元，预期193.3亿美元 第二季度每股收益7.94美元，去年同期1.46美元。 洛克希德马丁预计全年净销售额797.5亿至817.5亿美元，市场预期791.3亿美元。 洛克希德马丁预计全年营业利润85亿至87亿美元。 洛克希德马丁预计全年每股收益29.95至30.65美元，此前预期29.35至30.25美元。 洛克希德马丁美股盘前涨7.5%。",
+          "url": "https://wallstreetcn.com/livenews/3138819",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "周三（7月22日）美股尾盘，美股降息赢家指数大致持平，报95.17点，早盘冲高回落、随后出现一波V形反转行情。 “特朗普关税输家”指数跌0.13%，“特朗普金融指数”跌0.17%。",
           "url": "https://wallstreetcn.com/livenews/3138380",
           "source": "华尔街见闻-快讯",
@@ -401,6 +191,17 @@
           "time_info": "00时24分"
         },
         {
+          "title": "霍尼韦尔第二季度销售额97.2亿美元，第二季度调整后每股收益4.52美元。 霍尼韦尔预计2026年全年销售额198亿至200亿美元，此前预期199亿至202亿美元。 霍尼韦尔预计2026年有机销售额增长3%至4%，此前预期2%至3%。 霍尼韦尔预计2026年自由现金流约20亿美元，此前预期约20亿美元。 霍尼韦尔美股盘前涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3138796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "特斯拉美股盘后跌幅扩大至5%，SpaceX涨0.7%。 马斯克在分析师电话会上表示：Optimus将是特斯拉最难实现规模化量产的产品。",
           "url": "https://wallstreetcn.com/livenews/3138431",
           "source": "华尔街见闻-快讯",
@@ -423,6 +224,17 @@
           "time_info": "07时03分"
         },
         {
+          "title": "康卡斯特（Comcast）第二季度营收299.4亿美元，预期293亿美元。 第二季度调整后每股收益为1.04美元，预期为0.97美元。 康卡斯特（Comcast）旗下流媒体平台Peacock首次实现季度盈利。 康卡斯特美股盘前涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3138792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "周三（7月22日），美股行业ETF多数收跌，网络股指数ETF、全球航空业ETF、生物科技指数ETF至多跌1.86%，半导体ETF涨0.48%，能源业ETF涨1.20%。 标普500指数的11个板块中，电信板块收跌1.29%，可选消费板块跌0.84%，信息技术/科技板块涨0.01%，能源板块涨1.19%，原材料板块涨1.45%，公用事业板块涨2.29%。",
           "url": "https://wallstreetcn.com/livenews/3138400",
           "source": "华尔街见闻-快讯",
@@ -432,6 +244,230 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 19,
+      "titles": [
+        {
+          "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
+          "url": "https://news.ifeng.com/c/8uy1V150ZKO",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 07时03分]"
+        },
+        {
+          "title": "特朗普：我们与伊朗只是小规模冲突",
+          "url": "https://news.ifeng.com/c/8uzZogT1UTe",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时27分 ~ 19时02分]"
+        },
+        {
+          "title": "污蔑中国遭驳斥后，特朗普自曝：美国对中国“做过一些事”",
+          "url": "https://news.ifeng.com/c/8uyHXh9awI8",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时59分 ~ 16时15分]"
+        },
+        {
+          "title": "特朗普威胁：若伊朗袭击霍尔木兹海峡船只 美方将轰炸其桥梁和发电厂",
+          "url": "https://www.cls.cn/detail/2434427",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时00分 ~ 13时27分]"
+        },
+        {
+          "title": "美国总统特朗普：美国不需要霍尔木兹海峡。委内瑞拉正与美国合作生产石油。",
+          "url": "https://flash.jin10.com/detail/20260723034521965800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
+        {
+          "title": "特朗普：预计美联邦政府在9月将出现“停摆”",
+          "url": "https://news.ifeng.com/c/8uyvegEdrQo",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "据华盛顿邮报：美国总统特朗普政府正在考虑在马里采取军事行动。",
+          "url": "https://flash.jin10.com/detail/20260723000745259800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        },
+        {
+          "title": "新闻蒸馏器｜特朗普关税或将“换壳”：覆盖60国，税率10%至12.5%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33634011",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时04分 ~ 09时59分]"
+        },
+        {
+          "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
+          "url": "https://wallstreetcn.com/articles/3777708",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时27分 ~ 19时02分]"
+        },
+        {
+          "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
+          "url": "https://wallstreetcn.com/articles/3777603",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 04时09分]"
+        },
+        {
+          "title": "国际油价持续拉升！特朗普盯上的伊朗“镐山”有什么奥秘？",
+          "url": "https://www.cls.cn/detail/2434152",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 04时09分]"
+        },
+        {
+          "title": "伊朗袭击已致近 100 名美军受伤，特朗普扬言强硬报复，美伊会爆发全面战争吗？中东局势将走向何方？",
+          "url": "https://www.zhihu.com/question/2062856603762742765",
+          "source": "知乎",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时14分 ~ 19时02分]"
+        },
+        {
+          "title": "特朗普宣布两年后对仿制药征收 100% 关税，该举措出于什么目的？会对相关产业带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2063183942509754265",
+          "source": "知乎",
+          "ranks": [
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 13时27分]"
+        },
+        {
+          "title": "美媒：美国向中东增派兵力，为特朗普扩大对伊战事提供更多选项",
+          "url": "https://flash.jin10.com/detail/20260723061154517800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "特朗普：我们在伊朗取得胜利，我们不需要霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3138382",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
+        {
+          "title": "特朗普政府探索联邦水域核电项目",
+          "url": "https://flash.jin10.com/detail/20260723032253567800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
+        {
+          "title": "A股油服工程板块盘初拉升，中曼石油涨超9%，科力股份涨超7%，潜能恒信、通源石油、博迈科、石化油服、海油工程等个股跟涨。特朗普此前在社交媒体发文称，只要伊朗在霍尔木兹海峡向船只开火，美国都将轰炸并摧毁伊朗的一座桥梁或发电厂。",
+          "url": "https://flash.jin10.com/detail/20260723093244752800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "特朗普：预计美联邦政府在9月将出现“停摆”",
+          "url": "https://wallstreetcn.com/livenews/3138407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
+          "title": "特朗普政府暂停向美国两州拨付10亿美元医疗补助资金",
+          "url": "https://wallstreetcn.com/livenews/3138289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
         }
       ]
     },
@@ -446,7 +482,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         },
@@ -457,7 +493,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         },
@@ -617,7 +653,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         }
@@ -635,8 +671,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时59分 ~ 16时15分]"
+          "appearance_count": 5,
+          "time_info": "[09时59分 ~ 19时02分]"
         },
         {
           "title": "特斯拉(TSLA.O)CEO马斯克：美光以合理条件提供了数量可观的存储芯片配额。",
@@ -673,7 +709,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         },
