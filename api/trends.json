@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T07:54:37.380646+08:00",
-  "total_titles_processed": 632,
+  "generated_at": "2026-07-24T09:55:42.972213+08:00",
+  "total_titles_processed": 784,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普：我们与伊朗只是小规模冲突",
@@ -26,11 +26,12 @@
             10,
             8,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时03分 ~ 07时54分]"
+          "appearance_count": 7,
+          "time_info": "[03时03分 ~ 09时55分]"
         },
         {
           "title": "委内瑞拉石油多着呢！特朗普：我们才不需要霍尔木兹海峡",
@@ -38,11 +39,23 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时11分 ~ 07时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 09时55分]"
+        },
+        {
+          "title": "特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵",
+          "url": "https://wallstreetcn.com/articles/3777811",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         },
         {
           "title": "美参议院否决限制特朗普对伊战争权力的决议案",
@@ -51,7 +64,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -225,7 +238,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
@@ -243,11 +256,12 @@
           "url": "https://wallstreetcn.com/articles/3777754",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时59分 ~ 07时54分]"
+          "appearance_count": 5,
+          "time_info": "[05时59分 ~ 09时55分]"
         },
         {
           "title": "美股",
@@ -267,11 +281,35 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时54分 ~ 07时54分]"
+          "appearance_count": 4,
+          "time_info": "[06时54分 ~ 09时55分]"
+        },
+        {
+          "title": "美股科技七巨头市值蒸发近8千亿美元",
+          "url": "https://www.toutiao.com/trending/7665870757104193078/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "【早报】美股科技赛道大跌，存储股逆市走高；油价暴涨、黄金跳水；长鑫科技下周一上市",
+          "url": "https://www.cls.cn/detail/2435717",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时54分 ~ 09时55分]"
         },
         {
           "title": "周四（7月23日），美股行业ETF多数收跌，可选消费ETF跌4.61%，网络股指数ETF跌2.56%，半导体ETF跌1.15%，生物科技指数ETF、医疗业ETF、工业指数ETF涨1.06%-1.73%。 标普500指数的11个板块中，电信板块重挫5.2%，可选消费板块跌5.12%，信息技术/科技板块跌1.12%，能源板块涨0.56%，工业板块涨1.77%。",
@@ -310,15 +348,16 @@
           "time_info": "[04时53分 ~ 05时59分]"
         },
         {
-          "title": "【早报】美股科技赛道大跌，存储股逆市走高；油价暴涨、黄金跳水；长鑫科技下周一上市",
-          "url": "https://www.cls.cn/detail/2435717",
-          "source": "财联社热门",
+          "title": "美股七巨头齐跌 特斯拉重挫14%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%83%E5%B7%A8%E5%A4%B4%E9%BD%90%E8%B7%8C+%E7%89%B9%E6%96%AF%E6%8B%89%E9%87%8D%E6%8C%AB14%25",
+          "source": "百度热搜",
           "ranks": [
-            8
+            15,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时54分 ~ 09时55分]"
         },
         {
           "title": "甲骨文与美国五角大楼签订10年期软件承包合同，价值高达70亿美元。 甲骨文（ORCL）美股盘后涨4%。",
@@ -352,17 +391,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
-        },
-        {
-          "title": "美股七巨头齐跌 特斯拉重挫14%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%83%E5%B7%A8%E5%A4%B4%E9%BD%90%E8%B7%8C+%E7%89%B9%E6%96%AF%E6%8B%89%E9%87%8D%E6%8C%AB14%25",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时54分"
         },
         {
           "title": "英特尔(INTC.O)美股盘后涨超9%，其三季度营收展望高于预期。",
@@ -423,7 +451,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "伊朗称袭击美国亚马逊公司在巴林的数据基础设施，这个地方有多重要？将造成哪些影响？",
@@ -434,8 +462,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时11分 ~ 07时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 09时55分]"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：阿拉伯消息人士称，科威特的美国基地响起警报，并传出多次爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260724095428376800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         },
         {
           "title": "美国中央司令部：自恢复对伊朗实施海上封锁以来的9天内，已重新引导12艘商业船只改变航线，并使1艘船只失去行动能力。",
@@ -471,6 +510,17 @@
           "time_info": "06时55分"
         },
         {
+          "title": "伊朗拒绝由美国提出的、伊拉克领导人转交的停火协议。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3139131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
           "title": "据伊朗媒体Fars News：美国驻科威特阿里·萨利姆空军基地遭到导弹和无人机袭击，科威特防空系统正在拦截来自伊朗的无人机和导弹。",
           "url": "https://flash.jin10.com/detail/20260724035032089800",
           "source": "金十数据",
@@ -497,8 +547,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 07时54分]"
+          "appearance_count": 7,
+          "time_info": "[01时11分 ~ 09时55分]"
         },
         {
           "title": "花旗包括Andrew Gardiner在内的分析师在一份报告中指出：意法半导体（STMicroelectronics NV）业绩展望显示出终端市场正在建立周期性复苏，且AI/数据中心的增长持续加速。 但相应的，市场预期和股价今年也已大幅上涨。在缺乏进一步上调盈利预期的动力下，该股短期内可能面临压力。",
@@ -548,6 +598,57 @@
       ]
     },
     {
+      "keyword_group": "白银",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "如何评价《白银之城》二测体验？",
+          "url": "https://www.zhihu.com/question/2063652031517218535",
+          "source": "知乎",
+          "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时59分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 7月23日（周四）晚盘收盘下跌2.05%报882.1元/克；<br/>上海黄金交易所白银T+D 7月23日（周四）晚盘收盘下跌3.82%报14058.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260724023226644800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
+          "title": "报道：印度白银进口因新许可证制度受阻而大幅下滑",
+          "url": "https://wallstreetcn.com/livenews/3138979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时11分"
+        },
+        {
+          "title": "A股贵金属板块大幅低开，湖南白银低开超7%，山金国际、赤峰黄金、晓程科技、西部黄金等个股跟跌。",
+          "url": "https://flash.jin10.com/detail/20260724092910278800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -589,46 +690,6 @@
       ]
     },
     {
-      "keyword_group": "白银",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "如何评价《白银之城》二测体验？",
-          "url": "https://www.zhihu.com/question/2063652031517218535",
-          "source": "知乎",
-          "ranks": [
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时53分 ~ 05时59分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 7月23日（周四）晚盘收盘下跌2.05%报882.1元/克；<br/>上海黄金交易所白银T+D 7月23日（周四）晚盘收盘下跌3.82%报14058.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260724023226644800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时03分"
-        },
-        {
-          "title": "报道：印度白银进口因新许可证制度受阻而大幅下滑",
-          "url": "https://wallstreetcn.com/livenews/3138979",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -662,7 +723,7 @@
     },
     {
       "keyword_group": "存储芯片",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "特斯拉电话会：马斯克称正进行“二战以来美国最快的工业规模扩张”，获美光存储芯片“超级配额”",
@@ -675,6 +736,34 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时11分 ~ 07时54分]"
+        },
+        {
+          "title": "A股存储芯片板块低开高走，托伦斯涨超13%，至纯科技涨停，通富微电、柏诚股份、正帆科技、中京电子、京仪装备等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260724094600469800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "布油突破100美元点燃加息预期，美债收益率升至2026年新高",
+          "url": "https://flash.jin10.com/detail/20260724094200173800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         }
       ]
     }
