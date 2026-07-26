@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T06:53:11.872640+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-07-27T07:55:00.017561+08:00",
+  "total_titles_processed": 532,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普下令暂停空袭伊朗",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时00分 ~ 06时53分]"
+          "appearance_count": 8,
+          "time_info": "[01时00分 ~ 07时54分]"
         },
         {
           "title": "【早报】特朗普威胁对欧盟加征报复性关税；韩国存储双雄拟签下9500亿美元大单",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时00分 ~ 06时53分]"
+          "appearance_count": 8,
+          "time_info": "[01时00分 ~ 07时54分]"
         },
         {
           "title": "特朗普暂缓扩大对伊作战规模，原因曝光",
@@ -38,8 +38,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时00分 ~ 06时53分]"
+          "appearance_count": 8,
+          "time_info": "[01时00分 ~ 07时54分]"
+        },
+        {
+          "title": "特朗普叫停对伊朗空袭 为霍尔木兹海峡谈判留出空间",
+          "url": "https://www.cls.cn/detail/2437057",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时00分 ~ 07时54分]"
         },
         {
           "title": "特朗普下令暂停空袭伊朗",
@@ -53,15 +65,17 @@
           "time_info": "[01时00分 ~ 02时03分]"
         },
         {
-          "title": "特朗普叫停对伊朗空袭 为霍尔木兹海峡谈判留出空间",
-          "url": "https://www.cls.cn/detail/2437057",
-          "source": "财联社热门",
+          "title": "美媒曝光特朗普暂停空袭伊朗原因",
+          "url": "https://www.douyin.com/hot/2585679",
+          "source": "抖音",
           "ranks": [
-            12
+            15,
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时00分 ~ 06时53分]"
+          "appearance_count": 6,
+          "time_info": "[02时03分 ~ 07时54分]"
         },
         {
           "title": "英国新任首相：若有必要将公开批评特朗普",
@@ -75,19 +89,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时01分 ~ 06时53分]"
-        },
-        {
-          "title": "美媒曝光特朗普暂停空袭伊朗原因",
-          "url": "https://www.douyin.com/hot/2585679",
-          "source": "抖音",
-          "ranks": [
-            15,
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时03分 ~ 06时53分]"
         },
         {
           "title": "据Axios：美国中央司令部司令库珀建议停止在霍尔木兹海峡周边的轰炸行动，因该行动的效力已达极限。这影响了特朗普周五做出的暂停对伊打击的决定。",
@@ -210,6 +211,17 @@
           "time_info": "[05时52分 ~ 06时53分]"
         },
         {
+          "title": "伊朗和美国之间很快达成新停火协议的机会似乎再次上升，因有报道称美国总统特朗普决定暂停近期对伊朗南部的打击行动。在预测市场Polymarket上，交易员认为在2026年8月31日前实现停火的概率已达到75%。",
+          "url": "https://flash.jin10.com/detail/20260727065319315800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时54分"
+        },
+        {
           "title": "以总理办公室官员：我们同意维和委员会及国际部队进入加沙，这是特朗普计划中规定的内容。",
           "url": "https://flash.jin10.com/detail/20260726230940914800",
           "source": "金十数据",
@@ -224,7 +236,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "据伊朗高级知情人士透露，美国暂停对伊朗袭击之后，（对美国+以色列的）“怀疑态度超过乐观情绪”。（彭博）",
@@ -233,11 +245,12 @@
           "ranks": [
             1,
             2,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 06时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 07时54分]"
         },
         {
           "title": "沙特媒体：伊朗方面称并未退出谈判，愿在日内瓦多地与美国继续谈判",
@@ -246,33 +259,23 @@
           "ranks": [
             2,
             3,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 06时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 07时54分]"
         },
         {
-          "title": "美国防部：美军因伊朗战事累计伤亡642人",
-          "url": "https://flash.jin10.com/detail/20260727062839831800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时53分"
-        },
-        {
-          "title": "美国防部：美军因伊朗战事累计伤亡642人",
-          "url": "https://wallstreetcn.com/livenews/3139881",
+          "title": "欧洲天然气价格一度跌8% 受美国暂停对伊朗空袭影响",
+          "url": "https://wallstreetcn.com/livenews/3139892",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时53分"
+          "time_info": "07时54分"
         },
         {
           "title": "伊朗高级消息人士表示，只要美国维持目前的停火状态，伊朗将停止攻击。（路透）",
@@ -299,6 +302,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时01分 ~ 04时05分]"
+        },
+        {
+          "title": "美国防部：美军因伊朗战事累计伤亡642人",
+          "url": "https://flash.jin10.com/detail/20260727062839831800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时53分 ~ 07时54分]"
+        },
+        {
+          "title": "美国防部：美军因伊朗战事累计伤亡642人",
+          "url": "https://wallstreetcn.com/livenews/3139881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时53分 ~ 07时54分]"
         },
         {
           "title": "伊朗外交部：我们绝不允许美国在阿拉伯湾和霍尔木兹海峡水域推行霸权。",
@@ -340,7 +367,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
@@ -362,8 +389,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时00分 ~ 06时53分]"
+          "appearance_count": 8,
+          "time_info": "[01时00分 ~ 07时54分]"
         },
         {
           "title": "提醒：下周一（7月27日）美股盘后，铿腾电子（CDNS）、Rambus将发布业绩报告。 下周二美股盘前，康宁公司（GLW）、波音、可口可乐将发布业绩报告； 美股盘后，希捷科技、恩智浦将、福特汽车发布业绩报告。 下周三美股盘后，微软、Meta、高通、Arm控股、拉姆研究发布业绩报告。 下周四美股盘后，苹果、亚马逊、Coinbase发布业绩报告。 下周五美股盘前，雪佛龙、埃克森美孚发布业绩报告。",
@@ -377,6 +404,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时01分 ~ 06时53分]"
+        },
+        {
+          "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
+          "url": "https://www.cls.cn/detail/2437061",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时54分"
         }
       ]
     },
@@ -411,8 +449,25 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时00分 ~ 06时53分]"
+          "appearance_count": 8,
+          "time_info": "[01时00分 ~ 07时54分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "合肥半导体的“B面”：千亿版图与基金矩阵",
+          "url": "https://www.cls.cn/detail/2437213",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时54分"
         }
       ]
     }
