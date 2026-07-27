@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T05:58:35.111449+08:00",
-  "total_titles_processed": 566,
+  "generated_at": "2026-07-28T06:59:19.479947+08:00",
+  "total_titles_processed": 623,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普威胁对欧盟加征巨额报复性关税，为何又是“301调查”？",
@@ -15,19 +15,30 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 06时59分]"
         },
         {
-          "title": "据纽约邮报：以色列总理内塔尼亚胡将向美国总统特朗普提供伊朗“镐山”核设施情报。",
-          "url": "https://flash.jin10.com/detail/20260728052319740800",
+          "title": "五角大楼被曝对乌援助要拖到特朗普卸任年",
+          "url": "https://flash.jin10.com/detail/20260728064510542800",
           "source": "金十数据",
           "ranks": [
-            1
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时58分"
+          "time_info": "06时59分"
+        },
+        {
+          "title": "美时政评论员：特朗普不希望赖清德搞“抗中保台”",
+          "url": "https://news.ifeng.com/c/8v6kAaPHBHd",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 06时59分]"
         },
         {
           "title": "美国总统特朗普：我们将迅速结束伊朗的核威胁。",
@@ -41,15 +52,39 @@
           "time_info": "04时16分"
         },
         {
-          "title": "美时政评论员：特朗普不希望赖清德搞“抗中保台”",
-          "url": "https://news.ifeng.com/c/8v6kAaPHBHd",
-          "source": "凤凰网",
+          "title": "特朗普力挺沃什降息，喊美国利率要全球最低，炮轰美联储“阻降派”",
+          "url": "https://flash.jin10.com/detail/20260728063552100800",
+          "source": "金十数据",
           "ranks": [
-            6
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
+          "title": "据纽约邮报：以色列总理内塔尼亚胡将向美国总统特朗普提供伊朗“镐山”核设施情报。",
+          "url": "https://flash.jin10.com/detail/20260728052319740800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 05时58分]"
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 06时59分]"
+        },
+        {
+          "title": "特朗普：美国已从委内瑞拉石油销售中获利超130亿美元",
+          "url": "https://wallstreetcn.com/livenews/3140523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 06时59分]"
         },
         {
           "title": "美国总统特朗普：伊朗正在乞求美国解除封锁。",
@@ -72,17 +107,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
-        },
-        {
-          "title": "特朗普：美国已从委内瑞拉石油销售中获利超130亿美元",
-          "url": "https://wallstreetcn.com/livenews/3140523",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
         },
         {
           "title": "美国总统特朗普：美国的汽油供应够用1000年。",
@@ -113,7 +137,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -135,7 +159,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -160,6 +184,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "市场消息：以色列总理内塔尼亚胡已抵达美国马里兰州安德鲁斯联合基地，准备于当地时间周二与特朗普会晤。",
+          "url": "https://flash.jin10.com/detail/20260728061247016800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
         },
         {
           "title": "美国总统特朗普：让我们处理掉夏令时/冬令时问题。",
@@ -190,7 +225,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -223,7 +258,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -256,7 +291,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -267,7 +302,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -281,6 +316,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "周二亚太盘初，WTI原油期货低开1.1%，跌至81.68美元/桶，投资者关注特朗普所谓的美国与伊朗正在“对话”。",
+          "url": "https://wallstreetcn.com/livenews/3140533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
         },
         {
           "title": "特朗普：伊朗谈判窗口有限，若谈判破裂将重启军事行动",
@@ -305,13 +351,24 @@
           "time_info": "02时20分"
         },
         {
+          "title": "美媒：内塔尼亚胡拟向特朗普证明伊朗仍在推进“镐山”核计划",
+          "url": "https://flash.jin10.com/detail/20260728053007305800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
           "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
           "url": "https://wallstreetcn.com/livenews/3140503",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -341,7 +398,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "美股",
@@ -349,11 +406,12 @@
           "source": "微博",
           "ranks": [
             2,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 06时59分]"
         },
         {
           "title": "美股高开低走，存储大跌、阿斯麦跌8%自动停牌，布油一度大跌7%、债市走强",
@@ -379,15 +437,52 @@
           "time_info": "00时09分"
         },
         {
+          "title": "AI忧虑盖过油价下跌，美股高开低走，阿斯麦一度跌8%，中概股逆市收涨，美元走V",
+          "url": "https://wallstreetcn.com/articles/3777993",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
           "title": "AI忧虑盖过油价下跌，美股高开低走，阿斯麦一度跌8%，中概股逆市收涨，原油重挫",
           "url": "https://wallstreetcn.com/articles/3777993",
           "source": "华尔街见闻",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        },
+        {
+          "title": "美伊暂停交火提振市场情绪 美股期指上涨 油价大幅回落 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2438191",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 06时59分]"
+        },
+        {
+          "title": "美国中期选举进入百日倒计时！高盛：美股8月起将逐步感受冲击",
+          "url": "https://www.cls.cn/detail/2438003",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 06时59分]"
         },
         {
           "title": "周一（7月27日）纽约尾盘，彭博电动汽车价格回报指数涨1.56%，报3280.64点。 指数全天处于上涨状态，亚太时段持续走高，美股盘初刷新日高至3290.35点。 成分股中，小米集团H股收涨7.34%，禾赛科技ADR目前涨5.6%，文远知行ADR涨5.2%，Lucid集团涨5%，特斯拉劲敌Rivian涨4.8%，地平线H股收涨4.52%，特斯拉目前跌1.4%表现倒数第三，意法半导体法国巴黎股价收跌1.88%，淡水河谷印尼公司收跌2.05%。",
@@ -402,29 +497,15 @@
           "time_info": "[04时16分 ~ 05时58分]"
         },
         {
-          "title": "美伊暂停交火提振市场情绪 美股期指上涨 油价大幅回落 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2438191",
+          "title": "美股收盘：阿斯麦、英伟达领衔“芯片风暴” 苹果重返全球市值第一",
+          "url": "https://www.cls.cn/detail/2438385",
           "source": "财联社热门",
           "ranks": [
-            10,
             8
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 05时58分]"
-        },
-        {
-          "title": "美国中期选举进入百日倒计时！高盛：美股8月起将逐步感受冲击",
-          "url": "https://www.cls.cn/detail/2438003",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 05时58分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
         },
         {
           "title": "天弘股份（Celestica Inc.，多伦多股票代码CLS.CN）ADR美股盘后涨8%。 该公司二季度营收47亿美元，分析师预期43.9亿美元。 二季度调整后每股收益（EPS）为2.54美元，分析师预期2.30美元。 预计全年营收205亿美元，分析师预期192.8亿美元，公司原本预计190亿美元。 预计全年调整后EPS为11.30美元，分析师预期10.29美元，公司原本预计10.15美元。 预计三季度营收52.5亿-55.5亿美元，分析师预期50.1亿美元。 预计三季度调整后EPS为2.88-3.08美元，分析师预期2.68美元。",
@@ -433,7 +514,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -455,7 +536,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -477,7 +558,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -488,7 +569,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -499,7 +580,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -532,7 +613,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -572,8 +653,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 06时59分]"
         },
         {
           "title": "据伊朗媒体FarsNews：伊拉克消息人士称，一架美国无人机在伊拉克西部安巴尔省被击落。",
@@ -594,8 +675,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 06时59分]"
         },
         {
           "title": "对伊朗停火 美国是不打了还是打不了",
@@ -608,8 +689,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 06时59分]"
         },
         {
           "title": "路透社/益普索调查显示，仅有33%的美国人支持美国与伊朗的战争，为冲突初期以来的最低水平。",
@@ -618,7 +699,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -658,6 +739,73 @@
       ]
     },
     {
+      "keyword_group": "半导体",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "基本半导体港交所公告：本公司与承包商就建造碳化硅模块封装产线基地项目订立工程总承包合约。 据此，承包商同意承接本公司碳化硅模块封装产线基地的工程，合约价格总价为人民币1.933亿元。",
+          "url": "https://wallstreetcn.com/livenews/3140536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
+          "title": "荷兰上市的阿斯麦和BE半导体实业公司在跌至8%至8.7%后自动停牌。",
+          "url": "https://wallstreetcn.com/livenews/3140402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时09分"
+        },
+        {
+          "title": "纳指科技指数收跌0.5%，半导体指数跌超2.2%",
+          "url": "https://wallstreetcn.com/livenews/3140500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "油价暴跌 金价飙升",
+          "url": "https://www.douyin.com/hot/2587376",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时09分"
+        },
+        {
+          "title": "突破4000美元“拉锯区”，金价筑底信号显现",
+          "url": "https://wallstreetcn.com/livenews/3140540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -679,54 +827,37 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         }
       ]
     },
     {
-      "keyword_group": "半导体",
+      "keyword_group": "白银",
       "match_count": 2,
       "titles": [
         {
-          "title": "荷兰上市的阿斯麦和BE半导体实业公司在跌至8%至8.7%后自动停牌。",
-          "url": "https://wallstreetcn.com/livenews/3140402",
+          "title": "现货黄金涨0.6%，白银涨0.4%，纽约铜涨约1%",
+          "url": "https://wallstreetcn.com/livenews/3140516",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时09分"
+          "time_info": "05时58分"
         },
         {
-          "title": "纳指科技指数收跌0.5%，半导体指数跌超2.2%",
-          "url": "https://wallstreetcn.com/livenews/3140500",
-          "source": "华尔街见闻-快讯",
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少19.68吨，当前持仓量为15024.77吨。欢迎点击查看数据中心...",
+          "url": "https://flash.jin10.com/detail/20260728060257788800",
+          "source": "金十数据",
           "ranks": [
-            27
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "油价暴跌 金价飙升",
-          "url": "https://www.douyin.com/hot/2587376",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "time_info": "06时59分"
         }
       ]
     },
@@ -744,23 +875,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "现货黄金涨0.6%，白银涨0.4%，纽约铜涨约1%",
-          "url": "https://wallstreetcn.com/livenews/3140516",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
         }
       ]
     }
