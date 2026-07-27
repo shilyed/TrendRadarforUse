@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-07-28T00:09:58.991195+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-07-28T02:20:49.026472+08:00",
+  "total_titles_processed": 417,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
-        {
-          "title": "LVMH集团（路易威登母公司）二季度时装与皮草有机销售增长1%，分析师预期增长1.52%。 二季度有机营收增长3%，分析师预期增长2.32%。 二季度红酒与烈酒有机销售增长5%，分析师预期下滑1.94%。 该公司ADR美股盘中涨幅2.7%。",
-          "url": "https://wallstreetcn.com/livenews/3140424",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
-        },
         {
           "title": "美股",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=2&Refer=top",
@@ -26,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 02时20分]"
         },
         {
           "title": "美股高开低走，存储大跌、阿斯麦跌8%自动停牌，布油一度大跌7%、债市走强",
@@ -35,6 +24,17 @@
           "source": "华尔街见闻",
           "ranks": [
             4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 02时20分]"
+        },
+        {
+          "title": "LVMH集团（路易威登母公司）二季度时装与皮草有机销售增长1%，分析师预期增长1.52%。 二季度有机营收增长3%，分析师预期增长2.32%。 二季度红酒与烈酒有机销售增长5%，分析师预期下滑1.94%。 该公司ADR美股盘中涨幅2.7%。",
+          "url": "https://wallstreetcn.com/livenews/3140424",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -48,8 +48,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 02时20分]"
         },
         {
           "title": "美国中期选举进入百日倒计时！高盛：美股8月起将逐步感受冲击",
@@ -59,8 +59,19 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 02时20分]"
+        },
+        {
+          "title": "加密货币市场于美股盘初跳水",
+          "url": "https://wallstreetcn.com/livenews/3140446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时09分"
+          "time_info": "02时20分"
         },
         {
           "title": "长鑫科技上市首日创下多项记录，美股科技股博弈进入杠杆时代 | Plus日报",
@@ -74,6 +85,28 @@
           "time_info": "00时09分"
         },
         {
+          "title": "金十图示：2026年07月27日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260728010650028800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        },
+        {
+          "title": "金十图示：2026年07月27日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260728010647951800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        },
+        {
           "title": "美股存储芯片指数跌超7%，成分股闪迪跌9.2%，泰瑞达跌5.2%，西部数据跌5%，希捷科技跌4.4%，美光跌4.3%，拉姆研究跌4.3%。 此外，SK海力士ADR跌幅扩大至6％，报145.44美元/股，创上市以来新低，盘中市值1.06万亿美元。 费城半导体指数跌4%，英伟达跌约3.8%。",
           "url": "https://wallstreetcn.com/livenews/3140393",
           "source": "华尔街见闻-快讯",
@@ -83,12 +116,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
+        },
+        {
+          "title": "LVMH集团（路易威登母公司）二季度时装与皮草有机销售增长1%，分析师预期增长1.52%。 二季度有机营收增长3%，分析师预期增长2.32%。 二季度美国有机营收增长6%，分析师预期增长4%。 二季度亚洲（剔除日本）有机增长4%，分析师预期增长4.6%。 二季度红酒与烈酒有机销售增长5%，分析师预期下滑1.94%。 该公司ADR美股盘中涨幅2.7%。",
+          "url": "https://wallstreetcn.com/livenews/3140424",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时20分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "特朗普威胁对欧盟加征巨额报复性关税，为何又是“301调查”？",
@@ -98,8 +142,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 02时20分]"
         },
         {
           "title": "美时政评论员：特朗普不希望赖清德搞“抗中保台”",
@@ -109,8 +153,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 02时20分]"
         },
         {
           "title": "特朗普连发数十张AI图遭吐槽",
@@ -135,6 +179,17 @@
           "time_info": "00时09分"
         },
         {
+          "title": "美国总统特朗普被问及本周美联储货币政策会议，宣称：成本正在迅速下降。 利率应该下降，美国应该拥有全球最低的利率。 美联储主席沃什很棒，但他有理事会。",
+          "url": "https://wallstreetcn.com/livenews/3140440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        },
+        {
           "title": "特朗普：伊朗谈判窗口有限，若谈判破裂将重启军事行动",
           "url": "https://flash.jin10.com/detail/20260727231254381800",
           "source": "金十数据",
@@ -144,12 +199,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
+        },
+        {
+          "title": "特朗普称在伊朗问题上“发生一些事”的可能性很高，标普500指数转涨",
+          "url": "https://wallstreetcn.com/livenews/3140436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        },
+        {
+          "title": "特朗普：若外交努力失败就恢复对伊军事行动",
+          "url": "https://wallstreetcn.com/livenews/3140432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时20分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "事关美国军机部署，伊朗第3次警告保加利亚",
@@ -159,8 +236,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 02时20分]"
         },
         {
           "title": "对伊朗停火，美国这次是“不打了”还是“打不了”？",
@@ -170,19 +247,31 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 02时20分]"
         },
         {
           "title": "对伊朗停火 美国是不打了还是打不了",
           "url": "https://www.baidu.com/s?wd=%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%81%9C%E7%81%AB+%E7%BE%8E%E5%9B%BD%E6%98%AF%E4%B8%8D%E6%89%93%E4%BA%86%E8%BF%98%E6%98%AF%E6%89%93%E4%B8%8D%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            18
+            18,
+            15
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 02时20分]"
+        },
+        {
+          "title": "德国10年期国债收益率跌约4个基点，美国暂停袭击伊朗使得油价回撤",
+          "url": "https://wallstreetcn.com/livenews/3140435",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时09分"
+          "time_info": "02时20分"
         }
       ]
     },
