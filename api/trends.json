@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T10:54:29.229732+08:00",
-  "total_titles_processed": 836,
+  "generated_at": "2026-07-28T13:40:15.539179+08:00",
+  "total_titles_processed": 998,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时09分 ~ 06时59分]"
+        },
+        {
+          "title": "内塔尼亚胡访美，会与特朗普聊啥？",
+          "url": "https://news.ifeng.com/c/8v6sJsiidDd",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时54分 ~ 13时40分]"
+        },
+        {
+          "title": "特朗普向伊朗发出最后通牒",
+          "url": "https://news.ifeng.com/c/8v7SfF44Gcs",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时54分 ~ 13时40分]"
         },
         {
           "title": "五角大楼被曝对乌援助要拖到特朗普卸任年",
@@ -41,17 +63,6 @@
           "time_info": "[00时09分 ~ 06时59分]"
         },
         {
-          "title": "内塔尼亚胡访美，会与特朗普聊啥？",
-          "url": "https://news.ifeng.com/c/8v6sJsiidDd",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时54分"
-        },
-        {
           "title": "美国总统特朗普：我们将迅速结束伊朗的核威胁。",
           "url": "https://flash.jin10.com/detail/20260728034315449800",
           "source": "金十数据",
@@ -61,17 +72,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
-        },
-        {
-          "title": "特朗普向伊朗发出最后通牒",
-          "url": "https://news.ifeng.com/c/8v7SfF44Gcs",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时54分"
         },
         {
           "title": "特朗普力挺沃什降息，喊美国利率要全球最低，炮轰美联储“阻降派”",
@@ -97,6 +97,29 @@
           "time_info": "[05时58分 ~ 06时59分]"
         },
         {
+          "title": "600名以色列前高官联名致信特朗普，发出警告",
+          "url": "https://news.ifeng.com/c/8v7UlJm7wWT",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时54分 ~ 13时40分]"
+        },
+        {
+          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时54分 ~ 13时40分]"
+        },
+        {
           "title": "特朗普：美国已从委内瑞拉石油销售中获利超130亿美元",
           "url": "https://wallstreetcn.com/livenews/3140523",
           "source": "华尔街见闻-快讯",
@@ -107,17 +130,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时58分 ~ 06时59分]"
-        },
-        {
-          "title": "600名以色列前高官联名致信特朗普，发出警告",
-          "url": "https://news.ifeng.com/c/8v7UlJm7wWT",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时54分"
         },
         {
           "title": "美国总统特朗普：伊朗正在乞求美国解除封锁。",
@@ -159,7 +171,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -203,7 +215,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -272,17 +284,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
-        },
-        {
-          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时54分"
         },
         {
           "title": "路透社/益普索调查显示，美国总统特朗普的总统支持率从34%上升至37%。",
@@ -464,7 +465,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "美股",
@@ -480,6 +481,18 @@
           "time_info": "[00时09分 ~ 06时59分]"
         },
         {
+          "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
+          "url": "https://wallstreetcn.com/articles/3778058",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时54分 ~ 13时40分]"
+        },
+        {
           "title": "美股高开低走，存储大跌、阿斯麦跌8%自动停牌，布油一度大跌7%、债市走强",
           "url": "https://wallstreetcn.com/articles/3777993",
           "source": "华尔街见闻",
@@ -490,6 +503,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时09分 ~ 04时16分]"
+        },
+        {
+          "title": "美股收盘：阿斯麦、英伟达领衔“芯片风暴” 苹果重返全球市值第一",
+          "url": "https://www.cls.cn/detail/2438385",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时59分 ~ 13时40分]"
+        },
+        {
+          "title": "一文读懂：美股“芯片风暴”究竟是如何发生的？",
+          "url": "https://www.cls.cn/detail/2438605",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时39分 ~ 13时40分]"
         },
         {
           "title": "美伊暂停交火提振市场情绪 美股期指上涨 油价大幅回落 | 今夜看点",
@@ -538,17 +575,6 @@
           "time_info": "05时58分"
         },
         {
-          "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
-          "url": "https://wallstreetcn.com/articles/3778058",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时54分"
-        },
-        {
           "title": "美国中期选举进入百日倒计时！高盛：美股8月起将逐步感受冲击",
           "url": "https://www.cls.cn/detail/2438003",
           "source": "财联社热门",
@@ -574,27 +600,15 @@
           "time_info": "[04时16分 ~ 05时58分]"
         },
         {
-          "title": "美股收盘：阿斯麦、英伟达领衔“芯片风暴” 苹果重返全球市值第一",
-          "url": "https://www.cls.cn/detail/2438385",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时59分 ~ 10时54分]"
-        },
-        {
           "title": "7月28日投资避雷针：美股费城半导体指数创5月20日以来收盘新低 英伟达跌约5%",
           "url": "https://www.cls.cn/detail/2438430",
           "source": "财联社热门",
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时54分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时54分 ~ 13时40分]"
         },
         {
           "title": "天弘股份（Celestica Inc.，多伦多股票代码CLS.CN）ADR美股盘后涨8%。 该公司二季度营收47亿美元，分析师预期43.9亿美元。 二季度调整后每股收益（EPS）为2.54美元，分析师预期2.30美元。 预计全年营收205亿美元，分析师预期192.8亿美元，公司原本预计190亿美元。 预计全年调整后EPS为11.30美元，分析师预期10.29美元，公司原本预计10.15美元。 预计三季度营收52.5亿-55.5亿美元，分析师预期50.1亿美元。 预计三季度调整后EPS为2.88-3.08美元，分析师预期2.68美元。",
@@ -614,7 +628,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -724,7 +738,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -860,9 +874,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时54分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时54分 ~ 13时40分]"
         },
         {
           "title": "A股半导体芯片股震荡走低，西安奕材、普冉股份、恒运昌跌超10%，兆易创新此前跌停，北京君正、通富微电、佰维存储跌超8%。",
@@ -871,7 +885,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -882,7 +896,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -893,7 +907,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -929,6 +943,84 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "现货白银失守57美元/盎司，日内跌幅2.41%。",
+          "url": "https://flash.jin10.com/detail/20260728132742474800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
+        },
+        {
+          "title": "现货黄金涨0.6%，白银涨0.4%，纽约铜涨约1%",
+          "url": "https://wallstreetcn.com/livenews/3140516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时58分"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少19.68吨，当前持仓量为15024.77吨。欢迎点击查看数据中心...",
+          "url": "https://flash.jin10.com/detail/20260728060257788800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储芯片",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "A股深证成指午后延续跌势，现跌超4%，创业板指跌超6%，上证指数跌超1.3%，CPO、存储芯片、PCB概念等板块跌幅居前。",
+          "url": "https://flash.jin10.com/detail/20260728133030549800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
+        },
+        {
+          "title": "长鑫上市搅动全球存储芯片板块格局",
+          "url": "https://www.toutiao.com/trending/7667405948427701779/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时39分 ~ 13时40分]"
+        },
+        {
+          "title": "A股创业板指跌超5%，深证成指跌3.28%，上证指数跌1.27%，CPO、存储芯片、铜缆高速连接等板块跌幅居前。",
+          "url": "https://flash.jin10.com/detail/20260728103705820800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时54分"
         }
       ]
     },
@@ -989,34 +1081,6 @@
       ]
     },
     {
-      "keyword_group": "白银",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "现货黄金涨0.6%，白银涨0.4%，纽约铜涨约1%",
-          "url": "https://wallstreetcn.com/livenews/3140516",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少19.68吨，当前持仓量为15024.77吨。欢迎点击查看数据中心...",
-          "url": "https://flash.jin10.com/detail/20260728060257788800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时59分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -1030,23 +1094,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储芯片",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "A股创业板指跌超5%，深证成指跌3.28%，上证指数跌1.27%，CPO、存储芯片、铜缆高速连接等板块跌幅居前。",
-          "url": "https://flash.jin10.com/detail/20260728103705820800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时54分"
         }
       ]
     }
