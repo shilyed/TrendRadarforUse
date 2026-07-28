@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T05:01:44.920428+08:00",
-  "total_titles_processed": 536,
+  "generated_at": "2026-07-29T06:08:40.125175+08:00",
+  "total_titles_processed": 565,
   "failed_sources": [],
   "trends": [
     {
@@ -59,8 +59,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 06时08分]"
         },
         {
           "title": "伊朗否认特朗普的说法，称：并没有在过去16-17天内寻求与美国对话",
@@ -85,6 +85,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时36分 ~ 03时11分]"
+        },
+        {
+          "title": "特朗普政府将终止联邦医疗保险药品计划补贴。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3141182",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时08分]"
         },
         {
           "title": "乌克兰总统泽连斯基：与特朗普进行了“良好的会晤”。还谈到了外交问题——重振外交进程非常重要。团队将安排后续展开进一步沟通的相关细节。",
@@ -142,17 +154,6 @@
           "time_info": "00时01分"
         },
         {
-          "title": "特朗普政府将终止联邦医疗保险药品计划补贴。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3141182",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
           "title": "据以色列时报：在内塔尼亚胡与特朗普会晤之前，调解方认为已接近达成突破性协议，有望重启美国与伊朗上个月签署的谅解备忘录。",
           "url": "https://flash.jin10.com/detail/20260728232416816800",
           "source": "金十数据",
@@ -200,25 +201,25 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
-        {
-          "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
-          "url": "https://wallstreetcn.com/articles/3778058",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 05时01分]"
-        },
         {
           "title": "美股期指走势分化 芯片股继续下挫 道指期货涨近1% | 今夜看点",
           "url": "https://www.cls.cn/detail/2439316",
           "source": "财联社热门",
           "ranks": [
             3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 06时08分]"
+        },
+        {
+          "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
+          "url": "https://wallstreetcn.com/articles/3778058",
+          "source": "华尔街见闻",
+          "ranks": [
             2
           ],
           "is_new": false,
@@ -233,22 +234,12 @@
             2,
             3,
             5,
-            15
+            15,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 05时01分]"
-        },
-        {
-          "title": "周二（7月28日），美股行业ETF多数收涨，全球航空业ETF涨2.87%，医疗业ETF涨2.38%，网络股指数ETF涨1.59%，能源业ETF跌1.35%，科技行业ETF跌1.84%，全球科技股指数ETF跌2.08%，半导体ETF跌3.45%。 标普500指数的11个板块中，保健板块涨2.33%，原材料、电信板块至少涨1.64%，信息技术/科技板块跌1.17%，能源板块跌1.4%。",
-          "url": "https://wallstreetcn.com/livenews/3141194",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 06时08分]"
         },
         {
           "title": "康宁美股盘前暴跌15%！Q2营收利润双超预期，但Q3收入指引不够“惊喜”| 财报见闻",
@@ -256,11 +247,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 06时08分]"
         },
         {
           "title": "美股半导体崩盘,闪迪跌破新低",
@@ -270,8 +262,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 06时08分]"
+        },
+        {
+          "title": "周二（7月28日），美股行业ETF多数收涨，全球航空业ETF涨2.87%，医疗业ETF涨2.38%，网络股指数ETF涨1.59%，能源业ETF跌1.35%，科技行业ETF跌1.84%，全球科技股指数ETF跌2.08%，半导体ETF跌3.45%。 标普500指数的11个板块中，保健板块涨2.33%，原材料、电信板块至少涨1.64%，信息技术/科技板块跌1.17%，能源板块跌1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3141194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时08分]"
         },
         {
           "title": "美股AI硬件板块暴跌 美光科技跌逾12%",
@@ -279,22 +283,24 @@
           "source": "百度热搜",
           "ranks": [
             23,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时11分 ~ 05时01分]"
+          "appearance_count": 3,
+          "time_info": "[03时11分 ~ 06时08分]"
         },
         {
           "title": "希捷科技第四财季营收36.5亿美元，分析师预期34.9亿美元。 第四财季调整后每股收益（EPS）为5.71美元，分析师预期5.08美元。 第四财季调整后运营利润率44.6%，分析师预期41.9%。 预计第一财季营收40亿-42亿美元，分析师预期37.9亿美元。 受希捷科技财报提振，美股存储芯片概念股盘后走高，西部数据涨6.5%，SK海力士ADR涨2.5%，美光科技涨0.8%，闪迪涨1%，希捷科技一度涨9%。",
           "url": "https://wallstreetcn.com/livenews/3141193",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时08分]"
         },
         {
           "title": "美股存储芯片概念股普跌，闪迪收跌14.25%，Rambus跌8.99%，美光科技跌8.85%，希捷科技跌8.53%，西部数据跌6.95%。 此外，SK海力士ADR跌8.98%。",
@@ -303,7 +309,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -325,9 +331,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "周二（7月28日），美股存储芯片与硬件供应链指数跌9.11%，连续三个交易日下跌（累跌20.20%），报172.37点，较6月22日所创收盘历史最高位累计回撤将近37.31%。 美股存储芯片概念股普跌，闪迪收跌14.25%，Rambus跌8.99%，美光科技跌8.85%，希捷科技跌8.53%，西部数据跌6.95%。此外，SK海力士ADR跌8.98%。 科技股七巨头（Magnificent 7）指数涨0.75%，报210.21点。 “超大”市值科技股指数跌0.40%，报411.70点。 美股超大规模云服务商（Hyperscalers）涨0.78%，报87.55点。 信息科技指数跌3.75%，报367.08点。 人工智能（AI）赢家指数跌5.22%，报350.07点。 AI软件先驱指数涨1.11%，报109.59点。",
+          "url": "https://wallstreetcn.com/livenews/3141190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时08分"
         },
         {
           "title": "希捷科技(STX.O)美股盘后涨超8%，其营收指引高于预期。",
@@ -336,7 +353,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         }
@@ -344,18 +361,42 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "AI忧虑盖过油价下跌，纳指承压，半导体指数一度跌超5%，中概股逆市收涨",
           "url": "https://wallstreetcn.com/articles/3777993",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 06时08分]"
+        },
+        {
+          "title": "芯片抛售蔓延全球，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3778080",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时08分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨1.08%，报6325.46点。 热门中概股里，理想初步收涨4.9%，亚朵涨4.5%，网易涨3%，小米涨2.3%，新东方涨1.7%，拼多多、腾讯涨1%，阿里涨0.3%，百度跌0.3%，日月光半导体跌7%。 ETF中，中概互联网指数ETF（KWEB）收涨1.15%，中国科技指数ETF（CQQQ）收跌2.41%。 德银嘉实沪深300指数ETF（ASHR）收跌2.39%，MSCI新兴市场ex中国ETF（EMXC）收跌2.46%，XtrackersHarvest中证50（ASHS）收跌2.62%。",
+          "url": "https://wallstreetcn.com/livenews/3141180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时08分]"
         },
         {
           "title": "财报公布后，恩智浦半导体(NXPI.O)盘后跌一度跌超9%。",
@@ -364,7 +405,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -375,7 +416,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -386,18 +427,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨1.08%，报6325.46点。 热门中概股里，理想初步收涨4.9%，亚朵涨4.5%，网易涨3%，小米涨2.3%，新东方涨1.7%，拼多多、腾讯涨1%，阿里涨0.3%，百度跌0.3%，日月光半导体跌7%。 ETF中，中概互联网指数ETF（KWEB）收涨1.15%，中国科技指数ETF（CQQQ）收跌2.41%。 德银嘉实沪深300指数ETF（ASHR）收跌2.39%，MSCI新兴市场ex中国ETF（EMXC）收跌2.46%，XtrackersHarvest中证50（ASHS）收跌2.62%。",
-          "url": "https://wallstreetcn.com/livenews/3141180",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -411,6 +441,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
+        },
+        {
+          "title": "纳指科技指数收跌约1.2%，半导体指数较收盘历史最高位回撤将近55%",
+          "url": "https://wallstreetcn.com/livenews/3141178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时08分"
         },
         {
           "title": "日本熊本7.1级地震冲击硅岛，半导体及化工材料或受扰动",
@@ -434,11 +475,12 @@
           "url": "https://flash.jin10.com/detail/20260729043825142800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时08分]"
         },
         {
           "title": "伊朗：美国（重新）施加的海上封锁不至于迫使我方重返谈判桌。",
@@ -505,6 +547,18 @@
           "time_info": "[01时36分 ~ 03时11分]"
         },
         {
+          "title": "周二（7月28日）纽约尾盘，ICE美元指数跌0.14%，报101.396点，日内交投区间为101.640-101.258点。 彭博美元指数跌0.07%，报1221.38点，日内交投区间为1223.69-1220.08点。",
+          "url": "https://wallstreetcn.com/livenews/3141174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时08分]"
+        },
+        {
           "title": "WTI原油期货跌幅扩大至4%，跌穿79.30美元。美国国债价格涨幅扩大，收益率普遍跌4-6个基点。标普涨超0.3%，道指涨超1.1%，纳指跌0.1%，纳斯达克100指数仍然跌约0.8%，半导体指数目前跌超4.3%。 据媒体报道，在内塔尼亚胡与特朗普会晤之前，调解方认为已接近达成突破性协议，有望重启美国与伊朗上个月签署的谅解备忘录。",
           "url": "https://wallstreetcn.com/livenews/3141109",
           "source": "华尔街见闻-快讯",
@@ -514,23 +568,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
-        },
-        {
-          "title": "周二（7月28日）纽约尾盘，ICE美元指数跌0.14%，报101.396点，日内交投区间为101.640-101.258点。 彭博美元指数跌0.07%，报1221.38点，日内交投区间为1223.69-1220.08点。",
-          "url": "https://wallstreetcn.com/livenews/3141174",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "路透调查：分析师自2023年底以来首次下调金价预测，但料央行买盘将缓解跌势",
@@ -542,6 +585,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
+        },
+        {
+          "title": "金价跌超1%，逼近4000美元",
+          "url": "https://wallstreetcn.com/livenews/3141200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时08分"
         }
       ]
     },
