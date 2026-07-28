@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T13:40:15.539179+08:00",
-  "total_titles_processed": 998,
+  "generated_at": "2026-07-28T16:18:48.828047+08:00",
+  "total_titles_processed": 1165,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 44,
       "titles": [
         {
           "title": "特朗普威胁对欧盟加征巨额报复性关税，为何又是“301调查”？",
@@ -26,19 +26,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时54分 ~ 13时40分]"
+          "appearance_count": 4,
+          "time_info": "[10时54分 ~ 16时18分]"
         },
         {
           "title": "特朗普向伊朗发出最后通牒",
           "url": "https://news.ifeng.com/c/8v7SfF44Gcs",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时54分 ~ 13时40分]"
+          "appearance_count": 4,
+          "time_info": "[10时54分 ~ 16时18分]"
         },
         {
           "title": "五角大楼被曝对乌援助要拖到特朗普卸任年",
@@ -85,6 +86,17 @@
           "time_info": "06时59分"
         },
         {
+          "title": "600名以色列前高官联名致信特朗普，发出警告",
+          "url": "https://news.ifeng.com/c/8v7UlJm7wWT",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时54分 ~ 16时18分]"
+        },
+        {
           "title": "据纽约邮报：以色列总理内塔尼亚胡将向美国总统特朗普提供伊朗“镐山”核设施情报。",
           "url": "https://flash.jin10.com/detail/20260728052319740800",
           "source": "金十数据",
@@ -97,17 +109,6 @@
           "time_info": "[05时58分 ~ 06时59分]"
         },
         {
-          "title": "600名以色列前高官联名致信特朗普，发出警告",
-          "url": "https://news.ifeng.com/c/8v7UlJm7wWT",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时54分 ~ 13时40分]"
-        },
-        {
           "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
           "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
           "source": "澎湃新闻",
@@ -116,8 +117,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时54分 ~ 13时40分]"
+          "appearance_count": 4,
+          "time_info": "[10时54分 ~ 16时18分]"
         },
         {
           "title": "特朗普：美国已从委内瑞拉石油销售中获利超130亿美元",
@@ -330,6 +331,17 @@
           "time_info": "05时58分"
         },
         {
+          "title": "特朗普：若和伊朗谈不拢就继续打",
+          "url": "https://wallstreetcn.com/livenews/3140846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
           "title": "美国总统特朗普：我们要取消夏令时。",
           "url": "https://flash.jin10.com/detail/20260728031330264800",
           "source": "金十数据",
@@ -361,6 +373,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        },
+        {
+          "title": "特朗普：美以在伊朗问题上存在分歧",
+          "url": "https://wallstreetcn.com/livenews/3140838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "特朗普：有足够耐心与伊朗达成新协议 否则就开打",
@@ -429,6 +452,17 @@
           "time_info": "06时59分"
         },
         {
+          "title": "美国总统特朗普周二日程",
+          "url": "https://flash.jin10.com/detail/20260728155659781800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
           "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
           "url": "https://wallstreetcn.com/livenews/3140503",
           "source": "华尔街见闻-快讯",
@@ -465,8 +499,20 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 26,
+      "match_count": 33,
       "titles": [
+        {
+          "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
+          "url": "https://wallstreetcn.com/articles/3778058",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时54分 ~ 16时18分]"
+        },
         {
           "title": "美股",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=2&Refer=top",
@@ -481,16 +527,16 @@
           "time_info": "[00时09分 ~ 06时59分]"
         },
         {
-          "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
-          "url": "https://wallstreetcn.com/articles/3778058",
-          "source": "华尔街见闻",
+          "title": "一文读懂：美股“芯片风暴”究竟是如何发生的？",
+          "url": "https://www.cls.cn/detail/2438605",
+          "source": "财联社热门",
           "ranks": [
-            3,
+            4,
             2
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时54分 ~ 13时40分]"
+          "time_info": "[13时39分 ~ 16时18分]"
         },
         {
           "title": "美股高开低走，存储大跌、阿斯麦跌8%自动停牌，布油一度大跌7%、债市走强",
@@ -518,17 +564,6 @@
           "time_info": "[06时59分 ~ 13时40分]"
         },
         {
-          "title": "一文读懂：美股“芯片风暴”究竟是如何发生的？",
-          "url": "https://www.cls.cn/detail/2438605",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时39分 ~ 13时40分]"
-        },
-        {
           "title": "美伊暂停交火提振市场情绪 美股期指上涨 油价大幅回落 | 今夜看点",
           "url": "https://www.cls.cn/detail/2438191",
           "source": "财联社热门",
@@ -540,6 +575,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时09分 ~ 10时54分]"
+        },
+        {
+          "title": "美股商业航天股盘前走低，SpaceX(SPCX.O)、Rocket Lab(RKLB.O)跌超2%。",
+          "url": "https://flash.jin10.com/detail/20260728160835573800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "LVMH集团（路易威登母公司）二季度时装与皮草有机销售增长1%，分析师预期增长1.52%。 二季度有机营收增长3%，分析师预期增长2.32%。 二季度红酒与烈酒有机销售增长5%，分析师预期下滑1.94%。 该公司ADR美股盘中涨幅2.7%。",
@@ -575,6 +621,28 @@
           "time_info": "05时58分"
         },
         {
+          "title": "阿斯麦(ASML.O)美股盘前跌3.6%，英特尔(INTC.O)、AMD(AMD.O)跌超4%，高通(QCOM.O)跌2%，博通(AVGO.O)跌1.8%。",
+          "url": "https://flash.jin10.com/detail/20260728160703064800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
+          "title": "美股盘前，科技股延续跌势，SK海力士下跌4%，美光科技跌近5%，英伟达跌1.4%。商业航天股走低，SpaceX跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3140863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
           "title": "美国中期选举进入百日倒计时！高盛：美股8月起将逐步感受冲击",
           "url": "https://www.cls.cn/detail/2438003",
           "source": "财联社热门",
@@ -604,11 +672,45 @@
           "url": "https://www.cls.cn/detail/2438430",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时54分 ~ 13时40分]"
+          "appearance_count": 4,
+          "time_info": "[10时54分 ~ 16时18分]"
+        },
+        {
+          "title": "美股半导体崩盘,闪迪跌破新低",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
+          "title": "强生(JNJ.N)股价美股盘前上涨1%，此前该公司宣布达成一项可能结束滑石粉诉讼的和解协议。",
+          "url": "https://flash.jin10.com/detail/20260728160437578800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
+          "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2065354296774989670",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "天弘股份（Celestica Inc.，多伦多股票代码CLS.CN）ADR美股盘后涨8%。 该公司二季度营收47亿美元，分析师预期43.9亿美元。 二季度调整后每股收益（EPS）为2.54美元，分析师预期2.30美元。 预计全年营收205亿美元，分析师预期192.8亿美元，公司原本预计190亿美元。 预计全年调整后EPS为11.30美元，分析师预期10.29美元，公司原本预计10.15美元。 预计三季度营收52.5亿-55.5亿美元，分析师预期50.1亿美元。 预计三季度调整后EPS为2.88-3.08美元，分析师预期2.68美元。",
@@ -642,6 +744,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "美股盘前半导体股下跌，SK海力士(SKHY.O)下跌4%，美光科技(MU.O)跌近5%，英伟达(NVDA.O)跌1.4%。",
+          "url": "https://flash.jin10.com/detail/20260728160159884800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "周一（7月27日），美股行业ETF涨跌各异，半导体ETF收跌2.25%，能源业ETF跌2.11%，科技行业ETF、全球科技股指数ETF、银行业ETF至多跌0.9%。 生物科技指数ETF则涨0.1%，可选消费ETF涨1.31%，网络股指数ETF涨1.89%，全球航空业ETF涨2.89%。",
@@ -768,7 +881,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "事关美国军机部署，伊朗第3次警告保加利亚",
@@ -816,6 +929,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时09分 ~ 06时59分]"
+        },
+        {
+          "title": "国际观察丨对伊朗停火，美国这次是“不打了”还是“打不了”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33669415",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "路透社/益普索调查显示，仅有33%的美国人支持美国与伊朗的战争，为冲突初期以来的最低水平。",
@@ -875,8 +999,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时54分 ~ 13时40分]"
+          "appearance_count": 4,
+          "time_info": "[10时54分 ~ 16时18分]"
         },
         {
           "title": "A股半导体芯片股震荡走低，西安奕材、普冉股份、恒运昌跌超10%，兆易创新此前跌停，北京君正、通富微电、佰维存储跌超8%。",
@@ -957,7 +1081,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
         },
@@ -996,7 +1120,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
         },
