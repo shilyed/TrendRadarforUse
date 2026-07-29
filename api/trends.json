@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T16:24:32.377778+08:00",
-  "total_titles_processed": 1201,
+  "generated_at": "2026-07-29T19:16:09.401358+08:00",
+  "total_titles_processed": 1377,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "以色列发言人：在美国总统特朗普与以色列总理内塔尼亚胡的会晤中未讨论土耳其和F-35问题。",
@@ -108,6 +108,18 @@
           "time_info": "[13时14分 ~ 16时24分]"
         },
         {
+          "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33674010",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时24分 ~ 19时16分]"
+        },
+        {
           "title": "内塔尼亚胡访美，向特朗普提出对伊“终极条件”",
           "url": "https://news.ifeng.com/c/8v99XqcoCB0",
           "source": "凤凰网",
@@ -118,6 +130,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时50分 ~ 13时14分]"
+        },
+        {
+          "title": "卢拉讽刺特朗普：每个巴西公民都能享有总统同等医疗待遇",
+          "url": "https://v.ifeng.com/c/8v9pAhXFNg6",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 19时16分]"
+        },
+        {
+          "title": "特朗普被发现在格雷厄姆葬礼打瞌睡，白宫：他在缅怀",
+          "url": "https://v.ifeng.com/c/8v8ALtYnwhG",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 19时16分]"
         },
         {
           "title": "伊朗否认特朗普的说法，称：并没有在过去16-17天内寻求与美国对话",
@@ -200,6 +234,17 @@
           "time_info": "07时53分"
         },
         {
+          "title": "特朗普：美墨加协定续不续签“无所谓”",
+          "url": "https://wallstreetcn.com/livenews/3141634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "甩锅给拜登，特朗普否认美暂停打击伊朗因弹药库存告急",
           "url": "https://wallstreetcn.com/livenews/3141108",
           "source": "华尔街见闻-快讯",
@@ -211,24 +256,13 @@
           "time_info": "00时01分"
         },
         {
-          "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33674010",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时24分"
-        },
-        {
           "title": "国际油价急涨5%！特朗普按下冲突“暂停键”后 伊朗首袭驻中东美军",
           "url": "https://www.cls.cn/detail/2439731",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -357,7 +391,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "康宁美股盘前暴跌15%！Q2营收利润双超预期，但Q3收入指引不够“惊喜”| 财报见闻",
@@ -371,8 +405,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 16时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 19时16分]"
         },
         {
           "title": "美股期指走势分化 芯片股继续下挫 道指期货涨近1% | 今夜看点",
@@ -387,6 +421,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时01分 ~ 09时50分]"
+        },
+        {
+          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3778080",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时53分 ~ 19时16分]"
         },
         {
           "title": "美股半导体崩盘,闪迪跌破新低",
@@ -414,18 +461,6 @@
           "time_info": "[00时01分 ~ 05时01分]"
         },
         {
-          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
-          "url": "https://wallstreetcn.com/articles/3778080",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时53分 ~ 16时24分]"
-        },
-        {
           "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
           "url": "https://www.cls.cn/detail/2439531",
           "source": "财联社热门",
@@ -451,6 +486,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时01分 ~ 06时08分]"
+        },
+        {
+          "title": "FOMC和巨头财报在即，市场严阵以待！美股存储股盘前续跌，韩股连续两日暴跌熔断，油价涨超3%",
+          "url": "https://wallstreetcn.com/articles/3778176",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 19时16分]"
         },
         {
           "title": "美股股指期货持续走低，纳斯达克100指数期货跌超1%，标普500指数期货跌0.35%，道琼斯指数期货跌0.24%。",
@@ -481,7 +527,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -492,7 +538,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -543,6 +589,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时53分 ~ 09时50分]"
+        },
+        {
+          "title": "格芯公司GlobalFoundries美股盘前一度涨超16%。美国政府此前宣布，该公司将获得高达3亿美元的资助。",
+          "url": "https://flash.jin10.com/detail/20260729184506586800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "美股存储芯片概念股普跌，闪迪收跌14.25%，Rambus跌8.99%，美光科技跌8.85%，希捷科技跌8.53%，西部数据跌6.95%。 此外，SK海力士ADR跌8.98%。",
@@ -636,7 +693,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "AI忧虑盖过油价下跌，纳指承压，半导体指数一度跌超5%，中概股逆市收涨",
@@ -651,6 +708,19 @@
           "time_info": "[00时01分 ~ 06时08分]"
         },
         {
+          "title": "费城半导体指数跌破11200点关键支撑，AI牛市悬了！",
+          "url": "https://wallstreetcn.com/articles/3778137",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时53分 ~ 19时16分]"
+        },
+        {
           "title": "芯片抛售蔓延全球，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
           "url": "https://wallstreetcn.com/articles/3778080",
           "source": "华尔街见闻",
@@ -662,17 +732,15 @@
           "time_info": "06时08分"
         },
         {
-          "title": "费城半导体指数跌破11200点关键支撑，AI牛市悬了！",
-          "url": "https://wallstreetcn.com/articles/3778137",
-          "source": "华尔街见闻",
+          "title": "报道：美国宣布价值8.74亿美元的半导体研发意向书",
+          "url": "https://wallstreetcn.com/livenews/3141643",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            9,
-            10
+            4
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时53分 ~ 16时24分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "日本半导体重镇遭遇强震 公司受损情况汇总来了",
@@ -705,7 +773,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -719,6 +787,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "美国方面宣布，半导体晶圆代工公司格芯将获得高达3亿美元的资助。",
+          "url": "https://flash.jin10.com/detail/20260729183420733800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "恩智浦半导体(NXPI.O)2026年Q2净利润7.67亿美元，上年同期4.45亿美元。",
@@ -741,6 +820,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "美国宣布了一项总额为8.74亿美元的半导体研发投资意向书。",
+          "url": "https://flash.jin10.com/detail/20260729183301019800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "半导体权重领跌日韩股市，AI信贷循环还能行得通？ | Plus日报",
@@ -779,7 +869,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "据伊朗媒体报道，伊朗用弹道导弹袭击了位于约旦的美国基地。",
@@ -793,6 +883,28 @@
           "time_info": "09时50分"
         },
         {
+          "title": "英媒：美国轰炸难让伊朗屈服",
+          "url": "https://wallstreetcn.com/livenews/3141646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "专家：乌克兰对伊朗商船动手，是在向美国交“投名状”",
+          "url": "https://news.ifeng.com/c/8v8Yy57TOBs",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时50分 ~ 19时16分]"
+        },
+        {
           "title": "美国官员：伊朗在霍尔木兹海的要求过于苛刻，阿曼、美国及国际社会对此正当拒绝。",
           "url": "https://flash.jin10.com/detail/20260729043825142800",
           "source": "金十数据",
@@ -803,17 +915,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时01分 ~ 06时08分]"
-        },
-        {
-          "title": "专家：乌克兰对伊朗商船动手，是在向美国交“投名状”",
-          "url": "https://news.ifeng.com/c/8v8Yy57TOBs",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时50分 ~ 16时24分]"
         },
         {
           "title": "伊朗：美国（重新）施加的海上封锁不至于迫使我方重返谈判桌。",
@@ -882,6 +983,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
+        },
+        {
+          "title": "英媒：美国轰炸难让伊朗屈服",
+          "url": "https://flash.jin10.com/detail/20260729182632075800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "WTI原油期货涨5%，美国称拦截了伊朗朝美军发射的导弹。",
