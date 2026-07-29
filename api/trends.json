@@ -1,12 +1,37 @@
 {
-  "generated_at": "2026-07-29T21:49:40.531065+08:00",
-  "total_titles_processed": 1535,
+  "generated_at": "2026-07-29T23:46:16.146945+08:00",
+  "total_titles_processed": 1659,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 44,
       "titles": [
+        {
+          "title": "布油大涨7%！特朗普警告：将对伊朗“大力打击”",
+          "url": "https://wallstreetcn.com/articles/3778237",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时45分 ~ 23时46分]"
+        },
+        {
+          "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33674010",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时24分 ~ 23时46分]"
+        },
         {
           "title": "以色列发言人：在美国总统特朗普与以色列总理内塔尼亚胡的会晤中未讨论土耳其和F-35问题。",
           "url": "https://flash.jin10.com/detail/20260729011422656800",
@@ -17,6 +42,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时36分"
+        },
+        {
+          "title": "据以色列第12频道：一位高级政治官员表示，关于伊朗的决定在特朗普手中。一切都有可能，从达成协议到进行重大打击。伊朗知道，如果受到攻击，以色列会强力回应。穆杰塔巴绝对还活着。伊朗目前拥有大约1500枚弹道导弹。",
+          "url": "https://flash.jin10.com/detail/20260729232508026800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "以色列总理内塔尼亚胡：我和特朗普都致力于实现目标。 对与伊朗的协议持怀疑态度。 如果遭到攻击将强力回击。",
@@ -58,7 +94,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -107,6 +143,40 @@
           "time_info": "09时50分"
         },
         {
+          "title": "卢拉讽刺特朗普：每个巴西公民都能享有总统同等医疗待遇",
+          "url": "https://v.ifeng.com/c/8v9pAhXFNg6",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时15分 ~ 23时46分]"
+        },
+        {
+          "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
+          "url": "https://www.cls.cn/detail/2440511",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时49分 ~ 23时46分]"
+        },
+        {
+          "title": "特朗普被发现在格雷厄姆葬礼打瞌睡，白宫：他在缅怀",
+          "url": "https://v.ifeng.com/c/8v8ALtYnwhG",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时15分 ~ 23时46分]"
+        },
+        {
           "title": "特朗普被发现在格雷厄姆葬礼打瞌睡",
           "url": "https://www.toutiao.com/trending/7667418781938679858/",
           "source": "今日头条",
@@ -117,41 +187,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时14分 ~ 16时24分]"
-        },
-        {
-          "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33674010",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时24分 ~ 21时49分]"
-        },
-        {
-          "title": "卢拉讽刺特朗普：每个巴西公民都能享有总统同等医疗待遇",
-          "url": "https://v.ifeng.com/c/8v9pAhXFNg6",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时15分 ~ 21时49分]"
-        },
-        {
-          "title": "特朗普被发现在格雷厄姆葬礼打瞌睡，白宫：他在缅怀",
-          "url": "https://v.ifeng.com/c/8v8ALtYnwhG",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时15分 ~ 21时49分]"
         },
         {
           "title": "内塔尼亚胡访美，向特朗普提出对伊“终极条件”",
@@ -202,13 +237,24 @@
           "time_info": "[05时01分 ~ 06时08分]"
         },
         {
+          "title": "又吃糖又犯困，特朗普在美政客葬礼现场小动作惹争议，白宫：他在缅怀",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33682760",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时45分 ~ 23时46分]"
+        },
+        {
           "title": "特朗普拟公布220亿美元杜勒斯机场重建计划",
           "url": "https://flash.jin10.com/detail/20260729213745835800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -222,6 +268,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
+        },
+        {
+          "title": "据以色列第12频道：一名以色列官员表示，针对伊朗的打击决定掌握在特朗普手中，以色列在等待他的决定。",
+          "url": "https://flash.jin10.com/detail/20260729231723454800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "内塔尼亚胡称与特朗普进行了一次“极佳的会晤”",
@@ -257,6 +314,17 @@
           "time_info": "07时53分"
         },
         {
+          "title": "WTI原油日内涨幅达7.5%，报85.22美元/桶；布伦特原油日内涨幅达7.0%，报87.83美元/桶。 现货白银日内跌幅达0.5%，报56.79美元/盎司。 美国特朗普宣称，在伊朗向美军发动导弹袭击后，美国将进行报复，美国将“狠狠打击”伊朗，伊朗将遭到“痛击”。",
+          "url": "https://wallstreetcn.com/livenews/3141781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
           "title": "特朗普：美墨加协定续不续签“无所谓”",
           "url": "https://wallstreetcn.com/livenews/3141634",
           "source": "华尔街见闻-快讯",
@@ -266,17 +334,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
-        },
-        {
-          "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
-          "url": "https://www.cls.cn/detail/2440511",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时49分"
         },
         {
           "title": "甩锅给拜登，特朗普否认美暂停打击伊朗因弹药库存告急",
@@ -351,7 +408,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -439,7 +496,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         }
@@ -447,8 +504,21 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
+        {
+          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3778080",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时53分 ~ 23时46分]"
+        },
         {
           "title": "康宁美股盘前暴跌15%！Q2营收利润双超预期，但Q3收入指引不够“惊喜”| 财报见闻",
           "url": "https://wallstreetcn.com/articles/3778135",
@@ -477,19 +547,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时01分 ~ 09时50分]"
-        },
-        {
-          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
-          "url": "https://wallstreetcn.com/articles/3778080",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时53分 ~ 21时49分]"
         },
         {
           "title": "美股半导体崩盘,闪迪跌破新低",
@@ -544,6 +601,17 @@
           "time_info": "[00时01分 ~ 06时08分]"
         },
         {
+          "title": "FOMC和巨头财报在即，特朗普称将对伊朗进行打击，美股指跌幅扩大，道指跌超1.5%，布油涨超6%",
+          "url": "https://wallstreetcn.com/articles/3778176",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时45分 ~ 23时46分]"
+        },
+        {
           "title": "FOMC和巨头财报在即，市场严阵以待！美股存储股盘前续跌，韩股连续两日暴跌熔断，油价涨超3%",
           "url": "https://wallstreetcn.com/articles/3778176",
           "source": "华尔街见闻",
@@ -583,7 +651,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -605,7 +673,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -631,6 +699,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时01分 ~ 06时08分]"
+        },
+        {
+          "title": "美联储决议前市场情绪谨慎 美股期指走弱 油价飙升近6% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2440482",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时49分 ~ 23时46分]"
         },
         {
           "title": "美股AI硬件板块暴跌 美光科技跌逾12%",
@@ -669,17 +748,6 @@
           "time_info": "[07时53分 ~ 09时50分]"
         },
         {
-          "title": "美联储决议前市场情绪谨慎 美股期指走弱 油价飙升近6% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2440482",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时49分"
-        },
-        {
           "title": "格芯公司GlobalFoundries美股盘前一度涨超16%。美国政府此前宣布，该公司将获得高达3亿美元的资助。",
           "url": "https://flash.jin10.com/detail/20260729184506586800",
           "source": "金十数据",
@@ -697,7 +765,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -722,6 +790,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
+        },
+        {
+          "title": "美股费城半导体指数下跌4%，英伟达下跌2.98%，台积电下跌3.67%，博通下跌1.87%，SK海力士下跌1.28%，美光科技下跌5%，美国超微公司下跌5.51%，英特尔下跌3.36%，阿斯麦下跌2.73%，泛林集团下跌5.28%，ArmHoldings下跌6.73%，闪迪下跌8.04%，高通下跌2.84%，迈威尔科技下跌4.82%，西部数据下跌0.68%。",
+          "url": "https://wallstreetcn.com/livenews/3141779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "SK海力士ADR美股盘后跌幅扩大至5.7%，该公司二季度运营利润逊色于分析师预期；韩国股市即将在北京时间08:00开盘。 纳斯达克100指数股指期货在亚太盘初下跌0.5%，AI顾虑和美国-伊朗紧张关系牵动投资者神经。",
@@ -763,7 +842,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -785,7 +864,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -840,8 +919,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时53分 ~ 21时49分]"
+          "appearance_count": 9,
+          "time_info": "[07时53分 ~ 23时46分]"
         },
         {
           "title": "芯片抛售蔓延全球，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
@@ -992,7 +1071,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "专家：乌克兰对伊朗商船动手，是在向美国交“投名状”",
@@ -1002,8 +1081,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时50分 ~ 21时49分]"
+          "appearance_count": 8,
+          "time_info": "[09时50分 ~ 23时46分]"
         },
         {
           "title": "据伊朗媒体报道，伊朗用弹道导弹袭击了位于约旦的美国基地。",
@@ -1108,6 +1187,17 @@
           "time_info": "00时01分"
         },
         {
+          "title": "美国财政部：今日伊朗制裁针对借助霍尔木兹海峡牟利的行为。 制裁目标指向伊朗的霍尔木兹海峡“勒索网络”。",
+          "url": "https://wallstreetcn.com/livenews/3141774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
           "title": "英媒：美国轰炸难让伊朗屈服",
           "url": "https://flash.jin10.com/detail/20260729182632075800",
           "source": "金十数据",
@@ -1153,7 +1243,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -1224,7 +1314,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "决战美联储！短期美债规模将限制美联储操作空间，加息计价过于激进",
@@ -1236,6 +1326,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
+        },
+        {
+          "title": "油价飙升推高美债收益率，市场静待美联储利率决议",
+          "url": "https://flash.jin10.com/detail/20260729230250521800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         }
       ]
     },
