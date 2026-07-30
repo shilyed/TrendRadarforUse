@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T01:17:40.203472+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-31T03:13:13.193884+08:00",
+  "total_titles_processed": 382,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 03时13分]"
         },
         {
           "title": "美国参议员科宁：特朗普可能撤回对布兰奇的提名，这或许是谈判策略，但相关磋商至少在本周末前已基本破裂。",
@@ -30,17 +30,6 @@
           "time_info": "01时17分"
         },
         {
-          "title": "美国考虑对大学毕业之后留美工作的外国学生收取10万美元的费用。 此前，（美国法院）阻挠总统特朗普对H-1B签证收费10万美元的想法。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3142577",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
           "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33683951",
           "source": "澎湃新闻",
@@ -48,8 +37,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 03时13分]"
         },
         {
           "title": "“极不寻常”！爆料称特朗普或拒绝法国驻美大使提名",
@@ -59,8 +48,42 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 03时13分]"
+        },
+        {
+          "title": "美国考虑对大学毕业之后留美工作的外国学生收取10万美元的费用。 此前，（美国法院）阻挠总统特朗普对H-1B签证收费10万美元的想法。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3142577",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 03时13分]"
+        },
+        {
+          "title": "据Axios：据四位知情人士透露，白宫和特朗普总统的和平委员会认为，哈马斯可能会在未来几天内签署一项协议，逐步解除武装并实现加沙地带的非军事化。",
+          "url": "https://flash.jin10.com/detail/20260731023101313800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时17分"
+          "time_info": "03时13分"
+        },
+        {
+          "title": "美国参议院以49比50的投票结果否决了一项决议。该决议要求特朗普在未获国会授权的情况下停止对伊朗采取敌对行动。",
+          "url": "https://flash.jin10.com/detail/20260731020234480800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         }
       ]
     },
@@ -73,11 +96,12 @@
           "url": "https://wallstreetcn.com/articles/3778287",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 03时13分]"
         },
         {
           "title": "金十图示：2026年07月30日（周四）美股热门股票行情一览（美股盘中）",
@@ -104,26 +128,20 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 1,
+      "keyword_group": "伊朗",
+      "match_count": 3,
       "titles": [
         {
-          "title": "中东局势突变叠加美联储鹰派分歧，油价飙8%，纳指六连跌，30年美债收益率创2007年最高",
-          "url": "https://wallstreetcn.com/articles/3778176",
-          "source": "华尔街见闻",
+          "title": "伊朗军方打击美国在巴林的军事基地。（伊朗媒体IRIB）",
+          "url": "https://wallstreetcn.com/livenews/3142600",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 1,
-      "titles": [
+          "time_info": "03时13分"
+        },
         {
           "title": "【美军称没有美国飞机在伊朗最近的袭击中被摧毁】美军中央司令部30日在社交媒体上发文称，在伊朗最近的袭击中，没有美国飞机被摧毁或损坏。“所有导弹和无人机均被拦截或未能到达目标区域。” 伊朗伊斯兰革命卫队此前发表声明称，为回应美国的袭击，革命卫队袭击了约旦阿兹拉克美军基地，摧毁3架F-35战斗机，并严重损坏另外3架战机。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3142562",
@@ -134,13 +152,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "据以色列i24News：消息人士称，美国当地时间周三针对伊朗发动的打击，甚至还算不上未来预期行动的“冰山一角”。",
+          "url": "https://flash.jin10.com/detail/20260731015515594800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         }
       ]
     },
     {
       "keyword_group": "白银",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 7月30日（周四）晚盘收盘上涨0.96%报891.03元/克；<br/>上海黄金交易所白银T+D 7月30日（周四）晚盘收盘上涨1.6%报14330.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260731023105114800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
         {
           "title": "现货白银日内涨幅达2.0%，报58.76美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3142575",
@@ -151,6 +191,41 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中东局势突变叠加美联储鹰派分歧，油价飙8%，纳指六连跌，30年美债收益率创2007年最高",
+          "url": "https://wallstreetcn.com/articles/3778176",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 03时13分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1%，暂报2073点。 MarketVectorTM数字资产100中盘指数涨1.83%，报2381.55点，北京时间05:05刷新日低至2311.71点以来持续反弹。 MarketVector数字资产100指数涨1.68%，报12847.19点。 目前，Solana涨1.78%，狗狗币涨0.80%，XRP涨1.47%。 比特币涨1.54%，暂报64763.94美元，北京时间05:08跌至63269.29美元，随后持续上扬；以太坊涨1.18%，暂报1917.18美元。",
+          "url": "https://wallstreetcn.com/livenews/3142587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         }
       ]
     },
@@ -166,8 +241,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 03时13分]"
         }
       ]
     },
@@ -180,11 +255,12 @@
           "url": "https://www.cls.cn/detail/2441507",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 03时13分]"
         }
       ]
     }
