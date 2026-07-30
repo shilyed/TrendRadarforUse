@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-30T20:25:42.887063+08:00",
-  "total_titles_processed": 1460,
+  "generated_at": "2026-07-30T23:05:02.385613+08:00",
+  "total_titles_processed": 1617,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
+        {
+          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
+          "url": "https://wallstreetcn.com/articles/3778237",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时54分 ~ 23时05分]"
+        },
         {
           "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
           "url": "https://www.cls.cn/detail/2440511",
@@ -20,18 +32,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[02时11分 ~ 12时51分]"
-        },
-        {
-          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
-          "url": "https://wallstreetcn.com/articles/3778237",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时54分 ~ 20时25分]"
         },
         {
           "title": "又吃糖又犯困，特朗普在美政客葬礼现场小动作惹争议，白宫：他在缅怀",
@@ -143,6 +143,19 @@
           "time_info": "[05时52分 ~ 05时53分]"
         },
         {
+          "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33683951",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时30分 ~ 23时05分]"
+        },
+        {
           "title": "特朗普再次威胁袭击伊朗，并寻求对伊加征关税",
           "url": "https://wallstreetcn.com/livenews/3141924",
           "source": "华尔街见闻-快讯",
@@ -153,19 +166,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时53分 ~ 06时54分]"
-        },
-        {
-          "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33683951",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时30分 ~ 20时25分]"
         },
         {
           "title": "特朗普被发现在格雷厄姆葬礼打瞌睡",
@@ -200,6 +200,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时30分 ~ 15时31分]"
+        },
+        {
+          "title": "“极不寻常”！爆料称特朗普或拒绝法国驻美大使提名",
+          "url": "https://news.ifeng.com/c/8vBnavmwROe",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时04分 ~ 23时05分]"
+        },
+        {
+          "title": "特朗普称将用伊朗资金“赔偿”受损船只和货物，伊朗回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33683825",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时04分 ~ 23时05分]"
         },
         {
           "title": "美国总统特朗普：有没有人知道美国最高法院在出生公民权和关税问题上的负面裁决给我们的国家带来了多少金钱和声望的损失？答案是，数万亿、数万亿的美元！",
@@ -359,7 +381,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "FOMC和巨头财报在即，特朗普称将对伊朗进行打击，美股指跌幅扩大，道指跌超1.5%，布油涨超6%",
@@ -417,9 +439,31 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
+        },
+        {
+          "title": "逢低买盘推动美股走高，费城半导体指数涨超7%，微软涨超14%，油价转跌",
+          "url": "https://wallstreetcn.com/articles/3778287",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时04分 ~ 23时05分]"
+        },
+        {
+          "title": "美股半导体板块迎反弹 多股暴涨超10%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%BF%E5%9D%97%E8%BF%8E%E5%8F%8D%E5%BC%B9+%E5%A4%9A%E8%82%A1%E6%9A%B4%E6%B6%A8%E8%B6%8510%25",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时04分 ~ 23时05分]"
         },
         {
           "title": "Meta美股盘后跌幅扩大至10%。",
@@ -468,6 +512,17 @@
           "time_info": "05时53分"
         },
         {
+          "title": "美股存储芯片指数涨超17%，SK海力士ADR涨15.85%，美光科技股价上涨15%，闪迪上涨21.15%，西部数据上涨16.87%，希捷科技上涨15.84%。",
+          "url": "https://wallstreetcn.com/livenews/3142532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
           "title": "金十图示：2026年07月29日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260730040558653800",
           "source": "金十数据",
@@ -507,9 +562,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
+        },
+        {
+          "title": "高盛警告：季节性因素与观望情绪或压制美股",
+          "url": "https://flash.jin10.com/detail/20260730223624219800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
         },
         {
           "title": "金十数据整理：每日美股市场要闻速递（2026-07-30）",
@@ -518,7 +584,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
         },
@@ -598,12 +664,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
+        },
+        {
+          "title": "美股三大股指高开，科技股反弹，微软大涨12%",
+          "url": "https://wallstreetcn.com/livenews/3142509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
         }
       ]
     },
     {
       "keyword_group": "半导体",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "ETF市场回暖，半导体材料设备方向显著吸金",
@@ -615,6 +692,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时54分"
+        },
+        {
+          "title": "半导体暴力反弹，资金在抢修复而非全面转向？",
+          "url": "https://flash.jin10.com/detail/20260730225245510800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
+          "title": "月内跑赢92%个股！茅台股价创3个月新高，白酒板块持续回升，均价紧追半导体",
+          "url": "https://www.cls.cn/detail/2441497",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时04分 ~ 23时05分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨1.7%。 热门中概股里，新东方初步收涨14.7%，小米涨8.1%，理想涨4.6%，拼多多、腾讯涨3.2%，B站、小鹏涨超2%，网易涨1.8%，日月光半导体跌6.8%。 ETF中，KWEB初步收涨1.8%，CQQQ涨0.2%。",
@@ -672,6 +771,28 @@
           "time_info": "12时51分"
         },
         {
+          "title": "费城半导体指数大涨9%",
+          "url": "https://flash.jin10.com/detail/20260730223518236800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
+          "title": "费城半导体指数涨超7%，闪迪涨约20%，希捷科技涨约18%，西部数据涨约16%，美光科技涨约11%，SK海力士涨约11%。",
+          "url": "https://wallstreetcn.com/livenews/3142514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
           "title": "美国三大股指均跌超1%，道指目前跌860点、跌幅1.6%，纳指跌1.4%，半导体指数跌4.1%，银行指数跌1.9%，罗素2000指数跌1.4%。",
           "url": "https://wallstreetcn.com/livenews/3141797",
           "source": "华尔街见闻-快讯",
@@ -710,8 +831,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时54分 ~ 20时25分]"
+          "appearance_count": 9,
+          "time_info": "[06时54分 ~ 23时05分]"
         },
         {
           "title": "市场反应：美国10年期国债收益率短线从4.635%附近跳水至4.61%下方，整体转跌；两年期美债收益率从4.32%附近跳水至接近4.24%，整体转跌。 现货黄金从4040美元附近拉升至4081美元上方，涨幅超过1.2%。 标普跌0.2%，道指跌1.1%，纳指转涨。 新兴市场外汇指数刷新日高，拉美股市、巴西股指跌幅收窄。",
@@ -916,11 +1037,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 20时25分]"
+          "appearance_count": 4,
+          "time_info": "[18时15分 ~ 23时05分]"
         }
       ]
     }
