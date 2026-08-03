@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T04:57:33.059293+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-08-04T06:01:46.205481+08:00",
+  "total_titles_processed": 499,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时47分 ~ 04时57分]"
+          "appearance_count": 6,
+          "time_info": "[01时47分 ~ 06时01分]"
         },
         {
           "title": "美国总统特朗普：为支持军人家庭采取新举措，签署行政命令成立首个总统军事配偶委员会。",
@@ -260,7 +260,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
         },
@@ -282,7 +282,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
         },
@@ -315,7 +315,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
         },
@@ -337,7 +337,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
         },
@@ -356,7 +356,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美伊谈判乐观情绪升温，美股指高开，亚马逊涨近5%，市值突破3万亿美元，WTI油价跌7%",
@@ -370,39 +370,6 @@
           "time_info": "[01时47分 ~ 04时57分]"
         },
         {
-          "title": "美股大类资产类ETF多数收涨，纳指ETF、小盘股指ETF涨超1.7%，布油基金跌5%",
-          "url": "https://wallstreetcn.com/livenews/3144355",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
-          "title": "Snap(SNAP.N)美股盘后涨超9%。",
-          "url": "https://flash.jin10.com/detail/20260804041150987800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
-          "title": "Snap二季度营收16亿美元，分析师预期15.4亿美元。 二季度日活用户数4.93亿，分析师预期4.8838亿。 二季度调整后EBITDA为2.5亿美元，分析师预期1.923亿美元。 预计三季度营收17亿-17.4亿美元，分析师预期17亿美元。 预计三季度调整后EBITDA为3亿-3.5亿美元，分析师预期3.276亿美元。 Snap美股盘后涨11%。",
-          "url": "https://wallstreetcn.com/livenews/3144353",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
           "title": "中东紧张局势降温 美股期指上涨、油价重挫 存储股盘前下跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2444462",
           "source": "财联社热门",
@@ -410,74 +377,127 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时47分 ~ 04时57分]"
+          "appearance_count": 6,
+          "time_info": "[01时47分 ~ 06时01分]"
+        },
+        {
+          "title": "美股大类资产类ETF多数收涨，纳指ETF、小盘股指ETF涨超1.7%，布油基金跌5%",
+          "url": "https://wallstreetcn.com/livenews/3144355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 06时01分]"
+        },
+        {
+          "title": "Snap(SNAP.N)美股盘后涨超9%。",
+          "url": "https://flash.jin10.com/detail/20260804041150987800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 06时01分]"
+        },
+        {
+          "title": "Snap二季度营收16亿美元，分析师预期15.4亿美元。 二季度日活用户数4.93亿，分析师预期4.8838亿。 二季度调整后EBITDA为2.5亿美元，分析师预期1.923亿美元。 预计三季度营收17亿-17.4亿美元，分析师预期17亿美元。 预计三季度调整后EBITDA为3亿-3.5亿美元，分析师预期3.276亿美元。 Snap美股盘后涨11%。",
+          "url": "https://wallstreetcn.com/livenews/3144353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 06时01分]"
         },
         {
           "title": "周一（8月3日），美股行业ETF多数收涨，全球航空业ETF涨4.44%，网络股指数ETF涨2.93%，可选消费ETF、科技行业ETF、全球科技股指数ETF至少涨1.36%，能源业ETF跌1.28%。",
           "url": "https://wallstreetcn.com/livenews/3144351",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 06时01分]"
         },
         {
           "title": "Palantir(PLTR.N)美股盘后拉升7%。",
           "url": "https://flash.jin10.com/detail/20260804040640366800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 06时01分]"
         },
         {
           "title": "Palantir二季度调整后每股收益（EPS）为0.41美元，分析师预期0.35美元。 二季度营收19.4亿美元，分析师预期18.1亿美元。 预计全年营收81.5亿-81.6亿美元，公司原本预计76.5亿-76.6亿美元。 预计全年调整后运营利润48.9亿-49亿美元，分析师预期45.1亿美元。 Palantir美股盘后涨7%。",
           "url": "https://wallstreetcn.com/livenews/3144349",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 06时01分]"
         },
         {
           "title": "金十图示：2026年08月03日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260804040540550800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 06时01分]"
         },
         {
           "title": "金十图示：2026年08月03日（周一）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260804040524441800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 06时01分]"
         },
         {
           "title": "美股收盘：道指创收盘新高 纳指涨超2%",
           "url": "https://flash.jin10.com/detail/20260804040116965800",
           "source": "金十数据",
           "ranks": [
-            18
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 06时01分]"
+        },
+        {
+          "title": "周一（8月3日）纽约尾盘，现货黄金涨0.21%，报4054.95美元/盎司，亚太盘初高开至4080.87美元刷新日高，随后震荡下行、21:38刷新日低至4019.30美元。 COMEX黄金期货涨0.15%，报4113美元/盎司。 现货白银涨1.01%，报58.18美元/盎司，美股盘初也曾刷新日低至56.5694美元。 COMEX白银期货涨1.08%，报58.400美元/盎司。 COMEX铜期货涨0.65%，报6.5490美元/磅。 现货铂金跌1%，现货钯金跌1.30%。",
+          "url": "https://wallstreetcn.com/livenews/3144358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时57分"
+          "time_info": "06时01分"
         },
         {
           "title": "城堡证券：推动美股创新高的力量依然稳固",
@@ -486,7 +506,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
         }
@@ -582,7 +602,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
         },
@@ -593,9 +613,73 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "科创50跌超5%，半导体再跌、兆易创新跌停，核电掀涨停潮，恒科指涨1%，阿里大涨超7%",
+          "url": "https://wallstreetcn.com/articles/3778543",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时47分 ~ 06时01分]"
+        },
+        {
+          "title": "安森美半导体(ON.O)2026年Q2营收16亿美元，市场预期为15.9亿美元；预计第三季度营收16.5亿至17.5亿美元，市场预估16.7亿美元。",
+          "url": "https://flash.jin10.com/detail/20260804040927260800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 06时01分]"
+        },
+        {
+          "title": "安森美半导体二季度调整后每股收益（EPS）为0.74美元，分析师预期0.71美元。",
+          "url": "https://wallstreetcn.com/livenews/3144348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 06时01分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨0.75%，报6647.91点。 热门中概股里，大全新能源初步收涨13.3%，金山云涨7%，阿里巴巴、日月光半导体涨4.1%，晶科能源涨3.9%，腾讯、拼多多、百度涨超1%，小米跌2.5%，理想跌3.7%，小鹏跌4.5%。 ETF中，中概互联网指数ETF（KWEB）收涨0.88%，中国科技指数ETF（CQQQ）收跌0.22%。 MSCI新兴市场ex中国ETF（EMXC）收涨0.49%，德银嘉实沪深300指数ETF（ASHR）收跌0.82%，trackersHarvest中证50（ASHS）收跌1.09%。",
+          "url": "https://wallstreetcn.com/livenews/3144343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "中概指数收涨超0.7%，KWEB涨约0.9%，金山云涨约7%，日月光半导体、阿里涨超4%",
+          "url": "https://wallstreetcn.com/livenews/3144343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
         }
       ]
     },
@@ -615,6 +699,30 @@
           "time_info": "03时22分"
         },
         {
+          "title": "美元指数3日下跌",
+          "url": "https://flash.jin10.com/detail/20260804040408443800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 06时01分]"
+        },
+        {
+          "title": "周一（8月3日）纽约尾盘，ICE美元指数大致持平，报99.906点，日内交投区间为99.418-100.017点，亚太早盘低开低走、北京时间08:45刷新日低，之后持续震荡上扬。 彭博美元指数跌0.06%，报1206.06点，日内交投区间为1201.22-1207.21点。",
+          "url": "https://wallstreetcn.com/livenews/3144332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 06时01分]"
+        },
+        {
           "title": "美元指数DXY站上100，日内涨0.26%。",
           "url": "https://flash.jin10.com/detail/20260804012138420800",
           "source": "金十数据",
@@ -624,79 +732,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
-        },
-        {
-          "title": "美元指数3日下跌",
-          "url": "https://flash.jin10.com/detail/20260804040408443800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
-          "title": "周一（8月3日）纽约尾盘，ICE美元指数大致持平，报99.906点，日内交投区间为99.418-100.017点，亚太早盘低开低走、北京时间08:45刷新日低，之后持续震荡上扬。 彭博美元指数跌0.06%，报1206.06点，日内交投区间为1201.22-1207.21点。",
-          "url": "https://wallstreetcn.com/livenews/3144332",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "科创50跌超5%，半导体再跌、兆易创新跌停，核电掀涨停潮，恒科指涨1%，阿里大涨超7%",
-          "url": "https://wallstreetcn.com/articles/3778543",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时47分 ~ 04时57分]"
-        },
-        {
-          "title": "安森美半导体(ON.O)2026年Q2营收16亿美元，市场预期为15.9亿美元；预计第三季度营收16.5亿至17.5亿美元，市场预估16.7亿美元。",
-          "url": "https://flash.jin10.com/detail/20260804040927260800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
-          "title": "安森美半导体二季度调整后每股收益（EPS）为0.74美元，分析师预期0.71美元。",
-          "url": "https://wallstreetcn.com/livenews/3144348",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨0.75%，报6647.91点。 热门中概股里，大全新能源初步收涨13.3%，金山云涨7%，阿里巴巴、日月光半导体涨4.1%，晶科能源涨3.9%，腾讯、拼多多、百度涨超1%，小米跌2.5%，理想跌3.7%，小鹏跌4.5%。 ETF中，中概互联网指数ETF（KWEB）收涨0.88%，中国科技指数ETF（CQQQ）收跌0.22%。 MSCI新兴市场ex中国ETF（EMXC）收涨0.49%，德银嘉实沪深300指数ETF（ASHR）收跌0.82%，trackersHarvest中证50（ASHS）收跌1.09%。",
-          "url": "https://wallstreetcn.com/livenews/3144343",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时57分"
         }
       ]
     },
