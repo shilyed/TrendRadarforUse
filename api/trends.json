@@ -1,1068 +1,150 @@
 {
-  "generated_at": "2026-08-05T23:10:04.967244+08:00",
-  "total_titles_processed": 1601,
+  "generated_at": "2026-08-06T01:22:54.685629+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 28,
+      "keyword_group": "伊朗",
+      "match_count": 5,
       "titles": [
         {
-          "title": "【早报】美股半导体、存储、光通信，集体爆发；油价大跌、黄金走强；SpaceX、AMD财报出炉；大基金三期出手！入股正芯半导体",
-          "url": "https://www.cls.cn/detail/2445802",
-          "source": "财联社热门",
+          "title": "伊朗副外长：近期未与美国进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260806011229694800",
+          "source": "金十数据",
           "ranks": [
-            2,
-            1
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时56分 ~ 15时38分]"
+          "appearance_count": 1,
+          "time_info": "01时22分"
         },
         {
-          "title": "美股收盘：标普500再创历史新高 光通信、存储涨幅居前",
-          "url": "https://www.cls.cn/detail/2445760",
-          "source": "财联社热门",
+          "title": "伊朗副外长：美国在信息中表示，已准备好重返其承诺。",
+          "url": "https://flash.jin10.com/detail/20260806011018531800",
+          "source": "金十数据",
           "ranks": [
-            5,
-            3,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时54分 ~ 12时59分]"
-        },
-        {
-          "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3778526",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时31分 ~ 06时54分]"
-        },
-        {
-          "title": "美股期指全线上涨 卡特彼勒大涨逾10%领涨道指期货 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2445568",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时31分 ~ 09时53分]"
+          "appearance_count": 1,
+          "time_info": "01时22分"
         },
         {
-          "title": "美伊缓和叠加财报季提振，美股高开，光通信股走高，油价跌超5%，日元涨势终止",
-          "url": "https://wallstreetcn.com/articles/3778638",
-          "source": "华尔街见闻",
+          "title": "伊朗副外长：新一轮冲突开始约4至5天后，美国发出信息，要求进行谈判并解决相关问题。",
+          "url": "https://flash.jin10.com/detail/20260806010722355800",
+          "source": "金十数据",
           "ranks": [
-            4
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 05时03分]"
+          "appearance_count": 1,
+          "time_info": "01时22分"
         },
+        {
+          "title": "伊朗副外长：美国恢复履行其在《伊斯兰堡谅解备忘录》中作出的承诺是一个条件，但不足以实现霍尔木兹海峡重新开放。",
+          "url": "https://flash.jin10.com/detail/20260806010129313800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "伊朗副外长：伊朗与美国的谈判是在不信任的背景下进行的，而这种不信任仍是当前进程的基础。",
+          "url": "https://flash.jin10.com/detail/20260806010026034800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
         {
           "title": "美伊谈判悬而未决，经济数据与AI需求驱动美股走高，SpaceX跌12%、AMD跌7%，黄金涨3%突破4200，布油涨1%",
           "url": "https://wallstreetcn.com/articles/3778704",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时09分 ~ 23时10分]"
-        },
-        {
-          "title": "美股存储板块爆发！SK海力士ADR大涨逾8% 投行集体看涨",
-          "url": "https://www.cls.cn/detail/2445853",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 15时38分]"
-        },
-        {
-          "title": "SpaceX股价上涨10％，该公司即将在美股收盘之后发布美国IPO以来首份业绩报告。",
-          "url": "https://wallstreetcn.com/livenews/3144913",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时20分 ~ 05时03分]"
+          "appearance_count": 1,
+          "time_info": "01时22分"
         },
         {
           "title": "美股期指延续涨势 SpaceX、AMD盘前大跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2446634",
           "source": "财联社热门",
           "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时09分 ~ 23时10分]"
-        },
-        {
-          "title": "美股道指标普500指数均再创新高",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%81%93%E6%8C%87%E6%A0%87%E6%99%AE500%E6%8C%87%E6%95%B0%E5%9D%87%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时56分 ~ 07时57分]"
-        },
-        {
-          "title": "英伟达美股盘后涨2%，马斯克此前在电话会上谈及SpaceX算力计划。",
-          "url": "https://wallstreetcn.com/livenews/3144976",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时54分 ~ 07时57分]"
-        },
-        {
-          "title": "美伊协议预期升温，美股盘前SpaceX下跌7%、AMD跌超7%，黄金涨3%突破4200，油价走高",
-          "url": "https://wallstreetcn.com/articles/3778704",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时49分"
-        },
-        {
-          "title": "财报公布后，AMD(AMD.O)和SpaceX(SPCX.O)美股盘后均跌8%。",
-          "url": "https://flash.jin10.com/detail/20260805041818945800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "标普500指数涨超2%，美股费城半导体指数涨幅扩大至7.15%。英伟达股价上涨2.49%，博通股价上涨7.49%，超威半导体股价上涨9.08%，阿斯麦ADR上涨3.63%，英特尔股价上涨10.87%。 道指涨1090点，涨幅2.05%。",
-          "url": "https://wallstreetcn.com/livenews/3144900",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "周二（8月4日），美股存储芯片与硬件供应链指数涨6.74%，报202.90点。 成分股闪迪收涨10.84%，泰瑞达涨10.32%，Rambus、拉姆研究、美光科技至少涨7.62%，应用材料、西部数据至少涨4.05%，希捷科技涨1.72%。此外，SK海力士ADR涨8.17%。",
-          "url": "https://wallstreetcn.com/livenews/3144978",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时54分"
-        },
-        {
-          "title": "美股史上最大解禁冲击来袭！SpaceX即将迎来真正考验",
-          "url": "https://www.cls.cn/detail/2446161",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时28分"
-        },
-        {
-          "title": "美股存储芯片指数初步收涨6.8%，费城半导体指数涨6.9%。 标普500指数初步收涨1.9%，科技板块涨4.4%，原材料、工业、金融板块至少涨1%，能源板块跌0.5%。 纳斯达克100指数初步收涨3.4%，成分股中，Palantir初步收涨超29%，Arm控股涨17.1%，美满电子涨13.3%，英特尔涨11.3%，闪迪涨10.7%，泰瑞达、Lumentum、拉姆研究、SpaceX至少涨超8%，Intuitive Surgical Inc.跌1.9%，核电股CEG跌2.1%，亚马逊跌2.3%跌幅第二大，Diamondback Energy跌3.4%。 卡特彼勒初步收涨6.1%，与思科、IBM、安进、高盛、英伟达、家得宝、Salesforce领跑道指成分股。",
-          "url": "https://wallstreetcn.com/livenews/3144931",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "金十图示：2026年08月04日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260805040552682800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "金十图示：2026年08月04日（周二）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260805040520889800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "SpaceX(SPCX.O)美股盘后涨超1%。",
-          "url": "https://flash.jin10.com/detail/20260805040357009800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "美股费城半导体指数涨幅扩大至6％，闪迪涨幅扩大至10.8％，英特尔涨超9％，美光科技、AMD涨超7％，高通涨超6％。",
-          "url": "https://wallstreetcn.com/livenews/3144863",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
-          "title": "金十图示：2026年08月04日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260805003144747800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
-          "title": "金融博客零对冲此前发贴表示：“SpaceX财报前出现大规模卖空：可借出的SpaceX股票中有95%已被借出，占流通股比例的空头仓位达到34%。”马斯克回复该帖称：“我试图提醒他们，但他们只是进一步加码押注。”（SpaceX(SPCX.O)将于今日美股盘后公布Q2业绩）",
-          "url": "https://flash.jin10.com/detail/20260805015406320800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "美股收盘：道指、标普500创新高 海力士涨8%",
-          "url": "https://flash.jin10.com/detail/20260805040059195800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "金十图示：2026年08月04日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260805003105503800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
-          "title": "美股三大股指均涨逾2%，费城半导体指数涨超7%",
-          "url": "https://flash.jin10.com/detail/20260805014841288800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "美股科技泡沫要破了吗",
-          "url": "https://www.toutiao.com/trending/7670156290131234367/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
-          "title": "美股存储芯片指数收涨超6.7%，闪迪、泰瑞达涨超10%，超大规模云服务商板块四天涨约16%",
-          "url": "https://wallstreetcn.com/livenews/3144978",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
+          "time_info": "01时22分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33710926",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时31分 ~ 07时57分]"
-        },
-        {
-          "title": "特朗普不满坡度与外观，要求重建白宫停机坪",
-          "url": "https://news.ifeng.com/c/8vKyAhdi2cE",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时59分 ~ 18时28分]"
-        },
-        {
-          "title": "特朗普推进移民执法 美国驱逐令签发量6月升至历史新高",
-          "url": "https://wallstreetcn.com/livenews/3145469",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时10分"
-        },
-        {
-          "title": "持武男子在特朗普即将出席活动的加州球场被捕",
-          "url": "https://flash.jin10.com/detail/20260805072343057800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
         {
           "title": "特朗普所乘直升机遭遇飞行安全事件",
           "url": "https://www.toutiao.com/trending/7670517654829927979/",
           "source": "今日头条",
           "ranks": [
-            15,
-            4
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时49分 ~ 23时10分]"
+          "appearance_count": 1,
+          "time_info": "01时22分"
         },
         {
           "title": "最快今日宣布！霍尔木兹开放协议据悉接近达成 特朗普发声助阵",
           "url": "https://www.cls.cn/detail/2446327",
           "source": "财联社热门",
           "ranks": [
-            13,
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时49分 ~ 23时10分]"
-        },
-        {
-          "title": "特朗普所乘直升机遭遇飞行安全事件",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%80%E4%B9%98%E7%9B%B4%E5%8D%87%E6%9C%BA%E9%81%AD%E9%81%87%E9%A3%9E%E8%A1%8C%E5%AE%89%E5%85%A8%E4%BA%8B%E4%BB%B6",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时09分 ~ 23时10分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-05）",
-          "url": "https://flash.jin10.com/detail/20260805181255161800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时28分"
-        },
-        {
-          "title": "特朗普：我的真实民调正处于最好水平",
-          "url": "https://flash.jin10.com/detail/20260805054537400800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时54分"
-        },
-        {
-          "title": "特朗普政府关税退税达1000亿美元",
-          "url": "https://flash.jin10.com/detail/20260805053320970800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时54分"
-        },
-        {
-          "title": "美财长称霍尔木兹“自由通行”有望今明达成，特朗普与卡塔尔埃米尔通话促降级",
-          "url": "https://flash.jin10.com/detail/20260805065441562800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "【报道：特朗普政府退还约1000亿美元关税】自从美国最高法院否决其使用紧急权力（征收关税）以来，特朗普政府已发放了约1000亿美元的关税退款。",
-          "url": "https://wallstreetcn.com/livenews/3144974",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时54分"
-        },
-        {
-          "title": "特朗普所乘直升机遭遇飞行安全事件",
-          "url": "https://wallstreetcn.com/livenews/3145385",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时49分"
-        },
-        {
-          "title": "卡塔尔埃米尔与特朗普就美伊局势通话 呼吁继续对话",
-          "url": "https://flash.jin10.com/detail/20260805052751847800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时54分"
-        },
-        {
-          "title": "卡塔尔埃米尔与特朗普就美伊局势通话 呼吁继续对话",
-          "url": "https://wallstreetcn.com/livenews/3144972",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时54分"
-        },
-        {
-          "title": "特朗普：与伊朗的谈判进展非常顺利，将在未来48小时见分晓。 达成协议对伊朗来说是明智之选，我们拭目以待。",
-          "url": "https://wallstreetcn.com/livenews/3145142",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        },
-        {
-          "title": "卡塔尔埃米尔：与特朗普的通话内容涉及最新的地区发展，特别是缓解美国与伊朗之间紧张局势的努力，以及弥合双方立场的差距，从而增强危机可持续外交解决的前景。",
-          "url": "https://flash.jin10.com/detail/20260805020906830800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "美国总统特朗普称，美国移民与海关执法局（ICE）7月逮捕约51000名非法外籍人员，打破历史最高纪录，日均逮捕1645人。 此前6月逮捕人数约43000人，创下当时的历史峰值，这意味着移民与海关执法局已连续两个月执法力度达到历史高位。",
-          "url": "https://wallstreetcn.com/livenews/3144922",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "卡塔尔埃米尔：卡塔尔埃米尔接到美国总统特朗普的电话。",
-          "url": "https://flash.jin10.com/detail/20260805020734751800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "美官员：霍尔木兹海峡临时航线免许可免收费，特朗普对伊朗谈判大门仍敞开",
-          "url": "https://wallstreetcn.com/livenews/3144918",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "卡塔尔元首与特朗普就美伊局势通话",
-          "url": "https://www.toutiao.com/trending/7670305492274544686/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "特朗普：霍尔木兹海峡将很快重新开放。 如果伊朗再次反悔，他们将遭受重创。 我们与伊朗的谈判非常顺利。",
-          "url": "https://wallstreetcn.com/livenews/3145117",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时59分"
+          "time_info": "01时22分"
         }
       ]
     },
     {
       "keyword_group": "半导体",
-      "match_count": 15,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "创业板暴涨超5.6%，算力硬件全线反攻、光通信\"满屏涨停\"，医药股爆发、药明康德涨停，半导体强劲反弹",
-          "url": "https://wallstreetcn.com/articles/3778628",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时31分 ~ 15时38分]"
-        },
-        {
-          "title": "A股半导体产业链早盘拉升，金海通逼近涨停，芯朋微、上海合晶、华虹宏力、微导纳米、神工股份等多股涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3145057",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "“降温”措施见效？韩国半导体杠杆ETF的交易量明显萎缩",
-          "url": "https://www.cls.cn/detail/2445094",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
-          "title": "美国半导体板块冲高回落，跌超1%刷新日低。 Tower半导体ADR跌7.6%，莱迪斯半导体、AMD至少跌6%，日月光半导体跌4%，安森美半导体跌3.6%，泰瑞达跌2.8%，拉姆研究跌2.7%，高通、英特尔跌2.4%，SK海力士ADR跌1.6%，阿斯麦ADR跌1.3%。 新思科技目前涨0.4%，Rambus、安费诺、博通、西部数据至多涨1.3%，美光涨2.5%，希捷科技涨2.9%，高意公司Coherent涨4%，英伟达涨4.2%。",
-          "url": "https://wallstreetcn.com/livenews/3145466",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时10分"
-        },
         {
           "title": "A股三大股指均涨超1%，科创50暴涨近5%，半导体大爆发，“易中天”集体回应美国光模块禁令，恒科指涨1%",
           "url": "https://wallstreetcn.com/articles/3778711",
           "source": "华尔街见闻",
           "ranks": [
-            7,
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时49分 ~ 23时10分]"
+          "appearance_count": 1,
+          "time_info": "01时22分"
         },
         {
-          "title": "沪指涨超1%，科创50暴涨逾5%，半导体大爆发，“易中天”集体回应美国光模块禁令，港股科网股盘中反弹",
-          "url": "https://wallstreetcn.com/articles/3778711",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时38分 ~ 18时28分]"
-        },
-        {
-          "title": "费城半导体指数涨超6%",
-          "url": "https://www.douyin.com/hot/2597854",
-          "source": "抖音",
+          "title": "日股半导体链集中放榜：PCB、MLCC、玻纤布板块捷报频传",
+          "url": "https://www.cls.cn/detail/2446641",
+          "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "港股半导体股震荡走高，兆易创新(03986.HK)涨超6%，爱芯元智(00600.HK)涨超5%，澜起科技(06809.HK)、华虹宏力(01347.HK)涨超4%，中芯国际(00981.HK)涨超3%。",
-          "url": "https://flash.jin10.com/detail/20260805094427389800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收跌0.2%。 热门中概股里，金山云初步收涨10.4%，日月光半导体涨5.2%，阿特斯太阳能涨5.3%，万国数据涨2.1%，再鼎医药、晶科能源、阿里巴巴至少涨超1.1%，世纪互联涨0.8%，小鹏跌2.4%，新东方跌4.8%。 ETF中，CQQQ初步收涨2.9%，KWEB涨0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3144933",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "标普500指数涨幅扩大至1.5%，道指涨925点、涨幅1.75%，纳指涨548点、涨幅2.12%，半导体指数仍然涨超6%。",
-          "url": "https://wallstreetcn.com/livenews/3144875",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
-          "title": "金十图示：2026年08月05日（周三）富时中国A50指数成分股今日收盘行情一览：银行股飘绿，半导体股走强",
-          "url": "https://flash.jin10.com/detail/20260805150209768800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时38分"
-        },
-        {
-          "title": "中韩半导体ETF成交额237亿 历史第三高",
-          "url": "https://flash.jin10.com/detail/20260805150204844800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时38分"
-        },
-        {
-          "title": "8月5日午间收评：科创50指数半日涨超5%，半导体芯片股集体走强",
-          "url": "https://wallstreetcn.com/livenews/3145132",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        },
-        {
-          "title": "A股三大指数均涨超1%，半导体芯片、贵金属、AI应用、算力硬件等方向涨幅居前，沪深京三市上涨个股近4000只。",
-          "url": "https://wallstreetcn.com/livenews/3145129",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        },
-        {
-          "title": "科创50指数涨超4%，沪指、深成指均涨超1%，半导体芯片、贵金属、PCB等方向涨幅居前，沪深京三市上涨个股超3900只。",
-          "url": "https://wallstreetcn.com/livenews/3145116",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "【伊朗称霍尔木兹海峡不会立即开放】据伊朗国家电视台今天（8月5日）援引知情人士消息，伊朗与阿曼就霍尔木兹海峡船舶通行安排可能达成的协议，并不意味着海峡将立即恢复开放。消息称，伊朗与阿曼的相关谈判仅涉及双方就船舶通行秩序进行协调，与美国无关。消息人士同时表示，如果美国继续存在伊朗方面所称的“违规行为”，即便伊朗与阿曼达成协议，霍尔木兹海峡也不会恢复开放，其重新开放仍取决于美国改变相关行为并纠正其“违规行为”。（CCTV国际时讯）",
-          "url": "https://wallstreetcn.com/livenews/3145320",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时28分"
-        },
-        {
-          "title": "据伊朗法尔斯通讯社：一位接近谈判团队的消息人士表示，如果美国停止对伊朗及其利益的侵略和犯罪行为，并满足所有必要条件以及既定要求，海峡局势才可能恢复到一个月前的状态。",
-          "url": "https://flash.jin10.com/detail/20260805023522601800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "美国国防部长赫格塞思驳斥CNN称美军在伊朗冲突期间消耗了近80%的萨德反导拦截弹。",
-          "url": "https://flash.jin10.com/detail/20260805054050371800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时54分"
-        },
-        {
-          "title": "据伊朗法尔斯通讯社：仍然担心美国或某些地区方的阻挠行为可能会延长或干扰谈判进程。",
-          "url": "https://flash.jin10.com/detail/20260805022308055800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "据伊朗法尔斯通讯社：最近，一些美国官员通过直接或与地区伙伴的沟通发出了混合信号，导致谈判进程受到干扰。",
-          "url": "https://flash.jin10.com/detail/20260805022300329800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "伊朗国家电视台：伊朗和阿曼针对霍尔木兹海峡的谈判与海峡立即重新开放无关。 海峡重新开放取决于美国改变其行为。",
-          "url": "https://wallstreetcn.com/livenews/3145296",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时28分"
-        },
-        {
-          "title": "现货白银日内涨幅达5.0%，报62.5美元/盎司。 纽约金日内涨幅达3.0%，报4279美元/盎司。 据美国财政部，美国撤销了涉伊朗相关制裁。",
-          "url": "https://wallstreetcn.com/livenews/3145448",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时10分"
-        },
-        {
-          "title": "美国媒体：伊朗立场软化，考虑允许欧洲国家清除霍尔木兹海峡的水雷",
-          "url": "https://wallstreetcn.com/livenews/3144859",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "现货黄金突破4200美元/盎司，日内涨幅达3.0%，报4200.52美元/盎司。 现货白银涨4.9%，报62.42美元/盎司，为7月7日以来最高水平。",
-          "url": "https://wallstreetcn.com/livenews/3145390",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时49分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 8月4日（周二）晚盘收盘上涨0.64%报887.48元/克；<br/>上海黄金交易所白银T+D 8月4日（周二）晚盘收盘上涨2.56%报14528.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260805023020490800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上一交易日减少6.41吨，当前持仓量为15130.82吨。欢迎点击查看数据中心...",
-          "url": "https://flash.jin10.com/detail/20260805064714696800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "现货白银站上62美元/盎司，为7月7日以来首次。",
-          "url": "https://wallstreetcn.com/livenews/3145379",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时49分"
-        },
-        {
-          "title": "现货白银日内涨幅达4.0%，报61.88美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3145375",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时49分"
-        },
-        {
-          "title": "国投白银LOF：本基金将于2026年8月6日开市起停牌，自2026年8月6日10:30起复牌，停牌期间本基金赎回业务照常办理。",
-          "url": "https://flash.jin10.com/detail/20260805180017824800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时28分"
-        },
-        {
-          "title": "现货黄金涨约0.6%，白银涨超2.3%，铂族贵金属涨超6%",
-          "url": "https://wallstreetcn.com/livenews/3144958",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储芯片",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "A股三大指数全线翻红，存储芯片、先进封装、MLCC概念等方向涨幅居前。全市场上涨个股超3500只。",
-          "url": "https://flash.jin10.com/detail/20260805094614435800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "存储芯片超级周期走到十字路口？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33710840",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 05时03分]"
-        },
-        {
-          "title": "A股收评：科创50指数涨4.78% 存储芯片、贵金属概念走强",
-          "url": "https://flash.jin10.com/detail/20260805150702130800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "“铱”价格大涨远超黄金",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%93%B1%E2%80%9D%E4%BB%B7%E6%A0%BC%E5%A4%A7%E6%B6%A8%E8%BF%9C%E8%B6%85%E9%BB%84%E9%87%91",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        },
-        {
-          "title": "金属铱价格暴涨远超黄金",
-          "url": "https://wallstreetcn.com/livenews/3144854",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "罕见干预操作！贝森特抛欧元、指示美联储“借钱”，让日本“别抛美债”，市场担心“套利交易逆转”",
-          "url": "https://wallstreetcn.com/articles/3778620",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时31分 ~ 07时57分]"
-        },
-        {
-          "title": "如何看待 2026 年 8 月美债正式突破 40 万亿美元大关？压垮美债的最后一根稻草会是什么？",
-          "url": "https://www.zhihu.com/question/2067002987545884316",
-          "source": "知乎",
-          "ranks": [
-            16,
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时53分 ~ 20时49分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价重回900元大关",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%87%8D%E5%9B%9E900%E5%85%83%E5%A4%A7%E5%85%B3%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时49分 ~ 23时10分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数大致持稳，日元连涨多日之后高位企稳",
-          "url": "https://wallstreetcn.com/livenews/3144923",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
+          "time_info": "01时22分"
         }
       ]
     }
