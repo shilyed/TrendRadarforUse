@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06T13:12:22.622271+08:00",
-  "total_titles_processed": 945,
+  "generated_at": "2026-08-06T15:38:20.005837+08:00",
+  "total_titles_processed": 1096,
   "failed_sources": [],
   "trends": [
     {
@@ -8,26 +8,16 @@
       "match_count": 29,
       "titles": [
         {
-          "title": "特朗普污蔑：中国背后捣鬼",
-          "url": "https://news.ifeng.com/c/8vMN6ChGn3S",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时52分 ~ 13时12分]"
-        },
-        {
           "title": "特朗普所乘飞机遭遇安全事件，美方启动调查",
           "url": "https://news.ifeng.com/c/8vLgY5mFkV5",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时52分 ~ 13时12分]"
+          "appearance_count": 4,
+          "time_info": "[07时52分 ~ 15时38分]"
         },
         {
           "title": "特朗普称即将达成霍尔木兹海峡协议，伊朗获更大控制权？",
@@ -41,13 +31,37 @@
           "time_info": "[07时52分 ~ 13时12分]"
         },
         {
+          "title": "特朗普污蔑：中国背后捣鬼",
+          "url": "https://news.ifeng.com/c/8vMN6ChGn3S",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时52分 ~ 15时38分]"
+        },
+        {
+          "title": "涉台问题，特朗普的教训还没吃够",
+          "url": "https://news.ifeng.com/c/8vMhTGcR9DP",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时12分 ~ 15时38分]"
+        },
+        {
           "title": "特朗普称不想让孩子像拜登那样摔下台",
           "url": "https://www.toutiao.com/trending/7670741330352734262/",
           "source": "今日头条",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时12分"
         },
@@ -61,17 +75,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
-        },
-        {
-          "title": "涉台问题，特朗普的教训还没吃够",
-          "url": "https://news.ifeng.com/c/8vMhTGcR9DP",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时12分"
         },
         {
           "title": "美国总统特朗普在拉斯维加斯夸赞通胀下滑。 特朗普称赞股市上涨。",
@@ -195,6 +198,18 @@
           "time_info": "[06时13分 ~ 07时52分]"
         },
         {
+          "title": "特朗普“一厢情愿”？伊朗：与阿曼就霍尔木兹航线接近达成协议！",
+          "url": "https://www.cls.cn/detail/2446884",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时12分 ~ 15时38分]"
+        },
+        {
           "title": "美国总统特朗普：关税让我们变得富有。",
           "url": "https://flash.jin10.com/detail/20260806053019525800",
           "source": "金十数据",
@@ -225,7 +240,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时12分"
         },
@@ -247,7 +262,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时12分"
         },
@@ -261,17 +276,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
-        },
-        {
-          "title": "特朗普“一厢情愿”？伊朗：与阿曼就霍尔木兹航线接近达成协议！",
-          "url": "https://www.cls.cn/detail/2446884",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时12分"
         },
         {
           "title": "美国国会山CBO：特朗普的战列舰舰队耗资或达2750亿美元",
@@ -291,7 +295,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时12分"
         },
@@ -302,7 +306,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时12分"
         },
@@ -365,11 +369,12 @@
             12,
             6,
             5,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时13分 ~ 13时12分]"
+          "appearance_count": 5,
+          "time_info": "[06时13分 ~ 15时38分]"
         },
         {
           "title": "美股期指延续涨势 SpaceX、AMD盘前大跌 | 今夜看点",
@@ -420,6 +425,18 @@
           "time_info": "[04时59分 ~ 06时13分]"
         },
         {
+          "title": "码农摇身一变成FDE？美股龙头引领AI落地新模式 机构：计算机板块或迎来重估",
+          "url": "https://www.cls.cn/detail/2446947",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时12分 ~ 15时38分]"
+        },
+        {
           "title": "周三（8月5日），美股行业ETF多数下跌，能源业ETF收跌2.07%，半导体ETF跌1.04%，科技行业ETF跌0.53%，生物科技指数ETF涨0.87%，医疗业ETF涨1.27%。",
           "url": "https://wallstreetcn.com/livenews/3145595",
           "source": "华尔街见闻-快讯",
@@ -453,17 +470,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
-        },
-        {
-          "title": "码农摇身一变成FDE？美股龙头引领AI落地新模式 机构：计算机板块或迎来重估",
-          "url": "https://www.cls.cn/detail/2446947",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时12分"
         },
         {
           "title": "美股收盘：道指再创历史新高",
@@ -662,7 +668,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "A股三大股指均涨超1%，科创50暴涨近5%，半导体大爆发，“易中天”集体回应美国光模块禁令，恒科指涨1%",
@@ -674,8 +680,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时22分 ~ 13时12分]"
+          "appearance_count": 8,
+          "time_info": "[01时22分 ~ 15时38分]"
         },
         {
           "title": "日股半导体链集中放榜：PCB、MLCC、玻纤布板块捷报频传",
@@ -713,6 +719,17 @@
           "time_info": "09时48分"
         },
         {
+          "title": "金十图示：2026年08月06日（周四）富时中国A50指数成分股今日收盘行情一览：银行股和半导体股走强",
+          "url": "https://flash.jin10.com/detail/20260806150446916800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收跌1.09%，报6552.33点。 热门中概股里，阿特斯太阳能初步收跌5.6%，日月光半导体跌4.6%，金山云跌4.2%，腾讯跌1.9%，网易跌1.8%，阿里跌0.1%，新东方涨1.2%。 ETF中，中概互联网指数ETF（KWEB）收跌1.21%，中国科技指数ETF（CQQQ）收涨0.64%。 MSCI新兴市场ex中国ETF（EMXC）收跌0.40%，德银嘉实沪深300指数ETF（ASHR）收涨0.49%，XtrackersHarvest中证50（ASHS）收涨2.09%。",
           "url": "https://wallstreetcn.com/livenews/3145581",
           "source": "华尔街见闻-快讯",
@@ -730,7 +747,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时12分"
         },
@@ -741,7 +758,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时12分"
         }
@@ -757,11 +774,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 13时12分]"
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 15时38分]"
         },
         {
           "title": "国际金价涨超4%，重返4200美元上方",
@@ -781,7 +799,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时12分"
         },
@@ -838,7 +856,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时12分"
         },
@@ -852,6 +870,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "有色",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "我让你的世界拥有色彩了吗",
+          "url": "https://www.douyin.com/hot/2598178",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储芯片",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "存储芯片成本压力开始释放！余承东称所有手机都要大规模涨价，否则就是亏损销售",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33728067",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         }
       ]
     }
