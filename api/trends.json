@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T20:43:54.090636+08:00",
-  "total_titles_processed": 1423,
+  "generated_at": "2026-08-07T22:07:56.322864+08:00",
+  "total_titles_processed": 1546,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             9,
             8,
             6,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时50分 ~ 20时43分]"
+          "appearance_count": 9,
+          "time_info": "[12时50分 ~ 22时07分]"
         },
         {
           "title": "特朗普签署行政令，宣布加征关税",
@@ -88,7 +89,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -269,7 +270,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -338,6 +339,149 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
+          "url": "https://wallstreetcn.com/articles/3778821",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[07时51分 ~ 22时07分]"
+        },
+        {
+          "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
+          "url": "https://www.cls.cn/detail/2448354",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时53分 ~ 22时07分]"
+        },
+        {
+          "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
+          "url": "https://www.cls.cn/detail/2447905",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时51分 ~ 14时07分]"
+        },
+        {
+          "title": "美股盘前，存储概念股小幅走高，闪迪、西部数据涨超2%，光通信概念股走高，Coherent涨近5%，Lumentum涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3146560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时09分"
+        },
+        {
+          "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2448784",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
+        },
+        {
+          "title": "韩股跌倒，美股吃饱！“受伤”的韩国散户大军重返华尔街怀抱",
+          "url": "https://www.cls.cn/detail/2448478",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 22时07分]"
+        },
+        {
+          "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
+          "url": "https://wallstreetcn.com/articles/3778924",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
+        },
+        {
+          "title": "美股光通信股AAOI盘前涨超15%，公司管理层在业绩电话会上释放积极信号，表示AI基础设施需求强劲，客户需求较其当前供应能力高出约20%至40%。",
+          "url": "https://wallstreetcn.com/livenews/3146603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
+          "title": "美国7月非农超预期下降，美股三大股指集体高开",
+          "url": "https://wallstreetcn.com/livenews/3146763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
+        },
+        {
+          "title": "金十图示：2026年08月07日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260807214234632800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
+        },
+        {
+          "title": "美股三大指数集体收跌",
+          "url": "https://www.douyin.com/hot/2600354",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3146757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
         }
       ]
     },
@@ -418,7 +562,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -447,93 +591,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
-          "url": "https://wallstreetcn.com/articles/3778821",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时51分 ~ 20时43分]"
-        },
-        {
-          "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
-          "url": "https://www.cls.cn/detail/2448354",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时53分 ~ 20时43分]"
-        },
-        {
-          "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
-          "url": "https://www.cls.cn/detail/2447905",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时51分 ~ 14时07分]"
-        },
-        {
-          "title": "美股盘前，存储概念股小幅走高，闪迪、西部数据涨超2%，光通信概念股走高，Coherent涨近5%，Lumentum涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3146560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时09分"
-        },
-        {
-          "title": "美股光通信股AAOI盘前涨超15%，公司管理层在业绩电话会上释放积极信号，表示AI基础设施需求强劲，客户需求较其当前供应能力高出约20%至40%。",
-          "url": "https://wallstreetcn.com/livenews/3146603",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时53分"
-        },
-        {
-          "title": "韩股跌倒，美股吃饱！“受伤”的韩国散户大军重返华尔街怀抱",
-          "url": "https://www.cls.cn/detail/2448478",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
-          "title": "美股三大指数集体收跌",
-          "url": "https://www.douyin.com/hot/2600354",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        }
-      ]
-    },
-    {
       "keyword_group": "半导体",
       "match_count": 4,
       "titles": [
@@ -544,11 +601,12 @@
           "ranks": [
             9,
             7,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时53分 ~ 20时43分]"
+          "appearance_count": 6,
+          "time_info": "[17时53分 ~ 22时07分]"
         },
         {
           "title": "沪指冲高回落涨0.6%，煤炭掀涨停潮，贵金属集体大涨，半导体材料再拉升，恒科指跌超2%，AI大模型双雄逆势拉升",
@@ -581,7 +639,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         }
@@ -675,7 +733,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         }
@@ -706,6 +764,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "北美科技软件股指数ETF涨超2.7%，报102.34美元，逼近8月5日盘中最高位103.72美元和6月1日顶部108.03美元。",
+          "url": "https://wallstreetcn.com/livenews/3146770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
         }
       ]
     }
