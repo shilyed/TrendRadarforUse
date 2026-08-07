@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T14:07:41.454240+08:00",
-  "total_titles_processed": 802,
+  "generated_at": "2026-08-07T16:09:33.186918+08:00",
+  "total_titles_processed": 965,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普签署行政令，宣布加征关税",
@@ -15,8 +15,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时12分 ~ 14时07分]"
+          "appearance_count": 4,
+          "time_info": "[10时12分 ~ 16时09分]"
+        },
+        {
+          "title": "“向特朗普同志致敬！”美国超级抹红大赛开始了",
+          "url": "https://news.ifeng.com/c/8vO9rqQQ3tN",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时12分 ~ 16时09分]"
         },
         {
           "title": "【早报】特朗普：对多晶硅及其衍生产品加征关税；美存储股再遭重挫；原油走强、黄金微跌；宇树科技发行价定了",
@@ -29,18 +42,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时51分 ~ 14时07分]"
-        },
-        {
-          "title": "“向特朗普同志致敬！”美国超级抹红大赛开始了",
-          "url": "https://news.ifeng.com/c/8vO9rqQQ3tN",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时12分 ~ 14时07分]"
         },
         {
           "title": "特朗普再称对伊朗战争将很快结束",
@@ -71,22 +72,24 @@
           "source": "凤凰网",
           "ranks": [
             7,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时12分 ~ 14时07分]"
+          "appearance_count": 4,
+          "time_info": "[10时12分 ~ 16时09分]"
         },
         {
           "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
           "url": "https://wallstreetcn.com/articles/3778896",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 14时07分]"
+          "appearance_count": 3,
+          "time_info": "[12时50分 ~ 16时09分]"
         },
         {
           "title": "泽连斯基要导弹，特朗普最新表态：我们也想要",
@@ -112,6 +115,17 @@
           "time_info": "[12时50分 ~ 14时07分]"
         },
         {
+          "title": "特朗普言论意味着对台政策重大转变？美著名“中国通”解读",
+          "url": "https://news.ifeng.com/c/8uzN3iPy76f",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
+        },
+        {
           "title": "特朗普称继续支持国防部长赫格塞思",
           "url": "https://wallstreetcn.com/livenews/3146357",
           "source": "华尔街见闻-快讯",
@@ -132,6 +146,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        },
+        {
+          "title": "“特朗普想缓和对华关系，美国年轻人也不想陷入新冷战”",
+          "url": "https://news.ifeng.com/c/8vOTWxkXcxc",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
         },
         {
           "title": "特朗普承认部分弹药供应“相对紧张”",
@@ -181,7 +206,7 @@
     },
     {
       "keyword_group": "白银",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "现货黄金站上4280美元/盎司，日内涨0.94%。现货白银日内涨幅扩大至2.00%，现报62.76美元/盎司。",
@@ -190,9 +215,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
+        },
+        {
+          "title": "现货白银日内涨幅达4.0%，报63.98美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3146561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
         },
         {
           "title": "现货白银日内涨1美元，现报62.53美元/盎司，涨幅1.64%。",
@@ -201,7 +237,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
         },
@@ -228,6 +264,17 @@
           "time_info": "07时52分"
         },
         {
+          "title": "上海黄金交易所黄金T+D 8月7日（周五）收盘上涨0.72%报930.59元/克；<br/>上海黄金交易所白银T+D 8月7日（周五）收盘上涨2.44%报15517.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260807153020598800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
+        },
+        {
           "title": "美国非农今晚出炉，华尔街预期分歧巨大，现货黄金目前多空占比为54%-46%，现货白银多头占比近90%。后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20260807114548091800",
           "source": "金十数据",
@@ -237,6 +284,58 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
+          "url": "https://wallstreetcn.com/articles/3778821",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时51分 ~ 16时09分]"
+        },
+        {
+          "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
+          "url": "https://www.cls.cn/detail/2447905",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时51分 ~ 14时07分]"
+        },
+        {
+          "title": "美股盘前，存储概念股小幅走高，闪迪、西部数据涨超2%，光通信概念股走高，Coherent涨近5%，Lumentum涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3146560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
+        },
+        {
+          "title": "美股三大指数集体收跌",
+          "url": "https://www.douyin.com/hot/2600354",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时12分"
         }
       ]
     },
@@ -263,11 +362,12 @@
           "ranks": [
             17,
             16,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时51分 ~ 14时07分]"
+          "appearance_count": 6,
+          "time_info": "[07时51分 ~ 16时09分]"
         },
         {
           "title": "A股存储芯片概念持续活跃，兆易创新涨超9%，普冉股份、江波龙、德明利、北京君正、朗科科技、佰维存储、香农芯创跟涨。",
@@ -276,7 +376,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
         },
@@ -294,50 +394,20 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 3,
+      "keyword_group": "金价",
+      "match_count": 2,
       "titles": [
         {
-          "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
-          "url": "https://wallstreetcn.com/articles/3778821",
-          "source": "华尔街见闻",
+          "title": "金十图示：2026年08月07日（周五）上海金午盘价为932.83元/克，较国际金价(929.4元/克)，高3.43元/克",
+          "url": "https://flash.jin10.com/detail/20260807155143219800",
+          "source": "金十数据",
           "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时51分 ~ 14时07分]"
-        },
-        {
-          "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
-          "url": "https://www.cls.cn/detail/2447905",
-          "source": "财联社热门",
-          "ranks": [
-            3,
             2
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时51分 ~ 14时07分]"
-        },
-        {
-          "title": "美股三大指数集体收跌",
-          "url": "https://www.douyin.com/hot/2600354",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
+          "time_info": "16时09分"
+        },
         {
           "title": "金价完成首轮仓位修复，4300附近进入新碰撞区！",
           "url": "https://flash.jin10.com/detail/20260807120847851800",
@@ -382,8 +452,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时51分 ~ 14时07分]"
+          "appearance_count": 6,
+          "time_info": "[07时51分 ~ 16时09分]"
         }
       ]
     }
