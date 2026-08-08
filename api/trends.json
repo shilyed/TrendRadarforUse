@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T14:37:29.498879+08:00",
-  "total_titles_processed": 1007,
+  "generated_at": "2026-08-08T15:42:04.157581+08:00",
+  "total_titles_processed": 1072,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时59分 ~ 14时37分]"
+          "appearance_count": 8,
+          "time_info": "[08时59分 ~ 15时42分]"
         },
         {
           "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
@@ -32,8 +32,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时46分 ~ 14时37分]"
+          "appearance_count": 14,
+          "time_info": "[03时46分 ~ 15时42分]"
         },
         {
           "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
@@ -63,11 +63,26 @@
           "source": "凤凰网",
           "ranks": [
             11,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时55分 ~ 14时37分]"
+          "appearance_count": 6,
+          "time_info": "[10时55分 ~ 15时42分]"
+        },
+        {
+          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
+          "url": "https://www.cls.cn/detail/2449039",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时07分 ~ 15时42分]"
         },
         {
           "title": "加密货币平台Crypto.com与特朗普传媒科技集团将整合合作伙伴关系调整为营销协议。 特朗普媒体与科技集团称，将调整协议方向，面向Truth Social用户群体推广Crypto.com的预测市场业务。 Yorkville American的业务及其现有和未来ETF产品的计划保持不变。 特朗普媒体与科技集团已终止与Crypto.com的业务合并协议，于2026年8月7日生效。 Crypto.com、特朗普媒体、Yorkville America已共同同意不再推进此前宣布的合作关系。",
@@ -165,19 +180,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时32分 ~ 09时00分]"
-        },
-        {
-          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
-          "url": "https://www.cls.cn/detail/2449039",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 14时37分]"
         },
         {
           "title": "日程安排显示：沃什不曾在6月份与特朗普有过任何通话",
@@ -650,8 +652,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时44分 ~ 14时37分]"
+          "appearance_count": 18,
+          "time_info": "[00时44分 ~ 15时42分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -660,22 +662,12 @@
           "ranks": [
             10,
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时27分 ~ 14时37分]"
-        },
-        {
-          "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
-          "url": "https://wallstreetcn.com/articles/3778924",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 05时31分]"
+          "appearance_count": 11,
+          "time_info": "[06时27分 ~ 15时42分]"
         },
         {
           "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
@@ -687,8 +679,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时59分 ~ 14时37分]"
+          "appearance_count": 8,
+          "time_info": "[08时59分 ~ 15时42分]"
+        },
+        {
+          "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
+          "url": "https://wallstreetcn.com/articles/3778924",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 05时31分]"
         },
         {
           "title": "美股存储板块集体大跌",
@@ -968,7 +971,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         }
