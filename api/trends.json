@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T01:22:46.514803+08:00",
-  "total_titles_processed": 349,
+  "generated_at": "2026-08-09T02:25:33.784552+08:00",
+  "total_titles_processed": 382,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 02时25分]"
         },
         {
           "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 02时25分]"
         },
         {
           "title": "加拿大已经在贸易磋商中向美国做出让步。 加方希望，阻止特朗普在不到两周的时间内加征50%关税的计划。 加拿大要求与美国达成一项全面协议。（纽约时报）",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 02时25分]"
         },
         {
           "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
@@ -48,8 +48,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 02时25分]"
         },
         {
           "title": "特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击",
@@ -59,8 +59,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 02时25分]"
         },
         {
           "title": "美议员讽刺特朗普对伊政策：他总在股市开盘前说不打了",
@@ -70,19 +70,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 02时25分]"
         },
         {
           "title": "特朗普政府冻结石油大亨萨金特资产，施压其退出委内瑞拉",
           "url": "https://flash.jin10.com/detail/20260809002354192800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 02时25分]"
         },
         {
           "title": "消息人士：若民主党赢得众议院，他们计划对特朗普进行调查而非弹劾",
@@ -99,8 +100,30 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "万斯：伊朗已告知美国暂无霍尔木兹海峡通行费计划",
+          "url": "https://flash.jin10.com/detail/20260809021634984800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        },
+        {
+          "title": "据以色列第13频道：以色列继续为在没有美国支持的情况下重新独立对伊朗发动攻击的可能性做准备。",
+          "url": "https://flash.jin10.com/detail/20260809020537439800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        },
         {
           "title": "美国副总统万斯：伊朗已通知美国将允许最大流量的石油通过海峡，但我们不信任他们。",
           "url": "https://flash.jin10.com/detail/20260808225312164800",
@@ -160,6 +183,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时23分 ~ 01时22分]"
+        },
+        {
+          "title": "万斯：美国在伊朗问题上“正处于博弈之中”",
+          "url": "https://flash.jin10.com/detail/20260809005907467800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时25分"
         }
       ]
     },
@@ -175,8 +209,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 02时25分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -186,8 +220,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 02时25分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -197,8 +231,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 02时25分]"
         }
       ]
     },
@@ -212,11 +246,12 @@
           "source": "微博",
           "ranks": [
             30,
-            16
+            16,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 02时25分]"
         }
       ]
     },
@@ -232,8 +267,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 02时25分]"
         }
       ]
     }
