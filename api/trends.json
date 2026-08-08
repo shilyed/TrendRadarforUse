@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T00:23:15.147750+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-08-09T01:22:46.514803+08:00",
+  "total_titles_processed": 349,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 00时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时22分]"
         },
         {
           "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 00时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时22分]"
         },
         {
           "title": "加拿大已经在贸易磋商中向美国做出让步。 加方希望，阻止特朗普在不到两周的时间内加征50%关税的计划。 加拿大要求与美国达成一项全面协议。（纽约时报）",
@@ -36,9 +36,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时22分]"
         },
         {
           "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
@@ -48,8 +48,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 00时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时22分]"
         },
         {
           "title": "特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击",
@@ -59,8 +59,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 00时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时22分]"
         },
         {
           "title": "美议员讽刺特朗普对伊政策：他总在股市开盘前说不打了",
@@ -69,9 +69,20 @@
           "ranks": [
             7
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时22分]"
+        },
+        {
+          "title": "特朗普政府冻结石油大亨萨金特资产，施压其退出委内瑞拉",
+          "url": "https://flash.jin10.com/detail/20260809002354192800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时23分"
+          "time_info": "01时22分"
         },
         {
           "title": "消息人士：若民主党赢得众议院，他们计划对特朗普进行调查而非弹劾",
@@ -80,7 +91,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
         }
@@ -95,55 +106,60 @@
           "url": "https://flash.jin10.com/detail/20260808225312164800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时22分]"
         },
         {
           "title": "美国副总统万斯：美国将继续对伊朗施加压力。",
           "url": "https://flash.jin10.com/detail/20260808225228376800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时22分]"
         },
         {
           "title": "美国副总统万斯：已经大幅削弱了伊朗的非对称军事能力。",
           "url": "https://flash.jin10.com/detail/20260808224916124800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时22分]"
         },
         {
           "title": "据福克斯新闻：美国副总统万斯表示，伊朗已通知美国，尽管政权内部人士发表了将对霍尔木兹海峡征收过境费的声明，但伊朗不会征收此类费用。",
           "url": "https://flash.jin10.com/detail/20260808224359664800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时22分]"
         },
         {
           "title": "分析师：美国在伊朗战争中付出的代价之一是自身信誉的流失，或导致......",
           "url": "https://flash.jin10.com/detail/20260808223941497800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时22分]"
         }
       ]
     },
@@ -159,8 +175,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 00时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时22分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -170,8 +186,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 00时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时22分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -181,8 +197,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 00时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时22分]"
         }
       ]
     },
@@ -195,11 +211,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%8C%9B%E6%B6%A8%E8%B8%8F%E7%A9%BA%E7%9A%84%E4%BA%BA%E5%93%AD%E9%BA%BB%E4%BA%86%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
           "ranks": [
-            30
+            30,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 00时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时22分]"
         }
       ]
     },
@@ -214,9 +231,9 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时22分]"
         }
       ]
     }
