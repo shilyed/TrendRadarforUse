@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T00:24:58.294021+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-08-10T01:24:53.627301+08:00",
+  "total_titles_processed": 363,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -15,8 +15,30 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时24分]"
+        },
+        {
+          "title": "美媒：特朗普暂缓对伊动武，称正“低调处理”伊朗问题",
+          "url": "https://flash.jin10.com/detail/20260810010023977800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时24分"
+          "time_info": "01时24分"
+        },
+        {
+          "title": "与特朗普关联的美石油公司拟在格陵兰岛钻探，岛政府强烈警告",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33748556",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
         },
         {
           "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
@@ -26,19 +48,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时24分]"
         },
         {
           "title": "内塔尼亚胡认为在加沙计划上跟特朗普作对“没有风险”",
           "url": "https://flash.jin10.com/detail/20260809224743402800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时24分]"
         },
         {
           "title": "美媒：美官员称特朗普耐心应对伊朗僵局，重点聚焦海峡通航",
@@ -65,8 +88,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时24分]"
         },
         {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
@@ -76,8 +99,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时24分]"
         }
       ]
     },
@@ -93,8 +116,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时24分]"
         }
       ]
     }
