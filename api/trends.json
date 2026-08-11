@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T01:52:13.905763+08:00",
-  "total_titles_processed": 385,
+  "generated_at": "2026-08-12T02:51:19.024390+08:00",
+  "total_titles_processed": 431,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 01时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 02时51分]"
         },
         {
           "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 01时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 02时51分]"
         },
         {
           "title": "特朗普威胁将针对纽约市税收采取联邦层面行动",
@@ -91,7 +91,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
         },
@@ -120,8 +120,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 01时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 02时51分]"
         },
         {
           "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股高开，存储芯片股普涨，黄金小幅上涨",
@@ -131,8 +131,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 01时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 02时51分]"
         },
         {
           "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
@@ -143,8 +143,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 01时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 02时51分]"
         },
         {
           "title": "金十图示：2026年08月11日（周二）美股热门股票行情一览（美股盘中）",
@@ -153,7 +153,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
         },
@@ -164,41 +164,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "巴克莱：美债对价格敏感型买家的依赖显著上升，料使收益率维持高位",
-          "url": "https://wallstreetcn.com/livenews/3148186",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.15%，暂报2044.75点。 MarketVectorTM数字资产100中盘指数跌1.71%，报2262.71点。 MarketVector数字资产100指数跌0.45%，报12591.71点。 目前，Solana跌1.60%，狗狗币涨0.92%，XRP跌1.26%。 比特币跌0.75%，暂报63456.64美元；以太坊跌0.69%，暂报1863.05美元。",
-          "url": "https://wallstreetcn.com/livenews/3148179",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
         }
@@ -206,8 +172,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "美国预计伊朗战争造成的石油供应受阻将持续到2027年底",
+          "url": "https://wallstreetcn.com/livenews/3148203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        },
         {
           "title": "伊朗革命卫队发言人：今日波斯湾海域没有美国军舰部署。",
           "url": "https://wallstreetcn.com/livenews/3148164",
@@ -223,6 +200,42 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "巴克莱：美债对价格敏感型买家的依赖显著上升，料使收益率维持高位",
+          "url": "https://wallstreetcn.com/livenews/3148186",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时52分 ~ 02时51分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.15%，暂报2044.75点。 MarketVectorTM数字资产100中盘指数跌1.71%，报2262.71点。 MarketVector数字资产100指数跌0.45%，报12591.71点。 目前，Solana跌1.60%，狗狗币涨0.92%，XRP跌1.26%。 比特币跌0.75%，暂报63456.64美元；以太坊跌0.69%，暂报1863.05美元。",
+          "url": "https://wallstreetcn.com/livenews/3148179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时52分 ~ 02时51分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "有色",
       "match_count": 1,
       "titles": [
@@ -234,8 +247,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 01时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 02时51分]"
         }
       ]
     }
