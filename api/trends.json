@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T05:37:41.775086+08:00",
-  "total_titles_processed": 504,
+  "generated_at": "2026-08-13T07:32:56.429607+08:00",
+  "total_titles_processed": 579,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "越权制裁国际刑事法院，特朗普被美国多家人权组织共同起诉",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时48分 ~ 05时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时48分 ~ 07时32分]"
         },
         {
           "title": "美国人吓坏了：伊朗知道特朗普住哪一层，还发现肩扛防空导弹",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时48分 ~ 05时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时48分 ~ 07时32分]"
         },
         {
           "title": "不满美国施加高额关税，泰国罕见亮出军事筹码威胁特朗普政府",
@@ -37,8 +37,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时48分 ~ 05时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时48分 ~ 07时32分]"
         },
         {
           "title": "特朗普：我要伊朗赔钱，把过去50年的账还了",
@@ -46,11 +46,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时48分 ~ 05时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时48分 ~ 07时32分]"
         },
         {
           "title": "特朗普躲避暗杀更多细节曝光",
@@ -61,8 +62,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时48分 ~ 05时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时48分 ~ 07时32分]"
         },
         {
           "title": "新闻蒸馏器｜一辆卡车和三架专机：特朗普证实秘密换机避暗杀，随行记者成诱饵",
@@ -70,11 +71,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时53分 ~ 05时37分]"
+          "appearance_count": 5,
+          "time_info": "[01时53分 ~ 07时32分]"
         },
         {
           "title": "特朗普：白宫新闻秘书莱维特将于本月底离任",
@@ -155,9 +157,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
+        },
+        {
+          "title": "白宫新闻秘书辞职，特朗普中期选举前痛失“最锋利的话筒”",
+          "url": "https://flash.jin10.com/detail/20260813064543456800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
         },
         {
           "title": "美国总统特朗普：莱维特将成为我的高级外部顾问之一，也是共和党内有影响力的声音。",
@@ -188,7 +201,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         },
@@ -202,6 +215,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
+        },
+        {
+          "title": "特朗普签署备忘录，针对跨国网络犯罪",
+          "url": "https://wallstreetcn.com/livenews/3148771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
         },
         {
           "title": "伊朗：美国国会应调查特朗普资产的增加情况",
@@ -232,7 +256,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         },
@@ -246,13 +270,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
+        },
+        {
+          "title": "白宫：特朗普签署备忘录，授权美国执法部门使用网络工具打击在外国司法管辖区活动的犯罪组织。",
+          "url": "https://flash.jin10.com/detail/20260813054700329800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "美股收盘：CPI如期放缓削弱加息预期 存储、光通信、新云板块齐飞",
+          "url": "https://www.cls.cn/detail/2452897",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
         {
           "title": "美通胀温和缓解加息压力，美股高开，光通信、存储芯片股领涨，Nebius涨15%，油价震荡",
           "url": "https://wallstreetcn.com/articles/3779257",
@@ -336,6 +382,28 @@
           "time_info": "[00时48分 ~ 01时53分]"
         },
         {
+          "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
+          "url": "https://wallstreetcn.com/articles/3779257",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "但斌美股持仓“大换血”：清仓苹果、特斯拉，减仓谷歌，新进英特尔成第二大持仓、闪迪第四大持仓......",
+          "url": "https://wallstreetcn.com/articles/3779285",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
           "title": "金十图示：2026年08月12日（周三）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260813003439020800",
           "source": "金十数据",
@@ -361,8 +429,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "伊朗拖美国入不对称战争，“蝴蝶效应”波及日本卷帘门",
+          "url": "https://wallstreetcn.com/livenews/3148774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
         {
           "title": "伊朗革命卫队指挥官纳克迪：我们已经承受了长达73年的美国打击，伊朗顶住了这些压力，保持了团结，维护了领土完整，没有让敌人实现其目标。",
           "url": "https://flash.jin10.com/detail/20260812233621598800",
@@ -420,7 +499,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         }
@@ -469,8 +548,25 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时48分 ~ 05时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时48分 ~ 07时32分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周三（8月12日）纽约尾盘，现货黄金涨0.86%，报4408.84美元/盎司。 现货白银冲高回落，日内涨幅1.02%，报65.322美元/盎司。 COMEX铜期货倒V反转，盘中一度走强1.25%，随后涨幅全部回吐，最终日内跌幅0.37%，报6.5549美元/磅。",
+          "url": "https://wallstreetcn.com/livenews/3148772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
         }
       ]
     },
