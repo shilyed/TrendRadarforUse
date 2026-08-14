@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T09:13:03.782980+08:00",
-  "total_titles_processed": 737,
+  "generated_at": "2026-08-14T11:59:25.418030+08:00",
+  "total_titles_processed": 919,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 19,
       "titles": [
         {
           "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
@@ -66,6 +66,28 @@
           "time_info": "00时47分"
         },
         {
+          "title": "下黑手！特朗普政府开发AI工具打击贸易伙伴：让你们帮中国",
+          "url": "https://news.ifeng.com/c/8vYz7iCdmvg",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
+          "title": "特朗普与马斯克重修旧好：私人恩怨退场，政治利益重新把两人绑在一起",
+          "url": "https://flash.jin10.com/detail/20260814114351665800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
           "title": "鲁比奥吐槽：特朗普总先发帖再通知，我都不知道自己要当国务卿",
           "url": "https://news.ifeng.com/c/8vYj1925EKl",
           "source": "凤凰网",
@@ -81,11 +103,12 @@
           "url": "https://news.ifeng.com/c/8vYyzBPe3bZ",
           "source": "凤凰网",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时12分 ~ 09时13分]"
+          "appearance_count": 3,
+          "time_info": "[09时12分 ~ 11时59分]"
         },
         {
           "title": "美新闻机构起诉特朗普",
@@ -116,9 +139,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
+        },
+        {
+          "title": "美媒：特朗普下令美海军弃用电磁弹射系统，改回蒸汽弹射",
+          "url": "https://wallstreetcn.com/livenews/3149448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
+          "title": "以色列发警报迫使特朗普换飞机，美中情局质疑以方用意",
+          "url": "https://news.ifeng.com/c/8vYmNSHdxQv",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
         },
         {
           "title": "特朗普女婿计划下周访问以色列，就加沙问题进行会谈",
@@ -163,6 +208,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
+        },
+        {
+          "title": "美国总统特朗普周五日程一览",
+          "url": "https://flash.jin10.com/detail/20260814112349203800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
         }
       ]
     },
@@ -194,6 +250,18 @@
           "time_info": "[00时47分 ~ 05时37分]"
         },
         {
+          "title": "美股收盘：三大指数齐升标普收新高 存储板块走强闪迪涨逾13%",
+          "url": "https://www.cls.cn/detail/2453979",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时33分 ~ 11时59分]"
+        },
+        {
           "title": "金十图示：2026年08月13日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260814003306234800",
           "source": "金十数据",
@@ -203,18 +271,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
-        },
-        {
-          "title": "美股收盘：三大指数齐升标普收新高 存储板块走强闪迪涨逾13%",
-          "url": "https://www.cls.cn/detail/2453979",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时33分 ~ 09时13分]"
         },
         {
           "title": "金十图示：2026年08月13日（周四）热门中概股行情一览（美股盘中）",
@@ -382,7 +438,7 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "费城半导体指数即将重回技术性牛市 华尔街怎么看？",
@@ -402,11 +458,12 @@
           "ranks": [
             11,
             9,
-            10
+            10,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 09时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 11时59分]"
         },
         {
           "title": "AI驱动半导体景气度高涨，两大晶圆厂第二季度收入均创新高",
@@ -418,6 +475,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "金十图示：2026年08月14日（周五）富时中国A50指数成分股午盘收盘行情一览：银行股多数下跌，保险、证券、半导体悉数飘绿，通信设备、炼化走高",
+          "url": "https://flash.jin10.com/detail/20260814113517840800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
         },
         {
           "title": "截至8月13日，已有30余家北交所上市公司披露2026年半年报，企业成长成色初现。总体来看，已披露半年报的公司业绩表现抢眼，约三分之一企业上半年归母净利润同比增长超80%。算力服务、新能源、半导体等高景气赛道成为拉动业绩增长的核心引擎，凸显北交所“专精特新”企业的成长活力。（经济参考报）",
@@ -469,6 +537,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "黄金价格反弹意味什么",
+          "url": "https://www.toutiao.com/trending/7673529634117389887/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 09时13分]"
+        },
+        {
+          "title": "PPI环比零增长，金价为何却开始“倒车”？",
+          "url": "https://flash.jin10.com/detail/20260814113533271800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
         }
       ]
     },
@@ -532,19 +628,47 @@
       ]
     },
     {
-      "keyword_group": "金价",
+      "keyword_group": "存储芯片",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "创业板指涨超1%，沪指跌0.1%，深成指涨0.51%，电子特气、CPO、存储芯片、6G等方向领涨，沪深京三市上涨个股超2400只。",
+          "url": "https://wallstreetcn.com/livenews/3149418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
+          "title": "A股存储芯片板块开盘活跃，阿莱德涨超10%，联芸科技、普冉股份、兆易创新、德明利、长鑫科技等集体高开。",
+          "url": "https://wallstreetcn.com/livenews/3149410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "有色",
       "match_count": 1,
       "titles": [
         {
-          "title": "黄金价格反弹意味什么",
-          "url": "https://www.toutiao.com/trending/7673529634117389887/",
-          "source": "今日头条",
+          "title": "A股稀土永磁板块异动拉升，金田股份触及涨停，中国稀土涨超8%，华宏科技、中稀有色、九菱科技、北方稀土跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3149423",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            24
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时12分 ~ 09时13分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
         }
       ]
     }
