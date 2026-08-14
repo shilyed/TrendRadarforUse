@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T20:46:25.283826+08:00",
-  "total_titles_processed": 1513,
+  "generated_at": "2026-08-14T22:11:25.055621+08:00",
+  "total_titles_processed": 1636,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
@@ -54,6 +54,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "事关特朗普与马斯克，美媒最新爆料",
+          "url": "https://news.ifeng.com/c/8vaHza2NSPn",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时39分 ~ 22时11分]"
         },
         {
           "title": "特朗普专机上全是一箱又一箱麦当劳",
@@ -113,18 +125,6 @@
           "time_info": "[09时12分 ~ 15时12分]"
         },
         {
-          "title": "事关特朗普与马斯克，美媒最新爆料",
-          "url": "https://news.ifeng.com/c/8vaHza2NSPn",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时39分 ~ 20时46分]"
-        },
-        {
           "title": "鲁比奥吐槽：特朗普总先发帖再通知，我都不知道自己要当国务卿",
           "url": "https://news.ifeng.com/c/8vYj1925EKl",
           "source": "凤凰网",
@@ -136,6 +136,17 @@
           "time_info": "[00时47分 ~ 07时33分]"
         },
         {
+          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
+          "url": "https://www.zhihu.com/question/2070813507499643585",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时12分 ~ 22时11分]"
+        },
+        {
           "title": "以色列发警报迫使特朗普换飞机，美中情局质疑以方用意",
           "url": "https://news.ifeng.com/c/8vYmNSHdxQv",
           "source": "凤凰网",
@@ -145,17 +156,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时59分 ~ 15时12分]"
-        },
-        {
-          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
-          "url": "https://www.zhihu.com/question/2070813507499643585",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时12分 ~ 20时46分]"
         },
         {
           "title": "美新闻机构起诉特朗普",
@@ -208,7 +208,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -233,6 +233,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
+        },
+        {
+          "title": "纽约时报：特朗普女婿库什纳将在以色列访问期间会见以色列总理内塔尼亚胡。",
+          "url": "https://flash.jin10.com/detail/20260814212323053800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         },
         {
           "title": "特朗普女婿计划下周访问以色列，就加沙问题进行会谈",
@@ -290,6 +301,17 @@
           "time_info": "11时59分"
         },
         {
+          "title": "美国总统特朗普请求最高法院允许白宫宴会厅继续建设。",
+          "url": "https://flash.jin10.com/detail/20260814211049947800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-14）",
           "url": "https://flash.jin10.com/detail/20260814181940361800",
           "source": "金十数据",
@@ -304,7 +326,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股收盘：三大指数齐升标普收新高 存储板块走强闪迪涨逾13%",
@@ -340,6 +362,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时47分 ~ 05时37分]"
+        },
+        {
+          "title": "金十图示：2026年08月14日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260814214258805800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         },
         {
           "title": "金十图示：2026年08月13日（周四）美股热门股票行情一览（美股盘中）",
@@ -386,6 +419,39 @@
           "time_info": "[09时12分 ~ 09时13分]"
         },
         {
+          "title": "美股开盘，道指跌0.1%、标普500指数涨0.1%、纳指涨0.16%。闪迪(SNDK.O)涨7%，公司预计2028至2030财年营收将保持中高双位数增长。西部数据(WDC.O)和美光科技(MU.O)涨约4%。应用材料(AMAT.O)跌5%，公司此前公布业绩。",
+          "url": "https://flash.jin10.com/detail/20260814213040976800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，生物科技指数ETF跌超1%，医疗业ETF跌近1%，公用事业ETF、能源业ETF微涨。",
+          "url": "https://wallstreetcn.com/livenews/3149790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
+          "title": "美股盘初：纳指涨0.2%，存储芯片股普涨",
+          "url": "https://wallstreetcn.com/livenews/3149787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
           "title": "周四（8月13日），美股行业ETF普遍收涨，房地产ETF涨1.42%，日常消费ETF涨1.07%，半导体ETF涨0.76%，金融精选ETF涨0.56%，太阳能ETF、可选消费ETF、地区银行、公用事业ETF涨0.42%-0.48%不等。医疗保健ETF则微跌0.04%。",
           "url": "https://wallstreetcn.com/livenews/3149311",
           "source": "华尔街见闻-快讯",
@@ -406,6 +472,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3149772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-08-14）",
+          "url": "https://flash.jin10.com/detail/20260814210622788800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         },
         {
           "title": "美股存储芯片股大涨，闪迪涨逾15%",
@@ -528,6 +616,79 @@
       ]
     },
     {
+      "keyword_group": "白银",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "周四（8月13日）纽约尾盘，现货黄金跌1.34%，报4350.20美元/盎司。 现货白银跌1.43%，报64.427美元/盎司，日内震荡下行，交投于66.303-64.219美元。 COMEX铜期货跌0.35%，报6.5326美元/磅，盘中一度走V收复跌幅，美PPI数据后较日高回落收跌。",
+          "url": "https://wallstreetcn.com/livenews/3149326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 07时33分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 8月14日（周五）晚盘盘初上涨0.82%报947.5元/克；<br/>上海黄金交易所白银T+D 8月14日（周五）晚盘盘初上涨1.19%报15800.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260814200231375800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 8月13日（周四）晚盘收盘下跌0.96%报945.3元/克；<br/>上海黄金交易所白银T+D 8月13日（周四）晚盘收盘下跌1.21%报15740.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260814023528730800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时52分"
+        },
+        {
+          "title": "现货白银日内涨幅达1%，报65.09美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3149781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加22.49吨，当前持仓量为15336.03吨。欢迎点击查看数据中心...",
+          "url": "https://flash.jin10.com/detail/20260814060656298800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "现货白银日内涨幅达1.00%，现报65.11美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260814210115191800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        }
+      ]
+    },
+    {
       "keyword_group": "半导体",
       "match_count": 6,
       "titles": [
@@ -599,57 +760,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "周四（8月13日）纽约尾盘，现货黄金跌1.34%，报4350.20美元/盎司。 现货白银跌1.43%，报64.427美元/盎司，日内震荡下行，交投于66.303-64.219美元。 COMEX铜期货跌0.35%，报6.5326美元/磅，盘中一度走V收复跌幅，美PPI数据后较日高回落收跌。",
-          "url": "https://wallstreetcn.com/livenews/3149326",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时37分 ~ 07时33分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 8月14日（周五）晚盘盘初上涨0.82%报947.5元/克；<br/>上海黄金交易所白银T+D 8月14日（周五）晚盘盘初上涨1.19%报15800.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260814200231375800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 8月13日（周四）晚盘收盘下跌0.96%报945.3元/克；<br/>上海黄金交易所白银T+D 8月13日（周四）晚盘收盘下跌1.21%报15740.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260814023528730800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时52分"
-        },
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加22.49吨，当前持仓量为15336.03吨。欢迎点击查看数据中心...",
-          "url": "https://flash.jin10.com/detail/20260814060656298800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
         }
       ]
     },
@@ -727,11 +837,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时31分 ~ 20时46分]"
+          "appearance_count": 5,
+          "time_info": "[13时31分 ~ 22时11分]"
         },
         {
           "title": "如何看待 10 年期、 30 年期美债中标利率都达到 2007 年全球金融危机以来最高水平？",
@@ -752,17 +863,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "美国零售销售数据公布后，标普500指数期货升至盘中高点，美国国债上涨，美元指数跌幅扩大。",
-          "url": "https://wallstreetcn.com/livenews/3149766",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
-        },
-        {
           "title": "美元指数13日下跌",
           "url": "https://flash.jin10.com/detail/20260814032112550800",
           "source": "金十数据",
@@ -772,6 +872,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
+        },
+        {
+          "title": "美国零售销售数据公布后，标普500指数期货升至盘中高点，美国国债上涨，美元指数跌幅扩大。",
+          "url": "https://wallstreetcn.com/livenews/3149766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 22时11分]"
         },
         {
           "title": "周四（8月13日）纽约尾盘，ICE美元指数下跌0.05%，报99.964点，日内交投区间为99.672-99.972点。 彭博美元指数跌0.05%，报1203.75点。",
