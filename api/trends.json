@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-15T10:10:51.008702+08:00",
-  "total_titles_processed": 604,
+  "generated_at": "2026-08-15T11:32:51.898097+08:00",
+  "total_titles_processed": 698,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "事关特朗普与马斯克，美媒最新爆料",
@@ -30,13 +30,24 @@
           "time_info": "[08时44分 ~ 08时45分]"
         },
         {
+          "title": "伊朗回应特朗普：霍尔木兹海峡开放与关闭由伊朗掌控",
+          "url": "https://wallstreetcn.com/livenews/3149935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
           "title": "特朗普称将宣布霍尔木兹海峡为美领土",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E5%AE%A3%E5%B8%83%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E4%B8%BA%E7%BE%8E%E9%A2%86%E5%9C%9F%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         },
@@ -46,11 +57,38 @@
           "source": "金十数据",
           "ranks": [
             3,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时45分 ~ 10时10分]"
+          "appearance_count": 3,
+          "time_info": "[08时45分 ~ 11时32分]"
+        },
+        {
+          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
+          "url": "https://www.cls.cn/detail/2455050",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时44分 ~ 11时32分]"
+        },
+        {
+          "title": "特朗普证实部署中东的“林肯”号航母将被替换",
+          "url": "https://flash.jin10.com/detail/20260815081235064800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时45分 ~ 11时32分]"
         },
         {
           "title": "特朗普：击败伊朗后会宣布霍尔木兹海峡为美国领土",
@@ -66,40 +104,53 @@
           "time_info": "[06时14分 ~ 10时10分]"
         },
         {
-          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
-          "url": "https://www.cls.cn/detail/2455050",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时44分 ~ 10时10分]"
-        },
-        {
-          "title": "特朗普证实部署中东的“林肯”号航母将被替换",
-          "url": "https://flash.jin10.com/detail/20260815081235064800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时45分 ~ 10时10分]"
-        },
-        {
           "title": "特朗普证实部署中东的“林肯”号航母将被替换",
           "url": "https://wallstreetcn.com/livenews/3149900",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            16
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时45分 ~ 11时32分]"
+        },
+        {
+          "title": "伊朗回应特朗普涉霍尔木兹海峡言论",
+          "url": "https://flash.jin10.com/detail/20260815092948437800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时45分 ~ 10时10分]"
+          "time_info": "[10时10分 ~ 11时32分]"
+        },
+        {
+          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
+          "url": "https://www.cls.cn/detail/2455058",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时10分 ~ 11时32分]"
+        },
+        {
+          "title": "特朗普敦促美国人接受更高油价",
+          "url": "https://flash.jin10.com/detail/20260815091119294800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时10分 ~ 11时32分]"
         },
         {
           "title": "伊朗副外长加里巴巴迪：（回应特朗普称将宣布霍尔木兹海峡为美国领土的言论）不会被美国的威胁或武力展示所吓倒。",
@@ -114,37 +165,15 @@
           "time_info": "[06时14分 ~ 08时45分]"
         },
         {
-          "title": "伊朗回应特朗普涉霍尔木兹海峡言论",
-          "url": "https://flash.jin10.com/detail/20260815092948437800",
-          "source": "金十数据",
+          "title": "没完没了！中方试射，澳总理跟特朗普“告状”",
+          "url": "https://news.ifeng.com/c/8vbMxIkXgeZ",
+          "source": "凤凰网",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时10分"
-        },
-        {
-          "title": "特朗普敦促美国人接受更高油价",
-          "url": "https://flash.jin10.com/detail/20260815091119294800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时10分"
-        },
-        {
-          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
-          "url": "https://www.cls.cn/detail/2455058",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时10分"
+          "time_info": "11时32分"
         },
         {
           "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
@@ -186,7 +215,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         },
@@ -205,7 +234,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股收盘：三大指数小幅收低 存储概念逆市走强 闪迪周涨逾35%",
@@ -216,8 +245,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时44分 ~ 10时10分]"
+          "appearance_count": 4,
+          "time_info": "[08时44分 ~ 11时32分]"
         },
         {
           "title": "美疲弱零售销售数据再挫加息预期，美股涨跌互现，存储芯片股普涨，闪迪涨约7%，金涨油跌",
@@ -252,6 +281,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
+        },
+        {
+          "title": "美股三大指数全线收跌",
+          "url": "https://www.toutiao.com/trending/7674037560066441266/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
         }
       ]
     },
@@ -279,9 +319,9 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时10分 ~ 11时32分]"
         },
         {
           "title": "金价反复跳水 老铺黄金罕见大促",
@@ -308,8 +348,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时44分 ~ 10时10分]"
+          "appearance_count": 4,
+          "time_info": "[08时44分 ~ 11时32分]"
         },
         {
           "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
@@ -384,11 +424,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时45分 ~ 10时10分]"
+          "appearance_count": 3,
+          "time_info": "[08时45分 ~ 11时32分]"
         }
       ]
     }
