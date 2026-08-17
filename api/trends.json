@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T15:45:29.919821+08:00",
-  "total_titles_processed": 1107,
+  "generated_at": "2026-08-17T19:19:05.316529+08:00",
+  "total_titles_processed": 1299,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 44,
       "titles": [
         {
           "title": "特朗普向朝韩发出强烈信号，信息量很大",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时15分 ~ 15时45分]"
+          "appearance_count": 9,
+          "time_info": "[10时15分 ~ 19时19分]"
         },
         {
           "title": "航母被曝大丑闻，美州长：特朗普的回应让我非常愤怒",
@@ -42,6 +42,21 @@
           "time_info": "[00时15分 ~ 10时16分]"
         },
         {
+          "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
+          "url": "https://wallstreetcn.com/articles/3779545",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            5,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时15分 ~ 19时19分]"
+        },
+        {
           "title": "沙土巴三国签署共同防务协议，特朗普发声",
           "url": "https://news.ifeng.com/c/8veP1BeKo8D",
           "source": "凤凰网",
@@ -64,18 +79,27 @@
           "time_info": "[00时15分 ~ 07时13分]"
         },
         {
-          "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
-          "url": "https://wallstreetcn.com/articles/3779545",
-          "source": "华尔街见闻",
+          "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
+          "url": "https://www.zhihu.com/question/2072595818725336495",
+          "source": "知乎",
           "ranks": [
-            9,
-            7,
-            5,
-            6
+            14,
+            15
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[10时15分 ~ 15时45分]"
+          "time_info": "[12时33分 ~ 19时19分]"
+        },
+        {
+          "title": "特朗普对：我可能会支持以色列选举中的某位候选人。以色列不该袭击加沙。（福克斯）",
+          "url": "https://wallstreetcn.com/livenews/3150476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         },
         {
           "title": "特朗普要求“大幅缩减”美韩军演规模",
@@ -89,6 +113,17 @@
           "time_info": "07时13分"
         },
         {
+          "title": "特朗普威胁称，如果阿曼妨碍美国，美国将轰炸阿曼",
+          "url": "https://wallstreetcn.com/livenews/3150475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
           "title": "特朗普要求“大幅减少”美韩军演：因成本高昂，还释放不当“敌意信号”",
           "url": "https://flash.jin10.com/detail/20260817063335924800",
           "source": "金十数据",
@@ -98,18 +133,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
-        },
-        {
-          "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
-          "url": "https://www.zhihu.com/question/2072595818725336495",
-          "source": "知乎",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时33分 ~ 15时45分]"
         },
         {
           "title": "哈马斯方面表示，我们高度评价特朗普在促成加沙停火协议方面发挥的作用。",
@@ -382,6 +405,17 @@
           "time_info": "07时13分"
         },
         {
+          "title": "特朗普再称伊朗绝不能拥有核武器",
+          "url": "https://wallstreetcn.com/livenews/3150454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
           "title": "美国总统特朗普表示，他度过了一个“很棒”的周末，进行了“许多会议”。",
           "url": "https://flash.jin10.com/detail/20260817043331858800",
           "source": "金十数据",
@@ -426,21 +460,54 @@
           "time_info": "03时16分"
         },
         {
+          "title": "特朗普重申伊朗不能拥有核武器",
+          "url": "https://flash.jin10.com/detail/20260817182053714800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
           "title": "特朗普会让美航母全面退化吗",
           "url": "https://www.toutiao.com/trending/7674860385295404590/",
           "source": "今日头条",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗绝不能以任何方式、形态或形式拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260817181911430800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
+          "title": "美国总统特朗普：首要目标是伊朗不能拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260817181853245800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         }
       ]
     },
     {
       "keyword_group": "半导体",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "港股午评：恒生科技指数半日涨2% 半导体板块走强",
@@ -463,6 +530,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
+        },
+        {
+          "title": "创业板涨超3%，芯片半导体爆发、长鑫爆拉超12%，贵州茅台逆势跌超3%，恒指、恒科指均涨超1%",
+          "url": "https://wallstreetcn.com/articles/3779568",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 19时19分]"
+        },
+        {
+          "title": "【每日收评】创业板指震荡走高涨超3%，全市场逾百股涨停，半导体、算力硬件等科技赛道爆发",
+          "url": "https://www.cls.cn/detail/2456053",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 19时19分]"
+        },
+        {
+          "title": "【午报】科创50指数涨超3%，半导体产业链震荡走强，长鑫科技市值重回4万亿",
+          "url": "https://www.cls.cn/detail/2455748",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 19时19分]"
         },
         {
           "title": "日本存储芯片半导体股走高",
@@ -493,7 +594,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
         },
@@ -515,7 +616,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
         },
@@ -545,8 +646,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？",
+          "url": "https://www.zhihu.com/question/2072617673721226019",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时36分 ~ 19时19分]"
+        },
         {
           "title": "据半岛电视台：伊朗总统表示，在国内制造分歧的人必须意识到，这只会对美国和以色列有利。",
           "url": "https://flash.jin10.com/detail/20260817000751905800",
@@ -584,17 +696,6 @@
           "time_info": "[03时16分 ~ 04时13分]"
         },
         {
-          "title": "伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？",
-          "url": "https://www.zhihu.com/question/2072617673721226019",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时36分 ~ 15时45分]"
-        },
-        {
           "title": "卡塔尔外交部：首相强调，各方必须坚持对话与外交，落实美国与伊朗之间谅解备忘录中达成的共识，包括确保霍尔木兹海的航行自由，以维护地区安全，保护已取得的成就，并增强地区稳定。",
           "url": "https://flash.jin10.com/detail/20260817025315208800",
           "source": "金十数据",
@@ -605,6 +706,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时16分 ~ 04时13分]"
+        },
+        {
+          "title": "伊朗最高领袖顾问Velayati：美国民众如今正在为其领导人在西亚的冒险付出代价。",
+          "url": "https://flash.jin10.com/detail/20260817184213741800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
+          "title": "美国屡次“违约”，伊朗强硬派放弃对美幻想，被曝秘密扩军备战“新一轮对抗”",
+          "url": "https://wallstreetcn.com/articles/3779592",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         },
         {
           "title": "伊朗战争，正在掏空美国弹药库",
@@ -629,11 +752,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时36分 ~ 15时45分]"
+          "appearance_count": 5,
+          "time_info": "[14时36分 ~ 19时19分]"
         },
         {
           "title": "媒体人：美债买卖日本救火中国搬家",
@@ -714,6 +838,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Snap美股盘前跌幅扩大至逾15%。",
+          "url": "https://wallstreetcn.com/livenews/3150462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         }
       ]
     }
