@@ -1,11 +1,138 @@
 {
-  "generated_at": "2026-10-17T01:07:24.458856+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-10-17T04:19:16.967579+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "美股",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "沃什IMF年会上未释放加息信号 美股三大期指窄幅震荡 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2507212",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 04时19分]"
+        },
+        {
+          "title": "周五（10月16日），美股行业ETF多数收跌，网络股指数ETF跌3.43%，半导体ETF跌3.41%，科技行业ETF跌3.02%，全球科技股指数ETF跌2.88%，能源业ETF涨2.52%。",
+          "url": "https://wallstreetcn.com/livenews/3180468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        },
+        {
+          "title": "周五（10月16日），彭博电动汽车价格回报指数跌0.56%，报2973.30点，美股时段持续下跌，本周累计下跌6.13%——逼近6月26日跌幅（累跌超8.95%），最近七周里第六次下跌。",
+          "url": "https://wallstreetcn.com/livenews/3180467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        },
+        {
+          "title": "金十图示：2026年10月16日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20261017040543695800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        },
+        {
+          "title": "美股费城银行指数创2008年以来最长连跌周数。 周五当天，华尔街大行高盛收跌1.12%，美国银行跌0.91%，摩根士丹利跌0.86%，花旗集团则收涨0.85%，摩根大通涨1.25%，富国银行涨1.35%。",
+          "url": "https://wallstreetcn.com/livenews/3180465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        },
+        {
+          "title": "金十图示：2026年10月16日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20261017040521568800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        },
+        {
+          "title": "AI交易忧虑压垮美股，盘中纳指跌超2%、CoreWeave跌超10%，芯片指数八连跌",
+          "url": "https://wallstreetcn.com/articles/3783778",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        },
+        {
+          "title": "美股芯片制造股创2008年以来最长连跌天数",
+          "url": "https://wallstreetcn.com/livenews/3180461",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        },
+        {
+          "title": "金十图示：2026年10月16日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20261017003129577800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时07分"
+        },
+        {
+          "title": "金十图示：2026年10月16日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20261017003026611800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时07分"
+        },
+        {
+          "title": "美股收盘：三大股指收跌 Coreweave跌近12%",
+          "url": "https://flash.jin10.com/detail/20261017040152247800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "俄乌“能源停火”破裂，俄专家：特朗普调停能力减弱",
@@ -15,8 +142,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 04时19分]"
+        },
+        {
+          "title": "特朗普称可能打击伊朗镐山核设施",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%AF%E8%83%BD%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97%E9%95%90%E5%B1%B1%E6%A0%B8%E8%AE%BE%E6%96%BD",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 04时19分]"
         },
         {
           "title": "特朗普外交政策拖累加拿大原油价格",
@@ -52,15 +190,26 @@
           "time_info": "01时07分"
         },
         {
-          "title": "特朗普称可能打击伊朗镐山核设施",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%AF%E8%83%BD%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97%E9%95%90%E5%B1%B1%E6%A0%B8%E8%AE%BE%E6%96%BD",
-          "source": "百度热搜",
+          "title": "特朗普：为确保伊朗无法获得核武器 可能会对镐山核设施发动打击",
+          "url": "https://www.cls.cn/detail/2507307",
+          "source": "财联社热门",
           "ranks": [
-            23
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时07分"
+          "time_info": "04时19分"
+        },
+        {
+          "title": "美国总统特朗普：我当然希望普京出席G20峰会，但我不知道他是否会来。",
+          "url": "https://flash.jin10.com/detail/20261017035741291800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
         },
         {
           "title": "美国议员提出法案，拟阻止特朗普与俄罗斯达成柴油交易。",
@@ -72,51 +221,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "沃什IMF年会上未释放加息信号 美股三大期指窄幅震荡 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2507212",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
         },
         {
-          "title": "金十图示：2026年10月16日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20261017003129577800",
-          "source": "金十数据",
+          "title": "美国总统特朗普称他“不急于”任命新的新闻秘书。 特朗普没有列出新闻秘书接替人选的候选名单。",
+          "url": "https://wallstreetcn.com/livenews/3180440",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "金十图示：2026年10月16日（周五）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20261017003026611800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "time_info": "04时19分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "黄仁勋力挺CoreWeave，纳指惊险收涨，道指反弹超1%，芯片指数七连跌，欧美债市涨",
@@ -126,8 +247,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 04时19分]"
+        },
+        {
+          "title": "【英国所持美债超过1万亿美元】日本8月持有美国国债1.068万亿美元，7月为1.104万亿美元。 英国8月持有美国国债1.01万亿美元，7月为9980亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3180463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时07分"
+          "time_info": "04时19分"
         },
         {
           "title": "美国财政部未释放削减长期国债发行规模信号 美债收益率上升",
@@ -139,6 +271,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数本周跌约0.4%",
+          "url": "https://wallstreetcn.com/livenews/3180442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国商品期货交易委员会（CFTC）：10月13日当周，投机者所持COMEX黄金净多头头寸减少3,741手合约，至111,079手合约，创最近18周新低。 所持COMEX白银净多头头寸降低至5,735手合约，创大约八个月新低。 所持COMEX铜净多头头寸减少至61,170手合约，创最近14周新低。 所持NYMEX铂金净多头头寸降低至7,022手合约，创最近八周新低。 所持NYMEX钯金净空头头寸增加至10,860手合约，创最近17个月新高。",
+          "url": "https://wallstreetcn.com/livenews/3180456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
         }
       ]
     }
