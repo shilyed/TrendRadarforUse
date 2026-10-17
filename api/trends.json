@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-17T15:22:31.037238+08:00",
-  "total_titles_processed": 846,
+  "generated_at": "2026-10-17T19:53:57.973042+08:00",
+  "total_titles_processed": 1023,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "俄乌“能源停火”破裂，俄专家：特朗普调停能力减弱",
@@ -25,9 +25,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
+        },
+        {
+          "title": "特朗普：我不知道普京是否会来参加G20峰会，但我希望能见到他",
+          "url": "https://news.ifeng.com/c/8xIg9fCOn9f",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         },
         {
           "title": "美国总统特朗普：拜登向乌克兰提供了价值3500亿美元的装备和现金。这不好，非常不好，实在太糟糕了。",
@@ -47,9 +58,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
+        },
+        {
+          "title": "上任仅5天 白宫新闻秘书遭特朗普“劝退”",
+          "url": "https://www.cls.cn/detail/2507355",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时19分 ~ 19时53分]"
         },
         {
           "title": "特朗普称可能打击伊朗镐山核设施",
@@ -86,18 +109,6 @@
           "time_info": "[10时19分 ~ 15时22分]"
         },
         {
-          "title": "上任仅5天 白宫新闻秘书遭特朗普“劝退”",
-          "url": "https://www.cls.cn/detail/2507355",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时19分 ~ 15时22分]"
-        },
-        {
           "title": "美国总统特朗普： 在佐治亚州，优时比（UCB）将投资20亿美元，建设其在美国的首座制药工厂。 倍耐力（Pirelli）刚刚宣布，将投资12亿美元扩建罗马市工厂，新增1000个就业岗位。 现代汽车（Hyundai）宣布，将投资5.6亿美元扩建西点市的工厂。",
           "url": "https://wallstreetcn.com/livenews/3180498",
           "source": "华尔街见闻-快讯",
@@ -110,6 +121,18 @@
           "time_info": "[07时11分 ~ 10时19分]"
         },
         {
+          "title": "特朗普称乌军“星盾”故障与美国无关",
+          "url": "https://wallstreetcn.com/livenews/3180539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 19时53分]"
+        },
+        {
           "title": "美国总统特朗普：（关于霍尔木兹海峡）如果我们把它改名为“特朗普海峡”，阿拉伯国家会作何感想呢？我们轻松就能搞定这件事。",
           "url": "https://flash.jin10.com/detail/20261017053413059800",
           "source": "金十数据",
@@ -119,6 +142,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "意大利防长：特朗普在援乌问题上“完全错误”",
+          "url": "https://news.ifeng.com/c/8xIbqb7Qg1x",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         },
         {
           "title": "美国总统特朗普周六日程一览",
@@ -163,17 +197,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
-        },
-        {
-          "title": "特朗普称乌军“星盾”故障与美国无关",
-          "url": "https://wallstreetcn.com/livenews/3180539",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时22分"
         },
         {
           "title": "美国总统特朗普：欧洲人想得到格陵兰岛。他们当时就知道我是对的。",
@@ -253,6 +276,17 @@
           "time_info": "07时11分"
         },
         {
+          "title": "特朗普签署行政令豁免对俄多项制裁",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34269052",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
           "title": "美国总统特朗普：我当然希望普京出席G20峰会，但我不知道他是否会来。",
           "url": "https://flash.jin10.com/detail/20261017035741291800",
           "source": "金十数据",
@@ -281,7 +315,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -355,7 +389,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股收盘：科技重挫纳指跌超2% 红利、能源巨头再创新高",
@@ -367,8 +401,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时11分 ~ 15时22分]"
+          "appearance_count": 4,
+          "time_info": "[07时11分 ~ 19时53分]"
         },
         {
           "title": "AI交易忧虑压垮美股，纳指跌超2%、CoreWeave暴跌12%，VIX一度升破22，布油涨破110",
@@ -378,8 +412,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时19分 ~ 15时22分]"
+          "appearance_count": 3,
+          "time_info": "[10时19分 ~ 19时53分]"
         },
         {
           "title": "【早报】美股纳指大跌超500点，半导体、存储股全线跳水；黄仁勋谈“AI市场震荡”；国际油价大涨；胜宏科技、豪威集团等计划回购股份",
@@ -389,8 +423,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时19分 ~ 15时22分]"
+          "appearance_count": 3,
+          "time_info": "[10时19分 ~ 19时53分]"
         },
         {
           "title": "沃什IMF年会上未释放加息信号 美股三大期指窄幅震荡 | 今夜看点",
@@ -400,11 +434,12 @@
             5,
             7,
             10,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 15时22分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 19时53分]"
         },
         {
           "title": "周五（10月16日），美股行业ETF多数收跌，网络股指数ETF跌3.43%，半导体ETF跌3.41%，科技行业ETF跌3.02%，全球科技股指数ETF跌2.88%，能源业ETF涨2.52%。",
@@ -460,6 +495,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "美股最危险的分化：普通股票已经跌惨，AI巨头还能撑多久？",
+          "url": "https://wallstreetcn.com/articles/3783832",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         },
         {
           "title": "金十图示：2026年10月16日（周五）热门中概股行情一览（美股收盘）",
@@ -591,7 +637,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -662,11 +708,12 @@
           "url": "https://wallstreetcn.com/articles/3783830",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 19时53分]"
         }
       ]
     },
@@ -698,7 +745,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         }
