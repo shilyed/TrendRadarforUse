@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-18T01:40:47.932327+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-10-18T03:54:45.497948+08:00",
+  "total_titles_processed": 370,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 18,
       "titles": [
         {
           "title": "“特朗普暂停对俄制裁，是历史性时刻”",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 03时54分]"
         },
         {
           "title": "白宫宴会厅捐款名单曝光，曾说要捐钱的特朗普未在其中",
@@ -26,8 +26,19 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 03时54分]"
+        },
+        {
+          "title": "美国总统特朗普：所有使用风力发电的国家都在走向破产。",
+          "url": "https://flash.jin10.com/detail/20261018032046327800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时40分"
+          "time_info": "03时54分"
         },
         {
           "title": "特朗普：希望能在G20峰会见到普京",
@@ -37,8 +48,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 03时54分]"
         },
         {
           "title": "上任仅5天 白宫新闻秘书遭特朗普“劝退”",
@@ -48,8 +59,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 03时54分]"
+        },
+        {
+          "title": "被问是否被特朗普当成替罪羊？泽连斯基神秘微笑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34268856",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 03时54分]"
         },
         {
           "title": "特朗普：我不知道普京是否会来参加G20峰会，但我希望能见到他",
@@ -59,30 +82,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 03时54分]"
         },
         {
           "title": "特朗普签署行政令豁免对俄多项制裁",
           "url": "https://m.thepaper.cn/newsDetail_forward_34269052",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "被问是否被特朗普当成替罪羊？泽连斯基神秘微笑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34268856",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 03时54分]"
         },
         {
           "title": "俄官员称特朗普放松对俄制裁有“历史意义”",
@@ -92,8 +105,107 @@
             30
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 03时54分]"
+        },
+        {
+          "title": "美国总统特朗普：你知道我们从委内瑞拉拿走了多少钱吗？我们从委内瑞拉拿走的资金高达数千亿美元。",
+          "url": "https://flash.jin10.com/detail/20261018031308003800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时40分"
+          "time_info": "03时54分"
+        },
+        {
+          "title": "美国总统特朗普：尽管政府已裁减超过100万名联邦雇员，但目前美国就业人数仍创历史新高。过去一项工作往往需要10个人完成。美国确实需要联邦雇员，但没必要每项工作都安排10个人。",
+          "url": "https://flash.jin10.com/detail/20261018030831814800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "美国总统特朗普：如果共和党在选举中获胜，五角大楼将加大对肯塔基州制药产业的投资。",
+          "url": "https://flash.jin10.com/detail/20261018030648995800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "美国总统特朗普：针对伊朗的行动将很快结束，届时汽油价格将会下降。我们必须确保伊朗的核能力不会恢复，目前正在为此采取行动。",
+          "url": "https://flash.jin10.com/detail/20261018030112309800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及伊朗）我们把他们打得落花流水。",
+          "url": "https://flash.jin10.com/detail/20261018025735599800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "美国总统特朗普：我们终将与加拿大达成一项令人瞩目的协议。",
+          "url": "https://flash.jin10.com/detail/20261018024309312800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "美国总统特朗普：加拿大前总理特鲁多不是好人，他是个失败者，失败者！现在这位（总理卡尼）是个好人，但在贸易问题上他可不友善。",
+          "url": "https://flash.jin10.com/detail/20261018024224268800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "美国总统特朗普：我能做到令人难以置信的事情。",
+          "url": "https://flash.jin10.com/detail/20261018024123952800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及谷歌）谷歌在我第一任期时根本不会接我的电话。现在他们却在巴结我。",
+          "url": "https://flash.jin10.com/detail/20261018024119256800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时54分"
         }
       ]
     },
@@ -109,8 +221,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 03时54分]"
         },
         {
           "title": "【早报】美股纳指大跌超500点，半导体、存储股全线跳水；黄仁勋谈“AI市场震荡”；国际油价大涨；胜宏科技、豪威集团等计划回购股份",
@@ -120,30 +232,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "美股收盘：科技重挫纳指跌超2% 红利、能源巨头再创新高",
-          "url": "https://www.cls.cn/detail/2507375",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 03时54分]"
         },
         {
           "title": "美股最危险的分化：普通股票已经跌惨，AI巨头还能撑多久？",
           "url": "https://wallstreetcn.com/articles/3783832",
           "source": "华尔街见闻",
           "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 03时54分]"
+        },
+        {
+          "title": "美股收盘：科技重挫纳指跌超2% 红利、能源巨头再创新高",
+          "url": "https://www.cls.cn/detail/2507375",
+          "source": "财联社热门",
+          "ranks": [
+            3,
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 03时54分]"
         }
       ]
     },
@@ -159,8 +273,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 03时54分]"
         }
       ]
     },
@@ -176,8 +290,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 03时54分]"
         }
       ]
     }
