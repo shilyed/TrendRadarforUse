@@ -1,408 +1,128 @@
 {
-  "generated_at": "2026-10-19T19:40:42.405132+08:00",
-  "total_titles_processed": 1029,
+  "generated_at": "2026-10-20T02:02:02.591672+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 6,
       "titles": [
         {
-          "title": "公开施压！泽连斯基称“星链”限速“有意为之，仅针对乌克兰”，特朗普签署行政令豁免对俄多项制裁",
-          "url": "https://wallstreetcn.com/articles/3783843",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 08时39分]"
-        },
-        {
-          "title": "美国能源部长Wright：俄罗斯帮助世界的唯一方式就是（与乌克兰）实现能源停火。 总统特朗普暂停对俄制裁是一种创新。 对（美国市场的）汽油价格不满意，但乐见油价正在下跌。 汽油价格、柴油价格已经在数周前见顶，我们希望价格继续下跌。 那些反对美国对俄实施豁免的态度根本就是错误的。",
-          "url": "https://wallstreetcn.com/livenews/3180672",
+          "title": "【以色列总理下令推翻伊朗政权】当地时间10月19日晚，以色列总理内塔尼亚胡在接受以色列第14频道电视台采访时称，他向以军、以色列情报和特勤局（摩萨德）以及以军军事情报局下达了“推翻伊朗政权”的指令。内塔尼亚胡结合此前美国总统特朗普对他的公开支持表示，特朗普的态度“非常明确”，即认为当前的“核心任务是彻底消除伊朗对以色列造成的生存威胁 ”。（CCTV国际时讯）",
+          "url": "https://wallstreetcn.com/livenews/3181354",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 06时07分]"
-        },
-        {
-          "title": "特朗普：你不愿结束战争，泽连斯基：你逼乌克兰投降",
-          "url": "https://news.ifeng.com/c/8xLGtqVJ3MX",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时32分 ~ 19时40分]"
-        },
-        {
-          "title": "泽连斯基称特朗普正逼迫乌克兰向俄罗斯投降",
-          "url": "https://flash.jin10.com/detail/20261019030234794800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "伊朗军方高层嘲讽特朗普“老到站不起身”，警告美以勿再误判",
-          "url": "https://flash.jin10.com/detail/20261019024923039800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "特朗普指示观众收看右翼广播网络。",
-          "url": "https://wallstreetcn.com/livenews/3181193",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时40分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗非常强硬。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3180671",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 06时07分]"
-        },
-        {
-          "title": "特朗普新任白宫发言人上任仅 5 天就被解雇，创下史上最短纪录，为什么会这样？",
-          "url": "https://www.zhihu.com/question/2094636010722411929",
-          "source": "知乎",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时39分 ~ 19时40分]"
-        },
-        {
-          "title": "特朗普呼吁法国关闭边境",
-          "url": "https://wallstreetcn.com/livenews/3180661",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 06时07分]"
-        },
-        {
-          "title": "特朗普呼吁法国关闭边境",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%91%BC%E5%90%81%E6%B3%95%E5%9B%BD%E5%85%B3%E9%97%AD%E8%BE%B9%E5%A2%83%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时06分 ~ 06时07分]"
+          "time_info": "02时02分"
         },
         {
           "title": "不满豁免对俄制裁，担心更坏事情发生，美媒称泽连斯基决定“公开对抗特朗普”",
           "url": "https://wallstreetcn.com/articles/3783873",
           "source": "华尔街见闻",
           "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时40分"
-        },
-        {
-          "title": "美国总统特朗普：移民已经占领了法国。必须迅速关闭边界！",
-          "url": "https://flash.jin10.com/detail/20261019191705472800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时40分"
-        },
-        {
-          "title": "美国总统特朗普：今天堪萨斯州的集会人山人海。稍后见！",
-          "url": "https://flash.jin10.com/detail/20261019191159744800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时40分"
-        },
-        {
-          "title": "美国能源部长：特朗普暂停对俄制裁但未解除",
-          "url": "https://flash.jin10.com/detail/20261018232106569800",
-          "source": "金十数据",
-          "ranks": [
-            12
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "appearance_count": 2,
+          "time_info": "[02时01分 ~ 02时02分]"
         },
         {
-          "title": "美国总统特朗普：福克斯新闻如今花在为民主党人辩护、宣传其观点上的时间，比该台历史上任何时候都多，甚至超过了给予共和党对手的时间。简直荒谬！福克斯新闻太想追求‘政治正确’了！今天请观看我在堪萨斯州举行的大型集会。",
-          "url": "https://flash.jin10.com/detail/20261019190905747800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时40分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：感谢特朗普总统给予的大力支持，以及双方开展的共同努力。我们将携手完成任务。",
-          "url": "https://flash.jin10.com/detail/20261018230026124800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "特朗普支持内塔尼亚胡竞选连任以色列总理",
-          "url": "https://flash.jin10.com/detail/20261018225308314800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "特朗普：一直打算支持内塔尼亚胡，只是不想太早表态",
-          "url": "https://flash.jin10.com/detail/20261019012501322800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "美国财长贝森特：（回应泽连斯基关于星链限速的表述）特朗普和鲁比奥都表示，特朗普政府没有任何人下达过这样的命令。我认为，泽连斯基提出这样的指控是非常鲁莽的。",
-          "url": "https://flash.jin10.com/detail/20261018224523296800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "美国财长贝森特：（回应特朗普称美国情报共享曾中断）泽连斯基在发表这类不实言论时要谨言慎行才对。",
-          "url": "https://flash.jin10.com/detail/20261018224259280800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "美国财长贝森特：（回应特朗普豁免俄罗斯制裁）没有解除任何制裁。当时有一个为期60天的期限。看看目前的情况，唯一被取消的只是柴油禁运。",
-          "url": "https://flash.jin10.com/detail/20261018224206130800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "【早报】美股纳指大跌超500点，半导体、存储股全线跳水；黄仁勋谈“AI市场震荡”；国际油价大涨；胜宏科技、豪威集团等计划回购股份",
-          "url": "https://www.cls.cn/detail/2507382",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 06时07分]"
-        },
-        {
-          "title": "美股三大股指期货周一开盘持稳。",
-          "url": "https://flash.jin10.com/detail/20261019060217739800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "美股收盘：科技重挫纳指跌超2% 红利、能源巨头再创新高",
-          "url": "https://www.cls.cn/detail/2507375",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 06时07分]"
-        },
-        {
-          "title": "美股期货亚市盘初走高，标普500指数期货上涨0.3%，纳斯达克100指数期货上涨0.6%。",
-          "url": "https://wallstreetcn.com/livenews/3180708",
+          "title": "马斯克可能会通过“特朗普账户”（Trump Accounts）向美国儿童捐赠所持SpaceX股票。",
+          "url": "https://wallstreetcn.com/livenews/3181353",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美国财政部长贝森特：美国陷入能源冲击，通胀将在（伊朗）战争结束时放缓。 欧洲继续“大肆抢购”俄罗斯能源。 鲁莽的乌克兰总统泽连斯基指控美国让StarShield（星盾）通信速度放缓。 泽连斯基在谈论美方（情报）支持时小心谨慎。（NBC News）",
-          "url": "https://wallstreetcn.com/livenews/3180676",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 06时07分]"
+          "time_info": "02时02分"
         },
         {
-          "title": "据伊朗学生通讯社（ISNA）消息，巴基斯坦陆军参谋长阿西姆·穆尼尔可能于本周访问德黑兰。此行据称将延续伊朗与巴基斯坦在双边事务及安全领域的密切合作，并涉及巴基斯坦在地区局势和伊朗与美国谈判中的作用。",
-          "url": "https://flash.jin10.com/detail/20261019013046076800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "海合会呼吁伊朗与美国重返对话",
-          "url": "https://flash.jin10.com/detail/20261019052431128800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "伊拉克境内亲伊朗组织：6架美国无人机侵犯伊拉克领空",
-          "url": "https://flash.jin10.com/detail/20261019052349443800",
+          "title": "美国总统特朗普对以色列总理内塔尼亚胡说：你就是我想要在身边的人。",
+          "url": "https://flash.jin10.com/detail/20261020004228474800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时07分"
+          "time_info": "02时02分"
+        },
+        {
+          "title": "美国总统特朗普对以色列总理内塔尼亚胡说：你遭到了自己国家的不公平对待。",
+          "url": "https://flash.jin10.com/detail/20261020004144507800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡对美国总统特朗普说：我们还有任务要完成，而且一定会完成。",
+          "url": "https://flash.jin10.com/detail/20261020004047642800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "马斯克反思白宫往事 称美债问题只能靠AI和机器人解决",
-          "url": "https://www.cls.cn/detail/2507535",
+          "title": "芯片股反弹，纳指开盘涨1.3%，费城半导体指数涨超3%，油价高位回落，美债走高",
+          "url": "https://wallstreetcn.com/articles/3783911",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时01分 ~ 02时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股科技题材集体反弹 关键半导体指数有望结束连跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2508914",
           "source": "财联社热门",
           "ranks": [
-            10
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 08时39分]"
-        },
-        {
-          "title": "AI投资从“通胀引擎”变“需求拖累”？美债对冲功能重获青睐",
-          "url": "https://flash.jin10.com/detail/20261019081145351800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时39分"
+          "appearance_count": 2,
+          "time_info": "[02时01分 ~ 02时02分]"
         }
       ]
     },
     {
-      "keyword_group": "白银",
+      "keyword_group": "伊朗",
       "match_count": 1,
       "titles": [
         {
-          "title": "现货白银开盘短线下跌后反弹，现报57美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20261019060203481800",
+          "title": "据伊朗媒体Fars News：伊朗革命卫队表示，在战争的新阶段，我们将亮出新武器并打击新目标，结果将会是把美国残余的力量从地区扫地出门。",
+          "url": "https://flash.jin10.com/detail/20261020004528513800",
           "source": "金十数据",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "半导体",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "立昂微：预计2026年前三季度归母净利润1.74亿元左右，同比扭亏为盈；扣非净利润1.33亿元左右，同比扭亏为盈。主要因半导体硅片板块盈利能力大幅改善，12英寸硅片产销量大幅增长、单位成本下降叠加售价上涨，综合毛利率同比大幅上升。",
-          "url": "https://wallstreetcn.com/livenews/3181147",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时40分"
+          "time_info": "02时02分"
         }
       ]
     }
