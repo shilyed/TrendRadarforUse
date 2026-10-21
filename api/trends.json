@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-21T05:03:47.117337+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2026-10-21T08:16:37.821937+08:00",
+  "total_titles_processed": 531,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普对与中俄举行三方会谈态度积极，外交部回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 05时03分]"
+          "appearance_count": 3,
+          "time_info": "[01时40分 ~ 08时16分]"
         },
         {
           "title": "特朗普：也许泽连斯基是时候找别人来谈判了",
@@ -26,19 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 05时03分]"
-        },
-        {
-          "title": "特朗普：中方在乌问题上立场很公允",
-          "url": "https://www.toutiao.com/trending/7697897058136604715/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 05时03分]"
+          "appearance_count": 3,
+          "time_info": "[01时40分 ~ 08时16分]"
         },
         {
           "title": "美国中期选举在即，特朗普连共和党铁盘都快守不住了",
@@ -48,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 05时03分]"
+          "appearance_count": 3,
+          "time_info": "[01时40分 ~ 08时16分]"
         },
         {
           "title": "美国总统特朗普：截至选举日，我已经花费或将累计花费超过4亿美元。",
@@ -69,9 +58,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "特朗普：中方在乌问题上立场很公允",
+          "url": "https://www.toutiao.com/trending/7697897058136604715/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时40分 ~ 08时16分]"
         },
         {
           "title": "泽连斯基：作为伙伴我愿向特朗普让步",
@@ -86,13 +87,24 @@
           "time_info": "[01时40分 ~ 05时03分]"
         },
         {
+          "title": "城堡证券CEO批评特朗普减税政策：美国已无财政空间",
+          "url": "https://flash.jin10.com/detail/20261021074602734800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时16分"
+        },
+        {
           "title": "马斯克向特朗普账户捐80亿美元的图谋",
           "url": "https://www.toutiao.com/trending/7698722328774970934/",
           "source": "今日头条",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
         },
@@ -114,7 +126,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
         },
@@ -130,13 +142,35 @@
           "time_info": "01时40分"
         },
         {
+          "title": "美国总统特朗普刚刚抵达北卡罗来纳州，稍后其将在一场集会上发表讲话。",
+          "url": "https://flash.jin10.com/detail/20261021072707352800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时16分"
+        },
+        {
+          "title": "特朗普政府因对加拿大商品征收50%关税遭起诉",
+          "url": "https://wallstreetcn.com/livenews/3182187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时16分"
+        },
+        {
           "title": "美国总统特朗普谈2028年背书支持副总统万斯的可能性，称：一切都还言之太早。 我俩压根儿没聊过这事儿。 不知何故，总统总会在中期选举中失利。",
           "url": "https://wallstreetcn.com/livenews/3182118",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
         },
@@ -158,7 +192,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
         }
@@ -166,7 +200,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "AI交易紧张情绪暂缓，美股指转涨，CoreWeave涨超5%，礼来涨近5%股价创新高，美元走软",
@@ -180,15 +214,15 @@
           "time_info": "[01时40分 ~ 05时03分]"
         },
         {
-          "title": "韩国AI新股上市首日暴跌 美股科技题材再度承压 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2510214",
+          "title": "美股收盘：三大指数涨跌不一 SpaceX绩后股价走强",
+          "url": "https://www.cls.cn/detail/2510428",
           "source": "财联社热门",
           "ranks": [
-            8
+            4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 05时03分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时16分"
         },
         {
           "title": "美股见顶最直接的信号：韩国芯片出口？",
@@ -199,8 +233,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 05时03分]"
+          "appearance_count": 3,
+          "time_info": "[01时40分 ~ 08时16分]"
+        },
+        {
+          "title": "韩国AI新股上市首日暴跌 美股科技题材再度承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2510214",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时40分 ~ 08时16分]"
         },
         {
           "title": "美股深夜反攻纳指涨超1%",
@@ -220,7 +266,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
         },
@@ -231,7 +277,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
         },
@@ -242,9 +288,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "美股大型科技股多数下跌",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%A4%A7%E5%9E%8B%E7%A7%91%E6%8A%80%E8%82%A1%E5%A4%9A%E6%95%B0%E4%B8%8B%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时16分"
+        },
+        {
+          "title": "SpaceX美股盘后飙涨5%",
+          "url": "https://www.baidu.com/s?wd=SpaceX%E7%BE%8E%E8%82%A1%E7%9B%98%E5%90%8E%E9%A3%99%E6%B6%A85%25",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时16分"
         },
         {
           "title": "纳斯达克金龙中国指数收涨0.68%，报5719.25点，美股盘初显著上涨，北京时间22:30之前进入高位窄幅震荡状态、持续交投于5720点附近。 热门中概股里，禾赛初步收涨8.3%，小鹏涨7.6%，理想涨5.7%，世纪互联涨5.5%，美团涨2.9%，小米涨2.8%，比亚迪涨1.1%，阿里涨0.1%，网易跌0.1%。 ETF中，中国科技指数ETF（CQQQ）收涨1.32%，中概互联网指数ETF（KWEB）收涨0.29%。XtrackersHarvest中证50（ASHS）收涨1.19%，MSCI新兴市场ex中国ETF（EMXC）收跌0.05%，德银嘉实沪深300指数ETF（ASHR）收跌0.16%。",
@@ -253,7 +321,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
         },
@@ -307,11 +375,12 @@
           "url": "https://www.cls.cn/detail/2510147",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 05时03分]"
+          "appearance_count": 3,
+          "time_info": "[01时40分 ~ 08时16分]"
         },
         {
           "title": "标普500指数初步收涨0.2%，保健板块涨2.3%，房地产板块涨1.6%，科技板块跌0.3%，电信板块跌1%。 纳斯达克100指数初步收跌0.1%，成分股中，Arm控股初步收跌3%，拉姆研究、科磊、应用材料、铿腾电子、核电股CEG、奈飞、Meta至少跌1.7%，汤森路透涨4.2%，Strategy涨4.9%，莫德纳涨6.3%。 半导体指数跌0.3%，存储芯片指数跌0.5%。",
@@ -320,7 +389,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
         }
@@ -337,9 +406,26 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加26.68吨，当前持仓量为15505.35吨。",
+          "url": "https://flash.jin10.com/detail/20261021073712588800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时16分"
         }
       ]
     }
