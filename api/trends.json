@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-22T09:08:06.252523+08:00",
-  "total_titles_processed": 550,
+  "generated_at": "2026-10-22T14:59:10.470417+08:00",
+  "total_titles_processed": 764,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "泽连斯基和特朗普，彻底决裂了？",
@@ -25,9 +25,42 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
+        },
+        {
+          "title": "普京：不排除与特朗普赴华会晤可能性",
+          "url": "https://www.toutiao.com/trending/7698752765752868873/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时58分 ~ 14时59分]"
+        },
+        {
+          "title": "默茨：对华政策，我们跟特朗普不一样",
+          "url": "https://news.ifeng.com/c/8xQF4vpHREI",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时58分 ~ 14时59分]"
+        },
+        {
+          "title": "克林顿嘲讽特朗普诺贝尔奖言论",
+          "url": "https://www.douyin.com/hot/2707583",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时58分 ~ 14时59分]"
         },
         {
           "title": "美国总统特朗普：距离解决俄乌冲突越来越近了。",
@@ -91,7 +124,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -113,7 +146,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -135,7 +168,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -146,7 +179,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         }
@@ -154,7 +187,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "【早报】科技股火力全开，纳指领涨美股；中办、国办发文！事关人工智能；泽连斯基：愿在保留至少75%领土控制权的基础上达成和平协议",
@@ -164,8 +197,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时07分 ~ 09时08分]"
+          "appearance_count": 4,
+          "time_info": "[09时07分 ~ 14时59分]"
         },
         {
           "title": "美股收盘：芯片、存储、光集体走强 纳指升超1%领涨三大指数",
@@ -173,11 +206,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时56分 ~ 09时08分]"
+          "appearance_count": 5,
+          "time_info": "[06时56分 ~ 14时59分]"
         },
         {
           "title": "强劲季报提振AI交易，美股开盘走高，SpaceX涨幅扩大至10%，英伟达涨约2%，油价再度走高",
@@ -209,9 +243,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
+        },
+        {
+          "title": "美股股指期货持续走低，纳指期货跌1.5%，标普500指数期货跌0.80%，道指期货跌0.40%。",
+          "url": "https://wallstreetcn.com/livenews/3183197",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
         },
         {
           "title": "纳指ETF收涨1%，与可转债ETF领跑美股大类资产类ETF",
@@ -237,7 +282,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -277,37 +322,8 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国增兵1万人、以色列酝酿新一轮打击、伊朗发出战争警告，中东火药桶一触即发？",
-          "url": "https://wallstreetcn.com/articles/3784121",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时56分 ~ 09时08分]"
-        },
-        {
-          "title": "伊朗指责美国在军事行动中使用进攻性太空能力",
-          "url": "https://flash.jin10.com/detail/20261022061230479800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时56分"
-        }
-      ]
-    },
-    {
       "keyword_group": "半导体",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "一图看懂 | 半导体产业链三季报“炸场”：已有20家公司净利翻倍，最高预增超30倍",
@@ -330,12 +346,53 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
+        },
+        {
+          "title": "创业板指跌超4%，沪指跌1.5%，深成指跌2.89%，算力硬件、影视传媒、贵金属、半导体芯片等方向跌幅居前，沪深京三市下跌个股超4800只。",
+          "url": "https://wallstreetcn.com/livenews/3183194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美国增兵1万人、以色列酝酿新一轮打击、伊朗发出战争警告，中东火药桶一触即发？",
+          "url": "https://wallstreetcn.com/articles/3784121",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时56分 ~ 14时59分]"
+        },
+        {
+          "title": "伊朗指责美国在军事行动中使用进攻性太空能力",
+          "url": "https://flash.jin10.com/detail/20261022061230479800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时56分"
         }
       ]
     },
     {
       "keyword_group": "存储芯片",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "创业板跌超1%，宁德时代跌12%创历史最大单日跌幅，光通信、存储芯片反弹，恒科指跌破4000点，权重科网股普跌",
@@ -347,8 +404,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时49分 ~ 09时08分]"
+          "appearance_count": 6,
+          "time_info": "[03时49分 ~ 14时59分]"
+        },
+        {
+          "title": "A股存储芯片概念午后回暖，云汉芯城、华天科技直线涨停，大普微、德明利、有研新材、睿能科技、盈方微等冲高。",
+          "url": "https://wallstreetcn.com/livenews/3183216",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
         }
       ]
     }
