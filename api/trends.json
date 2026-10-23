@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-23T05:02:02.257688+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2026-10-23T08:17:37.166406+08:00",
+  "total_titles_processed": 541,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "AI交易熄火、中东局势恶化，美股跌幅扩大，费城半导体跌超6%，CoreWeave大跌10%",
@@ -30,15 +30,38 @@
           "time_info": "01时47分"
         },
         {
+          "title": "【早报】美股半导体、存储、芯片股，全线跳水；布油飙升4%、国际金银遭重挫；5家基金自购旗下主动ETF",
+          "url": "https://www.cls.cn/detail/2512907",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时17分"
+        },
+        {
+          "title": "美股收盘：芯片、存储、光概念大幅回落 纳指重挫2.6％",
+          "url": "https://www.cls.cn/detail/2512879",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时17分"
+        },
+        {
           "title": "美股",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=14&Refer=top",
           "source": "微博",
           "ranks": [
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时47分 ~ 05时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时47分 ~ 08时17分]"
         },
         {
           "title": "美股芯片、光通信股深夜跳水",
@@ -53,13 +76,35 @@
           "time_info": "[01时47分 ~ 05时02分]"
         },
         {
+          "title": "美股收盘：SpaceX跌超9%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9ASpaceX%E8%B7%8C%E8%B6%859%25",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时17分"
+        },
+        {
+          "title": "美股科技股大跌",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1%E7%A7%91%E6%8A%80%E8%82%A1%E5%A4%A7%E8%B7%8C&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时17分"
+        },
+        {
           "title": "马斯克旗下太空探索公司SpaceX收跌9.1%，市值单日蒸发1980亿美元。 10月22日美股盘后，该公司披露报告，称三季度从特斯拉采购价值1.51亿美元的Megapack产品。",
           "url": "https://wallstreetcn.com/livenews/3183958",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -70,7 +115,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -81,7 +126,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -103,7 +148,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -125,7 +170,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -136,7 +181,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -147,7 +192,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -158,7 +203,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         }
@@ -166,7 +211,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普被问及若共和党未能保住国会多数席位，是否会放弃支持万斯竞选2028年总统时表示：“你是从哪儿得出这个想法的？我从没想过这件事，现在考虑还为时过早。”",
@@ -175,7 +220,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -186,7 +231,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -197,7 +242,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -208,7 +253,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -230,7 +275,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -252,7 +297,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -263,7 +308,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -279,6 +324,17 @@
           "time_info": "01时47分"
         },
         {
+          "title": "特朗普亲自致电马斯克，要求解除乌克兰星链限速！",
+          "url": "https://flash.jin10.com/detail/20261023074329140800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时17分"
+        },
+        {
           "title": "美国总统特朗普：在听我国国歌时，勒布朗·詹姆斯（LeBron James）不尊重我们的国家！我从一开始就说过他不行，是个彻头彻尾的耻辱。勒布朗·詹姆斯应当向所有为美国国旗以及我国所代表的一切而牺牲的伟大美国战士和英雄道歉！",
           "url": "https://flash.jin10.com/detail/20261023002435552800",
           "source": "金十数据",
@@ -290,13 +346,24 @@
           "time_info": "01时47分"
         },
         {
+          "title": "特朗普签署行政令，拟降低美国住房成本及部分房贷利率",
+          "url": "https://flash.jin10.com/detail/20261023074311853800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时17分"
+        },
+        {
           "title": "美国白宫：总统特朗普签署了关于住房成本的行政令。",
           "url": "https://wallstreetcn.com/livenews/3183941",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         }
@@ -304,8 +371,19 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "AI融资担忧重创科技股，纳指跌超2%，10年期美债收益率跌破5%，黄金重挫，原油大涨",
+          "url": "https://wallstreetcn.com/articles/3784189",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时17分"
+        },
         {
           "title": "DoubleLine Capital副首席投资官Jeff Sherman：低配长端美国国债。 仍然看空久期偏长的美债。 美国政府大幅举债和需求疲软将继续打压债市。（彭博电视）",
           "url": "https://wallstreetcn.com/livenews/3183896",
@@ -316,6 +394,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
+        },
+        {
+          "title": "Meta成“最后一根稻草”，纳指“终于”崩了，芯片股再现大跌，美债应声大涨",
+          "url": "https://wallstreetcn.com/articles/3784246",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时17分"
         },
         {
           "title": "美国五年期国债收益率跌15个基点，报4.8%；30年期美债收益率跌10个基点，报5.3%。 纳斯达克100指数目前跌2.7%，半导体指数跌6.3%，标普跌1.3%。 现货白银日内跌幅达5.5%，报54.74美元/盎司。",
@@ -342,6 +431,36 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "叫板美国“炸弹之母”，伊朗军方准备推出“炸弹之父”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34309586",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时47分 ~ 08时17分]"
+        },
+        {
+          "title": "伊朗议会议长：若与伊开战 美国将承担苦涩后果 | 环球市场",
+          "url": "https://www.cls.cn/detail/2512918",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时17分"
+        }
+      ]
+    },
+    {
       "keyword_group": "白银",
       "match_count": 2,
       "titles": [
@@ -352,7 +471,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -366,24 +485,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "叫板美国“炸弹之母”，伊朗军方准备推出“炸弹之父”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34309586",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时47分 ~ 05时02分]"
         }
       ]
     }
