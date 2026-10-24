@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-25T05:21:46.565259+08:00",
-  "total_titles_processed": 379,
+  "generated_at": "2026-10-25T07:53:53.385236+08:00",
+  "total_titles_processed": 437,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 30,
       "titles": [
         {
           "title": "【早报】特朗普：或对伊发动小规模“史诗怒火”；证监会：核准设立花旗证券（中国）有限公司；A股多家龙头公司发布三季报",
@@ -16,52 +16,78 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 05时21分]"
+          "appearance_count": 3,
+          "time_info": "[02时28分 ~ 07时53分]"
         },
         {
-          "title": "美国官员：预计特朗普将宣布，奥迪将在美国佐治亚州新建一座工厂，年产20万辆SUV。",
-          "url": "https://flash.jin10.com/detail/20261025045933853800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "美国总统特朗普：我的叔叔约翰·特朗普（John Trump）发明了雷达，你们能相信吗？然后我现在摧毁了伊朗的雷达，他可能会对我有点生气。",
-          "url": "https://flash.jin10.com/detail/20261025045533668800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗有259架战斗机，我把它们全都摧毁了。伊朗还有259艘船。它们都沉到海底了。",
-          "url": "https://flash.jin10.com/detail/20261025045404823800",
+          "title": "特朗普将于10月30日前往佛罗里达。",
+          "url": "https://flash.jin10.com/detail/20261025053707982800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时21分"
+          "time_info": "07时53分"
         },
         {
-          "title": "美国总统特朗普：如果我不干预，伊朗早晚会找到办法制造核弹。",
-          "url": "https://flash.jin10.com/detail/20261025045139654800",
+          "title": "美国总统特朗普：伊朗人是坏人，领导层非常糟糕。",
+          "url": "https://flash.jin10.com/detail/20261025053632060800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时21分"
+          "time_info": "07时53分"
+        },
+        {
+          "title": "美国官员：预计特朗普将宣布，奥迪将在美国佐治亚州新建一座工厂，年产20万辆SUV。",
+          "url": "https://flash.jin10.com/detail/20261025045933853800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 07时53分]"
+        },
+        {
+          "title": "美国总统特朗普：我的叔叔约翰·特朗普（John Trump）发明了雷达，你们能相信吗？然后我现在摧毁了伊朗的雷达，他可能会对我有点生气。",
+          "url": "https://flash.jin10.com/detail/20261025045533668800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 07时53分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗有259架战斗机，我把它们全都摧毁了。伊朗还有259艘船。它们都沉到海底了。",
+          "url": "https://flash.jin10.com/detail/20261025045404823800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 07时53分]"
+        },
+        {
+          "title": "美国总统特朗普：如果我不干预，伊朗早晚会找到办法制造核弹。",
+          "url": "https://flash.jin10.com/detail/20261025045139654800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 07时53分]"
         },
         {
           "title": "特朗普：结束伊朗战事后，顺道解决古巴",
@@ -71,19 +97,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 05时21分]"
+          "appearance_count": 3,
+          "time_info": "[02时28分 ~ 07时53分]"
         },
         {
           "title": "美伊“风向”生变？特朗普暗示或再打击伊朗，美方已做好长期对峙准备！",
           "url": "https://www.cls.cn/detail/2514121",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 05时21分]"
+          "appearance_count": 3,
+          "time_info": "[02时28分 ~ 07时53分]"
         },
         {
           "title": "特朗普脸上出现神秘新淤青，在社交平台发布隐晦消息(图)",
@@ -93,8 +120,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 05时21分]"
+          "appearance_count": 3,
+          "time_info": "[02时28分 ~ 07时53分]"
         },
         {
           "title": "特朗普在Truth Social上评论白宫新闻发布室：可能会将新闻（发布会）移至另一地点。",
@@ -104,8 +131,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 05时21分]"
+          "appearance_count": 3,
+          "time_info": "[02时28分 ~ 07时53分]"
         },
         {
           "title": "特朗普怒喷詹姆斯不尊重美国",
@@ -115,96 +142,137 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 05时21分]"
+          "appearance_count": 3,
+          "time_info": "[02时28分 ~ 07时53分]"
         },
         {
           "title": "美国总统特朗普：伊朗方面希望达成协议，但问题在于，他们能否遵守协议？",
           "url": "https://flash.jin10.com/detail/20261025045129980800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 07时53分]"
         },
         {
           "title": "美国总统特朗普：克林顿不算差，但他有不少丑闻。要不是这些丑闻，他本会是一位不错的总统。",
           "url": "https://flash.jin10.com/detail/20261025044518490800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 07时53分]"
         },
         {
           "title": "特朗普：可能再次打击伊朗 也可能达成协议",
           "url": "https://flash.jin10.com/detail/20261025043858772800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 07时53分]"
         },
         {
           "title": "美国总统特朗普：我刚进入政坛时，共和党要弱得多，规模更小，然后我参选并赢了。",
           "url": "https://flash.jin10.com/detail/20261025043647573800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 07时53分]"
         },
         {
           "title": "美国总统特朗普：我正在考虑对伊朗发动袭击，可能明天就会采取行动，但我不会透露任何潜在军事行动的具体时间。也有可能与伊朗达成一项重大且有利的协议。",
           "url": "https://flash.jin10.com/detail/20261025043255713800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 07时53分]"
         },
         {
           "title": "美国总统特朗普：伊朗方面希望达成协议。",
           "url": "https://flash.jin10.com/detail/20261025042903116800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 07时53分]"
         },
         {
           "title": "美国总统特朗普：我有可能对伊朗发动袭击。",
           "url": "https://flash.jin10.com/detail/20261025042754862800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 07时53分]"
         },
         {
           "title": "美国总统特朗普：接连不断的竞选集会让我嗓子吃不消。",
           "url": "https://flash.jin10.com/detail/20261025042555088800",
           "source": "金十数据",
           "ranks": [
-            15
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 07时53分]"
+        },
+        {
+          "title": "美国前总统奥巴马：特朗普现在把白宫装饰得像是萨达姆开的连锁餐厅。",
+          "url": "https://flash.jin10.com/detail/20261025051352514800",
+          "source": "金十数据",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时21分"
+          "time_info": "07时53分"
+        },
+        {
+          "title": "美国前总统奥巴马：特朗普政府的行动是导致美国物价上涨的直接原因。",
+          "url": "https://flash.jin10.com/detail/20261025051045062800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "泽连斯基谈与美国关系：我做不到时刻感恩特朗普，感恩几次真够了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34325177",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         },
         {
           "title": "美国白宫发布特朗普海报，并配文“让美国再次安全”。",
@@ -224,7 +292,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -235,7 +303,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -246,7 +314,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -268,7 +336,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -279,7 +347,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         }
@@ -297,8 +365,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 05时21分]"
+          "appearance_count": 3,
+          "time_info": "[02时28分 ~ 07时53分]"
         },
         {
           "title": "油价飙升引发通胀忧虑，美股美债双双承压，苹果市值一度超英伟达，黄金周跌4%",
@@ -322,11 +390,12 @@
           "url": "https://flash.jin10.com/detail/20261025044015385800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 07时53分]"
         },
         {
           "title": "美国前总统奥巴马：对伊朗的战争爆发7个月以来，已有数百名美国人伤亡，美国的导弹库存也正接近耗尽。",
@@ -335,7 +404,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         }
@@ -353,8 +422,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 05时21分]"
+          "appearance_count": 3,
+          "time_info": "[02时28分 ~ 07时53分]"
         }
       ]
     },
@@ -371,8 +440,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 05时21分]"
+          "appearance_count": 3,
+          "time_info": "[02时28分 ~ 07时53分]"
         }
       ]
     },
@@ -386,11 +455,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 05时21分]"
+          "appearance_count": 3,
+          "time_info": "[02时28分 ~ 07时53分]"
         }
       ]
     }
