@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-26T00:56:11.019764+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-10-26T03:25:16.687245+08:00",
+  "total_titles_processed": 398,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 24,
       "titles": [
         {
           "title": "“多管齐下！特朗普政府暗中助选，要帮博索纳罗家族夺权”",
@@ -15,19 +15,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 03时25分]"
         },
         {
           "title": "奥巴马中期选举首秀抨击特朗普",
           "url": "https://www.douyin.com/hot/2712071",
           "source": "抖音",
           "ranks": [
-            5
+            5,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 03时25分]"
         },
         {
           "title": "美国总统特朗普：我认为俄乌局势将出现新变化。",
@@ -36,7 +37,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
         },
@@ -47,9 +48,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：我不希望我们在与普京会晤时失去手中的筹码——既没有制裁，也没有资金，更没有被冻结的资产。因为那样一来，正如特朗普先生所说，我们手中确实就没有多少牌可打了。",
+          "url": "https://flash.jin10.com/detail/20261026030240540800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
         },
         {
           "title": "美国总统特朗普：我们掌握关于伊朗的非常先进的情报。",
@@ -58,7 +70,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
         },
@@ -69,9 +81,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "特朗普在美国密歇根拉票，自夸振兴汽车业",
+          "url": "https://wallstreetcn.com/livenews/3185245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
         },
         {
           "title": "梅德韦杰夫喊话特朗普：你有10个不得不教训泽连斯基的理由",
@@ -81,8 +104,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 03时25分]"
         },
         {
           "title": "美伊“风向”生变？特朗普暗示或再打击伊朗，美方已做好长期对峙准备！",
@@ -92,19 +115,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 03时25分]"
         },
         {
           "title": "奥巴马怒喷特朗普所为何事",
           "url": "https://www.toutiao.com/trending/7700572569123966502/",
           "source": "今日头条",
           "ranks": [
-            10
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 03时25分]"
+        },
+        {
+          "title": "美国众议院议长迈克·约翰逊：周六与特朗普讨论了俄罗斯问题。 周末与鲁比奥就俄罗斯问题进行了交谈。 鲁比奥表示美国将进行三方谈判。",
+          "url": "https://wallstreetcn.com/livenews/3185224",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "time_info": "[00时56分 ~ 03时25分]"
         },
         {
           "title": "伊朗回应特朗普“今晚不会攻击”：心理战",
@@ -113,7 +149,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
         },
@@ -124,7 +160,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
         },
@@ -135,7 +171,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
         },
@@ -146,20 +182,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
         },
         {
-          "title": "美国众议院议长迈克·约翰逊：周六与特朗普讨论了俄罗斯问题。 周末与鲁比奥就俄罗斯问题进行了交谈。 鲁比奥表示美国将进行三方谈判。",
-          "url": "https://wallstreetcn.com/livenews/3185224",
+          "title": "特朗普：美俄乌三方会谈“很快”就会举行",
+          "url": "https://wallstreetcn.com/livenews/3185238",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时56分"
+          "time_info": "03时25分"
+        },
+        {
+          "title": "据以色列i24电视台：一名美国官员表示，特朗普准备调整对伊朗的政策方向，袭击伊朗似乎已不再是“会不会发生”的问题，而是“何时发生”的问题。",
+          "url": "https://flash.jin10.com/detail/20261026021655755800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
         },
         {
           "title": "美国总统特朗普：（谈及马克龙）我第一次见到他时就说，你正在毁掉法国。",
@@ -168,9 +215,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "美国总统特朗普：我还拯救了塞尔弗里奇空军基地。当时，那些‘愚蠢的民主党人’正准备关闭它，而我保住了数千个就业岗位，以及拥有这样一座基地所带来的声望——只有我能做到这一点！",
+          "url": "https://flash.jin10.com/detail/20261026013036594800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
         },
         {
           "title": "美国总统特朗普：（谈及西班牙）我早就预料到西班牙会有移民问题。",
@@ -179,9 +237,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "美国总统特朗普：全国各地，尤其是密歇根州，正在新建和扩建工厂。",
+          "url": "https://flash.jin10.com/detail/20261026013016161800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
         },
         {
           "title": "美国总统特朗普：（谈及西班牙）那些世世代代在西班牙生活了数百年的人，看看如今有多少人正涌入他们的国家。他们非常愤怒。",
@@ -190,9 +259,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "美国总统特朗普：多亏了我，美国汽车行业的表现比以往任何时候都好。",
+          "url": "https://flash.jin10.com/detail/20261026013008075800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
         }
       ]
     },
@@ -208,8 +288,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 03时25分]"
         },
         {
           "title": "人造黄金会不会击穿金价",
@@ -219,8 +299,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 03时25分]"
         },
         {
           "title": "三大因素致国际金价走低",
@@ -240,6 +320,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "报道：伊朗并未通过巴基斯坦向美国提交新方案",
+          "url": "https://wallstreetcn.com/livenews/3185226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 03时25分]"
+        },
+        {
           "title": "收到“伊朗策划袭击”情报后：美国对中东13国更新旅行警告，多国使馆限制运行",
           "url": "https://m.thepaper.cn/newsDetail_forward_34328105",
           "source": "澎湃新闻",
@@ -249,17 +341,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时55分 ~ 00时56分]"
-        },
-        {
-          "title": "报道：伊朗并未通过巴基斯坦向美国提交新方案",
-          "url": "https://wallstreetcn.com/livenews/3185226",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时56分"
         }
       ]
     },
@@ -275,8 +356,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 03时25分]"
         }
       ]
     },
@@ -292,8 +373,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 03时25分]"
         }
       ]
     }
