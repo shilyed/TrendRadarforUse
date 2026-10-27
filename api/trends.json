@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-10-28T03:10:08.312923+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-10-28T07:24:21.715736+08:00",
+  "total_titles_processed": 422,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美国两位主教与特朗普同框后，懊悔了",
           "url": "https://news.ifeng.com/c/8xZRUzsoyDA",
           "source": "凤凰网",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时09分 ~ 03时10分]"
+          "appearance_count": 3,
+          "time_info": "[03时09分 ~ 07时24分]"
         },
         {
           "title": "特朗普的夫人：俄乌奥列什基停火提前生效，范围已扩大",
@@ -25,9 +26,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
+        },
+        {
+          "title": "美国消费者信心10月意外大幅反弹 中期选举前特朗普仍难摆脱高物价困局",
+          "url": "https://www.cls.cn/detail/2517100",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
         },
         {
           "title": "特朗普：美国将接收首批100万桶委内瑞拉原油，后续供应规模将达数十亿桶",
@@ -36,7 +48,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
         },
@@ -47,7 +59,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
         }
@@ -55,7 +67,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "AI交易热情重燃，美股小幅高开，纳指涨0.47%，油价续跌，金价再跌破4000",
@@ -69,15 +81,67 @@
           "time_info": "[03时09分 ~ 03时10分]"
         },
         {
+          "title": "美联储决议前夕，AI热情驱动科技股反弹，CoreWeave涨8%，油价续跌，金价涨1%",
+          "url": "https://wallstreetcn.com/articles/3784535",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
           "title": "男子趁金价下跌给媳妇买金镯子",
           "url": "https://www.toutiao.com/trending/7700881630416093220/",
           "source": "今日头条",
           "ranks": [
-            19
+            19,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时09分 ~ 03时10分]"
+          "appearance_count": 3,
+          "time_info": "[03时09分 ~ 07时24分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "白银遭遇史诗级洗盘",
+          "url": "https://www.toutiao.com/trending/7701341391632207411/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时09分 ~ 07时24分]"
+        },
+        {
+          "title": "“价格从未如此糟糕”，白银遭遇史诗级洗盘",
+          "url": "https://wallstreetcn.com/articles/3784585",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 10月27日（周二）晚盘收盘上涨1.11%报870.94元/克；<br/>上海黄金交易所白银T+D 10月27日（周二）晚盘收盘上涨1.33%报13082.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20261028023203242800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时10分"
         }
       ]
     },
@@ -103,7 +167,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
         }
@@ -120,7 +184,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
         },
@@ -131,37 +195,26 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
         }
       ]
     },
     {
-      "keyword_group": "白银",
-      "match_count": 2,
+      "keyword_group": "美股",
+      "match_count": 1,
       "titles": [
         {
-          "title": "白银遭遇史诗级洗盘",
-          "url": "https://www.toutiao.com/trending/7701341391632207411/",
-          "source": "今日头条",
+          "title": "美股收盘：AI反弹行情延续 费城半导体指数大涨3.6% 纳指涨超1%",
+          "url": "https://www.cls.cn/detail/2517192",
+          "source": "财联社热门",
           "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时09分 ~ 03时10分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 10月27日（周二）晚盘收盘上涨1.11%报870.94元/克；<br/>上海黄金交易所白银T+D 10月27日（周二）晚盘收盘上涨1.33%报13082.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20261028023203242800",
-          "source": "金十数据",
-          "ranks": [
-            9
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时10分"
+          "time_info": "07时24分"
         }
       ]
     },
@@ -177,8 +230,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时09分 ~ 03时10分]"
+          "appearance_count": 3,
+          "time_info": "[03时09分 ~ 07时24分]"
         }
       ]
     },
@@ -191,11 +244,12 @@
           "url": "https://www.cls.cn/detail/2516924",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时09分 ~ 03时10分]"
+          "appearance_count": 3,
+          "time_info": "[03时09分 ~ 07时24分]"
         }
       ]
     }
