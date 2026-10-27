@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-27T09:48:23.501672+08:00",
-  "total_titles_processed": 612,
+  "generated_at": "2026-10-27T15:06:47.640935+08:00",
+  "total_titles_processed": 820,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "特朗普狂喷：挪威是“粪坑国家”",
@@ -75,13 +75,24 @@
           "time_info": "02时06分"
         },
         {
+          "title": "奥巴马称白宫修得像连锁餐厅，特朗普很不爽",
+          "url": "https://news.ifeng.com/c/8xYriizED1y",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
+        {
           "title": "巴西副总统驳斥特朗普言论",
           "url": "https://www.toutiao.com/trending/7701071685427970587/",
           "source": "今日头条",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -114,7 +125,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -166,7 +177,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -210,7 +221,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         }
@@ -218,8 +229,19 @@
     },
     {
       "keyword_group": "半导体",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "A股半导体板块持续下跌，星宸股份跌超14%，神工股份、寒武纪 、三安光电、力合微均跌超5%。",
+          "url": "https://flash.jin10.com/detail/20261027145511974800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
         {
           "title": "创业板指涨超1%，沪指涨0.1%，深成指涨0.71%，算力硬件、半导体芯片等方向跌幅居前，沪深京三市上涨个股近4000只。",
           "url": "https://wallstreetcn.com/livenews/3186563",
@@ -227,7 +249,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -238,9 +260,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "半导体封测年会将于11月4日至6日举行 多家上市公司参会",
+          "url": "https://wallstreetcn.com/livenews/3186676",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
         },
         {
           "title": "应用材料宣布将增加对荷兰半导体封装设备商BE Semiconductor Industries（Besi）的战略投资，将其持股比例提升至约20%。",
@@ -293,11 +326,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时57分 ~ 09时48分]"
+          "appearance_count": 4,
+          "time_info": "[06时57分 ~ 15时06分]"
         },
         {
           "title": "Anthropic提交IPO申请，费城半导体涨3%，美股走高，巴西石油跌超17%，油价回落，美债走强",
@@ -309,6 +343,62 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "白银",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "COMEX白银流出60万盎司却“增”Eligible，布林克斯撤销72万盎司仓单｜白银库存日报上新",
+          "url": "https://flash.jin10.com/detail/20261027144346977800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 10月27日（周二）早盘盘初上涨0.51%报864.53元/克；<br/>上海黄金交易所白银T+D 10月27日（周二）早盘盘初上涨0.25%报13050.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20261027090017085800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储芯片",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "存储芯片龙头德明利前三季度归母净利润增长 323 倍，股价却跌去 64%，如何看待股价与业绩的背离？",
+          "url": "https://www.zhihu.com/question/2097987892370830970",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
+        {
+          "title": "A股开盘，上证指数涨0.02%，深证成指涨0.49%，创业板指涨0.89%。CPO、存储芯片、PCB概念涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20261027092516490800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         }
       ]
     },
@@ -326,40 +416,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "上海黄金交易所黄金T+D 10月27日（周二）早盘盘初上涨0.51%报864.53元/克；<br/>上海黄金交易所白银T+D 10月27日（周二）早盘盘初上涨0.25%报13050.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20261027090017085800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储芯片",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "A股开盘，上证指数涨0.02%，深证成指涨0.49%，创业板指涨0.89%。CPO、存储芯片、PCB概念涨幅居前。",
-          "url": "https://flash.jin10.com/detail/20261027092516490800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时48分"
         }
       ]
     }
