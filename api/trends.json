@@ -1,11 +1,151 @@
 {
-  "generated_at": "2026-10-29T00:56:21.988638+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-10-29T05:28:59.848692+08:00",
+  "total_titles_processed": 416,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "美股",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "美联储决议考验市场，美股小幅高开，SK海力士涨约8%，油价止跌",
+          "url": "https://wallstreetcn.com/articles/3784634",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 05时28分]"
+        },
+        {
+          "title": "美股最可靠的警报灯亮了！历史两次闪烁后，都迎来大熊市",
+          "url": "https://wallstreetcn.com/articles/3784679",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 05时28分]"
+        },
+        {
+          "title": "纳斯达克100股指期货在美股盘后达到1%。",
+          "url": "https://wallstreetcn.com/livenews/3189405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "金十图示：2026年10月28日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20261029003130830800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时56分"
+        },
+        {
+          "title": "金十图示：2026年10月28日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20261029003047749800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时56分"
+        },
+        {
+          "title": "飞塔信息（Fortinet）三季度营收20.8亿美元，分析师预期20.7亿美元。 三季度Billings（账单收入/订单金额）为23.4亿美元，分析师预期23亿美元。 三季度调整后每股收益（EPS）为0.91美元，分析师预期0.86美元。 预计全年营收81.3亿-82.2亿美元，公司原本预计80.2亿-81.8亿美元。 预计全年服务营收51.5亿-51.7亿美元，分析师预期52亿美元。 预计全年调整后毛利润率79.7%-80.3%，公司原本预计79%-81%。 预计全年Billings将为95.7亿-97.2亿美元，公司原本预计93.5亿-95.5亿美元。 预计四季度营收21.6亿-22.5亿美元，分析师预期21.7亿美元。 飞塔信息（FTNT）美股盘后暴跌22.5%。",
+          "url": "https://wallstreetcn.com/livenews/3189399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "ServiceNOW三季度营收41.1亿美元，分析师预期41亿美元。 三季度调整后每股收益（EPS）为1美元，分析师预期1.03美元。 预计四季度订阅收入将达到42.5亿-42.6亿美元，分析师预期42.4亿美元。 预计四季度剩余待偿还债务将增长18.5%，三季度为136.5亿美元。 ServiceNOW美股盘后跌16.8%。",
+          "url": "https://wallstreetcn.com/livenews/3189398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "美股软件行业ETF美股盘后跌3%。",
+          "url": "https://wallstreetcn.com/livenews/3189396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "Honeywell Aerospace Inc.（HONA）美股盘后涨7.3%。",
+          "url": "https://wallstreetcn.com/livenews/3189393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "美股三大指数高开 SK海力士涨超8%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80+SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E6%B6%A8%E8%B6%858%25",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "谷歌母公司Alphabet（谷歌A）三季度营收1275.8亿美元，分析师预期1279.3亿美元。 三季度ex-TAC（剔除流量获取成本后的营收）为1112.1亿美元，分析师预期1112.9亿美元。 三季度谷歌云收入307.1亿美元，分析师预期291亿美元。 三季度谷歌广告收入820.1亿美元，分析师预期835.7亿美元。 三季度谷歌搜索与其他收入633.5亿美元，分析师预期648.5亿美元。 三季度谷歌服务收入963亿美元，分析师预期984亿美元。 三季度YouTube广告收入112.1亿美元，分析师预期114.3亿美元。 三季度资本开支513.6亿美元，分析师预期557.8亿美元。 三季度每股收益（EPS）为2.12美元，上年同期2.87美元。 三季度运营利润405.8亿美元，分析师预期431.6亿美元。 Gemini应用程序的用户数量已达10亿。 每分钟拥有大约320亿Tokens，季环比增长40%。 YouTube音乐和溢价全球订阅用户数突破1.5亿。 Gemini 4 Argon和Carbon是（公司）当前领先的前沿模型。 AI投资驱动整体搜索业务的增长，其同比增幅创最近五年最快。 谷歌A美股盘后重挫7%。",
+          "url": "https://wallstreetcn.com/livenews/3189386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "微软第一财季营收922.8亿美元，分析师预期906.3亿美元。 第一财季云收入639亿美元，分析师预期616.2亿美元。 第一财季Azure营收331.7亿美元，分析师预期322.4亿美元；Azure剔除汇率因素的营收增长48%，分析师预期增长44.8%。 第一财季365云营收277.8亿美元，分析师预期274.8亿美元；微软365消费者云收入增长17%。 第一财季工业解决方案云营收增长10%。 第一财季运营利润459.2亿美元，分析师预期439.2亿美元。 第一财季资本开支393.7亿美元，分析师预期459.3亿美元；含租赁的资本开支452亿美元，分析师预期518.1亿美元。 第一财季调整后每股收益（EPS）为4.89美元，分析师预期4.73美元。 微软美股盘后涨6.4%。",
+          "url": "https://wallstreetcn.com/livenews/3189385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "如果共和党中期选举输了怎么办？特朗普回应",
@@ -15,8 +155,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 05时28分]"
         },
         {
           "title": "特朗普力挺内塔尼亚胡，万斯为何不跟？",
@@ -26,8 +166,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 05时28分]"
         },
         {
           "title": "特朗普：很快将安排普京与泽连斯基的会晤",
@@ -37,8 +177,30 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 05时28分]"
+        },
+        {
+          "title": "美国总统特朗普：没有和巴西前总统博索纳罗之子谈过话。",
+          "url": "https://flash.jin10.com/detail/20261029051207380800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时56分"
+          "time_info": "05时28分"
+        },
+        {
+          "title": "特朗普下令美国贸易代表就机器人和机械进口寻求谈判",
+          "url": "https://wallstreetcn.com/livenews/3189407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
         },
         {
           "title": "WTI原油日内涨幅达3.0%，报102.91美元/桶。 此前，特朗普政府告诉海湾地区盟友们，准备好面对美国在中期选举过后袭击伊朗。",
@@ -65,56 +227,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美联储决议考验市场，美股小幅高开，SK海力士涨约8%，油价止跌",
-          "url": "https://wallstreetcn.com/articles/3784634",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "美股最可靠的警报灯亮了！历史两次闪烁后，都迎来大熊市",
-          "url": "https://wallstreetcn.com/articles/3784679",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "金十图示：2026年10月28日（周三）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20261029003130830800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "金十图示：2026年10月28日（周三）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20261029003047749800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -126,8 +238,25 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 05时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国官员及知情人士称，美国副总统万斯正接触伊朗最有权势的强硬派人物之一，以重启和平谈判。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3189387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时56分"
+          "time_info": "05时28分"
         }
       ]
     },
@@ -143,8 +272,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 05时28分]"
         }
       ]
     }
