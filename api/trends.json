@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T09:27:17.257914+08:00",
-  "total_titles_processed": 597,
+  "generated_at": "2026-10-29T15:52:49.916128+08:00",
+  "total_titles_processed": 832,
   "failed_sources": [],
   "trends": [
     {
@@ -14,9 +14,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 15时52分]"
         },
         {
           "title": "【早报】美联储按兵不动，沃什宣布：减少议息频次；美股存储芯片板块，全线爆发；谷歌业绩不及预期，盘后大跌",
@@ -25,9 +25,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 15时52分]"
         },
         {
           "title": "美股收盘：三大指数小幅收涨 甲骨文现金流指引提振AI云计算股",
@@ -36,9 +36,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 15时52分]"
         },
         {
           "title": "美股最可靠的警报灯亮了！历史两次闪烁后，都迎来大熊市",
@@ -46,11 +46,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 09时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 15时52分]"
         },
         {
           "title": "美联储决议考验市场，美股小幅高开，SK海力士涨约8%，油价止跌",
@@ -82,7 +83,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
@@ -254,7 +255,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
@@ -283,6 +284,73 @@
       ]
     },
     {
+      "keyword_group": "白银",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 10月29日（周四）收盘下跌0.31%报864.8元/克；<br/>上海黄金交易所白银T+D 10月29日（周四）收盘下跌3.15%报12636.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20261029153312737800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 10月29日（周四）早盘盘初下跌0.17%报865.98元/克；<br/>上海黄金交易所白银T+D 10月29日（周四）早盘盘初下跌1.89%报12800.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20261029090021011800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "国际金年底前仍有可能进一步走低 白银短期下行风险更甚 | Live分析更新中",
+          "url": "https://flash.jin10.com/detail/20261029152511402800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "分析：美国希望避免与伊朗爆发更多冲突",
+          "url": "https://flash.jin10.com/detail/20261029152601281800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "美国官员及知情人士称，美国副总统万斯正接触伊朗最有权势的强硬派人物之一，以重启和平谈判。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3189387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "存储芯片",
       "match_count": 2,
       "titles": [
@@ -304,7 +372,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         }
@@ -324,40 +392,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时56分 ~ 05时28分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国官员及知情人士称，美国副总统万斯正接触伊朗最有权势的强硬派人物之一，以重启和平谈判。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3189387",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "白银",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "上海黄金交易所黄金T+D 10月29日（周四）早盘盘初下跌0.17%报865.98元/克；<br/>上海黄金交易所白银T+D 10月29日（周四）早盘盘初下跌1.89%报12800.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20261029090021011800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
         }
       ]
     }
